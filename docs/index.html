@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cyberphile Bot — Commands</title>
+  <meta name="description" content="Command list for @Cyberphile, the AI-powered Kick chat bot for Sliker's stream.">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+    :root {
+      --bg: #0a0a0f;
+      --card: #12121a;
+      --card-hover: #1a1a28;
+      --border: #1e1e2e;
+      --accent: #53fc18;
+      --accent-dim: #53fc1822;
+      --accent-glow: #53fc1844;
+      --text: #e4e4ef;
+      --text-dim: #8888a0;
+      --red: #ff4d6a;
+      --blue: #4d9fff;
+      --purple: #a855f7;
+      --yellow: #fbbf24;
+      --pink: #f472b6;
+      --cyan: #22d3ee;
+    }
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Inter', system-ui, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* Animated background grid */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background:
+        linear-gradient(90deg, transparent 49.5%, var(--border) 49.5%, var(--border) 50.5%, transparent 50.5%) 0 0 / 80px 80px,
+        linear-gradient(0deg, transparent 49.5%, var(--border) 49.5%, var(--border) 50.5%, transparent 50.5%) 0 0 / 80px 80px;
+      opacity: 0.3;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* Gradient orbs */
+    .orb {
+      position: fixed;
+      border-radius: 50%;
+      filter: blur(120px);
+      opacity: 0.15;
+      pointer-events: none;
+      z-index: 0;
+    }
+    .orb-1 { width: 600px; height: 600px; background: var(--accent); top: -200px; right: -100px; }
+    .orb-2 { width: 500px; height: 500px; background: var(--purple); bottom: -150px; left: -100px; }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem 1.5rem 4rem;
+    }
+
+    /* Header */
+    header {
+      text-align: center;
+      padding: 3rem 0 2.5rem;
+    }
+
+    .bot-avatar {
+      width: 80px;
+      height: 80px;
+      border-radius: 20px;
+      background: linear-gradient(135deg, var(--accent), #0fa);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 2.2rem;
+      margin: 0 auto 1.2rem;
+      box-shadow: 0 0 40px var(--accent-glow);
+      animation: pulse-glow 3s ease-in-out infinite;
+    }
+
+    @keyframes pulse-glow {
+      0%, 100% { box-shadow: 0 0 40px var(--accent-glow); }
+      50% { box-shadow: 0 0 60px var(--accent-dim), 0 0 100px var(--accent-glow); }
+    }
+
+    h1 {
+      font-size: 2.4rem;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      margin-bottom: 0.3rem;
+    }
+
+    h1 span { color: var(--accent); }
+
+    .subtitle {
+      color: var(--text-dim);
+      font-size: 1rem;
+      font-weight: 400;
+    }
+
+    .subtitle a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .subtitle a:hover { text-decoration: underline; }
+
+    .badges {
+      display: flex;
+      gap: 0.5rem;
+      justify-content: center;
+      margin-top: 1.2rem;
+      flex-wrap: wrap;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.35rem 0.75rem;
+      border-radius: 999px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      border: 1px solid var(--border);
+      background: var(--card);
+    }
+
+    .badge-green { border-color: #53fc1844; color: var(--accent); }
+    .badge-blue { border-color: #4d9fff44; color: var(--blue); }
+    .badge-purple { border-color: #a855f744; color: var(--purple); }
+
+    /* Section */
+    .section {
+      margin-bottom: 2rem;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 1rem;
+      padding-bottom: 0.6rem;
+      border-bottom: 1px solid var(--border);
+    }
+
+    .section-icon {
+      width: 32px;
+      height: 32px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 1rem;
+      flex-shrink: 0;
+    }
+
+    .section-icon.ai { background: #53fc1820; }
+    .section-icon.fun { background: #f472b620; }
+    .section-icon.games { background: #fbbf2420; }
+    .section-icon.info { background: #4d9fff20; }
+
+    .section-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+
+    .section-count {
+      margin-left: auto;
+      font-size: 0.75rem;
+      color: var(--text-dim);
+      background: var(--card);
+      padding: 0.2rem 0.6rem;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+    }
+
+    /* Command cards */
+    .cmd-grid {
+      display: grid;
+      gap: 0.6rem;
+    }
+
+    .cmd {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 0 1rem;
+      padding: 0.85rem 1rem;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      transition: all 0.2s ease;
+      align-items: start;
+    }
+
+    .cmd:hover {
+      background: var(--card-hover);
+      border-color: #2a2a3e;
+      transform: translateY(-1px);
+    }
+
+    .cmd-name {
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: var(--accent);
+      white-space: nowrap;
+    }
+
+    .cmd-desc {
+      font-size: 0.88rem;
+      color: var(--text-dim);
+      line-height: 1.5;
+    }
+
+    .cmd-aliases {
+      grid-column: 1 / -1;
+      margin-top: 0.3rem;
+      font-size: 0.75rem;
+      color: var(--text-dim);
+      opacity: 0.7;
+    }
+
+    .cmd-aliases span {
+      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
+      color: var(--purple);
+    }
+
+    /* Footer */
+    footer {
+      text-align: center;
+      margin-top: 3rem;
+      padding-top: 2rem;
+      border-top: 1px solid var(--border);
+      color: var(--text-dim);
+      font-size: 0.82rem;
+    }
+
+    footer .heart { color: var(--red); }
+    footer a { color: var(--accent); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    /* Responsive */
+    @media (max-width: 600px) {
+      .container { padding: 1rem 1rem 3rem; }
+      h1 { font-size: 1.8rem; }
+      header { padding: 2rem 0 1.5rem; }
+      .cmd { padding: 0.75rem 0.85rem; }
+    }
+  </style>
+</head>
+<body>
+  <div class="orb orb-1"></div>
+  <div class="orb orb-2"></div>
+
+  <div class="container">
+    <header>
+      <div class="bot-avatar">🤖</div>
+      <h1>@<span>Cyberphile</span></h1>
+      <p class="subtitle">AI-powered chat bot for <a href="https://kick.com/sliker" target="_blank">Sliker's Kick stream</a></p>
+      <div class="badges">
+        <span class="badge badge-green">✦ 6 AI Models</span>
+        <span class="badge badge-purple">🎮 7 Games</span>
+        <span class="badge badge-blue">⚡ 22+ Commands</span>
+      </div>
+    </header>
+
+    <!-- AI Commands -->
+    <div class="section">
+      <div class="section-header">
+        <div class="section-icon ai">🧠</div>
+        <span class="section-title">AI Commands</span>
+        <span class="section-count">6 commands</span>
+      </div>
+      <div class="cmd-grid">
+        <div class="cmd">
+          <span class="cmd-name">!AI &lt;question&gt;</span>
+          <span class="cmd-desc">Best AI — uses Claude with stream context awareness. The smartest option.</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!ask &lt;question&gt;</span>
+          <span class="cmd-desc">Ask Claude (Anthropic) — fast, creative, great for conversations.</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!ask2 &lt;question&gt;</span>
+          <span class="cmd-desc">Ask Groq (LLaMA) — ultra-fast responses, open-source model.</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!ask3 &lt;question&gt;</span>
+          <span class="cmd-desc">Ask DeepSeek — strong reasoning and coding knowledge.</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!ask4 &lt;question&gt;</span>
+          <span class="cmd-desc">Ask Mistral — fast European AI, good with multiple languages.</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!ask5 &lt;question&gt;</span>
+          <span class="cmd-desc">Ask Grok (xAI) — Elon's AI, unfiltered and witty.</span>
+          <div class="cmd-aliases">Alias: <span>!grok</span></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Fun Commands -->
+    <div class="section">
+      <div class="section-header">
+        <div class="section-icon fun">🎭</div>
+        <span class="section-title">Fun Commands</span>
+        <span class="section-count">5 commands</span>
+      </div>
+      <div class="cmd-grid">
+        <div class="cmd">
+          <span class="cmd-name">!roast &lt;name&gt;</span>
+          <span class="cmd-desc">Get an AI-generated roast of someone in chat. No mercy.</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!compliment &lt;name&gt;</span>
+          <span class="cmd-desc">Give someone a wholesome AI compliment. Spread the love.</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!fight &lt;name&gt;</span>
+          <span class="cmd-desc">Start an epic AI-narrated fight with another chatter.</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!debate &lt;topic&gt;</span>
+          <span class="cmd-desc">Get an AI hot take on any topic. Spicy opinions guaranteed.</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!skully</span>
+          <span class="cmd-desc">Skully Gang roll call! Rep the gang. 💀</span>
+          <div class="cmd-aliases">Aliases: <span>!skullygang</span>, <span>!skullysunday</span></div>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!lurk [message]</span>
+          <span class="cmd-desc">Go into lurk mode. Optionally leave a lurk message.</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!unlurk</span>
+          <span class="cmd-desc">Come back from lurking! Shows how long you were gone.</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Game Commands -->
+    <div class="section">
+      <div class="section-header">
+        <div class="section-icon games">🎰</div>
+        <span class="section-title">Game Commands</span>
+        <span class="section-count">7 games</span>
+      </div>
+      <div class="cmd-grid">
+        <div class="cmd">
+          <span class="cmd-name">!slots</span>
+          <span class="cmd-desc">Spin the slot machine. Match symbols to win big!</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!flip</span>
+          <span class="cmd-desc">Flip a coin — heads or tails. Simple and classic.</span>
+          <div class="cmd-aliases">Alias: <span>!coinflip</span></div>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!dice</span>
+          <span class="cmd-desc">Roll a six-sided die. Try your luck.</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!roll &lt;max&gt;</span>
+          <span class="cmd-desc">Roll a random number from 1 to max (default 100).</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!rps &lt;choice&gt;</span>
+          <span class="cmd-desc">Rock Paper Scissors — play against the bot.</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!8ball &lt;question&gt;</span>
+          <span class="cmd-desc">Ask the magic 8-ball. It knows all. Maybe.</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!bj</span>
+          <span class="cmd-desc">Start a Blackjack game. Use <strong>!hit</strong> and <strong>!stand</strong> to play.</span>
+          <div class="cmd-aliases">Alias: <span>!blackjack</span> · In-game: <span>!hit</span>, <span>!stand</span></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Info Commands -->
+    <div class="section">
+      <div class="section-header">
+        <div class="section-icon info">ℹ️</div>
+        <span class="section-title">Info Commands</span>
+        <span class="section-count">3 commands</span>
+      </div>
+      <div class="cmd-grid">
+        <div class="cmd">
+          <span class="cmd-name">!help</span>
+          <span class="cmd-desc">Show a summary of all available commands.</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!gamble</span>
+          <span class="cmd-desc">Show all available game commands.</span>
+          <div class="cmd-aliases">Alias: <span>!games</span></div>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">!ai</span>
+          <span class="cmd-desc">Show info about the bot and available AI models (no question needed).</span>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <p>Built with <span class="heart">♥</span> by <a href="https://kick.com/sliker" target="_blank">@Shance</a> · Powered by 6 AI models</p>
+      <p style="margin-top: 0.4rem; opacity: 0.6;">@Cyberphile on Kick</p>
+    </footer>
+  </div>
+</body>
+</html>
