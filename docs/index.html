@@ -91,6 +91,7 @@
     .badge-blue { border-color: #4d9fff44; color: var(--blue); }
     .badge-purple { border-color: #a855f744; color: var(--purple); }
     .badge-orange { border-color: #fb923c44; color: var(--orange); }
+    .badge-cyan { border-color: #22d3ee44; color: var(--cyan); }
 
     .section { margin-bottom: 2rem; }
 
@@ -112,6 +113,8 @@
     .section-icon.games { background: #fbbf2420; }
     .section-icon.brain { background: #a855f720; }
     .section-icon.info { background: #4d9fff20; }
+    .section-icon.translate { background: #22d3ee20; }
+    .section-icon.stalk { background: #ff4d6a20; }
 
     .section-title { font-size: 1.15rem; font-weight: 700; letter-spacing: -0.02em; }
 
@@ -144,6 +147,8 @@
 
     .cmd-highlight { border-color: #53fc1833; background: linear-gradient(135deg, var(--card), #53fc1808); }
     .cmd-search { border-color: #fb923c33; background: linear-gradient(135deg, var(--card), #fb923c08); }
+    .cmd-stalk { border-color: #ff4d6a33; background: linear-gradient(135deg, var(--card), #ff4d6a08); }
+    .cmd-translate { border-color: #22d3ee33; background: linear-gradient(135deg, var(--card), #22d3ee08); }
 
     .cmd-tag {
       display: inline-block; font-size: 0.65rem; font-weight: 700;
@@ -155,6 +160,19 @@
     .tag-new { background: #fb923c30; color: var(--orange); }
     .tag-live { background: #ff4d6a30; color: var(--red); }
 
+    .mode-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.6rem; margin-top: 0.8rem; }
+    .mode-card { padding: 0.75rem 0.85rem; background: var(--card); border: 1px solid var(--border); border-radius: 12px; text-align: center; transition: all 0.2s ease; }
+    .mode-card:hover { background: var(--card-hover); transform: translateY(-1px); }
+    .mode-card .mode-emoji { font-size: 1.4rem; margin-bottom: 0.3rem; }
+    .mode-card .mode-name { font-size: 0.85rem; font-weight: 700; margin-bottom: 0.2rem; }
+    .mode-card .mode-desc { font-size: 0.72rem; color: var(--text-dim); line-height: 1.4; }
+    .mode-fast { border-color: #fbbf2444; }
+    .mode-fast .mode-name { color: var(--yellow); }
+    .mode-eco { border-color: #53fc1844; }
+    .mode-eco .mode-name { color: var(--accent); }
+    .mode-op { border-color: #a855f744; }
+    .mode-op .mode-name { color: var(--purple); }
+
     footer { text-align: center; margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border); color: var(--text-dim); font-size: 0.82rem; }
     footer .heart { color: var(--red); }
     footer a { color: var(--accent); text-decoration: none; }
@@ -165,6 +183,7 @@
       h1 { font-size: 1.8rem; }
       header { padding: 2rem 0 1.5rem; }
       .cmd { padding: 0.75rem 0.85rem; }
+      .mode-cards { grid-template-columns: 1fr; }
     }
   </style>
 </head>
@@ -180,8 +199,9 @@
       <div class="badges">
         <span class="badge badge-green">✦ 10 AI Models</span>
         <span class="badge badge-orange">🔍 Live Search</span>
+        <span class="badge badge-cyan">🌍 Translate</span>
         <span class="badge badge-purple">🎮 7 Games</span>
-        <span class="badge badge-blue">⚡ 30+ Commands</span>
+        <span class="badge badge-blue">⚡ 35+ Commands</span>
       </div>
     </header>
 
@@ -195,7 +215,7 @@
       <div class="cmd-grid">
         <div class="cmd cmd-highlight">
           <span class="cmd-name">!AI &lt;question&gt;<span class="cmd-tag tag-op">OP</span></span>
-          <span class="cmd-desc">The ultimate AI — races Claude + DeepSeek + Groq, picks the best answer. Auto-searches the internet for current events. Full chat memory + user awareness.</span>
+          <span class="cmd-desc">The ultimate AI — races up to 7 AIs (Claude, DeepSeek, Groq, Mistral, GPT, Gemini, Kimi), picks the best answer. Auto-searches the internet for current events. Full chat memory + user awareness. 3 switchable modes.</span>
         </div>
         <div class="cmd">
           <span class="cmd-name">!ask &lt;question&gt;</span>
@@ -231,8 +251,27 @@
           <span class="cmd-desc">Ask Gemini 2.5 Pro (Google) — Google's most advanced reasoning model.</span>
         </div>
         <div class="cmd">
-          <span class="cmd-name">!ask9 &lt;question&gt;<span class="cmd-tag tag-new">NEW</span></span>
+          <span class="cmd-name">!ask9 &lt;question&gt;</span>
           <span class="cmd-desc">Ask Kimi K2.5 (Moonshot AI) — powerful Chinese reasoning model, great at logic puzzles.</span>
+        </div>
+      </div>
+
+      <!-- AI Modes -->
+      <div class="mode-cards">
+        <div class="mode-card mode-fast">
+          <div class="mode-emoji">⚡</div>
+          <div class="mode-name">FAST</div>
+          <div class="mode-desc">Groq speed run with Mistral &amp; DeepSeek fallback. ~1-3s responses.</div>
+        </div>
+        <div class="mode-card mode-eco">
+          <div class="mode-emoji">♻️</div>
+          <div class="mode-name">ECO</div>
+          <div class="mode-desc">6 AIs race, best answer wins. Free tier optimized.</div>
+        </div>
+        <div class="mode-card mode-op">
+          <div class="mode-emoji">🧠</div>
+          <div class="mode-name">OP</div>
+          <div class="mode-desc">All 7 AIs including Claude race. Maximum quality. Default mode.</div>
         </div>
       </div>
     </div>
@@ -248,6 +287,37 @@
         <div class="cmd cmd-search">
           <span class="cmd-name">!search &lt;query&gt;<span class="cmd-tag tag-live">LIVE</span></span>
           <span class="cmd-desc">Search the internet in real-time. Get up-to-date info on news, scores, prices, events, and more. Powered by Perplexity AI.</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Translate -->
+    <div class="section">
+      <div class="section-header">
+        <div class="section-icon translate">🌍</div>
+        <span class="section-title">Translation</span>
+        <span class="section-count">1 command</span>
+      </div>
+      <div class="cmd-grid">
+        <div class="cmd cmd-translate">
+          <span class="cmd-name">!tr &lt;lang&gt; &lt;text&gt;<span class="cmd-tag tag-new">NEW</span></span>
+          <span class="cmd-desc">Translate text to any of 50+ languages. Just specify the language and what to translate. Powered by AI — handles slang, emotes, and context.</span>
+          <div class="cmd-aliases">Alias: <span>!translate</span> · Examples: <span>!tr arabic hello</span>, <span>!tr japanese good morning</span></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Stalk -->
+    <div class="section">
+      <div class="section-header">
+        <div class="section-icon stalk">🔎</div>
+        <span class="section-title">Chatter Analysis</span>
+        <span class="section-count">1 command</span>
+      </div>
+      <div class="cmd-grid">
+        <div class="cmd cmd-stalk">
+          <span class="cmd-name">!stalk &lt;user&gt;<span class="cmd-tag tag-new">NEW</span></span>
+          <span class="cmd-desc">Deep analysis of any Kick chatter. Fetches live data from StreamerStats.com — total messages, channels chatted in, emote %, active times, gifted subs, favorite emotes, weekly patterns — combined with bot memory for a witty AI breakdown.</span>
         </div>
       </div>
     </div>
@@ -343,11 +413,11 @@
       <div class="cmd-grid">
         <div class="cmd">
           <span class="cmd-name">!brain</span>
-          <span class="cmd-desc">See the bot's brain stats — messages learned, users tracked, facts, summaries, and hot topics.</span>
+          <span class="cmd-desc">See the bot's brain stats — messages learned, users tracked, facts, summaries, and hot topics. Tracks 1000 messages, 150 facts, 50 summaries, 24 topic categories.</span>
         </div>
         <div class="cmd">
           <span class="cmd-name">!whois &lt;name&gt;</span>
-          <span class="cmd-desc">Look up what the bot knows about a chatter — message count, topics, vibe, and more.</span>
+          <span class="cmd-desc">Look up what the bot knows about a chatter — message count, topics, vibe, sentiment, catchphrases, and personality traits.</span>
         </div>
       </div>
     </div>
@@ -385,14 +455,22 @@
       <div class="cmd-grid">
         <div class="cmd">
           <span class="cmd-name">@Cyberphile</span>
-          <span class="cmd-desc">Mention the bot anywhere in your message and it'll reply with AI using full chat context.</span>
+          <span class="cmd-desc">Mention the bot anywhere in your message and it'll reply with AI using full chat context + user memory.</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">Smart Filtering</span>
+          <span class="cmd-desc">Automatically filters emote spam and junk from chat history — only meaningful messages are remembered.</span>
+        </div>
+        <div class="cmd">
+          <span class="cmd-name">User Profiles</span>
+          <span class="cmd-desc">Tracks sentiment, catchphrases, personality traits, topic interests, active times, and social connections for every chatter.</span>
         </div>
       </div>
     </div>
 
     <footer>
-      <p>Built with <span class="heart">♥</span> by <a href="https://kick.com/sliker" target="_blank">@Shance</a> · Powered by 10 AI models + Live Search</p>
-      <p style="margin-top: 0.4rem; opacity: 0.6;">@Cyberphile on Kick · Persistent memory &amp; learning</p>
+      <p>Built with <span class="heart">♥</span> by <a href="https://kick.com/sliker" target="_blank">@Shance</a> · Powered by 10 AI models + Live Search + StreamerStats</p>
+      <p style="margin-top: 0.4rem; opacity: 0.6;">@Cyberphile on Kick · Persistent memory &amp; learning · 3 AI modes</p>
     </footer>
   </div>
 </body>
