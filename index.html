@@ -95,6 +95,42 @@
     .badge-cyan { border-color: #22d3ee44; color: var(--cyan); }
     .badge-red { border-color: #ff4d6a44; color: var(--red); }
 
+    /* ---- Bot Status ---- */
+    .bot-status {
+      display: inline-flex; align-items: center; gap: 0.5rem;
+      margin-top: 1rem; padding: 0.5rem 1.2rem;
+      border-radius: 999px; font-size: 0.85rem; font-weight: 600;
+      border: 1px solid var(--border); background: var(--card);
+      transition: all 0.3s ease;
+    }
+    .bot-status .status-dot {
+      width: 10px; height: 10px; border-radius: 50%;
+      display: inline-block; flex-shrink: 0;
+    }
+    .bot-status.online {
+      border-color: #53fc1866; color: var(--accent);
+      background: linear-gradient(135deg, var(--card), #53fc1810);
+    }
+    .bot-status.online .status-dot {
+      background: var(--accent);
+      box-shadow: 0 0 8px var(--accent);
+      animation: status-pulse 2s ease-in-out infinite;
+    }
+    .bot-status.offline {
+      border-color: #ff4d6a44; color: var(--red);
+      background: linear-gradient(135deg, var(--card), #ff4d6a08);
+    }
+    .bot-status.offline .status-dot {
+      background: var(--red); opacity: 0.6;
+    }
+    .bot-status .status-uptime {
+      font-size: 0.72rem; color: var(--text-dim); font-weight: 400;
+    }
+    @keyframes status-pulse {
+      0%, 100% { opacity: 1; box-shadow: 0 0 8px var(--accent); }
+      50% { opacity: 0.5; box-shadow: 0 0 16px var(--accent), 0 0 24px var(--accent-glow); }
+    }
+
     /* ---- Tab Navigation ---- */
     .tabs {
       display: flex; gap: 0.5rem; justify-content: center; margin-bottom: 2rem;
@@ -266,6 +302,10 @@
         <span class="badge badge-purple">🎮 7 Games</span>
         <span class="badge badge-blue">⚡ 40+ Commands</span>
         <span class="badge badge-red">📊 Stream Analytics</span>
+      </div>
+      <div class="bot-status" id="bot-status">
+        <span class="status-dot"></span>
+        <span class="status-text">Checking...</span>
       </div>
     </header>
 
@@ -649,9 +689,11 @@
         if (!res.ok) throw new Error('Not found');
         const data = await res.json();
         renderStats(data);
+        updateBotStatus(data);
       } catch (e) {
         document.getElementById('stats-loading').style.display = 'none';
         document.getElementById('stats-error').style.display = 'block';
+        updateBotStatus(null);
       }
     }
 
@@ -755,8 +797,45 @@
       return Math.floor(s / 86400) + 'd';
     }
 
-    // Preload stats
+    // ---- Bot Status ----
+    function updateBotStatus(data) {
+      const el = document.getElementById('bot-status');
+      if (!data || !data.lastUpdated) {
+        el.className = 'bot-status offline';
+        el.innerHTML = '<span class="status-dot"></span><span class="status-text">Bot Offline</span>';
+        return;
+      }
+      const lastUpdate = new Date(data.lastUpdated);
+      const now = new Date();
+      const diffMin = (now - lastUpdate) / 60000;
+      // Bot pushes every 30 min — if last update > 40 min ago, consider offline
+      if (diffMin <= 40) {
+        let uptimeStr = '';
+        if (data.botStartedAt) {
+          const started = new Date(data.botStartedAt);
+          const upSec = Math.floor((now - started) / 1000);
+          if (upSec < 3600) uptimeStr = Math.floor(upSec / 60) + 'min';
+          else if (upSec < 86400) uptimeStr = Math.floor(upSec / 3600) + 'h ' + Math.floor((upSec % 3600) / 60) + 'min';
+          else uptimeStr = Math.floor(upSec / 86400) + 'd ' + Math.floor((upSec % 86400) / 3600) + 'h';
+        }
+        el.className = 'bot-status online';
+        el.innerHTML = `<span class="status-dot"></span><span class="status-text">Bot Online</span>${uptimeStr ? '<span class="status-uptime">· uptime ' + uptimeStr + '</span>' : ''}`;
+      } else {
+        el.className = 'bot-status offline';
+        const ago = timeSince(lastUpdate);
+        el.innerHTML = `<span class="status-dot"></span><span class="status-text">Bot Offline</span><span class="status-uptime">· last seen ${ago} ago</span>`;
+      }
+    }
+
+    // Preload stats + bot status
     document.addEventListener('DOMContentLoaded', loadStats);
+    // Refresh bot status every 5 min
+    setInterval(async () => {
+      try {
+        const res = await fetch(STATS_URL + '?t=' + Date.now());
+        if (res.ok) { const d = await res.json(); updateBotStatus(d); }
+      } catch(_) {}
+    }, 5 * 60 * 1000);
   </script>
 </body>
 </html>
