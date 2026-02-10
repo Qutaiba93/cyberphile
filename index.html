@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cyberphile Bot — Commands</title>
-  <meta name="description" content="Command list for @Cyberphile, the AI-powered Kick chat bot for Sliker's stream.">
+  <title>Cyberphile Bot — Commands & Stream Stats</title>
+  <meta name="description" content="Command list and live stream analytics for @Cyberphile, the AI-powered Kick chat bot for Sliker's stream.">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
 
@@ -25,6 +25,7 @@
       --pink: #f472b6;
       --cyan: #22d3ee;
       --orange: #fb923c;
+      --green-soft: #34d399;
     }
 
     * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -92,6 +93,23 @@
     .badge-purple { border-color: #a855f744; color: var(--purple); }
     .badge-orange { border-color: #fb923c44; color: var(--orange); }
     .badge-cyan { border-color: #22d3ee44; color: var(--cyan); }
+    .badge-red { border-color: #ff4d6a44; color: var(--red); }
+
+    /* ---- Tab Navigation ---- */
+    .tabs {
+      display: flex; gap: 0.5rem; justify-content: center; margin-bottom: 2rem;
+      border-bottom: 1px solid var(--border); padding-bottom: 0.8rem;
+    }
+    .tab-btn {
+      padding: 0.6rem 1.4rem; border-radius: 10px 10px 0 0;
+      background: var(--card); border: 1px solid var(--border); border-bottom: none;
+      color: var(--text-dim); font-size: 0.9rem; font-weight: 600;
+      cursor: pointer; transition: all 0.2s ease;
+    }
+    .tab-btn:hover { color: var(--text); background: var(--card-hover); }
+    .tab-btn.active { color: var(--accent); border-color: var(--accent); background: var(--accent-dim); }
+    .tab-content { display: none; }
+    .tab-content.active { display: block; }
 
     .section { margin-bottom: 2rem; }
 
@@ -115,6 +133,8 @@
     .section-icon.info { background: #4d9fff20; }
     .section-icon.translate { background: #22d3ee20; }
     .section-icon.stalk { background: #ff4d6a20; }
+    .section-icon.stats { background: #34d39920; }
+    .section-icon.analytics { background: #fbbf2420; }
 
     .section-title { font-size: 1.15rem; font-weight: 700; letter-spacing: -0.02em; }
 
@@ -149,6 +169,7 @@
     .cmd-search { border-color: #fb923c33; background: linear-gradient(135deg, var(--card), #fb923c08); }
     .cmd-stalk { border-color: #ff4d6a33; background: linear-gradient(135deg, var(--card), #ff4d6a08); }
     .cmd-translate { border-color: #22d3ee33; background: linear-gradient(135deg, var(--card), #22d3ee08); }
+    .cmd-analytics { border-color: #fbbf2433; background: linear-gradient(135deg, var(--card), #fbbf2408); }
 
     .cmd-tag {
       display: inline-block; font-size: 0.65rem; font-weight: 700;
@@ -173,6 +194,44 @@
     .mode-op { border-color: #a855f744; }
     .mode-op .mode-name { color: var(--purple); }
 
+    /* ---- Stats Styles ---- */
+    .stats-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 0.8rem; margin-bottom: 1.5rem; }
+    .stat-card {
+      padding: 1rem; background: var(--card); border: 1px solid var(--border);
+      border-radius: 12px; text-align: center; transition: all 0.2s ease;
+    }
+    .stat-card:hover { background: var(--card-hover); transform: translateY(-2px); }
+    .stat-value { font-size: 1.8rem; font-weight: 800; color: var(--accent); margin-bottom: 0.2rem; }
+    .stat-label { font-size: 0.78rem; color: var(--text-dim); font-weight: 500; text-transform: uppercase; letter-spacing: 0.05em; }
+
+    .cat-bar-container { margin-bottom: 0.6rem; }
+    .cat-bar-label { display: flex; justify-content: space-between; font-size: 0.82rem; margin-bottom: 0.3rem; }
+    .cat-bar-name { font-weight: 600; }
+    .cat-bar-value { color: var(--text-dim); }
+    .cat-bar-track { height: 8px; background: var(--border); border-radius: 4px; overflow: hidden; }
+    .cat-bar-fill { height: 100%; border-radius: 4px; transition: width 0.6s ease; }
+
+    .hourly-chart { display: flex; align-items: flex-end; gap: 2px; height: 100px; margin: 1rem 0; padding: 0 0.5rem; }
+    .hourly-bar-wrap { flex: 1; display: flex; flex-direction: column; align-items: center; }
+    .hourly-bar {
+      width: 100%; min-width: 8px; border-radius: 3px 3px 0 0;
+      background: var(--accent); opacity: 0.6; transition: all 0.3s ease;
+    }
+    .hourly-bar:hover { opacity: 1; }
+    .hourly-label { font-size: 0.55rem; color: var(--text-dim); margin-top: 3px; }
+
+    .daily-row { display: flex; align-items: center; gap: 0.8rem; padding: 0.5rem 0.8rem; background: var(--card); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 0.5rem; transition: all 0.2s ease; }
+    .daily-row:hover { background: var(--card-hover); }
+    .daily-date { font-weight: 700; font-size: 0.85rem; min-width: 90px; }
+    .daily-viewers { color: var(--accent); font-weight: 600; font-size: 0.85rem; min-width: 60px; }
+    .daily-peak { color: var(--yellow); font-size: 0.78rem; min-width: 55px; }
+    .daily-msgs { color: var(--cyan); font-size: 0.78rem; min-width: 55px; }
+    .daily-cats { font-size: 0.72rem; color: var(--text-dim); flex: 1; text-align: right; }
+
+    .stats-updated { text-align: center; font-size: 0.75rem; color: var(--text-dim); opacity: 0.5; margin-top: 1rem; }
+
+    .no-data { text-align: center; padding: 3rem 1rem; color: var(--text-dim); font-size: 0.95rem; }
+
     footer { text-align: center; margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border); color: var(--text-dim); font-size: 0.82rem; }
     footer .heart { color: var(--red); }
     footer a { color: var(--accent); text-decoration: none; }
@@ -184,6 +243,10 @@
       header { padding: 2rem 0 1.5rem; }
       .cmd { padding: 0.75rem 0.85rem; }
       .mode-cards { grid-template-columns: 1fr; }
+      .tabs { gap: 0.3rem; }
+      .tab-btn { padding: 0.5rem 0.8rem; font-size: 0.8rem; }
+      .stats-grid { grid-template-columns: repeat(2, 1fr); }
+      .hourly-chart { height: 70px; }
     }
   </style>
 </head>
@@ -201,277 +264,499 @@
         <span class="badge badge-orange">🔍 Live Search</span>
         <span class="badge badge-cyan">🌍 Translate</span>
         <span class="badge badge-purple">🎮 7 Games</span>
-        <span class="badge badge-blue">⚡ 35+ Commands</span>
+        <span class="badge badge-blue">⚡ 40+ Commands</span>
+        <span class="badge badge-red">📊 Stream Analytics</span>
       </div>
     </header>
 
-    <!-- AI Commands -->
-    <div class="section">
-      <div class="section-header">
-        <div class="section-icon ai">🧠</div>
-        <span class="section-title">AI Commands</span>
-        <span class="section-count">10 commands</span>
-      </div>
-      <div class="cmd-grid">
-        <div class="cmd cmd-highlight">
-          <span class="cmd-name">!AI &lt;question&gt;<span class="cmd-tag tag-op">OP</span></span>
-          <span class="cmd-desc">The ultimate AI — races up to 7 AIs (Claude, DeepSeek, Groq, Mistral, GPT, Gemini, Kimi), picks the best answer. Auto-searches the internet for current events. Full chat memory + user awareness. 3 switchable modes.</span>
+    <!-- Tabs -->
+    <div class="tabs">
+      <button class="tab-btn active" onclick="switchTab('commands', this)">📋 Commands</button>
+      <button class="tab-btn" onclick="switchTab('stats', this)">📊 Stream Stats</button>
+    </div>
+
+    <!-- ==================== COMMANDS TAB ==================== -->
+    <div id="tab-commands" class="tab-content active">
+
+      <!-- AI Commands -->
+      <div class="section">
+        <div class="section-header">
+          <div class="section-icon ai">🧠</div>
+          <span class="section-title">AI Commands</span>
+          <span class="section-count">10 commands</span>
         </div>
-        <div class="cmd">
-          <span class="cmd-name">!ask &lt;question&gt;</span>
-          <span class="cmd-desc">Ask Claude (Anthropic) — fast, creative, great for conversations.</span>
+        <div class="cmd-grid">
+          <div class="cmd cmd-highlight">
+            <span class="cmd-name">!AI &lt;question&gt;<span class="cmd-tag tag-op">OP</span></span>
+            <span class="cmd-desc">The ultimate AI — races up to 7 AIs (Claude, DeepSeek, Groq, Mistral, GPT, Gemini, Grok), picks the best answer. Auto-searches the internet for current events. Full chat memory + user awareness. 3 switchable modes.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!ask &lt;question&gt;</span>
+            <span class="cmd-desc">Ask Claude (Anthropic) — fast, creative, great for conversations.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!ask2 &lt;question&gt;</span>
+            <span class="cmd-desc">Ask Groq (LLaMA 3.3 70B) — ultra-fast responses, open-source model.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!ask3 &lt;question&gt;</span>
+            <span class="cmd-desc">Ask DeepSeek — strong reasoning and coding knowledge.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!ask4 &lt;question&gt;</span>
+            <span class="cmd-desc">Ask Mistral — fast European AI, good with multiple languages.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!ask5 &lt;question&gt;</span>
+            <span class="cmd-desc">Ask Grok (xAI) — Elon's AI with Grok-4-1 Fast, unfiltered and witty.</span>
+            <div class="cmd-aliases">Alias: <span>!grok</span></div>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!ask6 &lt;question&gt;</span>
+            <span class="cmd-desc">Ask Solar Pro 3 — powerful Korean AI via OpenRouter.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!ask7 &lt;question&gt;</span>
+            <span class="cmd-desc">Ask GPT (OpenAI) — the latest GPT model, great at everything.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!ask8 &lt;question&gt;</span>
+            <span class="cmd-desc">Ask Gemini 2.5 Pro (Google) — Google's most advanced reasoning model.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!ask9 &lt;question&gt;</span>
+            <span class="cmd-desc">Ask Kimi K2.5 (Moonshot AI) — powerful Chinese reasoning model, great at logic puzzles.</span>
+          </div>
         </div>
-        <div class="cmd">
-          <span class="cmd-name">!ask2 &lt;question&gt;</span>
-          <span class="cmd-desc">Ask Groq (LLaMA 3.3 70B) — ultra-fast responses, open-source model.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!ask3 &lt;question&gt;</span>
-          <span class="cmd-desc">Ask DeepSeek — strong reasoning and coding knowledge.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!ask4 &lt;question&gt;</span>
-          <span class="cmd-desc">Ask Mistral — fast European AI, good with multiple languages.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!ask5 &lt;question&gt;</span>
-          <span class="cmd-desc">Ask Grok (xAI) — Elon's AI, unfiltered and witty.</span>
-          <div class="cmd-aliases">Alias: <span>!grok</span></div>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!ask6 &lt;question&gt;</span>
-          <span class="cmd-desc">Ask Solar Pro 3 — powerful Korean AI via OpenRouter.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!ask7 &lt;question&gt;</span>
-          <span class="cmd-desc">Ask GPT-5.2 (OpenAI) — the latest GPT model, great at everything.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!ask8 &lt;question&gt;</span>
-          <span class="cmd-desc">Ask Gemini 2.5 Pro (Google) — Google's most advanced reasoning model.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!ask9 &lt;question&gt;</span>
-          <span class="cmd-desc">Ask Kimi K2.5 (Moonshot AI) — powerful Chinese reasoning model, great at logic puzzles.</span>
+
+        <!-- AI Modes -->
+        <div class="mode-cards">
+          <div class="mode-card mode-fast">
+            <div class="mode-emoji">⚡</div>
+            <div class="mode-name">FAST</div>
+            <div class="mode-desc">Groq speed run with Mistral &amp; DeepSeek fallback. ~1-3s responses.</div>
+          </div>
+          <div class="mode-card mode-eco">
+            <div class="mode-emoji">♻️</div>
+            <div class="mode-name">ECO</div>
+            <div class="mode-desc">6 AIs race, best answer wins. Free tier optimized.</div>
+          </div>
+          <div class="mode-card mode-op">
+            <div class="mode-emoji">🧠</div>
+            <div class="mode-name">OP</div>
+            <div class="mode-desc">All 7 AIs including Claude race. Maximum quality. Default mode.</div>
+          </div>
         </div>
       </div>
 
-      <!-- AI Modes -->
-      <div class="mode-cards">
-        <div class="mode-card mode-fast">
-          <div class="mode-emoji">⚡</div>
-          <div class="mode-name">FAST</div>
-          <div class="mode-desc">Groq speed run with Mistral &amp; DeepSeek fallback. ~1-3s responses.</div>
+      <!-- Search -->
+      <div class="section">
+        <div class="section-header">
+          <div class="section-icon search">🔍</div>
+          <span class="section-title">Live Internet Search</span>
+          <span class="section-count">1 command</span>
         </div>
-        <div class="mode-card mode-eco">
-          <div class="mode-emoji">♻️</div>
-          <div class="mode-name">ECO</div>
-          <div class="mode-desc">6 AIs race, best answer wins. Free tier optimized.</div>
+        <div class="cmd-grid">
+          <div class="cmd cmd-search">
+            <span class="cmd-name">!search &lt;query&gt;<span class="cmd-tag tag-live">LIVE</span></span>
+            <span class="cmd-desc">Search the internet in real-time. Get up-to-date info on news, scores, prices, events, and more. Powered by Perplexity AI.</span>
+          </div>
         </div>
-        <div class="mode-card mode-op">
-          <div class="mode-emoji">🧠</div>
-          <div class="mode-name">OP</div>
-          <div class="mode-desc">All 7 AIs including Claude race. Maximum quality. Default mode.</div>
+      </div>
+
+      <!-- Translate -->
+      <div class="section">
+        <div class="section-header">
+          <div class="section-icon translate">🌍</div>
+          <span class="section-title">Translation</span>
+          <span class="section-count">1 command</span>
+        </div>
+        <div class="cmd-grid">
+          <div class="cmd cmd-translate">
+            <span class="cmd-name">!tr &lt;lang&gt; &lt;text&gt;</span>
+            <span class="cmd-desc">Translate text to any of 50+ languages. Just specify the language and what to translate. Powered by AI — handles slang, emotes, and context.</span>
+            <div class="cmd-aliases">Alias: <span>!translate</span> · Examples: <span>!tr arabic hello</span>, <span>!tr japanese good morning</span></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Stalk / Chatter Analysis -->
+      <div class="section">
+        <div class="section-header">
+          <div class="section-icon stalk">🔎</div>
+          <span class="section-title">Chatter Analysis</span>
+          <span class="section-count">2 commands</span>
+        </div>
+        <div class="cmd-grid">
+          <div class="cmd cmd-stalk">
+            <span class="cmd-name">!stalk &lt;user&gt;</span>
+            <span class="cmd-desc">Deep analysis of any Kick chatter. Fetches live data from StreamerStats.com — total messages, channels chatted in, emote %, active times, gifted subs, favorite emotes, weekly patterns — combined with bot memory for a witty AI breakdown.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!whois &lt;name&gt;</span>
+            <span class="cmd-desc">Look up what the bot knows about a chatter — message count, topics, vibe, sentiment, catchphrases, and personality traits.</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Stream Analytics -->
+      <div class="section">
+        <div class="section-header">
+          <div class="section-icon analytics">📊</div>
+          <span class="section-title">Stream Analytics</span>
+          <span class="section-count">2 commands</span>
+        </div>
+        <div class="cmd-grid">
+          <div class="cmd cmd-analytics">
+            <span class="cmd-name">!segment<span class="cmd-tag tag-new">NEW</span></span>
+            <span class="cmd-desc">Full stream analytics — live viewer count, avg/peak/low viewers, viewer trend (📈/📉), chat engagement rate, category performance rankings, best time of day, all-time records. Data polled every 10 minutes, stored permanently.</span>
+            <div class="cmd-aliases">Aliases: <span>!segments</span>, <span>!analytics</span></div>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!stream</span>
+            <span class="cmd-desc">Check if Sliker is live — shows current category, viewer count, and uptime.</span>
+            <div class="cmd-aliases">Aliases: <span>!live</span>, <span>!uptime</span></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Fun Commands -->
+      <div class="section">
+        <div class="section-header">
+          <div class="section-icon fun">🎭</div>
+          <span class="section-title">Fun Commands</span>
+          <span class="section-count">7 commands</span>
+        </div>
+        <div class="cmd-grid">
+          <div class="cmd">
+            <span class="cmd-name">!roast &lt;name&gt;</span>
+            <span class="cmd-desc">Get an AI-generated roast of someone in chat. No mercy.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!compliment &lt;name&gt;</span>
+            <span class="cmd-desc">Give someone a wholesome AI compliment. Spread the love.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!fight &lt;name&gt;</span>
+            <span class="cmd-desc">Start an epic AI-narrated fight with another chatter.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!debate &lt;topic&gt;</span>
+            <span class="cmd-desc">Get an AI hot take on any topic. Both sides presented.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!skully</span>
+            <span class="cmd-desc">Skully Gang roll call! Rep the gang. 💀</span>
+            <div class="cmd-aliases">Aliases: <span>!skullygang</span>, <span>!skullysunday</span></div>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!lurk [message]</span>
+            <span class="cmd-desc">Go into lurk mode. Optionally leave a lurk message.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!unlurk</span>
+            <span class="cmd-desc">Come back from lurking! Shows how long you were gone.</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Game Commands -->
+      <div class="section">
+        <div class="section-header">
+          <div class="section-icon games">🎰</div>
+          <span class="section-title">Game Commands</span>
+          <span class="section-count">7 games</span>
+        </div>
+        <div class="cmd-grid">
+          <div class="cmd">
+            <span class="cmd-name">!slots</span>
+            <span class="cmd-desc">Spin the slot machine. Match symbols to win big!</span>
+            <div class="cmd-aliases">Alias: <span>!slot</span></div>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!flip</span>
+            <span class="cmd-desc">Flip a coin — heads or tails. Simple and classic.</span>
+            <div class="cmd-aliases">Aliases: <span>!coinflip</span>, <span>!coin</span></div>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!dice</span>
+            <span class="cmd-desc">Roll a six-sided die. Try your luck.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!roll &lt;max&gt;</span>
+            <span class="cmd-desc">Roll a random number from 1 to max (default 100).</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!rps &lt;choice&gt;</span>
+            <span class="cmd-desc">Rock Paper Scissors — play against the bot.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!8ball &lt;question&gt;</span>
+            <span class="cmd-desc">Ask the magic 8-ball. It knows all. Maybe.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!bj</span>
+            <span class="cmd-desc">Start a Blackjack game. Use <strong>!hit</strong> and <strong>!stand</strong> to play.</span>
+            <div class="cmd-aliases">Alias: <span>!blackjack</span> · In-game: <span>!hit</span>, <span>!stand</span></div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Brain Commands -->
+      <div class="section">
+        <div class="section-header">
+          <div class="section-icon brain">🧬</div>
+          <span class="section-title">Brain &amp; Memory</span>
+          <span class="section-count">1 command</span>
+        </div>
+        <div class="cmd-grid">
+          <div class="cmd">
+            <span class="cmd-name">!brain</span>
+            <span class="cmd-desc">See the bot's brain stats — RAG permanent memories, user profiles tracked, lifetime messages learned, and trending topics.</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Info Commands -->
+      <div class="section">
+        <div class="section-header">
+          <div class="section-icon info">ℹ️</div>
+          <span class="section-title">Info Commands</span>
+          <span class="section-count">3 commands</span>
+        </div>
+        <div class="cmd-grid">
+          <div class="cmd">
+            <span class="cmd-name">!help</span>
+            <span class="cmd-desc">Show a summary of all available commands.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!gamble</span>
+            <span class="cmd-desc">Show all available game commands.</span>
+            <div class="cmd-aliases">Alias: <span>!games</span></div>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!ai</span>
+            <span class="cmd-desc">Show info about the bot and available AI models.</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Other Features -->
+      <div class="section">
+        <div class="section-header">
+          <div class="section-icon ai">💬</div>
+          <span class="section-title">Other Features</span>
+        </div>
+        <div class="cmd-grid">
+          <div class="cmd">
+            <span class="cmd-name">@Cyberphile</span>
+            <span class="cmd-desc">Mention the bot anywhere in your message and it'll reply with AI using full chat context + user memory. Auto-targets the right user with @mentions.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">Reply to Bot</span>
+            <span class="cmd-desc">Reply to any of Cyberphile's messages and it'll continue the conversation with full context awareness.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">Smart Filtering</span>
+            <span class="cmd-desc">Automatically filters emote spam and junk from chat history — only meaningful messages are remembered.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">User Profiles</span>
+            <span class="cmd-desc">Tracks sentiment, catchphrases, personality traits, topic interests, active times, and social connections for every chatter.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">RAG Memory</span>
+            <span class="cmd-desc">Permanent vector-based memory using TF-IDF + cosine similarity. Facts, conversations, and context are stored forever and retrieved by relevance.</span>
+          </div>
         </div>
       </div>
     </div>
 
-    <!-- Search -->
-    <div class="section">
-      <div class="section-header">
-        <div class="section-icon search">🔍</div>
-        <span class="section-title">Live Internet Search</span>
-        <span class="section-count">1 command</span>
-      </div>
-      <div class="cmd-grid">
-        <div class="cmd cmd-search">
-          <span class="cmd-name">!search &lt;query&gt;<span class="cmd-tag tag-live">LIVE</span></span>
-          <span class="cmd-desc">Search the internet in real-time. Get up-to-date info on news, scores, prices, events, and more. Powered by Perplexity AI.</span>
-        </div>
-      </div>
-    </div>
+    <!-- ==================== STREAM STATS TAB ==================== -->
+    <div id="tab-stats" class="tab-content">
+      <div id="stats-loading" class="no-data">Loading stream stats...</div>
+      <div id="stats-container" style="display: none;">
 
-    <!-- Translate -->
-    <div class="section">
-      <div class="section-header">
-        <div class="section-icon translate">🌍</div>
-        <span class="section-title">Translation</span>
-        <span class="section-count">1 command</span>
-      </div>
-      <div class="cmd-grid">
-        <div class="cmd cmd-translate">
-          <span class="cmd-name">!tr &lt;lang&gt; &lt;text&gt;<span class="cmd-tag tag-new">NEW</span></span>
-          <span class="cmd-desc">Translate text to any of 50+ languages. Just specify the language and what to translate. Powered by AI — handles slang, emotes, and context.</span>
-          <div class="cmd-aliases">Alias: <span>!translate</span> · Examples: <span>!tr arabic hello</span>, <span>!tr japanese good morning</span></div>
+        <!-- Overview Cards -->
+        <div class="section">
+          <div class="section-header">
+            <div class="section-icon stats">📈</div>
+            <span class="section-title">Overview</span>
+            <span class="section-count" id="stats-badge">permanent records</span>
+          </div>
+          <div class="stats-grid" id="overview-cards"></div>
         </div>
-      </div>
-    </div>
 
-    <!-- Stalk -->
-    <div class="section">
-      <div class="section-header">
-        <div class="section-icon stalk">🔎</div>
-        <span class="section-title">Chatter Analysis</span>
-        <span class="section-count">1 command</span>
-      </div>
-      <div class="cmd-grid">
-        <div class="cmd cmd-stalk">
-          <span class="cmd-name">!stalk &lt;user&gt;<span class="cmd-tag tag-new">NEW</span></span>
-          <span class="cmd-desc">Deep analysis of any Kick chatter. Fetches live data from StreamerStats.com — total messages, channels chatted in, emote %, active times, gifted subs, favorite emotes, weekly patterns — combined with bot memory for a witty AI breakdown.</span>
+        <!-- Category Rankings -->
+        <div class="section">
+          <div class="section-header">
+            <div class="section-icon analytics">🏆</div>
+            <span class="section-title">Category Rankings</span>
+            <span class="section-count" id="cat-count"></span>
+          </div>
+          <div id="category-bars"></div>
         </div>
-      </div>
-    </div>
 
-    <!-- Fun Commands -->
-    <div class="section">
-      <div class="section-header">
-        <div class="section-icon fun">🎭</div>
-        <span class="section-title">Fun Commands</span>
-        <span class="section-count">7 commands</span>
-      </div>
-      <div class="cmd-grid">
-        <div class="cmd">
-          <span class="cmd-name">!roast &lt;name&gt;</span>
-          <span class="cmd-desc">Get an AI-generated roast of someone in chat. No mercy.</span>
+        <!-- Hourly Viewer Pattern -->
+        <div class="section" id="hourly-section" style="display: none;">
+          <div class="section-header">
+            <div class="section-icon info">🕐</div>
+            <span class="section-title">Viewers by Hour (UTC)</span>
+          </div>
+          <div class="hourly-chart" id="hourly-chart"></div>
         </div>
-        <div class="cmd">
-          <span class="cmd-name">!compliment &lt;name&gt;</span>
-          <span class="cmd-desc">Give someone a wholesome AI compliment. Spread the love.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!fight &lt;name&gt;</span>
-          <span class="cmd-desc">Start an epic AI-narrated fight with another chatter.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!debate &lt;topic&gt;</span>
-          <span class="cmd-desc">Get an AI hot take on any topic. Both sides presented.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!skully</span>
-          <span class="cmd-desc">Skully Gang roll call! Rep the gang. 💀</span>
-          <div class="cmd-aliases">Aliases: <span>!skullygang</span>, <span>!skullysunday</span></div>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!lurk [message]</span>
-          <span class="cmd-desc">Go into lurk mode. Optionally leave a lurk message.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!unlurk</span>
-          <span class="cmd-desc">Come back from lurking! Shows how long you were gone.</span>
-        </div>
-      </div>
-    </div>
 
-    <!-- Game Commands -->
-    <div class="section">
-      <div class="section-header">
-        <div class="section-icon games">🎰</div>
-        <span class="section-title">Game Commands</span>
-        <span class="section-count">7 games</span>
-      </div>
-      <div class="cmd-grid">
-        <div class="cmd">
-          <span class="cmd-name">!slots</span>
-          <span class="cmd-desc">Spin the slot machine. Match symbols to win big!</span>
+        <!-- Daily History -->
+        <div class="section" id="daily-section" style="display: none;">
+          <div class="section-header">
+            <div class="section-icon stats">📅</div>
+            <span class="section-title">Recent Streams</span>
+          </div>
+          <div id="daily-rows"></div>
         </div>
-        <div class="cmd">
-          <span class="cmd-name">!flip</span>
-          <span class="cmd-desc">Flip a coin — heads or tails. Simple and classic.</span>
-          <div class="cmd-aliases">Alias: <span>!coinflip</span></div>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!dice</span>
-          <span class="cmd-desc">Roll a six-sided die. Try your luck.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!roll &lt;max&gt;</span>
-          <span class="cmd-desc">Roll a random number from 1 to max (default 100).</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!rps &lt;choice&gt;</span>
-          <span class="cmd-desc">Rock Paper Scissors — play against the bot.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!8ball &lt;question&gt;</span>
-          <span class="cmd-desc">Ask the magic 8-ball. It knows all. Maybe.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!bj</span>
-          <span class="cmd-desc">Start a Blackjack game. Use <strong>!hit</strong> and <strong>!stand</strong> to play.</span>
-          <div class="cmd-aliases">Alias: <span>!blackjack</span> · In-game: <span>!hit</span>, <span>!stand</span></div>
-        </div>
-      </div>
-    </div>
 
-    <!-- Brain Commands -->
-    <div class="section">
-      <div class="section-header">
-        <div class="section-icon brain">🧬</div>
-        <span class="section-title">Brain &amp; Memory</span>
-        <span class="section-count">2 commands</span>
+        <div class="stats-updated" id="stats-updated"></div>
       </div>
-      <div class="cmd-grid">
-        <div class="cmd">
-          <span class="cmd-name">!brain</span>
-          <span class="cmd-desc">See the bot's brain stats — messages learned, users tracked, facts, summaries, and hot topics. Tracks 1000 messages, 150 facts, 50 summaries, 24 topic categories.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!whois &lt;name&gt;</span>
-          <span class="cmd-desc">Look up what the bot knows about a chatter — message count, topics, vibe, sentiment, catchphrases, and personality traits.</span>
-        </div>
-      </div>
-    </div>
 
-    <!-- Info Commands -->
-    <div class="section">
-      <div class="section-header">
-        <div class="section-icon info">ℹ️</div>
-        <span class="section-title">Info Commands</span>
-        <span class="section-count">3 commands</span>
-      </div>
-      <div class="cmd-grid">
-        <div class="cmd">
-          <span class="cmd-name">!help</span>
-          <span class="cmd-desc">Show a summary of all available commands.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!gamble</span>
-          <span class="cmd-desc">Show all available game commands.</span>
-          <div class="cmd-aliases">Alias: <span>!games</span></div>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">!ai</span>
-          <span class="cmd-desc">Show info about the bot and available AI models.</span>
-        </div>
-      </div>
-    </div>
-
-    <!-- Other Features -->
-    <div class="section">
-      <div class="section-header">
-        <div class="section-icon ai">💬</div>
-        <span class="section-title">Other Features</span>
-      </div>
-      <div class="cmd-grid">
-        <div class="cmd">
-          <span class="cmd-name">@Cyberphile</span>
-          <span class="cmd-desc">Mention the bot anywhere in your message and it'll reply with AI using full chat context + user memory.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">Smart Filtering</span>
-          <span class="cmd-desc">Automatically filters emote spam and junk from chat history — only meaningful messages are remembered.</span>
-        </div>
-        <div class="cmd">
-          <span class="cmd-name">User Profiles</span>
-          <span class="cmd-desc">Tracks sentiment, catchphrases, personality traits, topic interests, active times, and social connections for every chatter.</span>
-        </div>
+      <div id="stats-error" class="no-data" style="display: none;">
+        <p>⚠️ Could not load stream stats.</p>
+        <p style="margin-top: 0.5rem; font-size: 0.8rem;">Stats are generated from segment data and updated each commit.</p>
       </div>
     </div>
 
     <footer>
       <p>Built with <span class="heart">♥</span> by <a href="https://kick.com/sliker" target="_blank">@Shance</a> · Powered by 10 AI models + Live Search + StreamerStats</p>
-      <p style="margin-top: 0.4rem; opacity: 0.6;">@Cyberphile on Kick · Persistent memory &amp; learning · 3 AI modes</p>
+      <p style="margin-top: 0.4rem; opacity: 0.6;">@Cyberphile on Kick · Permanent memory &amp; learning · 10-min analytics · 3 AI modes</p>
     </footer>
   </div>
+
+  <script>
+    // ---- Tab switching ----
+    function switchTab(tab, btn) {
+      document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.getElementById('tab-' + tab).classList.add('active');
+      btn.classList.add('active');
+    }
+
+    // ---- Stream Stats ----
+    const STATS_URL = 'stream-stats.json';
+    const CAT_COLORS = ['#53fc18', '#fbbf24', '#22d3ee', '#a855f7', '#fb923c', '#ff4d6a', '#f472b6', '#4d9fff'];
+
+    async function loadStats() {
+      try {
+        const res = await fetch(STATS_URL + '?t=' + Date.now());
+        if (!res.ok) throw new Error('Not found');
+        const data = await res.json();
+        renderStats(data);
+      } catch (e) {
+        document.getElementById('stats-loading').style.display = 'none';
+        document.getElementById('stats-error').style.display = 'block';
+      }
+    }
+
+    function renderStats(data) {
+      document.getElementById('stats-loading').style.display = 'none';
+      document.getElementById('stats-container').style.display = 'block';
+
+      // Overview cards
+      const cards = document.getElementById('overview-cards');
+      const overviewData = [
+        { value: data.totalSessions || 0, label: 'Streams Tracked', icon: '📡' },
+        { value: data.totalDays || 0, label: 'Days Tracked', icon: '📅' },
+        { value: data.totalSegments || 0, label: 'Data Points', icon: '📊' },
+        { value: data.allTimePeak || 0, label: 'All-Time Peak', icon: '🔥' },
+        { value: data.allTimeAvg || 0, label: 'All-Time Avg', icon: '📈' },
+        { value: formatNum(data.totalMessages || 0), label: 'Chat Messages', icon: '💬' },
+      ];
+      cards.innerHTML = overviewData.map(d => `
+        <div class="stat-card">
+          <div style="font-size: 1.2rem; margin-bottom: 0.3rem;">${d.icon}</div>
+          <div class="stat-value">${d.value}</div>
+          <div class="stat-label">${d.label}</div>
+        </div>
+      `).join('');
+
+      document.getElementById('stats-badge').textContent = `${data.totalSegments || 0} records`;
+
+      // Category rankings
+      const cats = data.categories || [];
+      const catContainer = document.getElementById('category-bars');
+      document.getElementById('cat-count').textContent = `${cats.length} categories`;
+      const maxAvg = cats.length > 0 ? cats[0].avgViewers : 1;
+      catContainer.innerHTML = cats.map((c, i) => `
+        <div class="cat-bar-container">
+          <div class="cat-bar-label">
+            <span class="cat-bar-name" style="color: ${CAT_COLORS[i % CAT_COLORS.length]}">${c.name}</span>
+            <span class="cat-bar-value">avg ${c.avgViewers} · peak ${c.peakViewers} · ${c.sampleCount} samples</span>
+          </div>
+          <div class="cat-bar-track">
+            <div class="cat-bar-fill" style="width: ${(c.avgViewers / maxAvg * 100).toFixed(1)}%; background: ${CAT_COLORS[i % CAT_COLORS.length]};"></div>
+          </div>
+        </div>
+      `).join('');
+
+      // Hourly chart
+      const hours = data.hourlyPatterns || {};
+      const hourKeys = Object.keys(hours);
+      if (hourKeys.length > 0) {
+        document.getElementById('hourly-section').style.display = 'block';
+        const chart = document.getElementById('hourly-chart');
+        const maxH = Math.max(...hourKeys.map(h => hours[h].avgViewers));
+        let barsHtml = '';
+        for (let h = 0; h < 24; h++) {
+          const hd = hours[h.toString()];
+          const val = hd ? hd.avgViewers : 0;
+          const pct = maxH > 0 ? (val / maxH * 100) : 0;
+          const opacity = val > 0 ? 0.4 + (pct / 100 * 0.6) : 0.1;
+          barsHtml += `
+            <div class="hourly-bar-wrap" title="${h}:00 UTC — avg ${val} viewers">
+              <div class="hourly-bar" style="height: ${Math.max(pct, 3)}%; opacity: ${opacity};"></div>
+              <span class="hourly-label">${h % 3 === 0 ? h : ''}</span>
+            </div>`;
+        }
+        chart.innerHTML = barsHtml;
+      }
+
+      // Daily history
+      const daily = data.dailyHistory || [];
+      if (daily.length > 0) {
+        document.getElementById('daily-section').style.display = 'block';
+        const rows = document.getElementById('daily-rows');
+        rows.innerHTML = daily.map(d => `
+          <div class="daily-row">
+            <span class="daily-date">${d.date}</span>
+            <span class="daily-viewers">avg ${d.avgViewers}</span>
+            <span class="daily-peak">⬆ ${d.peakViewers}</span>
+            <span class="daily-msgs">💬 ${formatNum(d.totalMsgs)}</span>
+            <span class="daily-cats">${(d.categories || []).join(', ')}</span>
+          </div>
+        `).join('');
+      }
+
+      // Updated time
+      if (data.lastUpdated) {
+        const ago = timeSince(new Date(data.lastUpdated));
+        document.getElementById('stats-updated').textContent = `Last updated: ${ago} ago`;
+      }
+    }
+
+    function formatNum(n) {
+      if (n >= 1000000) return (n / 1000000).toFixed(1) + 'M';
+      if (n >= 1000) return (n / 1000).toFixed(1) + 'K';
+      return n.toString();
+    }
+
+    function timeSince(date) {
+      const s = Math.floor((new Date() - date) / 1000);
+      if (s < 60) return s + 's';
+      if (s < 3600) return Math.floor(s / 60) + 'min';
+      if (s < 86400) return Math.floor(s / 3600) + 'h';
+      return Math.floor(s / 86400) + 'd';
+    }
+
+    // Preload stats
+    document.addEventListener('DOMContentLoaded', loadStats);
+  </script>
 </body>
 </html>
