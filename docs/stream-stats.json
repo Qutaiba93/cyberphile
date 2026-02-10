@@ -1,0 +1,41 @@
+{
+  "totalSessions": 1,
+  "totalDays": 0,
+  "totalSegments": 18,
+  "allTimePeak": 747,
+  "allTimeAvg": 575,
+  "totalMessages": 0,
+  "categories": [
+    {
+      "name": "Chat Roulette",
+      "avgViewers": 734,
+      "peakViewers": 747,
+      "sampleCount": 3,
+      "totalMsgs": 0
+    },
+    {
+      "name": "Minecraft",
+      "avgViewers": 590,
+      "peakViewers": 592,
+      "sampleCount": 2,
+      "totalMsgs": 0
+    },
+    {
+      "name": "Call of Duty: Black Ops",
+      "avgViewers": 574,
+      "peakViewers": 574,
+      "sampleCount": 1,
+      "totalMsgs": 0
+    },
+    {
+      "name": "Just Chatting",
+      "avgViewers": 533,
+      "peakViewers": 742,
+      "sampleCount": 12,
+      "totalMsgs": 0
+    }
+  ],
+  "hourlyPatterns": {},
+  "dailyHistory": [],
+  "lastUpdated": "2026-02-10T13:57:14.088Z"
+}
