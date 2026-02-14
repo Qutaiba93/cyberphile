@@ -1,10 +1,10 @@
 {
   "totalSessions": 2,
   "totalDays": 1,
-  "totalSegments": 19,
+  "totalSegments": 21,
   "allTimePeak": 747,
-  "allTimeAvg": 552,
-  "totalMessages": 0,
+  "allTimeAvg": 528,
+  "totalMessages": 370,
   "categories": [
     {
       "name": "Chat Roulette",
@@ -29,30 +29,35 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 502,
+      "avgViewers": 475,
       "peakViewers": 742,
-      "sampleCount": 13,
-      "totalMsgs": 0
+      "sampleCount": 15,
+      "totalMsgs": 370
     }
   ],
   "hourlyPatterns": {
     "14": {
-      "avgViewers": 131,
+      "avgViewers": 206,
+      "sampleCount": 2,
+      "totalMsgs": 217
+    },
+    "15": {
+      "avgViewers": 322,
       "sampleCount": 1,
-      "totalMsgs": 0
+      "totalMsgs": 153
     }
   },
   "dailyHistory": [
     {
       "date": "2026-02-14",
-      "avgViewers": 131,
-      "peakViewers": 131,
-      "totalMsgs": 0,
+      "avgViewers": 244,
+      "peakViewers": 322,
+      "totalMsgs": 370,
       "categories": [
         "Just Chatting"
       ]
     }
   ],
   "botStartedAt": "2026-02-14T14:48:25.833Z",
-  "lastUpdated": "2026-02-14T14:49:25.984Z"
+  "lastUpdated": "2026-02-14T15:18:25.975Z"
 }
