@@ -1,10 +1,10 @@
 {
   "totalSessions": 2,
   "totalDays": 1,
-  "totalSegments": 53,
+  "totalSegments": 55,
   "allTimePeak": 747,
-  "allTimeAvg": 579,
-  "totalMessages": 5561,
+  "allTimeAvg": 585,
+  "totalMessages": 6133,
   "categories": [
     {
       "name": "Chat Roulette",
@@ -21,18 +21,18 @@
       "totalMsgs": 0
     },
     {
+      "name": "Just Chatting",
+      "avgViewers": 576,
+      "peakViewers": 746,
+      "sampleCount": 49,
+      "totalMsgs": 6133
+    },
+    {
       "name": "Call of Duty: Black Ops",
       "avgViewers": 574,
       "peakViewers": 574,
       "sampleCount": 1,
       "totalMsgs": 0
-    },
-    {
-      "name": "Just Chatting",
-      "avgViewers": 569,
-      "peakViewers": 742,
-      "sampleCount": 47,
-      "totalMsgs": 5561
     }
   ],
   "hourlyPatterns": {
@@ -62,22 +62,27 @@
       "totalMsgs": 1376
     },
     "19": {
-      "avgViewers": 691,
-      "sampleCount": 8,
-      "totalMsgs": 527
+      "avgViewers": 697,
+      "sampleCount": 9,
+      "totalMsgs": 763
+    },
+    "20": {
+      "avgViewers": 741,
+      "sampleCount": 1,
+      "totalMsgs": 336
     }
   },
   "dailyHistory": [
     {
       "date": "2026-02-14",
-      "avgViewers": 581,
-      "peakViewers": 728,
-      "totalMsgs": 5561,
+      "avgViewers": 590,
+      "peakViewers": 746,
+      "totalMsgs": 6133,
       "categories": [
         "Just Chatting"
       ]
     }
   ],
   "botStartedAt": "2026-02-14T19:40:46.858Z",
-  "lastUpdated": "2026-02-14T19:41:46.987Z"
+  "lastUpdated": "2026-02-14T20:10:46.977Z"
 }
