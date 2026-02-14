@@ -1,10 +1,10 @@
 {
   "totalSessions": 2,
   "totalDays": 1,
-  "totalSegments": 58,
+  "totalSegments": 60,
   "allTimePeak": 747,
   "allTimeAvg": 592,
-  "totalMessages": 6340,
+  "totalMessages": 6842,
   "categories": [
     {
       "name": "Chat Roulette",
@@ -29,10 +29,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 582,
+      "avgViewers": 583,
       "peakViewers": 746,
-      "sampleCount": 51,
-      "totalMsgs": 6337
+      "sampleCount": 53,
+      "totalMsgs": 6839
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -74,17 +74,17 @@
       "totalMsgs": 763
     },
     "20": {
-      "avgViewers": 718,
-      "sampleCount": 4,
-      "totalMsgs": 543
+      "avgViewers": 682,
+      "sampleCount": 6,
+      "totalMsgs": 1045
     }
   },
   "dailyHistory": [
     {
       "date": "2026-02-14",
-      "avgViewers": 599,
+      "avgViewers": 600,
       "peakViewers": 746,
-      "totalMsgs": 6340,
+      "totalMsgs": 6842,
       "categories": [
         "Just Chatting",
         "VALORANT"
@@ -92,5 +92,5 @@
     }
   ],
   "botStartedAt": "2026-02-14T20:25:46.021Z",
-  "lastUpdated": "2026-02-14T20:26:46.160Z"
+  "lastUpdated": "2026-02-14T20:55:46.149Z"
 }
