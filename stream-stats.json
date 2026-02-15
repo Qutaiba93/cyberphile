@@ -1,10 +1,10 @@
 {
   "totalSessions": 3,
   "totalDays": 2,
-  "totalSegments": 81,
+  "totalSegments": 84,
   "allTimePeak": 747,
-  "allTimeAvg": 570,
-  "totalMessages": 11732,
+  "allTimeAvg": 573,
+  "totalMessages": 12344,
   "categories": [
     {
       "name": "Chat Roulette",
@@ -15,10 +15,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 643,
+      "avgViewers": 638,
       "peakViewers": 699,
-      "sampleCount": 3,
-      "totalMsgs": 502
+      "sampleCount": 6,
+      "totalMsgs": 1114
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -54,9 +54,9 @@
       "totalMsgs": 2499
     },
     "16": {
-      "avgViewers": 604,
-      "sampleCount": 9,
-      "totalMsgs": 1631
+      "avgViewers": 611,
+      "sampleCount": 12,
+      "totalMsgs": 2243
     },
     "17": {
       "avgViewers": 592,
@@ -97,15 +97,16 @@
     },
     {
       "date": "2026-02-15",
-      "avgViewers": 471,
-      "peakViewers": 646,
-      "totalMsgs": 3192,
+      "avgViewers": 498,
+      "peakViewers": 647,
+      "totalMsgs": 3804,
       "categories": [
         "Just Chatting",
-        "Minecraft"
+        "Minecraft",
+        "VALORANT"
       ]
     }
   ],
   "botStartedAt": "2026-02-15T14:03:33.843Z",
-  "lastUpdated": "2026-02-15T16:33:40.447Z"
+  "lastUpdated": "2026-02-15T17:03:40.455Z"
 }
