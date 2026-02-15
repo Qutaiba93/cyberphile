@@ -1,10 +1,10 @@
 {
   "totalSessions": 3,
   "totalDays": 2,
-  "totalSegments": 119,
+  "totalSegments": 120,
   "allTimePeak": 787,
   "allTimeAvg": 592,
-  "totalMessages": 17659,
+  "totalMessages": 17666,
   "categories": [
     {
       "name": "Chat Roulette",
@@ -22,10 +22,10 @@
     },
     {
       "name": "God of War",
-      "avgViewers": 597,
+      "avgViewers": 595,
       "peakViewers": 672,
-      "sampleCount": 23,
-      "totalMsgs": 2885
+      "sampleCount": 24,
+      "totalMsgs": 2892
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -92,8 +92,8 @@
     },
     "22": {
       "avgViewers": 565,
-      "sampleCount": 2,
-      "totalMsgs": 9
+      "sampleCount": 3,
+      "totalMsgs": 16
     }
   },
   "dailyHistory": [
@@ -111,7 +111,7 @@
       "date": "2026-02-15",
       "avgViewers": 591,
       "peakViewers": 787,
-      "totalMsgs": 9119,
+      "totalMsgs": 9126,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -121,6 +121,6 @@
       ]
     }
   ],
-  "botStartedAt": "2026-02-15T22:05:19.115Z",
-  "lastUpdated": "2026-02-15T22:06:19.271Z"
+  "botStartedAt": "2026-02-15T22:07:01.668Z",
+  "lastUpdated": "2026-02-15T22:08:01.825Z"
 }
