@@ -1,10 +1,10 @@
 {
   "totalSessions": 3,
   "totalDays": 2,
-  "totalSegments": 96,
+  "totalSegments": 99,
   "allTimePeak": 787,
-  "allTimeAvg": 591,
-  "totalMessages": 14774,
+  "allTimeAvg": 593,
+  "totalMessages": 15408,
   "categories": [
     {
       "name": "Chat Roulette",
@@ -12,6 +12,13 @@
       "peakViewers": 787,
       "sampleCount": 10,
       "totalMsgs": 1289
+    },
+    {
+      "name": "God of War",
+      "avgViewers": 654,
+      "peakViewers": 672,
+      "sampleCount": 3,
+      "totalMsgs": 634
     },
     {
       "name": "VALORANT",
@@ -69,9 +76,9 @@
       "totalMsgs": 2403
     },
     "19": {
-      "avgViewers": 697,
-      "sampleCount": 9,
-      "totalMsgs": 763
+      "avgViewers": 687,
+      "sampleCount": 12,
+      "totalMsgs": 1397
     },
     "20": {
       "avgViewers": 677,
@@ -97,17 +104,18 @@
     },
     {
       "date": "2026-02-15",
-      "avgViewers": 587,
+      "avgViewers": 593,
       "peakViewers": 787,
-      "totalMsgs": 6234,
+      "totalMsgs": 6868,
       "categories": [
         "Just Chatting",
         "Minecraft",
         "VALORANT",
-        "Chat Roulette"
+        "Chat Roulette",
+        "God of War"
       ]
     }
   ],
   "botStartedAt": "2026-02-15T14:03:33.843Z",
-  "lastUpdated": "2026-02-15T19:03:40.495Z"
+  "lastUpdated": "2026-02-15T19:33:40.502Z"
 }
