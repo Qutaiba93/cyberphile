@@ -1,10 +1,10 @@
 {
   "totalSessions": 4,
   "totalDays": 3,
-  "totalSegments": 137,
+  "totalSegments": 140,
   "allTimePeak": 787,
   "allTimeAvg": 582,
-  "totalMessages": 21152,
+  "totalMessages": 21886,
   "categories": [
     {
       "name": "Chat Roulette",
@@ -14,13 +14,6 @@
       "totalMsgs": 1289
     },
     {
-      "name": "Call of Duty: Modern Warfare 2",
-      "avgViewers": 639,
-      "peakViewers": 652,
-      "sampleCount": 3,
-      "totalMsgs": 584
-    },
-    {
       "name": "VALORANT",
       "avgViewers": 638,
       "peakViewers": 699,
@@ -28,11 +21,18 @@
       "totalMsgs": 1114
     },
     {
+      "name": "Call of Duty: Modern Warfare 2",
+      "avgViewers": 629,
+      "peakViewers": 652,
+      "sampleCount": 4,
+      "totalMsgs": 819
+    },
+    {
       "name": "Call of Duty: Black Ops II",
-      "avgViewers": 622,
+      "avgViewers": 608,
       "peakViewers": 622,
-      "sampleCount": 1,
-      "totalMsgs": 170
+      "sampleCount": 3,
+      "totalMsgs": 669
     },
     {
       "name": "God of War",
@@ -90,9 +90,9 @@
       "totalMsgs": 3991
     },
     "19": {
-      "avgViewers": 667,
-      "sampleCount": 18,
-      "totalMsgs": 2397
+      "avgViewers": 658,
+      "sampleCount": 21,
+      "totalMsgs": 3131
     },
     "20": {
       "avgViewers": 646,
@@ -136,9 +136,9 @@
     },
     {
       "date": "2026-02-16",
-      "avgViewers": 512,
+      "avgViewers": 525,
       "peakViewers": 689,
-      "totalMsgs": 3486,
+      "totalMsgs": 4220,
       "categories": [
         "Just Chatting",
         "Call of Duty: Modern Warfare 2",
@@ -147,5 +147,5 @@
     }
   ],
   "botStartedAt": "2026-02-16T15:35:47.086Z",
-  "lastUpdated": "2026-02-16T19:35:47.291Z"
+  "lastUpdated": "2026-02-16T20:05:47.305Z"
 }
