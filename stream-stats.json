@@ -1,10 +1,10 @@
 {
-  "totalSessions": 3,
-  "totalDays": 2,
-  "totalSegments": 120,
+  "totalSessions": 4,
+  "totalDays": 3,
+  "totalSegments": 122,
   "allTimePeak": 787,
-  "allTimeAvg": 592,
-  "totalMessages": 17666,
+  "allTimeAvg": 585,
+  "totalMessages": 17784,
   "categories": [
     {
       "name": "Chat Roulette",
@@ -36,10 +36,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 572,
+      "avgViewers": 561,
       "peakViewers": 746,
-      "sampleCount": 72,
-      "totalMsgs": 11276
+      "sampleCount": 74,
+      "totalMsgs": 11394
     },
     {
       "name": "Minecraft",
@@ -61,9 +61,9 @@
       "totalMsgs": 2499
     },
     "16": {
-      "avgViewers": 611,
-      "sampleCount": 12,
-      "totalMsgs": 2243
+      "avgViewers": 550,
+      "sampleCount": 14,
+      "totalMsgs": 2361
     },
     "17": {
       "avgViewers": 649,
@@ -119,8 +119,17 @@
         "Chat Roulette",
         "God of War"
       ]
+    },
+    {
+      "date": "2026-02-16",
+      "avgViewers": 181,
+      "peakViewers": 243,
+      "totalMsgs": 118,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-02-16T15:35:47.086Z",
-  "lastUpdated": "2026-02-16T16:35:47.239Z"
+  "lastUpdated": "2026-02-16T17:05:47.253Z"
 }
