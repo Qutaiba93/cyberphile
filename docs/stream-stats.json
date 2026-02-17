@@ -1,9 +1,9 @@
 {
-  "totalSessions": 4,
-  "totalDays": 3,
-  "totalSegments": 152,
+  "totalSessions": 5,
+  "totalDays": 4,
+  "totalSegments": 153,
   "allTimePeak": 787,
-  "allTimeAvg": 583,
+  "allTimeAvg": 579,
   "totalMessages": 23954,
   "categories": [
     {
@@ -50,9 +50,9 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 558,
+      "avgViewers": 553,
       "peakViewers": 746,
-      "sampleCount": 87,
+      "sampleCount": 88,
       "totalMsgs": 14501
     },
     {
@@ -85,8 +85,8 @@
       "totalMsgs": 3971
     },
     "18": {
-      "avgViewers": 669,
-      "sampleCount": 19,
+      "avgViewers": 640,
+      "sampleCount": 20,
       "totalMsgs": 3991
     },
     "19": {
@@ -144,8 +144,17 @@
         "Call of Duty: Modern Warfare 2",
         "Call of Duty: Black Ops II"
       ]
+    },
+    {
+      "date": "2026-02-17",
+      "avgViewers": 103,
+      "peakViewers": 103,
+      "totalMsgs": 0,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
-  "botStartedAt": "2026-02-17T12:27:23.692Z",
-  "lastUpdated": "2026-02-17T17:57:31.831Z"
+  "botStartedAt": "2026-02-17T18:07:00.397Z",
+  "lastUpdated": "2026-02-17T18:08:00.573Z"
 }
