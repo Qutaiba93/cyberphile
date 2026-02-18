@@ -1,10 +1,10 @@
 {
-  "totalSessions": 5,
-  "totalDays": 4,
-  "totalSegments": 158,
+  "totalSessions": 6,
+  "totalDays": 5,
+  "totalSegments": 161,
   "allTimePeak": 787,
-  "allTimeAvg": 575,
-  "totalMessages": 25263,
+  "allTimeAvg": 573,
+  "totalMessages": 25656,
   "categories": [
     {
       "name": "Chat Roulette",
@@ -43,10 +43,10 @@
     },
     {
       "name": "Call of Duty: Black Ops",
-      "avgViewers": 574,
-      "peakViewers": 574,
-      "sampleCount": 1,
-      "totalMsgs": 0
+      "avgViewers": 573,
+      "peakViewers": 591,
+      "sampleCount": 3,
+      "totalMsgs": 381
     },
     {
       "name": "Minecraft",
@@ -57,10 +57,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 546,
+      "avgViewers": 545,
       "peakViewers": 746,
-      "sampleCount": 93,
-      "totalMsgs": 15810
+      "sampleCount": 94,
+      "totalMsgs": 15822
     }
   ],
   "hourlyPatterns": {
@@ -70,9 +70,9 @@
       "totalMsgs": 1365
     },
     "15": {
-      "avgViewers": 497,
-      "sampleCount": 12,
-      "totalMsgs": 2499
+      "avgViewers": 488,
+      "sampleCount": 13,
+      "totalMsgs": 2511
     },
     "16": {
       "avgViewers": 550,
@@ -90,9 +90,9 @@
       "totalMsgs": 5300
     },
     "19": {
-      "avgViewers": 658,
-      "sampleCount": 21,
-      "totalMsgs": 3131
+      "avgViewers": 650,
+      "sampleCount": 23,
+      "totalMsgs": 3512
     },
     "20": {
       "avgViewers": 626,
@@ -147,14 +147,24 @@
     },
     {
       "date": "2026-02-17",
-      "avgViewers": 373,
-      "peakViewers": 517,
-      "totalMsgs": 1309,
+      "avgViewers": 423,
+      "peakViewers": 591,
+      "totalMsgs": 1690,
+      "categories": [
+        "Just Chatting",
+        "Call of Duty: Black Ops"
+      ]
+    },
+    {
+      "date": "2026-02-18",
+      "avgViewers": 383,
+      "peakViewers": 383,
+      "totalMsgs": 12,
       "categories": [
         "Just Chatting"
       ]
     }
   ],
-  "botStartedAt": "2026-02-17T18:07:00.397Z",
-  "lastUpdated": "2026-02-17T19:07:00.555Z"
+  "botStartedAt": "2026-02-18T15:00:37.507Z",
+  "lastUpdated": "2026-02-18T15:01:37.813Z"
 }
