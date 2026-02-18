@@ -1,10 +1,10 @@
 {
   "totalSessions": 6,
   "totalDays": 5,
-  "totalSegments": 172,
+  "totalSegments": 175,
   "allTimePeak": 787,
-  "allTimeAvg": 573,
-  "totalMessages": 27642,
+  "allTimeAvg": 576,
+  "totalMessages": 28146,
   "categories": [
     {
       "name": "Chat Roulette",
@@ -19,6 +19,13 @@
       "peakViewers": 699,
       "sampleCount": 6,
       "totalMsgs": 1114
+    },
+    {
+      "name": "Call of Duty: Black Ops",
+      "avgViewers": 604,
+      "peakViewers": 695,
+      "sampleCount": 4,
+      "totalMsgs": 509
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -42,13 +49,6 @@
       "totalMsgs": 1246
     },
     {
-      "name": "Call of Duty: Black Ops",
-      "avgViewers": 573,
-      "peakViewers": 591,
-      "sampleCount": 3,
-      "totalMsgs": 381
-    },
-    {
       "name": "Minecraft",
       "avgViewers": 571,
       "peakViewers": 644,
@@ -57,10 +57,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 545,
+      "avgViewers": 548,
       "peakViewers": 746,
-      "sampleCount": 102,
-      "totalMsgs": 17248
+      "sampleCount": 104,
+      "totalMsgs": 17624
     }
   ],
   "hourlyPatterns": {
@@ -80,9 +80,9 @@
       "totalMsgs": 3360
     },
     "17": {
-      "avgViewers": 579,
-      "sampleCount": 18,
-      "totalMsgs": 3971
+      "avgViewers": 596,
+      "sampleCount": 21,
+      "totalMsgs": 4475
     },
     "18": {
       "avgViewers": 598,
@@ -157,15 +157,16 @@
     },
     {
       "date": "2026-02-18",
-      "avgViewers": 557,
-      "peakViewers": 644,
-      "totalMsgs": 1998,
+      "avgViewers": 585,
+      "peakViewers": 709,
+      "totalMsgs": 2502,
       "categories": [
         "Just Chatting",
-        "Minecraft"
+        "Minecraft",
+        "Call of Duty: Black Ops"
       ]
     }
   ],
   "botStartedAt": "2026-02-18T15:00:37.507Z",
-  "lastUpdated": "2026-02-18T17:00:37.807Z"
+  "lastUpdated": "2026-02-18T17:30:37.811Z"
 }
