@@ -1,10 +1,10 @@
 {
   "totalSessions": 6,
   "totalDays": 5,
-  "totalSegments": 166,
+  "totalSegments": 169,
   "allTimePeak": 787,
-  "allTimeAvg": 571,
-  "totalMessages": 26643,
+  "allTimeAvg": 572,
+  "totalMessages": 27370,
   "categories": [
     {
       "name": "Chat Roulette",
@@ -50,17 +50,17 @@
     },
     {
       "name": "Minecraft",
-      "avgViewers": 547,
-      "peakViewers": 592,
-      "sampleCount": 7,
-      "totalMsgs": 1095
+      "avgViewers": 562,
+      "peakViewers": 626,
+      "sampleCount": 9,
+      "totalMsgs": 1565
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 543,
+      "avgViewers": 544,
       "peakViewers": 746,
-      "sampleCount": 99,
-      "totalMsgs": 16809
+      "sampleCount": 100,
+      "totalMsgs": 17066
     }
   ],
   "hourlyPatterns": {
@@ -75,9 +75,9 @@
       "totalMsgs": 3498
     },
     "16": {
-      "avgViewers": 550,
-      "sampleCount": 14,
-      "totalMsgs": 2361
+      "avgViewers": 562,
+      "sampleCount": 17,
+      "totalMsgs": 3088
     },
     "17": {
       "avgViewers": 579,
@@ -157,14 +157,15 @@
     },
     {
       "date": "2026-02-18",
-      "avgViewers": 488,
-      "peakViewers": 586,
-      "totalMsgs": 999,
+      "avgViewers": 532,
+      "peakViewers": 626,
+      "totalMsgs": 1726,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-02-18T15:00:37.507Z",
-  "lastUpdated": "2026-02-18T16:00:37.799Z"
+  "lastUpdated": "2026-02-18T16:30:37.803Z"
 }
