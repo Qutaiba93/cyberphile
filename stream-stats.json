@@ -1,17 +1,17 @@
 {
-  "totalSessions": 6,
-  "totalDays": 5,
-  "totalSegments": 202,
+  "totalSessions": 7,
+  "totalDays": 6,
+  "totalSegments": 205,
   "allTimePeak": 787,
-  "allTimeAvg": 593,
-  "totalMessages": 32590,
+  "allTimeAvg": 594,
+  "totalMessages": 32841,
   "categories": [
     {
       "name": "Gartic Phone",
-      "avgViewers": 748,
-      "peakViewers": 756,
-      "sampleCount": 3,
-      "totalMsgs": 373
+      "avgViewers": 752,
+      "peakViewers": 769,
+      "sampleCount": 5,
+      "totalMsgs": 620
     },
     {
       "name": "Chat Roulette",
@@ -64,17 +64,17 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 559,
+      "avgViewers": 558,
       "peakViewers": 766,
-      "sampleCount": 111,
-      "totalMsgs": 19520
+      "sampleCount": 112,
+      "totalMsgs": 19524
     }
   ],
   "hourlyPatterns": {
     "14": {
-      "avgViewers": 308,
-      "sampleCount": 8,
-      "totalMsgs": 1365
+      "avgViewers": 321,
+      "sampleCount": 9,
+      "totalMsgs": 1369
     },
     "15": {
       "avgViewers": 494,
@@ -112,9 +112,9 @@
       "totalMsgs": 4405
     },
     "22": {
-      "avgViewers": 565,
-      "sampleCount": 3,
-      "totalMsgs": 16
+      "avgViewers": 643,
+      "sampleCount": 5,
+      "totalMsgs": 263
     }
   },
   "dailyHistory": [
@@ -164,9 +164,9 @@
     },
     {
       "date": "2026-02-18",
-      "avgViewers": 662,
-      "peakViewers": 766,
-      "totalMsgs": 6946,
+      "avgViewers": 666,
+      "peakViewers": 769,
+      "totalMsgs": 7193,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -174,8 +174,17 @@
         "Call of Duty: Black Ops II",
         "Gartic Phone"
       ]
+    },
+    {
+      "date": "2026-02-19",
+      "avgViewers": 420,
+      "peakViewers": 420,
+      "totalMsgs": 4,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
-  "botStartedAt": "2026-02-18T15:00:37.507Z",
-  "lastUpdated": "2026-02-18T22:00:37.866Z"
+  "botStartedAt": "2026-02-19T14:35:55.535Z",
+  "lastUpdated": "2026-02-19T14:36:55.721Z"
 }
