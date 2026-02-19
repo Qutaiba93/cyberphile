@@ -1,10 +1,10 @@
 {
   "totalSessions": 8,
   "totalDays": 6,
-  "totalSegments": 225,
+  "totalSegments": 226,
   "allTimePeak": 787,
   "allTimeAvg": 591,
-  "totalMessages": 36837,
+  "totalMessages": 36838,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -50,10 +50,10 @@
     },
     {
       "name": "God of War",
-      "avgViewers": 595,
-      "peakViewers": 672,
-      "sampleCount": 24,
-      "totalMsgs": 2892
+      "avgViewers": 599,
+      "peakViewers": 696,
+      "sampleCount": 25,
+      "totalMsgs": 2893
     },
     {
       "name": "Minecraft",
@@ -97,9 +97,9 @@
       "totalMsgs": 7124
     },
     "19": {
-      "avgViewers": 661,
-      "sampleCount": 30,
-      "totalMsgs": 4175
+      "avgViewers": 662,
+      "sampleCount": 31,
+      "totalMsgs": 4176
     },
     "20": {
       "avgViewers": 642,
@@ -177,15 +177,16 @@
     },
     {
       "date": "2026-02-19",
-      "avgViewers": 556,
+      "avgViewers": 562,
       "peakViewers": 712,
-      "totalMsgs": 4000,
+      "totalMsgs": 4001,
       "categories": [
         "Just Chatting",
-        "Chat Roulette"
+        "Chat Roulette",
+        "God of War"
       ]
     }
   ],
-  "botStartedAt": "2026-02-19T19:01:42.019Z",
-  "lastUpdated": "2026-02-19T19:02:42.114Z"
+  "botStartedAt": "2026-02-19T19:05:14.675Z",
+  "lastUpdated": "2026-02-19T19:06:14.761Z"
 }
