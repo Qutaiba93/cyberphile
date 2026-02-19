@@ -1,10 +1,10 @@
 {
   "totalSessions": 8,
   "totalDays": 6,
-  "totalSegments": 211,
+  "totalSegments": 214,
   "allTimePeak": 787,
-  "allTimeAvg": 587,
-  "totalMessages": 33878,
+  "allTimeAvg": 586,
+  "totalMessages": 34561,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -15,10 +15,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 733,
+      "avgViewers": 719,
       "peakViewers": 787,
-      "sampleCount": 10,
-      "totalMsgs": 1289
+      "sampleCount": 11,
+      "totalMsgs": 1478
     },
     {
       "name": "Call of Duty: Black Ops II",
@@ -64,10 +64,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 548,
+      "avgViewers": 547,
       "peakViewers": 766,
-      "sampleCount": 118,
-      "totalMsgs": 20561
+      "sampleCount": 120,
+      "totalMsgs": 21055
     }
   ],
   "hourlyPatterns": {
@@ -82,14 +82,14 @@
       "totalMsgs": 3498
     },
     "16": {
-      "avgViewers": 527,
-      "sampleCount": 24,
-      "totalMsgs": 3948
+      "avgViewers": 524,
+      "sampleCount": 25,
+      "totalMsgs": 4194
     },
     "17": {
-      "avgViewers": 606,
-      "sampleCount": 24,
-      "totalMsgs": 4813
+      "avgViewers": 601,
+      "sampleCount": 26,
+      "totalMsgs": 5250
     },
     "18": {
       "avgViewers": 616,
@@ -177,14 +177,15 @@
     },
     {
       "date": "2026-02-19",
-      "avgViewers": 370,
-      "peakViewers": 503,
-      "totalMsgs": 1041,
+      "avgViewers": 414,
+      "peakViewers": 578,
+      "totalMsgs": 1724,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-02-19T15:28:55.743Z",
-  "lastUpdated": "2026-02-19T16:58:55.863Z"
+  "lastUpdated": "2026-02-19T17:28:55.871Z"
 }
