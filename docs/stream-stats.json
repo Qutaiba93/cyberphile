@@ -1,10 +1,10 @@
 {
   "totalSessions": 7,
   "totalDays": 6,
-  "totalSegments": 205,
+  "totalSegments": 207,
   "allTimePeak": 787,
-  "allTimeAvg": 594,
-  "totalMessages": 32841,
+  "allTimeAvg": 592,
+  "totalMessages": 33290,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -64,17 +64,17 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 558,
+      "avgViewers": 556,
       "peakViewers": 766,
-      "sampleCount": 112,
-      "totalMsgs": 19524
+      "sampleCount": 114,
+      "totalMsgs": 19973
     }
   ],
   "hourlyPatterns": {
     "14": {
-      "avgViewers": 321,
-      "sampleCount": 9,
-      "totalMsgs": 1369
+      "avgViewers": 350,
+      "sampleCount": 11,
+      "totalMsgs": 1818
     },
     "15": {
       "avgViewers": 494,
@@ -177,14 +177,14 @@
     },
     {
       "date": "2026-02-19",
-      "avgViewers": 420,
-      "peakViewers": 420,
-      "totalMsgs": 4,
+      "avgViewers": 461,
+      "peakViewers": 503,
+      "totalMsgs": 453,
       "categories": [
         "Just Chatting"
       ]
     }
   ],
   "botStartedAt": "2026-02-19T14:35:55.535Z",
-  "lastUpdated": "2026-02-19T14:36:55.721Z"
+  "lastUpdated": "2026-02-19T15:05:55.718Z"
 }
