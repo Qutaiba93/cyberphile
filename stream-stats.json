@@ -1,10 +1,10 @@
 {
   "totalSessions": 8,
   "totalDays": 6,
-  "totalSegments": 227,
+  "totalSegments": 229,
   "allTimePeak": 787,
-  "allTimeAvg": 591,
-  "totalMessages": 36841,
+  "allTimeAvg": 592,
+  "totalMessages": 37017,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -43,10 +43,10 @@
     },
     {
       "name": "God of War",
-      "avgViewers": 601,
+      "avgViewers": 602,
       "peakViewers": 696,
-      "sampleCount": 26,
-      "totalMsgs": 2896
+      "sampleCount": 28,
+      "totalMsgs": 3072
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -97,9 +97,9 @@
       "totalMsgs": 7124
     },
     "19": {
-      "avgViewers": 662,
-      "sampleCount": 32,
-      "totalMsgs": 4179
+      "avgViewers": 659,
+      "sampleCount": 34,
+      "totalMsgs": 4355
     },
     "20": {
       "avgViewers": 642,
@@ -177,9 +177,9 @@
     },
     {
       "date": "2026-02-19",
-      "avgViewers": 566,
+      "avgViewers": 569,
       "peakViewers": 712,
-      "totalMsgs": 4004,
+      "totalMsgs": 4180,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -188,5 +188,5 @@
     }
   ],
   "botStartedAt": "2026-02-19T19:14:04.915Z",
-  "lastUpdated": "2026-02-19T19:15:05.004Z"
+  "lastUpdated": "2026-02-19T19:44:05.004Z"
 }
