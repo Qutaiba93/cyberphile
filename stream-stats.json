@@ -1,9 +1,9 @@
 {
-  "totalSessions": 8,
-  "totalDays": 6,
-  "totalSegments": 236,
+  "totalSessions": 9,
+  "totalDays": 7,
+  "totalSegments": 237,
   "allTimePeak": 787,
-  "allTimeAvg": 591,
+  "allTimeAvg": 588,
   "totalMessages": 37547,
   "categories": [
     {
@@ -50,9 +50,9 @@
     },
     {
       "name": "God of War",
-      "avgViewers": 592,
+      "avgViewers": 577,
       "peakViewers": 696,
-      "sampleCount": 35,
+      "sampleCount": 36,
       "totalMsgs": 3602
     },
     {
@@ -72,8 +72,8 @@
   ],
   "hourlyPatterns": {
     "14": {
-      "avgViewers": 350,
-      "sampleCount": 11,
+      "avgViewers": 326,
+      "sampleCount": 12,
       "totalMsgs": 1818
     },
     "15": {
@@ -185,8 +185,17 @@
         "Chat Roulette",
         "God of War"
       ]
+    },
+    {
+      "date": "2026-02-20",
+      "avgViewers": 60,
+      "peakViewers": 60,
+      "totalMsgs": 0,
+      "categories": [
+        "God of War"
+      ]
     }
   ],
-  "botStartedAt": "2026-02-19T20:35:29.914Z",
-  "lastUpdated": "2026-02-19T20:36:30.012Z"
+  "botStartedAt": "2026-02-20T14:14:59.193Z",
+  "lastUpdated": "2026-02-20T14:15:59.845Z"
 }
