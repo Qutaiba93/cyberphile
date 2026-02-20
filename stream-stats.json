@@ -1,10 +1,10 @@
 {
   "totalSessions": 9,
   "totalDays": 7,
-  "totalSegments": 248,
+  "totalSegments": 250,
   "allTimePeak": 787,
-  "allTimeAvg": 575,
-  "totalMessages": 39104,
+  "allTimeAvg": 573,
+  "totalMessages": 39569,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -68,6 +68,13 @@
       "peakViewers": 766,
       "sampleCount": 139,
       "totalMsgs": 24269
+    },
+    {
+      "name": "Grand Theft Auto V (GTA)",
+      "avgViewers": 353,
+      "peakViewers": 354,
+      "sampleCount": 2,
+      "totalMsgs": 465
     }
   ],
   "hourlyPatterns": {
@@ -82,9 +89,9 @@
       "totalMsgs": 4412
     },
     "16": {
-      "avgViewers": 517,
-      "sampleCount": 26,
-      "totalMsgs": 4325
+      "avgViewers": 505,
+      "sampleCount": 28,
+      "totalMsgs": 4790
     },
     "17": {
       "avgViewers": 611,
@@ -188,15 +195,16 @@
     },
     {
       "date": "2026-02-20",
-      "avgViewers": 262,
+      "avgViewers": 275,
       "peakViewers": 361,
-      "totalMsgs": 1557,
+      "totalMsgs": 2022,
       "categories": [
         "God of War",
-        "Just Chatting"
+        "Just Chatting",
+        "Grand Theft Auto V (GTA)"
       ]
     }
   ],
   "botStartedAt": "2026-02-20T14:14:59.193Z",
-  "lastUpdated": "2026-02-20T16:14:59.863Z"
+  "lastUpdated": "2026-02-20T16:44:59.878Z"
 }
