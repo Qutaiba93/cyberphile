@@ -1,10 +1,10 @@
 {
   "totalSessions": 10,
   "totalDays": 8,
-  "totalSegments": 294,
+  "totalSegments": 297,
   "allTimePeak": 815,
-  "allTimeAvg": 581,
-  "totalMessages": 46638,
+  "allTimeAvg": 583,
+  "totalMessages": 47034,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -19,6 +19,13 @@
       "peakViewers": 815,
       "sampleCount": 22,
       "totalMsgs": 3291
+    },
+    {
+      "name": "The Empty Eyes",
+      "avgViewers": 677,
+      "peakViewers": 677,
+      "sampleCount": 1,
+      "totalMsgs": 111
     },
     {
       "name": "Call of Duty: Black Ops II",
@@ -64,10 +71,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 547,
+      "avgViewers": 549,
       "peakViewers": 766,
-      "sampleCount": 165,
-      "totalMsgs": 29048
+      "sampleCount": 167,
+      "totalMsgs": 29333
     },
     {
       "name": "Grand Theft Auto V (GTA)",
@@ -119,9 +126,9 @@
       "totalMsgs": 6329
     },
     "21": {
-      "avgViewers": 618,
-      "sampleCount": 26,
-      "totalMsgs": 4405
+      "avgViewers": 627,
+      "sampleCount": 29,
+      "totalMsgs": 4801
     },
     "22": {
       "avgViewers": 643,
@@ -211,17 +218,18 @@
     },
     {
       "date": "2026-02-21",
-      "avgViewers": 629,
+      "avgViewers": 634,
       "peakViewers": 815,
-      "totalMsgs": 7069,
+      "totalMsgs": 7465,
       "categories": [
         "Grand Theft Auto V (GTA)",
         "Just Chatting",
         "Call of Duty: Black Ops II",
-        "Chat Roulette"
+        "Chat Roulette",
+        "The Empty Eyes"
       ]
     }
   ],
   "botStartedAt": "2026-02-21T16:33:41.937Z",
-  "lastUpdated": "2026-02-21T21:03:42.078Z"
+  "lastUpdated": "2026-02-21T21:33:42.091Z"
 }
