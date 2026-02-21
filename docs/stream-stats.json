@@ -1,10 +1,10 @@
 {
   "totalSessions": 10,
   "totalDays": 8,
-  "totalSegments": 267,
+  "totalSegments": 268,
   "allTimePeak": 787,
-  "allTimeAvg": 567,
-  "totalMessages": 41909,
+  "allTimeAvg": 568,
+  "totalMessages": 41912,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -24,8 +24,8 @@
       "name": "Call of Duty: Black Ops II",
       "avgViewers": 659,
       "peakViewers": 725,
-      "sampleCount": 25,
-      "totalMsgs": 3581
+      "sampleCount": 26,
+      "totalMsgs": 3584
     },
     {
       "name": "VALORANT",
@@ -94,9 +94,9 @@
       "totalMsgs": 5241
     },
     "16": {
-      "avgViewers": 524,
-      "sampleCount": 32,
-      "totalMsgs": 5277
+      "avgViewers": 528,
+      "sampleCount": 33,
+      "totalMsgs": 5280
     },
     "17": {
       "avgViewers": 611,
@@ -211,9 +211,9 @@
     },
     {
       "date": "2026-02-21",
-      "avgViewers": 487,
+      "avgViewers": 496,
       "peakViewers": 681,
-      "totalMsgs": 2340,
+      "totalMsgs": 2343,
       "categories": [
         "Grand Theft Auto V (GTA)",
         "Just Chatting",
@@ -221,6 +221,6 @@
       ]
     }
   ],
-  "botStartedAt": "2026-02-21T16:30:22.327Z",
-  "lastUpdated": "2026-02-21T16:31:22.410Z"
+  "botStartedAt": "2026-02-21T16:33:41.937Z",
+  "lastUpdated": "2026-02-21T16:34:42.018Z"
 }
