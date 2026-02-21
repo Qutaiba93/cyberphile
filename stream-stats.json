@@ -1,9 +1,9 @@
 {
-  "totalSessions": 9,
-  "totalDays": 7,
-  "totalSegments": 250,
+  "totalSessions": 10,
+  "totalDays": 8,
+  "totalSegments": 251,
   "allTimePeak": 787,
-  "allTimeAvg": 573,
+  "allTimeAvg": 571,
   "totalMessages": 39569,
   "categories": [
     {
@@ -71,13 +71,18 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 353,
+      "avgViewers": 256,
       "peakViewers": 354,
-      "sampleCount": 2,
+      "sampleCount": 3,
       "totalMsgs": 465
     }
   ],
   "hourlyPatterns": {
+    "13": {
+      "avgViewers": 61,
+      "sampleCount": 1,
+      "totalMsgs": 0
+    },
     "14": {
       "avgViewers": 297,
       "sampleCount": 16,
@@ -203,8 +208,17 @@
         "Just Chatting",
         "Grand Theft Auto V (GTA)"
       ]
+    },
+    {
+      "date": "2026-02-21",
+      "avgViewers": 61,
+      "peakViewers": 61,
+      "totalMsgs": 0,
+      "categories": [
+        "Grand Theft Auto V (GTA)"
+      ]
     }
   ],
-  "botStartedAt": "2026-02-20T14:14:59.193Z",
-  "lastUpdated": "2026-02-20T16:44:59.878Z"
+  "botStartedAt": "2026-02-21T13:54:24.987Z",
+  "lastUpdated": "2026-02-21T13:55:33.436Z"
 }
