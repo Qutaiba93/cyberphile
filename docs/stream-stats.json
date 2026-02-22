@@ -1,9 +1,9 @@
 {
-  "totalSessions": 10,
-  "totalDays": 8,
-  "totalSegments": 303,
+  "totalSessions": 11,
+  "totalDays": 9,
+  "totalSegments": 304,
   "allTimePeak": 815,
-  "allTimeAvg": 584,
+  "allTimeAvg": 582,
   "totalMessages": 47815,
   "categories": [
     {
@@ -56,18 +56,18 @@
       "totalMsgs": 1817
     },
     {
-      "name": "God of War",
-      "avgViewers": 577,
-      "peakViewers": 696,
-      "sampleCount": 36,
-      "totalMsgs": 3602
-    },
-    {
       "name": "Minecraft",
       "avgViewers": 571,
       "peakViewers": 644,
       "sampleCount": 10,
       "totalMsgs": 1655
+    },
+    {
+      "name": "God of War",
+      "avgViewers": 563,
+      "peakViewers": 696,
+      "sampleCount": 37,
+      "totalMsgs": 3602
     },
     {
       "name": "Just Chatting",
@@ -86,8 +86,8 @@
   ],
   "hourlyPatterns": {
     "13": {
-      "avgViewers": 61,
-      "sampleCount": 1,
+      "avgViewers": 54,
+      "sampleCount": 2,
       "totalMsgs": 0
     },
     "14": {
@@ -228,8 +228,17 @@
         "Chat Roulette",
         "The Empty Eyes"
       ]
+    },
+    {
+      "date": "2026-02-22",
+      "avgViewers": 46,
+      "peakViewers": 46,
+      "totalMsgs": 0,
+      "categories": [
+        "God of War"
+      ]
     }
   ],
   "botStartedAt": "2026-02-22T12:36:58.398Z",
-  "lastUpdated": "2026-02-22T13:37:06.216Z"
+  "lastUpdated": "2026-02-22T14:07:06.226Z"
 }
