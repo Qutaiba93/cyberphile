@@ -1,10 +1,10 @@
 {
   "totalSessions": 11,
   "totalDays": 9,
-  "totalSegments": 316,
+  "totalSegments": 319,
   "allTimePeak": 815,
-  "allTimeAvg": 578,
-  "totalMessages": 49300,
+  "allTimeAvg": 579,
+  "totalMessages": 49785,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -17,8 +17,8 @@
       "name": "Chat Roulette",
       "avgViewers": 723,
       "peakViewers": 815,
-      "sampleCount": 25,
-      "totalMsgs": 3749
+      "sampleCount": 28,
+      "totalMsgs": 4234
     },
     {
       "name": "The Empty Eyes",
@@ -101,9 +101,9 @@
       "totalMsgs": 6286
     },
     "16": {
-      "avgViewers": 535,
-      "sampleCount": 35,
-      "totalMsgs": 5640
+      "avgViewers": 550,
+      "sampleCount": 38,
+      "totalMsgs": 6125
     },
     "17": {
       "avgViewers": 625,
@@ -231,9 +231,9 @@
     },
     {
       "date": "2026-02-22",
-      "avgViewers": 428,
-      "peakViewers": 703,
-      "totalMsgs": 1485,
+      "avgViewers": 485,
+      "peakViewers": 758,
+      "totalMsgs": 1970,
       "categories": [
         "God of War",
         "Just Chatting",
@@ -242,5 +242,5 @@
     }
   ],
   "botStartedAt": "2026-02-22T12:36:58.398Z",
-  "lastUpdated": "2026-02-22T16:07:06.264Z"
+  "lastUpdated": "2026-02-22T16:37:06.273Z"
 }
