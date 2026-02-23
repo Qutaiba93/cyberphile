@@ -1,10 +1,10 @@
 {
   "totalSessions": 12,
   "totalDays": 10,
-  "totalSegments": 396,
+  "totalSegments": 399,
   "allTimePeak": 856,
-  "allTimeAvg": 610,
-  "totalMessages": 75694,
+  "allTimeAvg": 611,
+  "totalMessages": 76412,
   "categories": [
     {
       "name": "IRL",
@@ -64,10 +64,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 572,
+      "avgViewers": 573,
       "peakViewers": 809,
-      "sampleCount": 213,
-      "totalMsgs": 37996
+      "sampleCount": 214,
+      "totalMsgs": 38198
     },
     {
       "name": "Minecraft",
@@ -85,10 +85,10 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 431,
-      "peakViewers": 688,
-      "sampleCount": 7,
-      "totalMsgs": 1099
+      "avgViewers": 500,
+      "peakViewers": 750,
+      "sampleCount": 9,
+      "totalMsgs": 1615
     }
   ],
   "hourlyPatterns": {
@@ -133,14 +133,14 @@
       "totalMsgs": 10724
     },
     "21": {
-      "avgViewers": 660,
-      "sampleCount": 43,
-      "totalMsgs": 6672
+      "avgViewers": 662,
+      "sampleCount": 44,
+      "totalMsgs": 6874
     },
     "22": {
-      "avgViewers": 684,
-      "sampleCount": 11,
-      "totalMsgs": 1605
+      "avgViewers": 693,
+      "sampleCount": 13,
+      "totalMsgs": 2121
     }
   },
   "dailyHistory": [
@@ -250,16 +250,17 @@
     },
     {
       "date": "2026-02-23",
-      "avgViewers": 715,
+      "avgViewers": 717,
       "peakViewers": 856,
-      "totalMsgs": 9765,
+      "totalMsgs": 10483,
       "categories": [
         "Just Chatting",
         "VALORANT",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Grand Theft Auto V (GTA)"
       ]
     }
   ],
   "botStartedAt": "2026-02-23T14:56:00.752Z",
-  "lastUpdated": "2026-02-23T21:56:13.419Z"
+  "lastUpdated": "2026-02-23T22:26:13.426Z"
 }
