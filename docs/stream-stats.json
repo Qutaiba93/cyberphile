@@ -1,10 +1,10 @@
 {
   "totalSessions": 12,
   "totalDays": 10,
-  "totalSegments": 390,
-  "allTimePeak": 836,
-  "allTimeAvg": 607,
-  "totalMessages": 74751,
+  "totalSegments": 393,
+  "allTimePeak": 856,
+  "allTimeAvg": 609,
+  "totalMessages": 75226,
   "categories": [
     {
       "name": "IRL",
@@ -22,10 +22,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 742,
-      "peakViewers": 825,
-      "sampleCount": 40,
-      "totalMsgs": 7688
+      "avgViewers": 747,
+      "peakViewers": 856,
+      "sampleCount": 42,
+      "totalMsgs": 8054
     },
     {
       "name": "VALORANT",
@@ -71,10 +71,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 569,
-      "peakViewers": 786,
-      "sampleCount": 209,
-      "totalMsgs": 37419
+      "avgViewers": 570,
+      "peakViewers": 809,
+      "sampleCount": 210,
+      "totalMsgs": 37528
     },
     {
       "name": "God of War",
@@ -128,14 +128,14 @@
       "totalMsgs": 9060
     },
     "20": {
-      "avgViewers": 673,
-      "sampleCount": 46,
-      "totalMsgs": 10469
+      "avgViewers": 676,
+      "sampleCount": 47,
+      "totalMsgs": 10724
     },
     "21": {
-      "avgViewers": 645,
-      "sampleCount": 38,
-      "totalMsgs": 5984
+      "avgViewers": 654,
+      "sampleCount": 40,
+      "totalMsgs": 6204
     },
     "22": {
       "avgViewers": 684,
@@ -250,9 +250,9 @@
     },
     {
       "date": "2026-02-23",
-      "avgViewers": 703,
-      "peakViewers": 825,
-      "totalMsgs": 8822,
+      "avgViewers": 713,
+      "peakViewers": 856,
+      "totalMsgs": 9297,
       "categories": [
         "Just Chatting",
         "VALORANT",
@@ -261,5 +261,5 @@
     }
   ],
   "botStartedAt": "2026-02-23T14:56:00.752Z",
-  "lastUpdated": "2026-02-23T20:56:13.405Z"
+  "lastUpdated": "2026-02-23T21:26:13.417Z"
 }
