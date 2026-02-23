@@ -1,10 +1,10 @@
 {
   "totalSessions": 12,
   "totalDays": 10,
-  "totalSegments": 382,
+  "totalSegments": 385,
   "allTimePeak": 836,
-  "allTimeAvg": 603,
-  "totalMessages": 72177,
+  "allTimeAvg": 605,
+  "totalMessages": 73113,
   "categories": [
     {
       "name": "IRL",
@@ -22,10 +22,17 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 729,
-      "peakViewers": 815,
-      "sampleCount": 33,
-      "totalMsgs": 5467
+      "avgViewers": 732,
+      "peakViewers": 819,
+      "sampleCount": 35,
+      "totalMsgs": 6050
+    },
+    {
+      "name": "VALORANT",
+      "avgViewers": 666,
+      "peakViewers": 743,
+      "sampleCount": 9,
+      "totalMsgs": 2034
     },
     {
       "name": "The Empty Eyes",
@@ -40,13 +47,6 @@
       "peakViewers": 725,
       "sampleCount": 30,
       "totalMsgs": 4208
-    },
-    {
-      "name": "VALORANT",
-      "avgViewers": 657,
-      "peakViewers": 728,
-      "sampleCount": 8,
-      "totalMsgs": 1681
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -123,9 +123,9 @@
       "totalMsgs": 17642
     },
     "19": {
-      "avgViewers": 690,
-      "sampleCount": 50,
-      "totalMsgs": 7859
+      "avgViewers": 694,
+      "sampleCount": 53,
+      "totalMsgs": 8795
     },
     "20": {
       "avgViewers": 659,
@@ -250,15 +250,16 @@
     },
     {
       "date": "2026-02-23",
-      "avgViewers": 675,
-      "peakViewers": 755,
-      "totalMsgs": 6248,
+      "avgViewers": 684,
+      "peakViewers": 819,
+      "totalMsgs": 7184,
       "categories": [
         "Just Chatting",
-        "VALORANT"
+        "VALORANT",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-02-23T14:56:00.752Z",
-  "lastUpdated": "2026-02-23T19:26:13.386Z"
+  "lastUpdated": "2026-02-23T19:56:13.397Z"
 }
