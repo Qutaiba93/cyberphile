@@ -1,10 +1,10 @@
 {
   "totalSessions": 12,
   "totalDays": 10,
-  "totalSegments": 356,
+  "totalSegments": 358,
   "allTimePeak": 836,
   "allTimeAvg": 597,
-  "totalMessages": 65933,
+  "totalMessages": 66291,
   "categories": [
     {
       "name": "IRL",
@@ -71,10 +71,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 554,
+      "avgViewers": 553,
       "peakViewers": 786,
-      "sampleCount": 185,
-      "totalMsgs": 31742
+      "sampleCount": 187,
+      "totalMsgs": 32100
     },
     {
       "name": "God of War",
@@ -104,8 +104,8 @@
     },
     "15": {
       "avgViewers": 498,
-      "sampleCount": 36,
-      "totalMsgs": 6286
+      "sampleCount": 38,
+      "totalMsgs": 6644
     },
     "16": {
       "avgViewers": 566,
@@ -250,14 +250,14 @@
     },
     {
       "date": "2026-02-23",
-      "avgViewers": 456,
-      "peakViewers": 456,
-      "totalMsgs": 4,
+      "avgViewers": 485,
+      "peakViewers": 511,
+      "totalMsgs": 362,
       "categories": [
         "Just Chatting"
       ]
     }
   ],
   "botStartedAt": "2026-02-23T14:56:00.752Z",
-  "lastUpdated": "2026-02-23T14:57:11.057Z"
+  "lastUpdated": "2026-02-23T15:26:11.044Z"
 }
