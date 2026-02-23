@@ -1,10 +1,10 @@
 {
-  "totalSessions": 11,
-  "totalDays": 9,
-  "totalSegments": 352,
+  "totalSessions": 12,
+  "totalDays": 10,
+  "totalSegments": 356,
   "allTimePeak": 836,
-  "allTimeAvg": 596,
-  "totalMessages": 65104,
+  "allTimeAvg": 597,
+  "totalMessages": 65933,
   "categories": [
     {
       "name": "IRL",
@@ -22,10 +22,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 726,
+      "avgViewers": 729,
       "peakViewers": 815,
-      "sampleCount": 30,
-      "totalMsgs": 4642
+      "sampleCount": 33,
+      "totalMsgs": 5467
     },
     {
       "name": "The Empty Eyes",
@@ -71,10 +71,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 555,
+      "avgViewers": 554,
       "peakViewers": 786,
-      "sampleCount": 184,
-      "totalMsgs": 31738
+      "sampleCount": 185,
+      "totalMsgs": 31742
     },
     {
       "name": "God of War",
@@ -98,9 +98,9 @@
       "totalMsgs": 0
     },
     "14": {
-      "avgViewers": 312,
-      "sampleCount": 28,
-      "totalMsgs": 3794
+      "avgViewers": 317,
+      "sampleCount": 29,
+      "totalMsgs": 3798
     },
     "15": {
       "avgViewers": 498,
@@ -138,9 +138,9 @@
       "totalMsgs": 5984
     },
     "22": {
-      "avgViewers": 656,
-      "sampleCount": 8,
-      "totalMsgs": 780
+      "avgViewers": 684,
+      "sampleCount": 11,
+      "totalMsgs": 1605
     }
   },
   "dailyHistory": [
@@ -238,17 +238,26 @@
     },
     {
       "date": "2026-02-22",
-      "avgViewers": 672,
+      "avgViewers": 677,
       "peakViewers": 836,
-      "totalMsgs": 17289,
+      "totalMsgs": 18114,
       "categories": [
         "God of War",
         "Just Chatting",
         "Chat Roulette",
         "IRL"
       ]
+    },
+    {
+      "date": "2026-02-23",
+      "avgViewers": 456,
+      "peakViewers": 456,
+      "totalMsgs": 4,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
-  "botStartedAt": "2026-02-22T12:36:58.398Z",
-  "lastUpdated": "2026-02-22T22:07:06.355Z"
+  "botStartedAt": "2026-02-23T14:56:00.752Z",
+  "lastUpdated": "2026-02-23T14:57:11.057Z"
 }
