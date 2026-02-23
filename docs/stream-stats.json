@@ -1,10 +1,10 @@
 {
   "totalSessions": 12,
   "totalDays": 10,
-  "totalSegments": 379,
+  "totalSegments": 382,
   "allTimePeak": 836,
-  "allTimeAvg": 602,
-  "totalMessages": 71274,
+  "allTimeAvg": 603,
+  "totalMessages": 72177,
   "categories": [
     {
       "name": "IRL",
@@ -43,10 +43,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 638,
-      "peakViewers": 699,
-      "sampleCount": 6,
-      "totalMsgs": 1114
+      "avgViewers": 657,
+      "peakViewers": 728,
+      "sampleCount": 8,
+      "totalMsgs": 1681
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -71,10 +71,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 568,
+      "avgViewers": 569,
       "peakViewers": 786,
-      "sampleCount": 208,
-      "totalMsgs": 37083
+      "sampleCount": 209,
+      "totalMsgs": 37419
     },
     {
       "name": "God of War",
@@ -118,14 +118,14 @@
       "totalMsgs": 9744
     },
     "18": {
-      "avgViewers": 663,
-      "sampleCount": 54,
-      "totalMsgs": 17306
+      "avgViewers": 664,
+      "sampleCount": 55,
+      "totalMsgs": 17642
     },
     "19": {
-      "avgViewers": 689,
-      "sampleCount": 48,
-      "totalMsgs": 7292
+      "avgViewers": 690,
+      "sampleCount": 50,
+      "totalMsgs": 7859
     },
     "20": {
       "avgViewers": 659,
@@ -250,14 +250,15 @@
     },
     {
       "date": "2026-02-23",
-      "avgViewers": 670,
+      "avgViewers": 675,
       "peakViewers": 755,
-      "totalMsgs": 5345,
+      "totalMsgs": 6248,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "VALORANT"
       ]
     }
   ],
   "botStartedAt": "2026-02-23T14:56:00.752Z",
-  "lastUpdated": "2026-02-23T18:56:11.093Z"
+  "lastUpdated": "2026-02-23T19:26:13.386Z"
 }
