@@ -1,17 +1,17 @@
 {
   "totalSessions": 14,
   "totalDays": 12,
-  "totalSegments": 445,
+  "totalSegments": 448,
   "allTimePeak": 856,
-  "allTimeAvg": 616,
-  "totalMessages": 85749,
+  "allTimeAvg": 617,
+  "totalMessages": 86404,
   "categories": [
     {
       "name": "Chat Roulette",
-      "avgViewers": 754,
+      "avgViewers": 756,
       "peakViewers": 856,
-      "sampleCount": 52,
-      "totalMsgs": 10111
+      "sampleCount": 54,
+      "totalMsgs": 10540
     },
     {
       "name": "Gartic Phone",
@@ -71,10 +71,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 576,
+      "avgViewers": 577,
       "peakViewers": 809,
-      "sampleCount": 240,
-      "totalMsgs": 43577
+      "sampleCount": 241,
+      "totalMsgs": 43803
     },
     {
       "name": "Minecraft",
@@ -135,9 +135,9 @@
       "totalMsgs": 12827
     },
     "20": {
-      "avgViewers": 679,
-      "sampleCount": 48,
-      "totalMsgs": 10906
+      "avgViewers": 686,
+      "sampleCount": 51,
+      "totalMsgs": 11561
     },
     "21": {
       "avgViewers": 662,
@@ -279,9 +279,9 @@
     },
     {
       "date": "2026-02-25",
-      "avgViewers": 655,
+      "avgViewers": 665,
       "peakViewers": 823,
-      "totalMsgs": 6979,
+      "totalMsgs": 7634,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -290,5 +290,5 @@
     }
   ],
   "botStartedAt": "2026-02-25T18:14:33.458Z",
-  "lastUpdated": "2026-02-25T20:14:33.581Z"
+  "lastUpdated": "2026-02-25T20:44:33.589Z"
 }
