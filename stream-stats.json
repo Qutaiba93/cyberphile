@@ -1,10 +1,10 @@
 {
   "totalSessions": 14,
   "totalDays": 12,
-  "totalSegments": 430,
+  "totalSegments": 433,
   "allTimePeak": 856,
-  "allTimeAvg": 611,
-  "totalMessages": 82556,
+  "allTimeAvg": 612,
+  "totalMessages": 82806,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -29,10 +29,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 733,
+      "avgViewers": 738,
       "peakViewers": 749,
-      "sampleCount": 2,
-      "totalMsgs": 269
+      "sampleCount": 3,
+      "totalMsgs": 367
     },
     {
       "name": "VALORANT",
@@ -70,18 +70,18 @@
       "totalMsgs": 1817
     },
     {
+      "name": "Just Chatting",
+      "avgViewers": 572,
+      "peakViewers": 809,
+      "sampleCount": 234,
+      "totalMsgs": 42163
+    },
+    {
       "name": "Minecraft",
       "avgViewers": 571,
       "peakViewers": 644,
       "sampleCount": 10,
       "totalMsgs": 1655
-    },
-    {
-      "name": "Just Chatting",
-      "avgViewers": 570,
-      "peakViewers": 809,
-      "sampleCount": 232,
-      "totalMsgs": 42011
     },
     {
       "name": "God of War",
@@ -120,14 +120,14 @@
       "totalMsgs": 9639
     },
     "17": {
-      "avgViewers": 660,
-      "sampleCount": 53,
-      "totalMsgs": 10381
+      "avgViewers": 662,
+      "sampleCount": 54,
+      "totalMsgs": 10479
     },
     "18": {
-      "avgViewers": 663,
-      "sampleCount": 56,
-      "totalMsgs": 17654
+      "avgViewers": 665,
+      "sampleCount": 58,
+      "totalMsgs": 17806
     },
     "19": {
       "avgViewers": 697,
@@ -279,9 +279,9 @@
     },
     {
       "date": "2026-02-25",
-      "avgViewers": 579,
+      "avgViewers": 598,
       "peakViewers": 765,
-      "totalMsgs": 3786,
+      "totalMsgs": 4036,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -289,6 +289,6 @@
       ]
     }
   ],
-  "botStartedAt": "2026-02-25T17:27:17.460Z",
-  "lastUpdated": "2026-02-25T17:57:17.547Z"
+  "botStartedAt": "2026-02-25T18:10:29.090Z",
+  "lastUpdated": "2026-02-25T18:11:29.180Z"
 }
