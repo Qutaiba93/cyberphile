@@ -1,10 +1,10 @@
 {
   "totalSessions": 14,
   "totalDays": 12,
-  "totalSegments": 448,
+  "totalSegments": 451,
   "allTimePeak": 856,
-  "allTimeAvg": 617,
-  "totalMessages": 86404,
+  "allTimeAvg": 618,
+  "totalMessages": 86882,
   "categories": [
     {
       "name": "Chat Roulette",
@@ -70,18 +70,18 @@
       "totalMsgs": 1817
     },
     {
-      "name": "Just Chatting",
-      "avgViewers": 577,
-      "peakViewers": 809,
-      "sampleCount": 241,
-      "totalMsgs": 43803
+      "name": "Minecraft",
+      "avgViewers": 595,
+      "peakViewers": 719,
+      "sampleCount": 12,
+      "totalMsgs": 1919
     },
     {
-      "name": "Minecraft",
-      "avgViewers": 571,
-      "peakViewers": 644,
-      "sampleCount": 10,
-      "totalMsgs": 1655
+      "name": "Just Chatting",
+      "avgViewers": 578,
+      "peakViewers": 809,
+      "sampleCount": 242,
+      "totalMsgs": 44017
     },
     {
       "name": "God of War",
@@ -135,14 +135,14 @@
       "totalMsgs": 12827
     },
     "20": {
-      "avgViewers": 686,
-      "sampleCount": 51,
-      "totalMsgs": 11561
+      "avgViewers": 687,
+      "sampleCount": 53,
+      "totalMsgs": 11890
     },
     "21": {
-      "avgViewers": 662,
-      "sampleCount": 44,
-      "totalMsgs": 6874
+      "avgViewers": 663,
+      "sampleCount": 45,
+      "totalMsgs": 7023
     },
     "22": {
       "avgViewers": 696,
@@ -279,16 +279,17 @@
     },
     {
       "date": "2026-02-25",
-      "avgViewers": 665,
+      "avgViewers": 670,
       "peakViewers": 823,
-      "totalMsgs": 7634,
+      "totalMsgs": 8112,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-02-25T18:14:33.458Z",
-  "lastUpdated": "2026-02-25T20:44:33.589Z"
+  "lastUpdated": "2026-02-25T21:14:33.599Z"
 }
