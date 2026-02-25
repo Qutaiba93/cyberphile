@@ -218,6 +218,7 @@
     .tag-live { background: #ff4d6a30; color: var(--red); }
 
     .mode-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.6rem; margin-top: 0.8rem; }
+    @media (max-width: 600px) { .mode-cards { grid-template-columns: 1fr 1fr; } }
     .mode-card { padding: 0.75rem 0.85rem; background: var(--card); border: 1px solid var(--border); border-radius: 12px; text-align: center; transition: all 0.2s ease; }
     .mode-card:hover { background: var(--card-hover); transform: translateY(-1px); }
     .mode-card .mode-emoji { font-size: 1.4rem; margin-bottom: 0.3rem; }
@@ -229,6 +230,12 @@
     .mode-eco .mode-name { color: var(--accent); }
     .mode-op { border-color: #a855f744; }
     .mode-op .mode-name { color: var(--purple); }
+    .mode-local { border-color: #4d9fff44; }
+    .mode-local .mode-name { color: var(--blue); }
+    .mode-savage { border-color: #ff4d6a44; }
+    .mode-savage .mode-name { color: var(--red); }
+    .mode-unfiltered { border-color: #fb923c44; }
+    .mode-unfiltered .mode-name { color: var(--orange); }
 
     /* ---- Stats Styles ---- */
     .stats-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 0.8rem; margin-bottom: 1.5rem; }
@@ -296,11 +303,11 @@
       <h1>@<span>Cyberphile</span></h1>
       <p class="subtitle">AI-powered chat bot for <a href="https://kick.com/sliker" target="_blank">Sliker's Kick stream</a></p>
       <div class="badges">
-        <span class="badge badge-green">✦ 10 AI Models</span>
+        <span class="badge badge-green">✦ 11+ AI Models</span>
         <span class="badge badge-orange">🔍 Live Search</span>
         <span class="badge badge-cyan">🌍 Translate</span>
         <span class="badge badge-purple">🎮 7 Games</span>
-        <span class="badge badge-blue">⚡ 40+ Commands</span>
+        <span class="badge badge-blue">⚡ 45+ Commands</span>
         <span class="badge badge-red">📊 Stream Analytics</span>
       </div>
       <div class="bot-status" id="bot-status">
@@ -323,7 +330,7 @@
         <div class="section-header">
           <div class="section-icon ai">🧠</div>
           <span class="section-title">AI Commands</span>
-          <span class="section-count">10 commands</span>
+          <span class="section-count">12 commands</span>
         </div>
         <div class="cmd-grid">
           <div class="cmd cmd-highlight">
@@ -367,6 +374,14 @@
             <span class="cmd-name">!ask9 &lt;question&gt;</span>
             <span class="cmd-desc">Ask Kimi K2.5 (Moonshot AI) — powerful Chinese reasoning model, great at logic puzzles.</span>
           </div>
+          <div class="cmd">
+            <span class="cmd-name">!local &lt;question&gt;<span class="cmd-tag tag-new">NEW</span></span>
+            <span class="cmd-desc">Ask Slonky — custom fine-tuned 7B LLM running locally on Ollama, trained on the bot's own best AI responses. Fast, offline, and uniquely Sliker-brained.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!unfiltered &lt;question&gt;<span class="cmd-tag tag-new">NEW</span></span>
+            <span class="cmd-desc">Ask an uncensored AI (Dolphin) — completely unfiltered responses with no safety guardrails. Use at your own risk.</span>
+          </div>
         </div>
 
         <!-- AI Modes -->
@@ -385,6 +400,21 @@
             <div class="mode-emoji">🧠</div>
             <div class="mode-name">OP</div>
             <div class="mode-desc">All 7 AIs including Claude race. Maximum quality. Default mode.</div>
+          </div>
+          <div class="mode-card mode-local">
+            <div class="mode-emoji">🖥️</div>
+            <div class="mode-name">LOCAL</div>
+            <div class="mode-desc">Custom Slonky 7B LLM via Ollama. Trained on the bot's own responses. Runs on RTX 4090.</div>
+          </div>
+          <div class="mode-card mode-savage">
+            <div class="mode-emoji">🔥</div>
+            <div class="mode-name">SAVAGE</div>
+            <div class="mode-desc">Brutal unfiltered Dolphin AI. No safety nets. Maximum chaos energy.</div>
+          </div>
+          <div class="mode-card mode-unfiltered">
+            <div class="mode-emoji">⚠️</div>
+            <div class="mode-name">UNFILTERED</div>
+            <div class="mode-desc">Dolphin uncensored chain. Says whatever it wants with zero guardrails.</div>
           </div>
         </div>
       </div>
@@ -562,7 +592,7 @@
         <div class="section-header">
           <div class="section-icon info">ℹ️</div>
           <span class="section-title">Info Commands</span>
-          <span class="section-count">3 commands</span>
+          <span class="section-count">4 commands</span>
         </div>
         <div class="cmd-grid">
           <div class="cmd">
@@ -577,6 +607,10 @@
           <div class="cmd">
             <span class="cmd-name">!ai</span>
             <span class="cmd-desc">Show info about the bot and available AI models.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!mode</span>
+            <span class="cmd-desc">Show the current AI mode, Slonky LLM status, and training data count.</span>
           </div>
         </div>
       </div>
@@ -606,7 +640,19 @@
           </div>
           <div class="cmd">
             <span class="cmd-name">RAG Memory</span>
-            <span class="cmd-desc">Permanent vector-based memory using TF-IDF + cosine similarity. Facts, conversations, and context are stored forever and retrieved by relevance.</span>
+            <span class="cmd-desc">Permanent vector-based memory using GPU-powered neural embeddings (all-MiniLM-L6-v2 on RTX 4090). Facts, conversations, and context are stored forever and retrieved by semantic similarity.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">Local LLM (Slonky)<span class="cmd-tag tag-new">NEW</span></span>
+            <span class="cmd-desc">Custom fine-tuned 7B language model running locally via Ollama on RTX 4090. Trained on the bot's own best AI responses — auto-retrains every 6 hours with new data.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">Moltbook Integration<span class="cmd-tag tag-new">NEW</span></span>
+            <span class="cmd-desc">Auto-posts AI-generated content to Moltbook (AI social network) every hour with heartbeat every 5 minutes. The bot has its own social media presence.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">Auto Internet Search</span>
+            <span class="cmd-desc">The !AI command automatically detects current-event questions and searches the internet via Perplexity — no need to use !search separately.</span>
           </div>
         </div>
       </div>
@@ -665,8 +711,8 @@
     </div>
 
     <footer>
-      <p>Built with <span class="heart">♥</span> by <a href="https://kick.com/sliker" target="_blank">@Shance</a> · Powered by 10 AI models + Live Search + StreamerStats</p>
-      <p style="margin-top: 0.4rem; opacity: 0.6;">@Cyberphile on Kick · Permanent memory &amp; learning · 10-min analytics · 3 AI modes</p>
+      <p>Built with <span class="heart">♥</span> by <a href="https://kick.com/sliker" target="_blank">@Shance</a> · Powered by 11+ AI models + Live Search + Local LLM + StreamerStats</p>
+      <p style="margin-top: 0.4rem; opacity: 0.6;">@Cyberphile on Kick · Permanent memory &amp; learning · 10-min analytics · 6 AI modes · Moltbook</p>
     </footer>
   </div>
 
