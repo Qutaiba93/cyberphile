@@ -1,10 +1,10 @@
 {
   "totalSessions": 15,
   "totalDays": 13,
-  "totalSegments": 517,
+  "totalSegments": 520,
   "allTimePeak": 856,
   "allTimeAvg": 621,
-  "totalMessages": 94479,
+  "totalMessages": 94972,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -57,10 +57,10 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 642,
+      "avgViewers": 646,
       "peakViewers": 779,
-      "sampleCount": 33,
-      "totalMsgs": 3895
+      "sampleCount": 36,
+      "totalMsgs": 4388
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -140,14 +140,14 @@
       "totalMsgs": 13419
     },
     "20": {
-      "avgViewers": 685,
-      "sampleCount": 57,
-      "totalMsgs": 12370
+      "avgViewers": 686,
+      "sampleCount": 59,
+      "totalMsgs": 12689
     },
     "21": {
       "avgViewers": 671,
-      "sampleCount": 50,
-      "totalMsgs": 7706
+      "sampleCount": 51,
+      "totalMsgs": 7880
     },
     "22": {
       "avgViewers": 715,
@@ -303,9 +303,9 @@
     },
     {
       "date": "2026-02-26",
-      "avgViewers": 588,
+      "avgViewers": 595,
       "peakViewers": 710,
-      "totalMsgs": 4488,
+      "totalMsgs": 4981,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -315,5 +315,5 @@
     }
   ],
   "botStartedAt": "2026-02-26T17:44:14.963Z",
-  "lastUpdated": "2026-02-26T20:44:15.086Z"
+  "lastUpdated": "2026-02-26T21:14:15.094Z"
 }
