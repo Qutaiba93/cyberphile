@@ -1,10 +1,10 @@
 {
   "totalSessions": 15,
   "totalDays": 13,
-  "totalSegments": 529,
+  "totalSegments": 532,
   "allTimePeak": 856,
   "allTimeAvg": 622,
-  "totalMessages": 96574,
+  "totalMessages": 97063,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -22,10 +22,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 746,
+      "avgViewers": 745,
       "peakViewers": 856,
-      "sampleCount": 58,
-      "totalMsgs": 11522
+      "sampleCount": 59,
+      "totalMsgs": 11614
     },
     {
       "name": "Counter-Strike 2",
@@ -85,10 +85,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 577,
+      "avgViewers": 578,
       "peakViewers": 809,
-      "sampleCount": 261,
-      "totalMsgs": 46904
+      "sampleCount": 263,
+      "totalMsgs": 47301
     },
     {
       "name": "God of War",
@@ -150,14 +150,14 @@
       "totalMsgs": 8469
     },
     "22": {
-      "avgViewers": 707,
-      "sampleCount": 25,
-      "totalMsgs": 4578
+      "avgViewers": 705,
+      "sampleCount": 27,
+      "totalMsgs": 4884
     },
     "23": {
-      "avgViewers": 734,
-      "sampleCount": 11,
-      "totalMsgs": 638
+      "avgViewers": 731,
+      "sampleCount": 12,
+      "totalMsgs": 821
     }
   },
   "dailyHistory": [
@@ -303,9 +303,9 @@
     },
     {
       "date": "2026-02-26",
-      "avgViewers": 610,
+      "avgViewers": 615,
       "peakViewers": 710,
-      "totalMsgs": 6583,
+      "totalMsgs": 7072,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -315,5 +315,5 @@
     }
   ],
   "botStartedAt": "2026-02-26T17:44:14.963Z",
-  "lastUpdated": "2026-02-26T22:44:16.813Z"
+  "lastUpdated": "2026-02-26T23:14:16.826Z"
 }
