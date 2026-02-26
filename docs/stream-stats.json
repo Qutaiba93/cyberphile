@@ -1,7 +1,7 @@
 {
   "totalSessions": 14,
   "totalDays": 12,
-  "totalSegments": 479,
+  "totalSegments": 480,
   "allTimePeak": 856,
   "allTimeAvg": 623,
   "totalMessages": 89819,
@@ -94,14 +94,14 @@
       "name": "God of War",
       "avgViewers": 549,
       "peakViewers": 696,
-      "sampleCount": 45,
+      "sampleCount": 46,
       "totalMsgs": 4154
     }
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 572,
-      "sampleCount": 6,
+      "avgViewers": 569,
+      "sampleCount": 7,
       "totalMsgs": 470
     },
     "13": {
@@ -289,7 +289,7 @@
     },
     {
       "date": "2026-02-25",
-      "avgViewers": 684,
+      "avgViewers": 683,
       "peakViewers": 823,
       "totalMsgs": 11049,
       "categories": [
@@ -302,6 +302,6 @@
       ]
     }
   ],
-  "botStartedAt": "2026-02-26T00:31:17.588Z",
-  "lastUpdated": "2026-02-26T00:32:17.687Z"
+  "botStartedAt": "2026-02-26T00:35:31.955Z",
+  "lastUpdated": "2026-02-26T00:36:32.056Z"
 }
