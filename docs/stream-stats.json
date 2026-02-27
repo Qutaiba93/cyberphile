@@ -1,10 +1,10 @@
 {
   "totalSessions": 16,
   "totalDays": 14,
-  "totalSegments": 557,
+  "totalSegments": 560,
   "allTimePeak": 856,
-  "allTimeAvg": 616,
-  "totalMessages": 101919,
+  "allTimeAvg": 615,
+  "totalMessages": 102464,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -78,10 +78,10 @@
     },
     {
       "name": "Resident Evil Requiem",
-      "avgViewers": 591,
+      "avgViewers": 590,
       "peakViewers": 601,
-      "sampleCount": 4,
-      "totalMsgs": 1459
+      "sampleCount": 6,
+      "totalMsgs": 1874
     },
     {
       "name": "Minecraft",
@@ -94,8 +94,8 @@
       "name": "Just Chatting",
       "avgViewers": 570,
       "peakViewers": 809,
-      "sampleCount": 277,
-      "totalMsgs": 49574
+      "sampleCount": 278,
+      "totalMsgs": 49704
     },
     {
       "name": "God of War",
@@ -132,9 +132,9 @@
       "totalMsgs": 12010
     },
     "17": {
-      "avgViewers": 657,
-      "sampleCount": 65,
-      "totalMsgs": 12497
+      "avgViewers": 653,
+      "sampleCount": 68,
+      "totalMsgs": 13042
     },
     "18": {
       "avgViewers": 671,
@@ -322,9 +322,9 @@
     },
     {
       "date": "2026-02-27",
-      "avgViewers": 469,
+      "avgViewers": 480,
       "peakViewers": 607,
-      "totalMsgs": 4671,
+      "totalMsgs": 5216,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -335,5 +335,5 @@
     }
   ],
   "botStartedAt": "2026-02-27T13:37:52.052Z",
-  "lastUpdated": "2026-02-27T17:38:00.651Z"
+  "lastUpdated": "2026-02-27T18:08:00.664Z"
 }
