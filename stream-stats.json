@@ -1,10 +1,10 @@
 {
   "totalSessions": 16,
   "totalDays": 14,
-  "totalSegments": 592,
+  "totalSegments": 595,
   "allTimePeak": 856,
-  "allTimeAvg": 612,
-  "totalMessages": 109343,
+  "allTimeAvg": 611,
+  "totalMessages": 109811,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -29,10 +29,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 688,
+      "avgViewers": 679,
       "peakViewers": 758,
-      "sampleCount": 17,
-      "totalMsgs": 1979
+      "sampleCount": 18,
+      "totalMsgs": 2190
     },
     {
       "name": "The Empty Eyes",
@@ -92,10 +92,10 @@
     },
     {
       "name": "Resident Evil Requiem",
-      "avgViewers": 554,
+      "avgViewers": 551,
       "peakViewers": 601,
-      "sampleCount": 38,
-      "totalMsgs": 8753
+      "sampleCount": 40,
+      "totalMsgs": 9010
     },
     {
       "name": "God of War",
@@ -157,14 +157,14 @@
       "totalMsgs": 9658
     },
     "22": {
-      "avgViewers": 673,
-      "sampleCount": 33,
-      "totalMsgs": 6126
+      "avgViewers": 668,
+      "sampleCount": 34,
+      "totalMsgs": 6256
     },
     "23": {
-      "avgViewers": 728,
-      "sampleCount": 13,
-      "totalMsgs": 1006
+      "avgViewers": 698,
+      "sampleCount": 15,
+      "totalMsgs": 1344
     }
   },
   "dailyHistory": [
@@ -324,16 +324,17 @@
       "date": "2026-02-27",
       "avgViewers": 516,
       "peakViewers": 607,
-      "totalMsgs": 12095,
+      "totalMsgs": 12563,
       "categories": [
         "Just Chatting",
         "Minecraft",
         "Chat Roulette",
         "VALORANT",
-        "Resident Evil Requiem"
+        "Resident Evil Requiem",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-02-27T22:29:42.286Z",
-  "lastUpdated": "2026-02-27T22:59:42.385Z"
+  "lastUpdated": "2026-02-27T23:29:42.401Z"
 }
