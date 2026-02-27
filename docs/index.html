@@ -275,6 +275,43 @@
 
     .no-data { text-align: center; padding: 3rem 1rem; color: var(--text-dim); font-size: 0.95rem; }
 
+    /* ---- Leaderboard Styles ---- */
+    .lb-table { width: 100%; border-collapse: separate; border-spacing: 0 0.4rem; }
+    .lb-table th { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-dim); padding: 0.5rem 0.7rem; text-align: left; }
+    .lb-table td { padding: 0.65rem 0.7rem; background: var(--card); font-size: 0.85rem; transition: all 0.2s ease; }
+    .lb-table tr:hover td { background: var(--card-hover); }
+    .lb-table td:first-child { border-radius: 10px 0 0 10px; border-left: 1px solid var(--border); }
+    .lb-table td:last-child { border-radius: 0 10px 10px 0; border-right: 1px solid var(--border); }
+    .lb-table td { border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
+    .lb-rank { font-weight: 800; min-width: 2rem; text-align: center; }
+    .lb-rank-1 { color: #fbbf24; font-size: 1.1rem; }
+    .lb-rank-2 { color: #c0c0c0; font-size: 1.05rem; }
+    .lb-rank-3 { color: #cd7f32; font-size: 1rem; }
+    .lb-name { font-weight: 700; color: var(--text); }
+    .lb-name a { color: inherit; text-decoration: none; }
+    .lb-name a:hover { color: var(--accent); }
+    .lb-pts { font-weight: 800; color: var(--accent); font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; }
+    .lb-stat { color: var(--text-dim); font-size: 0.8rem; }
+    .lb-winrate { font-weight: 600; }
+    .lb-winrate-good { color: var(--accent); }
+    .lb-winrate-ok { color: var(--yellow); }
+    .lb-winrate-bad { color: var(--red); }
+    .lb-economy-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 0.6rem; margin-bottom: 1.5rem; }
+    .lb-econ-card { padding: 0.8rem; background: var(--card); border: 1px solid var(--border); border-radius: 10px; text-align: center; }
+    .lb-econ-value { font-size: 1.3rem; font-weight: 800; color: var(--accent); }
+    .lb-econ-label { font-size: 0.7rem; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.04em; margin-top: 0.2rem; }
+    .lb-costs-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); gap: 0.5rem; }
+    .lb-cost-item { padding: 0.5rem 0.7rem; background: var(--card); border: 1px solid var(--border); border-radius: 8px; display: flex; justify-content: space-between; align-items: center; font-size: 0.82rem; }
+    .lb-cost-name { font-weight: 600; }
+    .lb-cost-val { color: var(--yellow); font-weight: 700; font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; }
+    .lb-payout-val { color: var(--accent); font-weight: 700; font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; }
+    @media (max-width: 600px) {
+      .lb-table { font-size: 0.78rem; }
+      .lb-table th, .lb-table td { padding: 0.4rem 0.4rem; }
+      .lb-economy-grid { grid-template-columns: repeat(2, 1fr); }
+      .lb-costs-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+
     footer { text-align: center; margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border); color: var(--text-dim); font-size: 0.82rem; }
     footer .heart { color: var(--red); }
     footer a { color: var(--accent); text-decoration: none; }
@@ -307,7 +344,8 @@
         <span class="badge badge-orange">🔍 Live Search</span>
         <span class="badge badge-cyan">🌍 Translate</span>
         <span class="badge badge-purple">🎮 7 Games</span>
-        <span class="badge badge-blue">⚡ 45+ Commands</span>
+        <span class="badge badge-yellow" style="background:#fbbf2418;color:#fbbf24;border-color:#fbbf2433">💰 Points Economy</span>
+        <span class="badge badge-blue">⚡ 50+ Commands</span>
         <span class="badge badge-red">📊 Stream Analytics</span>
       </div>
       <div class="bot-status" id="bot-status">
@@ -319,6 +357,7 @@
     <!-- Tabs -->
     <div class="tabs">
       <button class="tab-btn active" onclick="switchTab('commands', this)">📋 Commands</button>
+      <button class="tab-btn" onclick="switchTab('leaderboard', this)">💰 Leaderboard</button>
       <button class="tab-btn" onclick="switchTab('stats', this)">📊 Stream Stats</button>
     </div>
 
@@ -534,41 +573,89 @@
       <div class="section">
         <div class="section-header">
           <div class="section-icon games">🎰</div>
-          <span class="section-title">Game Commands</span>
-          <span class="section-count">7 games</span>
+          <span class="section-title">Game Commands<span class="cmd-tag tag-new">POINTS</span></span>
+          <span class="section-count">7 games + economy</span>
         </div>
         <div class="cmd-grid">
           <div class="cmd">
-            <span class="cmd-name">!slots</span>
-            <span class="cmd-desc">Spin the slot machine. Match symbols to win big!</span>
+            <span class="cmd-name">!slots<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">10 pts</span></span>
+            <span class="cmd-desc">Spin the slot machine. Jackpot (triple 7s) pays <strong>500 pts</strong>, triple match pays <strong>100</strong>, double pays <strong>25</strong>!</span>
             <div class="cmd-aliases">Alias: <span>!slot</span></div>
           </div>
           <div class="cmd">
-            <span class="cmd-name">!flip</span>
-            <span class="cmd-desc">Flip a coin — heads or tails. Simple and classic.</span>
+            <span class="cmd-name">!flip<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">5 pts</span></span>
+            <span class="cmd-desc">Flip a coin — heads you win <strong>+10 pts</strong>, tails you lose.</span>
             <div class="cmd-aliases">Aliases: <span>!coinflip</span>, <span>!coin</span></div>
           </div>
           <div class="cmd">
-            <span class="cmd-name">!dice</span>
-            <span class="cmd-desc">Roll a six-sided die. Try your luck.</span>
+            <span class="cmd-name">!dice<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">5 pts</span></span>
+            <span class="cmd-desc">Roll two dice. Score 10+ wins <strong>+15</strong>, doubles wins <strong>+20</strong>!</span>
           </div>
           <div class="cmd">
             <span class="cmd-name">!roll &lt;max&gt;</span>
-            <span class="cmd-desc">Roll a random number from 1 to max (default 100).</span>
+            <span class="cmd-desc">Roll a random number from 1 to max (default 100). Free, no points cost.</span>
           </div>
           <div class="cmd">
-            <span class="cmd-name">!rps &lt;choice&gt;</span>
-            <span class="cmd-desc">Rock Paper Scissors — play against the bot.</span>
+            <span class="cmd-name">!rps &lt;choice&gt;<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">5 pts</span></span>
+            <span class="cmd-desc">Rock Paper Scissors — win gets <strong>+10 pts</strong>, tie refunds your bet.</span>
           </div>
           <div class="cmd">
             <span class="cmd-name">!8ball &lt;question&gt;</span>
-            <span class="cmd-desc">Ask the magic 8-ball. It knows all. Maybe.</span>
+            <span class="cmd-desc">Ask the magic 8-ball. Free — it knows all. Maybe.</span>
           </div>
           <div class="cmd">
-            <span class="cmd-name">!bj</span>
-            <span class="cmd-desc">Start a Blackjack game. Use <strong>!hit</strong> and <strong>!stand</strong> to play.</span>
+            <span class="cmd-name">!bj<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">25 pts</span></span>
+            <span class="cmd-desc">Start a Blackjack game. Win pays <strong>+50</strong>, Blackjack pays <strong>+75</strong>! Use <strong>!hit</strong> and <strong>!stand</strong>.</span>
             <div class="cmd-aliases">Alias: <span>!blackjack</span> · In-game: <span>!hit</span>, <span>!stand</span></div>
           </div>
+          <div class="cmd">
+            <span class="cmd-name">!fight &lt;user&gt;<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">10 pts</span></span>
+            <span class="cmd-desc">Fight another chatter! Winner gets <strong>+20 pts</strong>.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!duel &lt;user&gt; &lt;amount&gt;<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">custom</span></span>
+            <span class="cmd-desc">Challenge someone to a points duel (10-10,000 pts). They type <strong>!accept</strong> to fight. Winner takes all!</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Economy Commands -->
+      <div class="section">
+        <div class="section-header">
+          <div class="section-icon" style="background:#fbbf2418;color:#fbbf24;border-color:#fbbf2433">💰</div>
+          <span class="section-title">Points Economy<span class="cmd-tag tag-new">NEW</span></span>
+          <span class="section-count">6 commands</span>
+        </div>
+        <div class="cmd-grid">
+          <div class="cmd">
+            <span class="cmd-name">!points</span>
+            <span class="cmd-desc">Check your balance, rank, total earned/spent, games played, and win rate.</span>
+            <div class="cmd-aliases">Aliases: <span>!balance</span>, <span>!bal</span>, <span>!pts</span></div>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!daily</span>
+            <span class="cmd-desc">Claim your daily bonus of <strong>50 pts</strong> + streak bonus (up to +50 extra). Resets each day!</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!give &lt;user&gt; &lt;amount&gt;</span>
+            <span class="cmd-desc">Give points to another chatter. Spread the wealth!</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!top</span>
+            <span class="cmd-desc">See the top 5 richest chatters. Full leaderboard on this page!</span>
+            <div class="cmd-aliases">Aliases: <span>!leaderboard</span>, <span>!lb</span>, <span>!rich</span></div>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!duel &lt;user&gt; &lt;amount&gt;</span>
+            <span class="cmd-desc">Challenge someone to a winner-takes-all points duel. They type !accept to fight.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!accept</span>
+            <span class="cmd-desc">Accept a pending duel challenge. Both players' points are on the line!</span>
+          </div>
+        </div>
+        <div style="margin-top:0.8rem;padding:0.7rem 1rem;background:var(--card);border:1px solid var(--border);border-radius:10px;font-size:0.8rem;color:var(--text-dim)">
+          <strong style="color:var(--accent)">How to earn:</strong> +2 pts per chat message (5s cooldown) · +50 pts daily bonus (!daily) · +5 per streak day (max +50) · New chatters start with 100 pts
         </div>
       </div>
 
@@ -658,6 +745,64 @@
       </div>
     </div>
 
+    <!-- ==================== LEADERBOARD TAB ==================== -->
+    <div id="tab-leaderboard" class="tab-content">
+      <div id="lb-loading" class="no-data">Loading leaderboard...</div>
+      <div id="lb-container" style="display: none;">
+
+        <!-- Economy Overview -->
+        <div class="section">
+          <div class="section-header">
+            <div class="section-icon" style="background:#fbbf2418;color:#fbbf24;border-color:#fbbf2433">📊</div>
+            <span class="section-title">Economy Overview</span>
+            <span class="section-count" id="lb-players-count"></span>
+          </div>
+          <div class="lb-economy-grid" id="lb-economy-cards"></div>
+        </div>
+
+        <!-- Leaderboard Table -->
+        <div class="section">
+          <div class="section-header">
+            <div class="section-icon analytics">🏆</div>
+            <span class="section-title">Points Leaderboard</span>
+            <span class="section-count" id="lb-count"></span>
+          </div>
+          <div style="overflow-x: auto;">
+            <table class="lb-table" id="lb-table">
+              <thead>
+                <tr><th>#</th><th>Chatter</th><th>Points</th><th>Earned</th><th>Games</th><th>Win %</th><th>Streak</th></tr>
+              </thead>
+              <tbody id="lb-body"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Game Costs & Payouts -->
+        <div class="section">
+          <div class="section-header">
+            <div class="section-icon games">🎰</div>
+            <span class="section-title">Game Costs &amp; Payouts</span>
+          </div>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem">
+            <div>
+              <h4 style="font-size:0.8rem;color:var(--yellow);margin-bottom:0.5rem">💸 Entry Costs</h4>
+              <div class="lb-costs-grid" id="lb-costs"></div>
+            </div>
+            <div>
+              <h4 style="font-size:0.8rem;color:var(--accent);margin-bottom:0.5rem">🏆 Payouts</h4>
+              <div class="lb-costs-grid" id="lb-payouts"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="stats-updated" id="lb-updated"></div>
+      </div>
+      <div id="lb-error" class="no-data" style="display: none;">
+        <p>⚠️ Could not load leaderboard data.</p>
+        <p style="margin-top: 0.5rem; font-size: 0.8rem;">Leaderboard syncs from the bot every 30 minutes.</p>
+      </div>
+    </div>
+
     <!-- ==================== STREAM STATS TAB ==================== -->
     <div id="tab-stats" class="tab-content">
       <div id="stats-loading" class="no-data">Loading stream stats...</div>
@@ -723,6 +868,93 @@
       document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
       document.getElementById('tab-' + tab).classList.add('active');
       btn.classList.add('active');
+    }
+
+    // ---- Leaderboard ----
+    const LB_URL = 'leaderboard.json';
+
+    async function loadLeaderboard() {
+      try {
+        const res = await fetch(LB_URL + '?t=' + Date.now());
+        if (!res.ok) throw new Error('Not found');
+        const data = await res.json();
+        renderLeaderboard(data);
+      } catch (e) {
+        document.getElementById('lb-loading').style.display = 'none';
+        document.getElementById('lb-error').style.display = 'block';
+      }
+    }
+
+    function renderLeaderboard(data) {
+      document.getElementById('lb-loading').style.display = 'none';
+      document.getElementById('lb-container').style.display = 'block';
+
+      // Economy overview cards
+      const econCards = document.getElementById('lb-economy-cards');
+      const s = data.stats || {};
+      const econData = [
+        { value: formatNum(s.totalPlayers || 0), label: 'Total Players', icon: '👥' },
+        { value: formatNum(s.totalCirculating || 0), label: 'Total Points', icon: '💰' },
+        { value: formatNum(s.totalGames || 0), label: 'Games Played', icon: '🎰' },
+        { value: s.pointsPerMessage || 2, label: 'Pts/Message', icon: '💬' },
+        { value: s.dailyBonus || 50, label: 'Daily Bonus', icon: '📅' },
+      ];
+      econCards.innerHTML = econData.map(d => `
+        <div class="lb-econ-card">
+          <div style="font-size:1rem;margin-bottom:0.2rem">${d.icon}</div>
+          <div class="lb-econ-value">${d.value}</div>
+          <div class="lb-econ-label">${d.label}</div>
+        </div>
+      `).join('');
+      document.getElementById('lb-players-count').textContent = `${s.totalPlayers || 0} players`;
+
+      // Leaderboard table
+      const lb = data.leaderboard || [];
+      document.getElementById('lb-count').textContent = `Top ${lb.length}`;
+      const tbody = document.getElementById('lb-body');
+      tbody.innerHTML = lb.map((p, i) => {
+        const rank = i + 1;
+        const rankClass = rank <= 3 ? ` lb-rank-${rank}` : '';
+        const medal = rank === 1 ? '🥇' : rank === 2 ? '🥈' : rank === 3 ? '🥉' : rank;
+        const wr = p.gamesPlayed > 0 ? Math.round((p.gamesWon / p.gamesPlayed) * 100) : 0;
+        const wrClass = wr >= 60 ? 'lb-winrate-good' : wr >= 40 ? 'lb-winrate-ok' : 'lb-winrate-bad';
+        return `<tr>
+          <td class="lb-rank${rankClass}">${medal}</td>
+          <td class="lb-name"><a href="https://kick.com/${p.name}" target="_blank">${p.name}</a></td>
+          <td class="lb-pts">${formatNum(p.balance)}</td>
+          <td class="lb-stat">${formatNum(p.totalEarned)}</td>
+          <td class="lb-stat">${p.gamesPlayed}</td>
+          <td class="lb-winrate ${wrClass}">${p.gamesPlayed > 0 ? wr + '%' : '—'}</td>
+          <td class="lb-stat">${p.streak ? p.streak + 'd' : '—'}</td>
+        </tr>`;
+      }).join('');
+
+      // Costs
+      const costs = data.costs || {};
+      const costsEl = document.getElementById('lb-costs');
+      const costNames = { slots: '!slots', coinflip: '!flip', dice: '!dice', rps: '!rps', blackjack: '!bj', fight: '!fight', '8ball': '!8ball', sr: '!sr skip' };
+      costsEl.innerHTML = Object.entries(costs)
+        .filter(([k]) => !k.startsWith('duel'))
+        .map(([k, v]) => `<div class="lb-cost-item"><span class="lb-cost-name">${costNames[k] || k}</span><span class="lb-cost-val">${v === 0 ? 'FREE' : v + ' pts'}</span></div>`)
+        .join('');
+
+      // Payouts
+      const payouts = data.payouts || {};
+      const payoutEl = document.getElementById('lb-payouts');
+      const payoutNames = {
+        slots_jackpot: 'Slots 777', slots_triple: 'Slots 3x', slots_double: 'Slots 2x',
+        coinflip_win: 'Flip Win', dice_high: 'Dice 10+', dice_doubles: 'Dice Doubles',
+        rps_win: 'RPS Win', bj_win: 'BJ Win', bj_blackjack: 'BJ Natural', bj_push: 'BJ Push',
+        fight_win: 'Fight Win'
+      };
+      payoutEl.innerHTML = Object.entries(payouts)
+        .map(([k, v]) => `<div class="lb-cost-item"><span class="lb-cost-name">${payoutNames[k] || k}</span><span class="lb-payout-val">+${v}</span></div>`)
+        .join('');
+
+      // Last updated
+      if (data.lastUpdated) {
+        document.getElementById('lb-updated').textContent = `Last updated: ${timeSince(new Date(data.lastUpdated))} ago · Auto-syncs every 30 min`;
+      }
     }
 
     // ---- Stream Stats ----
@@ -873,14 +1105,15 @@
       }
     }
 
-    // Preload stats + bot status
-    document.addEventListener('DOMContentLoaded', loadStats);
-    // Refresh bot status every 5 min
+    // Preload stats + bot status + leaderboard
+    document.addEventListener('DOMContentLoaded', () => { loadStats(); loadLeaderboard(); });
+    // Refresh bot status + leaderboard every 5 min
     setInterval(async () => {
       try {
         const res = await fetch(STATS_URL + '?t=' + Date.now());
         if (res.ok) { const d = await res.json(); updateBotStatus(d); }
       } catch(_) {}
+      try { loadLeaderboard(); } catch(_) {}
     }, 5 * 60 * 1000);
   </script>
 </body>
