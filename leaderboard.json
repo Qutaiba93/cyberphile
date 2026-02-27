@@ -1,1 +1,100 @@
-﻿{"leaderboard":[],"stats":{"totalPlayers":0,"totalCirculating":0,"totalGames":0,"pointsPerMessage":2,"dailyBonus":50},"costs":{"slots":10,"coinflip":5,"dice":5,"rps":5,"blackjack":25,"fight":10,"8ball":0,"duel_min":10,"duel_max":10000,"sr":50},"payouts":{"slots_jackpot":500,"slots_triple":100,"slots_double":25,"coinflip_win":10,"dice_high":15,"dice_doubles":20,"rps_win":10,"bj_win":50,"bj_blackjack":75,"bj_push":25,"fight_win":20},"lastUpdated":"2026-02-27T21:26:49.6123424+03:00"}
+{
+  "leaderboard": [
+    {
+      "name": "shance",
+      "balance": 157,
+      "totalEarned": 157,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
+      "name": "idioka",
+      "balance": 157,
+      "totalEarned": 157,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
+      "name": "seraj21",
+      "balance": 157,
+      "totalEarned": 157,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
+      "name": "hittittt",
+      "balance": 157,
+      "totalEarned": 157,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
+      "name": "nitro_st",
+      "balance": 157,
+      "totalEarned": 157,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
+      "name": "lukenzo_ggx",
+      "balance": 157,
+      "totalEarned": 157,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
+      "name": "skibidi_toiiet",
+      "balance": 152,
+      "totalEarned": 157,
+      "totalSpent": 5,
+      "gamesPlayed": 1,
+      "gamesWon": 0,
+      "streak": 1
+    }
+  ],
+  "stats": {
+    "totalPlayers": 7,
+    "totalCirculating": 1094,
+    "totalGames": 1,
+    "pointsPerMessage": 2,
+    "dailyBonus": 50
+  },
+  "costs": {
+    "slots": 10,
+    "coinflip": 5,
+    "dice": 5,
+    "rps": 5,
+    "blackjack": 25,
+    "fight": 10,
+    "8ball": 0,
+    "duel_min": 10,
+    "duel_max": 10000,
+    "sr": 50
+  },
+  "payouts": {
+    "slots_jackpot": 500,
+    "slots_triple": 100,
+    "slots_double": 25,
+    "coinflip_win": 10,
+    "dice_high": 15,
+    "dice_doubles": 20,
+    "rps_win": 10,
+    "bj_win": 50,
+    "bj_blackjack": 75,
+    "bj_push": 25,
+    "fight_win": 20
+  },
+  "lastUpdated": "2026-02-27T18:28:05.424Z"
+}
