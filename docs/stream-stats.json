@@ -1,10 +1,10 @@
 {
   "totalSessions": 16,
   "totalDays": 14,
-  "totalSegments": 551,
+  "totalSegments": 554,
   "allTimePeak": 856,
   "allTimeAvg": 616,
-  "totalMessages": 100021,
+  "totalMessages": 100770,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -35,18 +35,18 @@
       "totalMsgs": 1979
     },
     {
-      "name": "VALORANT",
-      "avgViewers": 666,
-      "peakViewers": 743,
-      "sampleCount": 9,
-      "totalMsgs": 2034
-    },
-    {
       "name": "The Empty Eyes",
       "avgViewers": 663,
       "peakViewers": 677,
       "sampleCount": 3,
       "totalMsgs": 225
+    },
+    {
+      "name": "VALORANT",
+      "avgViewers": 660,
+      "peakViewers": 743,
+      "sampleCount": 10,
+      "totalMsgs": 2283
     },
     {
       "name": "Call of Duty: Black Ops II",
@@ -77,6 +77,13 @@
       "totalMsgs": 1817
     },
     {
+      "name": "Resident Evil Requiem",
+      "avgViewers": 592,
+      "peakViewers": 592,
+      "sampleCount": 1,
+      "totalMsgs": 310
+    },
+    {
       "name": "Minecraft",
       "avgViewers": 589,
       "peakViewers": 729,
@@ -87,8 +94,8 @@
       "name": "Just Chatting",
       "avgViewers": 570,
       "peakViewers": 809,
-      "sampleCount": 276,
-      "totalMsgs": 49384
+      "sampleCount": 277,
+      "totalMsgs": 49574
     },
     {
       "name": "God of War",
@@ -121,8 +128,8 @@
     },
     "16": {
       "avgViewers": 595,
-      "sampleCount": 62,
-      "totalMsgs": 11261
+      "sampleCount": 65,
+      "totalMsgs": 12010
     },
     "17": {
       "avgViewers": 660,
@@ -315,16 +322,18 @@
     },
     {
       "date": "2026-02-27",
-      "avgViewers": 428,
+      "avgViewers": 451,
       "peakViewers": 607,
-      "totalMsgs": 2773,
+      "totalMsgs": 3522,
       "categories": [
         "Just Chatting",
         "Minecraft",
-        "Chat Roulette"
+        "Chat Roulette",
+        "VALORANT",
+        "Resident Evil Requiem"
       ]
     }
   ],
   "botStartedAt": "2026-02-27T13:37:52.052Z",
-  "lastUpdated": "2026-02-27T16:38:00.632Z"
+  "lastUpdated": "2026-02-27T17:08:00.646Z"
 }
