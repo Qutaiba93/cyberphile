@@ -1,25 +1,61 @@
 {
   "leaderboard": [
     {
-      "name": "shance",
-      "balance": 157,
-      "totalEarned": 157,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
-    },
-    {
-      "name": "idioka",
-      "balance": 157,
-      "totalEarned": 157,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
-    },
-    {
       "name": "seraj21",
+      "balance": 215,
+      "totalEarned": 290,
+      "totalSpent": 75,
+      "gamesPlayed": 2,
+      "gamesWon": 1,
+      "streak": 1
+    },
+    {
+      "name": "margret02",
+      "balance": 161,
+      "totalEarned": 161,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
+      "name": "yasuodx",
+      "balance": 161,
+      "totalEarned": 161,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
+      "name": "skibidi_toiiet",
+      "balance": 159,
+      "totalEarned": 159,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
+      "name": "xx_i_garrem_deez_xx",
+      "balance": 159,
+      "totalEarned": 159,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
+      "name": "shance",
+      "balance": 159,
+      "totalEarned": 159,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
+      "name": "nobato",
       "balance": 157,
       "totalEarned": 157,
       "totalSpent": 0,
@@ -28,7 +64,34 @@
       "streak": 1
     },
     {
-      "name": "hittittt",
+      "name": "kale96",
+      "balance": 157,
+      "totalEarned": 157,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
+      "name": "peakyc0",
+      "balance": 157,
+      "totalEarned": 157,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
+      "name": "ogjungle",
+      "balance": 157,
+      "totalEarned": 157,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
+      "name": "taboxl",
       "balance": 157,
       "totalEarned": 157,
       "totalSpent": 0,
@@ -44,30 +107,12 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "lukenzo_ggx",
-      "balance": 157,
-      "totalEarned": 157,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
-    },
-    {
-      "name": "skibidi_toiiet",
-      "balance": 152,
-      "totalEarned": 157,
-      "totalSpent": 5,
-      "gamesPlayed": 1,
-      "gamesWon": 0,
-      "streak": 1
     }
   ],
   "stats": {
-    "totalPlayers": 7,
-    "totalCirculating": 1094,
-    "totalGames": 1,
+    "totalPlayers": 12,
+    "totalCirculating": 1956,
+    "totalGames": 2,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -94,7 +139,8 @@
     "bj_win": 50,
     "bj_blackjack": 75,
     "bj_push": 25,
+    "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-02-27T18:28:05.424Z"
+  "lastUpdated": "2026-02-27T18:43:46.071Z"
 }
