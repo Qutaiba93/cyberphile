@@ -1,10 +1,10 @@
 {
   "totalSessions": 16,
   "totalDays": 14,
-  "totalSegments": 542,
+  "totalSegments": 545,
   "allTimePeak": 856,
-  "allTimeAvg": 617,
-  "totalMessages": 98439,
+  "allTimeAvg": 616,
+  "totalMessages": 98741,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -70,18 +70,18 @@
       "totalMsgs": 701
     },
     {
-      "name": "Minecraft",
-      "avgViewers": 605,
-      "peakViewers": 729,
-      "sampleCount": 13,
-      "totalMsgs": 2023
-    },
-    {
       "name": "Call of Duty: Modern Warfare 2",
       "avgViewers": 601,
       "peakViewers": 652,
       "sampleCount": 10,
       "totalMsgs": 1817
+    },
+    {
+      "name": "Minecraft",
+      "avgViewers": 589,
+      "peakViewers": 729,
+      "sampleCount": 16,
+      "totalMsgs": 2325
     },
     {
       "name": "Just Chatting",
@@ -115,9 +115,9 @@
       "totalMsgs": 5218
     },
     "15": {
-      "avgViewers": 491,
-      "sampleCount": 55,
-      "totalMsgs": 9904
+      "avgViewers": 492,
+      "sampleCount": 58,
+      "totalMsgs": 10206
     },
     "16": {
       "avgViewers": 595,
@@ -315,14 +315,15 @@
     },
     {
       "date": "2026-02-27",
-      "avgViewers": 296,
-      "peakViewers": 473,
-      "totalMsgs": 1191,
+      "avgViewers": 352,
+      "peakViewers": 542,
+      "totalMsgs": 1493,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-02-27T13:37:52.052Z",
-  "lastUpdated": "2026-02-27T15:08:00.612Z"
+  "lastUpdated": "2026-02-27T15:38:00.622Z"
 }
