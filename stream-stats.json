@@ -1,10 +1,10 @@
 {
   "totalSessions": 17,
   "totalDays": 15,
-  "totalSegments": 626,
+  "totalSegments": 629,
   "allTimePeak": 856,
-  "allTimeAvg": 609,
-  "totalMessages": 116982,
+  "allTimeAvg": 610,
+  "totalMessages": 117522,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -22,10 +22,10 @@
     },
     {
       "name": "IRL",
-      "avgViewers": 712,
+      "avgViewers": 711,
       "peakViewers": 836,
-      "sampleCount": 45,
-      "totalMsgs": 18904
+      "sampleCount": 46,
+      "totalMsgs": 19074
     },
     {
       "name": "The Empty Eyes",
@@ -85,10 +85,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 566,
+      "avgViewers": 567,
       "peakViewers": 809,
-      "sampleCount": 289,
-      "totalMsgs": 52622
+      "sampleCount": 291,
+      "totalMsgs": 52992
     },
     {
       "name": "Resident Evil Requiem",
@@ -142,9 +142,9 @@
       "totalMsgs": 22389
     },
     "19": {
-      "avgViewers": 691,
-      "sampleCount": 78,
-      "totalMsgs": 14772
+      "avgViewers": 690,
+      "sampleCount": 81,
+      "totalMsgs": 15312
     },
     "20": {
       "avgViewers": 671,
@@ -326,9 +326,9 @@
     },
     {
       "date": "2026-02-28",
-      "avgViewers": 580,
-      "peakViewers": 687,
-      "totalMsgs": 6813,
+      "avgViewers": 589,
+      "peakViewers": 713,
+      "totalMsgs": 7353,
       "categories": [
         "Just Chatting",
         "IRL"
@@ -336,5 +336,5 @@
     }
   ],
   "botStartedAt": "2026-02-28T13:34:37.226Z",
-  "lastUpdated": "2026-02-28T19:04:44.042Z"
+  "lastUpdated": "2026-02-28T19:34:44.053Z"
 }
