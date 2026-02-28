@@ -1,10 +1,10 @@
 {
   "totalSessions": 17,
   "totalDays": 15,
-  "totalSegments": 623,
+  "totalSegments": 626,
   "allTimePeak": 856,
   "allTimeAvg": 609,
-  "totalMessages": 116234,
+  "totalMessages": 116982,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -22,10 +22,10 @@
     },
     {
       "name": "IRL",
-      "avgViewers": 715,
+      "avgViewers": 712,
       "peakViewers": 836,
-      "sampleCount": 42,
-      "totalMsgs": 18156
+      "sampleCount": 45,
+      "totalMsgs": 18904
     },
     {
       "name": "The Empty Eyes",
@@ -137,9 +137,9 @@
       "totalMsgs": 13936
     },
     "18": {
-      "avgViewers": 662,
-      "sampleCount": 79,
-      "totalMsgs": 21641
+      "avgViewers": 663,
+      "sampleCount": 82,
+      "totalMsgs": 22389
     },
     "19": {
       "avgViewers": 691,
@@ -326,9 +326,9 @@
     },
     {
       "date": "2026-02-28",
-      "avgViewers": 568,
-      "peakViewers": 685,
-      "totalMsgs": 6065,
+      "avgViewers": 580,
+      "peakViewers": 687,
+      "totalMsgs": 6813,
       "categories": [
         "Just Chatting",
         "IRL"
@@ -336,5 +336,5 @@
     }
   ],
   "botStartedAt": "2026-02-28T13:34:37.226Z",
-  "lastUpdated": "2026-02-28T18:34:44.027Z"
+  "lastUpdated": "2026-02-28T19:04:44.042Z"
 }
