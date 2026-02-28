@@ -1,10 +1,10 @@
 {
   "totalSessions": 17,
   "totalDays": 15,
-  "totalSegments": 637,
+  "totalSegments": 640,
   "allTimePeak": 856,
-  "allTimeAvg": 611,
-  "totalMessages": 119463,
+  "allTimeAvg": 612,
+  "totalMessages": 120924,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -15,10 +15,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 737,
+      "avgViewers": 738,
       "peakViewers": 856,
-      "sampleCount": 70,
-      "totalMsgs": 14128
+      "sampleCount": 71,
+      "totalMsgs": 14667
     },
     {
       "name": "IRL",
@@ -85,10 +85,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 567,
-      "peakViewers": 809,
-      "sampleCount": 291,
-      "totalMsgs": 52992
+      "avgViewers": 569,
+      "peakViewers": 855,
+      "sampleCount": 293,
+      "totalMsgs": 53914
     },
     {
       "name": "Resident Evil Requiem",
@@ -147,14 +147,14 @@
       "totalMsgs": 15970
     },
     "20": {
-      "avgViewers": 677,
-      "sampleCount": 71,
-      "totalMsgs": 16433
+      "avgViewers": 679,
+      "sampleCount": 72,
+      "totalMsgs": 16972
     },
     "21": {
-      "avgViewers": 659,
-      "sampleCount": 62,
-      "totalMsgs": 9658
+      "avgViewers": 665,
+      "sampleCount": 64,
+      "totalMsgs": 10580
     },
     "22": {
       "avgViewers": 668,
@@ -326,9 +326,9 @@
     },
     {
       "date": "2026-02-28",
-      "avgViewers": 620,
-      "peakViewers": 762,
-      "totalMsgs": 9294,
+      "avgViewers": 636,
+      "peakViewers": 855,
+      "totalMsgs": 10755,
       "categories": [
         "Just Chatting",
         "IRL",
@@ -337,5 +337,5 @@
     }
   ],
   "botStartedAt": "2026-02-28T20:23:31.663Z",
-  "lastUpdated": "2026-02-28T20:53:31.747Z"
+  "lastUpdated": "2026-02-28T21:23:31.750Z"
 }
