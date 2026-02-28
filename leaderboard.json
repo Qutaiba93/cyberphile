@@ -280,6 +280,15 @@
       "streak": 2
     },
     {
+      "name": "devninja",
+      "balance": 265,
+      "totalEarned": 265,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 2
+    },
+    {
       "name": "gutz11ii",
       "balance": 265,
       "totalEarned": 265,
@@ -397,6 +406,15 @@
       "streak": 2
     },
     {
+      "name": "margret02",
+      "balance": 239,
+      "totalEarned": 239,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 2
+    },
+    {
       "name": "tonymartial",
       "balance": 236,
       "totalEarned": 246,
@@ -431,29 +449,11 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
-    },
-    {
-      "name": "bushybrauz",
-      "balance": 231,
-      "totalEarned": 231,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
-    },
-    {
-      "name": "zherkafanboy",
-      "balance": 231,
-      "totalEarned": 231,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
     }
   ],
   "stats": {
     "totalPlayers": 176,
-    "totalCirculating": 45391,
+    "totalCirculating": 45515,
     "totalGames": 1682,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -486,5 +486,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-02-28T13:35:43.955Z"
+  "lastUpdated": "2026-02-28T14:04:43.956Z"
 }
