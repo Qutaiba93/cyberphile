@@ -1,9 +1,9 @@
 {
-  "totalSessions": 16,
-  "totalDays": 14,
-  "totalSegments": 598,
+  "totalSessions": 17,
+  "totalDays": 15,
+  "totalSegments": 599,
   "allTimePeak": 856,
-  "allTimeAvg": 611,
+  "allTimeAvg": 610,
   "totalMessages": 110169,
   "categories": [
     {
@@ -85,9 +85,9 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 570,
+      "avgViewers": 568,
       "peakViewers": 809,
-      "sampleCount": 278,
+      "sampleCount": 279,
       "totalMsgs": 49704
     },
     {
@@ -117,8 +117,8 @@
       "totalMsgs": 288
     },
     "14": {
-      "avgViewers": 320,
-      "sampleCount": 39,
+      "avgViewers": 317,
+      "sampleCount": 40,
       "totalMsgs": 5218
     },
     "15": {
@@ -168,16 +168,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-02-14",
-      "avgViewers": 600,
-      "peakViewers": 746,
-      "totalMsgs": 8540,
-      "categories": [
-        "Just Chatting",
-        "VALORANT"
-      ]
-    },
     {
       "date": "2026-02-15",
       "avgViewers": 591,
@@ -333,8 +323,17 @@
         "Resident Evil Requiem",
         "Counter-Strike 2"
       ]
+    },
+    {
+      "date": "2026-02-28",
+      "avgViewers": 211,
+      "peakViewers": 211,
+      "totalMsgs": 0,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-02-28T13:34:37.226Z",
-  "lastUpdated": "2026-02-28T14:04:43.955Z"
+  "lastUpdated": "2026-02-28T14:34:43.958Z"
 }
