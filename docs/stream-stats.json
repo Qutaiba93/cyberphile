@@ -1,10 +1,10 @@
 {
   "totalSessions": 17,
   "totalDays": 15,
-  "totalSegments": 629,
+  "totalSegments": 632,
   "allTimePeak": 856,
   "allTimeAvg": 610,
-  "totalMessages": 117522,
+  "totalMessages": 118180,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -15,10 +15,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 736,
+      "avgViewers": 735,
       "peakViewers": 856,
-      "sampleCount": 62,
-      "totalMsgs": 12187
+      "sampleCount": 65,
+      "totalMsgs": 12845
     },
     {
       "name": "IRL",
@@ -142,9 +142,9 @@
       "totalMsgs": 22389
     },
     "19": {
-      "avgViewers": 690,
-      "sampleCount": 81,
-      "totalMsgs": 15312
+      "avgViewers": 691,
+      "sampleCount": 84,
+      "totalMsgs": 15970
     },
     "20": {
       "avgViewers": 671,
@@ -326,15 +326,16 @@
     },
     {
       "date": "2026-02-28",
-      "avgViewers": 589,
-      "peakViewers": 713,
-      "totalMsgs": 7353,
+      "avgViewers": 600,
+      "peakViewers": 741,
+      "totalMsgs": 8011,
       "categories": [
         "Just Chatting",
-        "IRL"
+        "IRL",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-02-28T13:34:37.226Z",
-  "lastUpdated": "2026-02-28T19:34:44.053Z"
+  "lastUpdated": "2026-02-28T20:04:44.053Z"
 }
