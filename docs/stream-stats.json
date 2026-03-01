@@ -1,10 +1,10 @@
 {
   "totalSessions": 18,
   "totalDays": 16,
-  "totalSegments": 681,
+  "totalSegments": 683,
   "allTimePeak": 856,
-  "allTimeAvg": 616,
-  "totalMessages": 131268,
+  "allTimeAvg": 617,
+  "totalMessages": 131515,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -29,10 +29,10 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 663,
+      "avgViewers": 665,
       "peakViewers": 792,
-      "sampleCount": 51,
-      "totalMsgs": 7158
+      "sampleCount": 52,
+      "totalMsgs": 7297
     },
     {
       "name": "The Empty Eyes",
@@ -85,10 +85,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 576,
+      "avgViewers": 577,
       "peakViewers": 855,
-      "sampleCount": 315,
-      "totalMsgs": 59614
+      "sampleCount": 316,
+      "totalMsgs": 59722
     },
     {
       "name": "God of War",
@@ -142,9 +142,9 @@
       "totalMsgs": 23501
     },
     "19": {
-      "avgViewers": 691,
-      "sampleCount": 85,
-      "totalMsgs": 15974
+      "avgViewers": 692,
+      "sampleCount": 87,
+      "totalMsgs": 16221
     },
     "20": {
       "avgViewers": 679,
@@ -325,9 +325,9 @@
     },
     {
       "date": "2026-03-01",
-      "avgViewers": 638,
+      "avgViewers": 645,
       "peakViewers": 800,
-      "totalMsgs": 7103,
+      "totalMsgs": 7350,
       "categories": [
         "Resident Evil Requiem",
         "Just Chatting",
@@ -337,5 +337,5 @@
     }
   ],
   "botStartedAt": "2026-03-01T18:59:57.018Z",
-  "lastUpdated": "2026-03-01T19:00:57.115Z"
+  "lastUpdated": "2026-03-01T19:29:57.113Z"
 }
