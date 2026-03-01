@@ -1,10 +1,10 @@
 {
   "totalSessions": 18,
   "totalDays": 16,
-  "totalSegments": 668,
+  "totalSegments": 671,
   "allTimePeak": 856,
   "allTimeAvg": 615,
-  "totalMessages": 129192,
+  "totalMessages": 129878,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -57,10 +57,10 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 654,
+      "avgViewers": 655,
       "peakViewers": 792,
-      "sampleCount": 43,
-      "totalMsgs": 5535
+      "sampleCount": 44,
+      "totalMsgs": 5862
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -85,10 +85,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 574,
+      "avgViewers": 575,
       "peakViewers": 855,
-      "sampleCount": 310,
-      "totalMsgs": 59161
+      "sampleCount": 312,
+      "totalMsgs": 59520
     },
     {
       "name": "God of War",
@@ -132,9 +132,9 @@
       "totalMsgs": 16242
     },
     "17": {
-      "avgViewers": 653,
-      "sampleCount": 75,
-      "totalMsgs": 14206
+      "avgViewers": 657,
+      "sampleCount": 78,
+      "totalMsgs": 14892
     },
     "18": {
       "avgViewers": 663,
@@ -325,16 +325,17 @@
     },
     {
       "date": "2026-03-01",
-      "avgViewers": 587,
+      "avgViewers": 611,
       "peakViewers": 800,
-      "totalMsgs": 5027,
+      "totalMsgs": 5713,
       "categories": [
         "Resident Evil Requiem",
         "Just Chatting",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Grand Theft Auto V (GTA)"
       ]
     }
   ],
   "botStartedAt": "2026-03-01T14:11:00.627Z",
-  "lastUpdated": "2026-03-01T17:11:08.381Z"
+  "lastUpdated": "2026-03-01T17:41:08.386Z"
 }
