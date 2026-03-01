@@ -1,10 +1,10 @@
 {
-  "totalSessions": 17,
-  "totalDays": 15,
-  "totalSegments": 649,
+  "totalSessions": 18,
+  "totalDays": 16,
+  "totalSegments": 651,
   "allTimePeak": 856,
   "allTimeAvg": 615,
-  "totalMessages": 123836,
+  "totalMessages": 124166,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -57,10 +57,10 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 650,
-      "peakViewers": 779,
-      "sampleCount": 42,
-      "totalMsgs": 5206
+      "avgViewers": 654,
+      "peakViewers": 792,
+      "sampleCount": 43,
+      "totalMsgs": 5535
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -91,18 +91,18 @@
       "totalMsgs": 54831
     },
     {
-      "name": "Resident Evil Requiem",
-      "avgViewers": 551,
-      "peakViewers": 601,
-      "sampleCount": 40,
-      "totalMsgs": 9010
-    },
-    {
       "name": "God of War",
       "avgViewers": 548,
       "peakViewers": 696,
       "sampleCount": 47,
       "totalMsgs": 4326
+    },
+    {
+      "name": "Resident Evil Requiem",
+      "avgViewers": 539,
+      "peakViewers": 601,
+      "sampleCount": 41,
+      "totalMsgs": 9011
     }
   ],
   "hourlyPatterns": {
@@ -117,9 +117,9 @@
       "totalMsgs": 288
     },
     "14": {
-      "avgViewers": 320,
-      "sampleCount": 43,
-      "totalMsgs": 6042
+      "avgViewers": 315,
+      "sampleCount": 44,
+      "totalMsgs": 6043
     },
     "15": {
       "avgViewers": 500,
@@ -157,9 +157,9 @@
       "totalMsgs": 11790
     },
     "22": {
-      "avgViewers": 685,
-      "sampleCount": 39,
-      "totalMsgs": 7958
+      "avgViewers": 687,
+      "sampleCount": 40,
+      "totalMsgs": 8287
     },
     "23": {
       "avgViewers": 671,
@@ -168,19 +168,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-02-15",
-      "avgViewers": 591,
-      "peakViewers": 787,
-      "totalMsgs": 9126,
-      "categories": [
-        "Just Chatting",
-        "Minecraft",
-        "VALORANT",
-        "Chat Roulette",
-        "God of War"
-      ]
-    },
     {
       "date": "2026-02-16",
       "avgViewers": 547,
@@ -326,16 +313,26 @@
     },
     {
       "date": "2026-02-28",
-      "avgViewers": 665,
+      "avgViewers": 668,
       "peakViewers": 855,
-      "totalMsgs": 13667,
+      "totalMsgs": 13996,
       "categories": [
         "Just Chatting",
         "IRL",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Grand Theft Auto V (GTA)"
+      ]
+    },
+    {
+      "date": "2026-03-01",
+      "avgViewers": 70,
+      "peakViewers": 70,
+      "totalMsgs": 1,
+      "categories": [
+        "Resident Evil Requiem"
       ]
     }
   ],
-  "botStartedAt": "2026-02-28T20:23:31.663Z",
-  "lastUpdated": "2026-02-28T22:53:31.775Z"
+  "botStartedAt": "2026-03-01T14:11:00.627Z",
+  "lastUpdated": "2026-03-01T14:12:08.355Z"
 }
