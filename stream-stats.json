@@ -1,10 +1,10 @@
 {
   "totalSessions": 19,
   "totalDays": 17,
-  "totalSegments": 712,
+  "totalSegments": 715,
   "allTimePeak": 856,
   "allTimeAvg": 620,
-  "totalMessages": 137932,
+  "totalMessages": 138958,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -85,10 +85,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 576,
+      "avgViewers": 577,
       "peakViewers": 855,
-      "sampleCount": 326,
-      "totalMsgs": 61703
+      "sampleCount": 329,
+      "totalMsgs": 62729
     },
     {
       "name": "God of War",
@@ -122,14 +122,14 @@
       "totalMsgs": 7590
     },
     "15": {
-      "avgViewers": 513,
-      "sampleCount": 77,
-      "totalMsgs": 14857
+      "avgViewers": 518,
+      "sampleCount": 79,
+      "totalMsgs": 15543
     },
     "16": {
-      "avgViewers": 613,
-      "sampleCount": 77,
-      "totalMsgs": 16242
+      "avgViewers": 614,
+      "sampleCount": 78,
+      "totalMsgs": 16582
     },
     "17": {
       "avgViewers": 659,
@@ -326,14 +326,14 @@
     },
     {
       "date": "2026-03-02",
-      "avgViewers": 519,
-      "peakViewers": 676,
-      "totalMsgs": 1743,
+      "avgViewers": 564,
+      "peakViewers": 708,
+      "totalMsgs": 2769,
       "categories": [
         "Just Chatting"
       ]
     }
   ],
   "botStartedAt": "2026-03-02T14:19:17.686Z",
-  "lastUpdated": "2026-03-02T15:49:26.720Z"
+  "lastUpdated": "2026-03-02T16:19:26.720Z"
 }
