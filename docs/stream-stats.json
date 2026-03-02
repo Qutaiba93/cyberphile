@@ -1,10 +1,10 @@
 {
   "totalSessions": 19,
   "totalDays": 17,
-  "totalSegments": 739,
+  "totalSegments": 742,
   "allTimePeak": 856,
   "allTimeAvg": 625,
-  "totalMessages": 145071,
+  "totalMessages": 145873,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -29,10 +29,10 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 698,
+      "avgViewers": 700,
       "peakViewers": 792,
-      "sampleCount": 80,
-      "totalMsgs": 13919
+      "sampleCount": 83,
+      "totalMsgs": 14721
     },
     {
       "name": "The Empty Eyes",
@@ -147,9 +147,9 @@
       "totalMsgs": 18229
     },
     "20": {
-      "avgViewers": 687,
-      "sampleCount": 79,
-      "totalMsgs": 18568
+      "avgViewers": 689,
+      "sampleCount": 82,
+      "totalMsgs": 19370
     },
     "21": {
       "avgViewers": 681,
@@ -326,9 +326,9 @@
     },
     {
       "date": "2026-03-02",
-      "avgViewers": 696,
+      "avgViewers": 699,
       "peakViewers": 823,
-      "totalMsgs": 8882,
+      "totalMsgs": 9684,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -337,5 +337,5 @@
     }
   ],
   "botStartedAt": "2026-03-02T14:19:17.686Z",
-  "lastUpdated": "2026-03-02T20:19:26.777Z"
+  "lastUpdated": "2026-03-02T20:49:26.781Z"
 }
