@@ -1,10 +1,10 @@
 {
-  "totalSessions": 19,
-  "totalDays": 17,
-  "totalSegments": 742,
+  "totalSessions": 20,
+  "totalDays": 18,
+  "totalSegments": 745,
   "allTimePeak": 856,
   "allTimeAvg": 625,
-  "totalMessages": 145873,
+  "totalMessages": 146513,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -29,10 +29,10 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 700,
-      "peakViewers": 792,
-      "sampleCount": 83,
-      "totalMsgs": 14721
+      "avgViewers": 702,
+      "peakViewers": 803,
+      "sampleCount": 85,
+      "totalMsgs": 15357
     },
     {
       "name": "The Empty Eyes",
@@ -85,10 +85,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 581,
+      "avgViewers": 580,
       "peakViewers": 855,
-      "sampleCount": 338,
-      "totalMsgs": 64992
+      "sampleCount": 339,
+      "totalMsgs": 64996
     },
     {
       "name": "God of War",
@@ -127,9 +127,9 @@
       "totalMsgs": 15543
     },
     "16": {
-      "avgViewers": 621,
-      "sampleCount": 83,
-      "totalMsgs": 17755
+      "avgViewers": 615,
+      "sampleCount": 84,
+      "totalMsgs": 17759
     },
     "17": {
       "avgViewers": 668,
@@ -147,9 +147,9 @@
       "totalMsgs": 18229
     },
     "20": {
-      "avgViewers": 689,
-      "sampleCount": 82,
-      "totalMsgs": 19370
+      "avgViewers": 691,
+      "sampleCount": 84,
+      "totalMsgs": 20006
     },
     "21": {
       "avgViewers": 681,
@@ -168,16 +168,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-02-17",
-      "avgViewers": 423,
-      "peakViewers": 591,
-      "totalMsgs": 1690,
-      "categories": [
-        "Just Chatting",
-        "Call of Duty: Black Ops"
-      ]
-    },
     {
       "date": "2026-02-18",
       "avgViewers": 666,
@@ -326,16 +316,25 @@
     },
     {
       "date": "2026-03-02",
-      "avgViewers": 699,
+      "avgViewers": 704,
       "peakViewers": 823,
-      "totalMsgs": 9684,
+      "totalMsgs": 10320,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
         "Grand Theft Auto V (GTA)"
       ]
+    },
+    {
+      "date": "2026-03-03",
+      "avgViewers": 91,
+      "peakViewers": 91,
+      "totalMsgs": 4,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
-  "botStartedAt": "2026-03-02T14:19:17.686Z",
-  "lastUpdated": "2026-03-02T20:49:26.781Z"
+  "botStartedAt": "2026-03-03T16:46:56.599Z",
+  "lastUpdated": "2026-03-03T16:48:05.084Z"
 }
