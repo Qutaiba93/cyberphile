@@ -1,10 +1,10 @@
 {
   "totalSessions": 21,
   "totalDays": 19,
-  "totalSegments": 808,
+  "totalSegments": 810,
   "allTimePeak": 856,
   "allTimeAvg": 623,
-  "totalMessages": 159388,
+  "totalMessages": 159880,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -36,10 +36,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 677,
+      "avgViewers": 682,
       "peakViewers": 769,
-      "sampleCount": 12,
-      "totalMsgs": 2495
+      "sampleCount": 13,
+      "totalMsgs": 2727
     },
     {
       "name": "The Empty Eyes",
@@ -78,10 +78,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 575,
+      "avgViewers": 576,
       "peakViewers": 855,
-      "sampleCount": 363,
-      "totalMsgs": 70645
+      "sampleCount": 364,
+      "totalMsgs": 70905
     },
     {
       "name": "Minecraft",
@@ -137,9 +137,9 @@
       "totalMsgs": 19668
     },
     "18": {
-      "avgViewers": 674,
-      "sampleCount": 103,
-      "totalMsgs": 27111
+      "avgViewers": 675,
+      "sampleCount": 105,
+      "totalMsgs": 27603
     },
     "19": {
       "avgViewers": 699,
@@ -324,9 +324,9 @@
     },
     {
       "date": "2026-03-04",
-      "avgViewers": 553,
+      "avgViewers": 564,
       "peakViewers": 769,
-      "totalMsgs": 5036,
+      "totalMsgs": 5528,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -336,5 +336,5 @@
     }
   ],
   "botStartedAt": "2026-03-04T18:04:39.957Z",
-  "lastUpdated": "2026-03-04T18:05:40.055Z"
+  "lastUpdated": "2026-03-04T18:34:40.049Z"
 }
