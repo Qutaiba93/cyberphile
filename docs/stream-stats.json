@@ -1,10 +1,10 @@
 {
   "totalSessions": 22,
   "totalDays": 20,
-  "totalSegments": 846,
+  "totalSegments": 849,
   "allTimePeak": 860,
-  "allTimeAvg": 628,
-  "totalMessages": 172786,
+  "allTimeAvg": 629,
+  "totalMessages": 173571,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -31,8 +31,8 @@
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 702,
       "peakViewers": 803,
-      "sampleCount": 106,
-      "totalMsgs": 19431
+      "sampleCount": 108,
+      "totalMsgs": 19945
     },
     {
       "name": "VALORANT",
@@ -87,8 +87,8 @@
       "name": "Just Chatting",
       "avgViewers": 585,
       "peakViewers": 855,
-      "sampleCount": 384,
-      "totalMsgs": 78538
+      "sampleCount": 385,
+      "totalMsgs": 78809
     },
     {
       "name": "Minecraft",
@@ -134,14 +134,14 @@
       "totalMsgs": 18621
     },
     "16": {
-      "avgViewers": 616,
-      "sampleCount": 95,
-      "totalMsgs": 20129
+      "avgViewers": 618,
+      "sampleCount": 97,
+      "totalMsgs": 20736
     },
     "17": {
       "avgViewers": 660,
-      "sampleCount": 98,
-      "totalMsgs": 19668
+      "sampleCount": 99,
+      "totalMsgs": 19846
     },
     "18": {
       "avgViewers": 677,
@@ -333,16 +333,17 @@
     },
     {
       "date": "2026-03-05",
-      "avgViewers": 618,
-      "peakViewers": 690,
-      "totalMsgs": 3125,
+      "avgViewers": 635,
+      "peakViewers": 709,
+      "totalMsgs": 3910,
       "categories": [
         "Minecraft",
         "Just Chatting",
-        "Counter-Strike: Global Offensive"
+        "Counter-Strike: Global Offensive",
+        "Grand Theft Auto V (GTA)"
       ]
     }
   ],
   "botStartedAt": "2026-03-05T14:40:49.386Z",
-  "lastUpdated": "2026-03-05T16:40:58.077Z"
+  "lastUpdated": "2026-03-05T17:10:58.077Z"
 }
