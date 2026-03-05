@@ -1,10 +1,10 @@
 {
   "totalSessions": 22,
   "totalDays": 20,
-  "totalSegments": 843,
+  "totalSegments": 846,
   "allTimePeak": 860,
   "allTimeAvg": 628,
-  "totalMessages": 172056,
+  "totalMessages": 172786,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -63,6 +63,13 @@
       "totalMsgs": 4208
     },
     {
+      "name": "Counter-Strike: Global Offensive",
+      "avgViewers": 638,
+      "peakViewers": 638,
+      "sampleCount": 1,
+      "totalMsgs": 262
+    },
+    {
       "name": "Call of Duty: Black Ops",
       "avgViewers": 628,
       "peakViewers": 695,
@@ -78,10 +85,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 584,
+      "avgViewers": 585,
       "peakViewers": 855,
-      "sampleCount": 382,
-      "totalMsgs": 78070
+      "sampleCount": 384,
+      "totalMsgs": 78538
     },
     {
       "name": "Minecraft",
@@ -127,9 +134,9 @@
       "totalMsgs": 18621
     },
     "16": {
-      "avgViewers": 615,
-      "sampleCount": 92,
-      "totalMsgs": 19399
+      "avgViewers": 616,
+      "sampleCount": 95,
+      "totalMsgs": 20129
     },
     "17": {
       "avgViewers": 660,
@@ -326,15 +333,16 @@
     },
     {
       "date": "2026-03-05",
-      "avgViewers": 600,
-      "peakViewers": 672,
-      "totalMsgs": 2395,
+      "avgViewers": 618,
+      "peakViewers": 690,
+      "totalMsgs": 3125,
       "categories": [
         "Minecraft",
-        "Just Chatting"
+        "Just Chatting",
+        "Counter-Strike: Global Offensive"
       ]
     }
   ],
   "botStartedAt": "2026-03-05T14:40:49.386Z",
-  "lastUpdated": "2026-03-05T16:10:58.076Z"
+  "lastUpdated": "2026-03-05T16:40:58.077Z"
 }
