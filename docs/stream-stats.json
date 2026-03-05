@@ -1,10 +1,10 @@
 {
   "totalSessions": 22,
   "totalDays": 20,
-  "totalSegments": 870,
+  "totalSegments": 873,
   "allTimePeak": 860,
-  "allTimeAvg": 631,
-  "totalMessages": 179608,
+  "allTimeAvg": 632,
+  "totalMessages": 180608,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -85,10 +85,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 589,
+      "avgViewers": 591,
       "peakViewers": 855,
-      "sampleCount": 394,
-      "totalMsgs": 81966
+      "sampleCount": 397,
+      "totalMsgs": 82966
     },
     {
       "name": "Minecraft",
@@ -154,14 +154,14 @@
       "totalMsgs": 24923
     },
     "20": {
-      "avgViewers": 699,
-      "sampleCount": 100,
-      "totalMsgs": 24157
+      "avgViewers": 700,
+      "sampleCount": 102,
+      "totalMsgs": 24780
     },
     "21": {
-      "avgViewers": 693,
-      "sampleCount": 86,
-      "totalMsgs": 16248
+      "avgViewers": 694,
+      "sampleCount": 87,
+      "totalMsgs": 16625
     },
     "22": {
       "avgViewers": 702,
@@ -333,9 +333,9 @@
     },
     {
       "date": "2026-03-05",
-      "avgViewers": 693,
+      "avgViewers": 698,
       "peakViewers": 789,
-      "totalMsgs": 9947,
+      "totalMsgs": 10947,
       "categories": [
         "Minecraft",
         "Just Chatting",
@@ -345,5 +345,5 @@
     }
   ],
   "botStartedAt": "2026-03-05T14:40:49.386Z",
-  "lastUpdated": "2026-03-05T20:40:58.153Z"
+  "lastUpdated": "2026-03-05T21:10:58.156Z"
 }
