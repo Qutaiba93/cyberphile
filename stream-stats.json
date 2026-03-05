@@ -1,10 +1,10 @@
 {
   "totalSessions": 22,
   "totalDays": 20,
-  "totalSegments": 835,
+  "totalSegments": 837,
   "allTimePeak": 860,
   "allTimeAvg": 628,
-  "totalMessages": 169664,
+  "totalMessages": 170172,
   "categories": [
     {
       "name": "Gartic Phone",
@@ -87,8 +87,8 @@
       "name": "Minecraft",
       "avgViewers": 563,
       "peakViewers": 729,
-      "sampleCount": 24,
-      "totalMsgs": 3561
+      "sampleCount": 26,
+      "totalMsgs": 4069
     },
     {
       "name": "God of War",
@@ -117,14 +117,14 @@
       "totalMsgs": 557
     },
     "14": {
-      "avgViewers": 339,
-      "sampleCount": 60,
-      "totalMsgs": 8741
+      "avgViewers": 342,
+      "sampleCount": 61,
+      "totalMsgs": 8911
     },
     "15": {
       "avgViewers": 523,
-      "sampleCount": 85,
-      "totalMsgs": 16646
+      "sampleCount": 86,
+      "totalMsgs": 16984
     },
     "16": {
       "avgViewers": 614,
@@ -326,14 +326,14 @@
     },
     {
       "date": "2026-03-05",
-      "avgViewers": 492,
-      "peakViewers": 492,
-      "totalMsgs": 3,
+      "avgViewers": 534,
+      "peakViewers": 579,
+      "totalMsgs": 511,
       "categories": [
         "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-03-05T14:40:49.386Z",
-  "lastUpdated": "2026-03-05T14:41:58.077Z"
+  "lastUpdated": "2026-03-05T15:10:58.065Z"
 }
