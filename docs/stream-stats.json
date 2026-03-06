@@ -1,17 +1,17 @@
 {
   "totalSessions": 23,
   "totalDays": 21,
-  "totalSegments": 933,
+  "totalSegments": 936,
   "allTimePeak": 903,
-  "allTimeAvg": 637,
-  "totalMessages": 195948,
+  "allTimeAvg": 638,
+  "totalMessages": 196511,
   "categories": [
     {
       "name": "VRChat",
-      "avgViewers": 773,
-      "peakViewers": 773,
-      "sampleCount": 1,
-      "totalMsgs": 300
+      "avgViewers": 771,
+      "peakViewers": 796,
+      "sampleCount": 4,
+      "totalMsgs": 863
     },
     {
       "name": "Gartic Phone",
@@ -178,9 +178,9 @@
       "totalMsgs": 19681
     },
     "22": {
-      "avgViewers": 719,
-      "sampleCount": 58,
-      "totalMsgs": 13631
+      "avgViewers": 721,
+      "sampleCount": 61,
+      "totalMsgs": 14194
     },
     "23": {
       "avgViewers": 694,
@@ -348,9 +348,9 @@
     },
     {
       "date": "2026-03-06",
-      "avgViewers": 679,
+      "avgViewers": 685,
       "peakViewers": 819,
-      "totalMsgs": 9339,
+      "totalMsgs": 9902,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -361,5 +361,5 @@
     }
   ],
   "botStartedAt": "2026-03-06T15:15:36.901Z",
-  "lastUpdated": "2026-03-06T22:15:45.074Z"
+  "lastUpdated": "2026-03-06T22:45:45.079Z"
 }
