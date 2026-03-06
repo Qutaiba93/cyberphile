@@ -1,11 +1,18 @@
 {
   "totalSessions": 23,
   "totalDays": 21,
-  "totalSegments": 930,
+  "totalSegments": 933,
   "allTimePeak": 903,
   "allTimeAvg": 637,
-  "totalMessages": 195248,
+  "totalMessages": 195948,
   "categories": [
+    {
+      "name": "VRChat",
+      "avgViewers": 773,
+      "peakViewers": 773,
+      "sampleCount": 1,
+      "totalMsgs": 300
+    },
     {
       "name": "Gartic Phone",
       "avgViewers": 752,
@@ -84,18 +91,18 @@
       "totalMsgs": 701
     },
     {
+      "name": "Just Chatting",
+      "avgViewers": 601,
+      "peakViewers": 903,
+      "sampleCount": 440,
+      "totalMsgs": 94094
+    },
+    {
       "name": "Call of Duty: Modern Warfare 2",
       "avgViewers": 601,
       "peakViewers": 652,
       "sampleCount": 10,
       "totalMsgs": 1817
-    },
-    {
-      "name": "Just Chatting",
-      "avgViewers": 600,
-      "peakViewers": 903,
-      "sampleCount": 438,
-      "totalMsgs": 93694
     },
     {
       "name": "Minecraft",
@@ -166,14 +173,14 @@
       "totalMsgs": 26441
     },
     "21": {
-      "avgViewers": 703,
-      "sampleCount": 96,
-      "totalMsgs": 19281
+      "avgViewers": 704,
+      "sampleCount": 98,
+      "totalMsgs": 19681
     },
     "22": {
-      "avgViewers": 718,
-      "sampleCount": 57,
-      "totalMsgs": 13331
+      "avgViewers": 719,
+      "sampleCount": 58,
+      "totalMsgs": 13631
     },
     "23": {
       "avgViewers": 694,
@@ -341,17 +348,18 @@
     },
     {
       "date": "2026-03-06",
-      "avgViewers": 671,
+      "avgViewers": 679,
       "peakViewers": 819,
-      "totalMsgs": 8639,
+      "totalMsgs": 9339,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
         "Games + Demos",
-        "Chat Roulette"
+        "Chat Roulette",
+        "VRChat"
       ]
     }
   ],
   "botStartedAt": "2026-03-06T15:15:36.901Z",
-  "lastUpdated": "2026-03-06T21:45:45.071Z"
+  "lastUpdated": "2026-03-06T22:15:45.074Z"
 }
