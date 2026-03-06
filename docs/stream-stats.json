@@ -1,17 +1,17 @@
 {
   "totalSessions": 23,
   "totalDays": 21,
-  "totalSegments": 936,
+  "totalSegments": 939,
   "allTimePeak": 903,
   "allTimeAvg": 638,
-  "totalMessages": 196511,
+  "totalMessages": 197230,
   "categories": [
     {
       "name": "VRChat",
-      "avgViewers": 771,
+      "avgViewers": 772,
       "peakViewers": 796,
-      "sampleCount": 4,
-      "totalMsgs": 863
+      "sampleCount": 5,
+      "totalMsgs": 1057
     },
     {
       "name": "Gartic Phone",
@@ -92,10 +92,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 601,
+      "avgViewers": 602,
       "peakViewers": 903,
-      "sampleCount": 440,
-      "totalMsgs": 94094
+      "sampleCount": 442,
+      "totalMsgs": 94619
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -178,14 +178,14 @@
       "totalMsgs": 19681
     },
     "22": {
-      "avgViewers": 721,
-      "sampleCount": 61,
-      "totalMsgs": 14194
+      "avgViewers": 723,
+      "sampleCount": 63,
+      "totalMsgs": 14650
     },
     "23": {
-      "avgViewers": 694,
-      "sampleCount": 24,
-      "totalMsgs": 3606
+      "avgViewers": 698,
+      "sampleCount": 25,
+      "totalMsgs": 3869
     }
   },
   "dailyHistory": [
@@ -348,9 +348,9 @@
     },
     {
       "date": "2026-03-06",
-      "avgViewers": 685,
+      "avgViewers": 692,
       "peakViewers": 819,
-      "totalMsgs": 9902,
+      "totalMsgs": 10621,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -361,5 +361,5 @@
     }
   ],
   "botStartedAt": "2026-03-06T15:15:36.901Z",
-  "lastUpdated": "2026-03-06T22:45:45.079Z"
+  "lastUpdated": "2026-03-06T23:15:45.087Z"
 }
