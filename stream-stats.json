@@ -1,10 +1,10 @@
 {
   "totalSessions": 23,
   "totalDays": 21,
-  "totalSegments": 939,
+  "totalSegments": 942,
   "allTimePeak": 903,
   "allTimeAvg": 638,
-  "totalMessages": 197230,
+  "totalMessages": 198155,
   "categories": [
     {
       "name": "VRChat",
@@ -61,6 +61,13 @@
       "peakViewers": 841,
       "sampleCount": 38,
       "totalMsgs": 6503
+    },
+    {
+      "name": "God of War Ragnarök",
+      "avgViewers": 666,
+      "peakViewers": 690,
+      "sampleCount": 3,
+      "totalMsgs": 925
     },
     {
       "name": "The Empty Eyes",
@@ -183,9 +190,9 @@
       "totalMsgs": 14650
     },
     "23": {
-      "avgViewers": 698,
-      "sampleCount": 25,
-      "totalMsgs": 3869
+      "avgViewers": 694,
+      "sampleCount": 28,
+      "totalMsgs": 4794
     }
   },
   "dailyHistory": [
@@ -348,18 +355,19 @@
     },
     {
       "date": "2026-03-06",
-      "avgViewers": 692,
+      "avgViewers": 690,
       "peakViewers": 819,
-      "totalMsgs": 10621,
+      "totalMsgs": 11546,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
         "Games + Demos",
         "Chat Roulette",
-        "VRChat"
+        "VRChat",
+        "God of War Ragnarök"
       ]
     }
   ],
   "botStartedAt": "2026-03-06T15:15:36.901Z",
-  "lastUpdated": "2026-03-06T23:15:45.087Z"
+  "lastUpdated": "2026-03-06T23:45:45.097Z"
 }
