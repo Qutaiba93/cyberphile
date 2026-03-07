@@ -1,10 +1,10 @@
 {
-  "totalSessions": 23,
-  "totalDays": 21,
-  "totalSegments": 945,
+  "totalSessions": 24,
+  "totalDays": 22,
+  "totalSegments": 948,
   "allTimePeak": 903,
-  "allTimeAvg": 638,
-  "totalMessages": 198668,
+  "allTimeAvg": 637,
+  "totalMessages": 199209,
   "categories": [
     {
       "name": "VRChat",
@@ -84,13 +84,6 @@
       "totalMsgs": 262
     },
     {
-      "name": "God of War Ragnarök",
-      "avgViewers": 633,
-      "peakViewers": 690,
-      "sampleCount": 6,
-      "totalMsgs": 1438
-    },
-    {
       "name": "Call of Duty: Black Ops",
       "avgViewers": 628,
       "peakViewers": 695,
@@ -98,10 +91,17 @@
       "totalMsgs": 701
     },
     {
+      "name": "God of War Ragnarök",
+      "avgViewers": 623,
+      "peakViewers": 690,
+      "sampleCount": 8,
+      "totalMsgs": 1979
+    },
+    {
       "name": "Just Chatting",
-      "avgViewers": 602,
+      "avgViewers": 601,
       "peakViewers": 903,
-      "sampleCount": 442,
+      "sampleCount": 443,
       "totalMsgs": 94619
     },
     {
@@ -135,13 +135,13 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 586,
-      "sampleCount": 10,
-      "totalMsgs": 1211
+      "avgViewers": 587,
+      "sampleCount": 12,
+      "totalMsgs": 1752
     },
     "13": {
-      "avgViewers": 128,
-      "sampleCount": 8,
+      "avgViewers": 124,
+      "sampleCount": 9,
       "totalMsgs": 557
     },
     "14": {
@@ -196,19 +196,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-02-21",
-      "avgViewers": 638,
-      "peakViewers": 815,
-      "totalMsgs": 8246,
-      "categories": [
-        "Grand Theft Auto V (GTA)",
-        "Just Chatting",
-        "Call of Duty: Black Ops II",
-        "Chat Roulette",
-        "The Empty Eyes"
-      ]
-    },
     {
       "date": "2026-02-22",
       "avgViewers": 677,
@@ -355,9 +342,9 @@
     },
     {
       "date": "2026-03-06",
-      "avgViewers": 685,
+      "avgViewers": 682,
       "peakViewers": 819,
-      "totalMsgs": 12059,
+      "totalMsgs": 12600,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -366,8 +353,17 @@
         "VRChat",
         "God of War Ragnarök"
       ]
+    },
+    {
+      "date": "2026-03-07",
+      "avgViewers": 90,
+      "peakViewers": 90,
+      "totalMsgs": 0,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
-  "botStartedAt": "2026-03-06T15:15:36.901Z",
-  "lastUpdated": "2026-03-07T00:15:45.110Z"
+  "botStartedAt": "2026-03-07T13:13:00.959Z",
+  "lastUpdated": "2026-03-07T13:14:07.653Z"
 }
