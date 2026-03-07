@@ -1,10 +1,10 @@
 {
   "totalSessions": 24,
   "totalDays": 22,
-  "totalSegments": 987,
+  "totalSegments": 990,
   "allTimePeak": 903,
   "allTimeAvg": 639,
-  "totalMessages": 209126,
+  "totalMessages": 209686,
   "categories": [
     {
       "name": "VRChat",
@@ -24,8 +24,8 @@
       "name": "Chat Roulette",
       "avgViewers": 751,
       "peakViewers": 860,
-      "sampleCount": 103,
-      "totalMsgs": 24041
+      "sampleCount": 105,
+      "totalMsgs": 24477
     },
     {
       "name": "Songbattle.io",
@@ -38,8 +38,8 @@
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 709,
       "peakViewers": 811,
-      "sampleCount": 131,
-      "totalMsgs": 25484
+      "sampleCount": 132,
+      "totalMsgs": 25608
     },
     {
       "name": "VALORANT",
@@ -178,13 +178,13 @@
     },
     "19": {
       "avgViewers": 713,
-      "sampleCount": 125,
-      "totalMsgs": 28010
+      "sampleCount": 126,
+      "totalMsgs": 28134
     },
     "20": {
-      "avgViewers": 706,
-      "sampleCount": 108,
-      "totalMsgs": 26441
+      "avgViewers": 707,
+      "sampleCount": 110,
+      "totalMsgs": 26877
     },
     "21": {
       "avgViewers": 704,
@@ -363,17 +363,18 @@
     },
     {
       "date": "2026-03-07",
-      "avgViewers": 657,
+      "avgViewers": 664,
       "peakViewers": 811,
-      "totalMsgs": 9917,
+      "totalMsgs": 10477,
       "categories": [
         "Just Chatting",
         "IRL",
         "Songbattle.io",
-        "Grand Theft Auto V (GTA)"
+        "Grand Theft Auto V (GTA)",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-03-07T15:23:18.007Z",
-  "lastUpdated": "2026-03-07T19:53:18.146Z"
+  "lastUpdated": "2026-03-07T20:23:18.158Z"
 }
