@@ -1,10 +1,10 @@
 {
   "totalSessions": 24,
   "totalDays": 22,
-  "totalSegments": 978,
+  "totalSegments": 981,
   "allTimePeak": 903,
-  "allTimeAvg": 637,
-  "totalMessages": 206749,
+  "allTimeAvg": 638,
+  "totalMessages": 207394,
   "categories": [
     {
       "name": "VRChat",
@@ -36,10 +36,10 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 705,
-      "peakViewers": 803,
-      "sampleCount": 125,
-      "totalMsgs": 23876
+      "avgViewers": 707,
+      "peakViewers": 811,
+      "sampleCount": 128,
+      "totalMsgs": 24521
     },
     {
       "name": "VALORANT",
@@ -172,9 +172,9 @@
       "totalMsgs": 23615
     },
     "18": {
-      "avgViewers": 682,
-      "sampleCount": 122,
-      "totalMsgs": 32045
+      "avgViewers": 685,
+      "sampleCount": 125,
+      "totalMsgs": 32690
     },
     "19": {
       "avgViewers": 710,
@@ -363,9 +363,9 @@
     },
     {
       "date": "2026-03-07",
-      "avgViewers": 621,
-      "peakViewers": 781,
-      "totalMsgs": 7540,
+      "avgViewers": 636,
+      "peakViewers": 811,
+      "totalMsgs": 8185,
       "categories": [
         "Just Chatting",
         "IRL",
@@ -375,5 +375,5 @@
     }
   ],
   "botStartedAt": "2026-03-07T15:23:18.007Z",
-  "lastUpdated": "2026-03-07T18:23:18.128Z"
+  "lastUpdated": "2026-03-07T18:53:18.129Z"
 }
