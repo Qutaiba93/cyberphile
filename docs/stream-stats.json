@@ -1,10 +1,10 @@
 {
   "totalSessions": 24,
   "totalDays": 22,
-  "totalSegments": 990,
+  "totalSegments": 993,
   "allTimePeak": 903,
-  "allTimeAvg": 639,
-  "totalMessages": 209686,
+  "allTimeAvg": 640,
+  "totalMessages": 210263,
   "categories": [
     {
       "name": "VRChat",
@@ -14,18 +14,18 @@
       "totalMsgs": 1057
     },
     {
+      "name": "Chat Roulette",
+      "avgViewers": 753,
+      "peakViewers": 860,
+      "sampleCount": 108,
+      "totalMsgs": 25054
+    },
+    {
       "name": "Gartic Phone",
       "avgViewers": 752,
       "peakViewers": 769,
       "sampleCount": 5,
       "totalMsgs": 620
-    },
-    {
-      "name": "Chat Roulette",
-      "avgViewers": 751,
-      "peakViewers": 860,
-      "sampleCount": 105,
-      "totalMsgs": 24477
     },
     {
       "name": "Songbattle.io",
@@ -182,9 +182,9 @@
       "totalMsgs": 28134
     },
     "20": {
-      "avgViewers": 707,
-      "sampleCount": 110,
-      "totalMsgs": 26877
+      "avgViewers": 710,
+      "sampleCount": 113,
+      "totalMsgs": 27454
     },
     "21": {
       "avgViewers": 704,
@@ -363,9 +363,9 @@
     },
     {
       "date": "2026-03-07",
-      "avgViewers": 664,
-      "peakViewers": 811,
-      "totalMsgs": 10477,
+      "avgViewers": 674,
+      "peakViewers": 832,
+      "totalMsgs": 11054,
       "categories": [
         "Just Chatting",
         "IRL",
@@ -376,5 +376,5 @@
     }
   ],
   "botStartedAt": "2026-03-07T15:23:18.007Z",
-  "lastUpdated": "2026-03-07T20:23:18.158Z"
+  "lastUpdated": "2026-03-07T20:53:18.159Z"
 }
