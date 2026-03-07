@@ -1,10 +1,10 @@
 {
   "totalSessions": 24,
   "totalDays": 22,
-  "totalSegments": 966,
+  "totalSegments": 969,
   "allTimePeak": 903,
   "allTimeAvg": 636,
-  "totalMessages": 203914,
+  "totalMessages": 204753,
   "categories": [
     {
       "name": "VRChat",
@@ -26,6 +26,13 @@
       "peakViewers": 860,
       "sampleCount": 103,
       "totalMsgs": 24041
+    },
+    {
+      "name": "Songbattle.io",
+      "avgViewers": 723,
+      "peakViewers": 734,
+      "sampleCount": 2,
+      "totalMsgs": 615
     },
     {
       "name": "Grand Theft Auto V (GTA)",
@@ -101,8 +108,8 @@
       "name": "Just Chatting",
       "avgViewers": 602,
       "peakViewers": 903,
-      "sampleCount": 451,
-      "totalMsgs": 96122
+      "sampleCount": 452,
+      "totalMsgs": 96346
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -155,9 +162,9 @@
       "totalMsgs": 20513
     },
     "16": {
-      "avgViewers": 620,
-      "sampleCount": 105,
-      "totalMsgs": 22553
+      "avgViewers": 623,
+      "sampleCount": 108,
+      "totalMsgs": 23392
     },
     "17": {
       "avgViewers": 664,
@@ -356,15 +363,16 @@
     },
     {
       "date": "2026-03-07",
-      "avgViewers": 538,
+      "avgViewers": 564,
       "peakViewers": 744,
-      "totalMsgs": 4705,
+      "totalMsgs": 5544,
       "categories": [
         "Just Chatting",
-        "IRL"
+        "IRL",
+        "Songbattle.io"
       ]
     }
   ],
   "botStartedAt": "2026-03-07T15:23:18.007Z",
-  "lastUpdated": "2026-03-07T16:23:18.101Z"
+  "lastUpdated": "2026-03-07T16:53:18.101Z"
 }
