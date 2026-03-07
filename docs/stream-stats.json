@@ -1,10 +1,10 @@
 {
   "totalSessions": 24,
   "totalDays": 22,
-  "totalSegments": 950,
+  "totalSegments": 953,
   "allTimePeak": 903,
   "allTimeAvg": 636,
-  "totalMessages": 199516,
+  "totalMessages": 200159,
   "categories": [
     {
       "name": "VRChat",
@@ -35,18 +35,18 @@
       "totalMsgs": 22825
     },
     {
-      "name": "IRL",
-      "avgViewers": 701,
-      "peakViewers": 836,
-      "sampleCount": 47,
-      "totalMsgs": 19214
-    },
-    {
       "name": "VALORANT",
       "avgViewers": 682,
       "peakViewers": 769,
       "sampleCount": 13,
       "totalMsgs": 2727
+    },
+    {
+      "name": "IRL",
+      "avgViewers": 682,
+      "peakViewers": 836,
+      "sampleCount": 50,
+      "totalMsgs": 19857
     },
     {
       "name": "Games + Demos",
@@ -140,14 +140,14 @@
       "totalMsgs": 1752
     },
     "13": {
-      "avgViewers": 143,
-      "sampleCount": 11,
-      "totalMsgs": 864
+      "avgViewers": 173,
+      "sampleCount": 13,
+      "totalMsgs": 1176
     },
     "14": {
-      "avgViewers": 342,
-      "sampleCount": 61,
-      "totalMsgs": 8911
+      "avgViewers": 344,
+      "sampleCount": 62,
+      "totalMsgs": 9242
     },
     "15": {
       "avgViewers": 519,
@@ -356,9 +356,9 @@
     },
     {
       "date": "2026-03-07",
-      "avgViewers": 181,
-      "peakViewers": 252,
-      "totalMsgs": 307,
+      "avgViewers": 282,
+      "peakViewers": 472,
+      "totalMsgs": 950,
       "categories": [
         "Just Chatting",
         "IRL"
@@ -366,5 +366,5 @@
     }
   ],
   "botStartedAt": "2026-03-07T13:13:00.959Z",
-  "lastUpdated": "2026-03-07T13:43:07.648Z"
+  "lastUpdated": "2026-03-07T14:13:07.653Z"
 }
