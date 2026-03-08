@@ -1,10 +1,10 @@
 {
-  "totalSessions": 24,
-  "totalDays": 22,
-  "totalSegments": 996,
+  "totalSessions": 25,
+  "totalDays": 23,
+  "totalSegments": 1000,
   "allTimePeak": 903,
   "allTimeAvg": 640,
-  "totalMessages": 211341,
+  "totalMessages": 212036,
   "categories": [
     {
       "name": "VRChat",
@@ -56,18 +56,18 @@
       "totalMsgs": 259
     },
     {
+      "name": "Counter-Strike 2",
+      "avgViewers": 680,
+      "peakViewers": 841,
+      "sampleCount": 41,
+      "totalMsgs": 7198
+    },
+    {
       "name": "IRL",
       "avgViewers": 674,
       "peakViewers": 836,
       "sampleCount": 56,
       "totalMsgs": 22276
-    },
-    {
-      "name": "Counter-Strike 2",
-      "avgViewers": 673,
-      "peakViewers": 841,
-      "sampleCount": 38,
-      "totalMsgs": 6503
     },
     {
       "name": "The Empty Eyes",
@@ -98,13 +98,6 @@
       "totalMsgs": 701
     },
     {
-      "name": "God of War Ragnarök",
-      "avgViewers": 623,
-      "peakViewers": 690,
-      "sampleCount": 8,
-      "totalMsgs": 1979
-    },
-    {
       "name": "Just Chatting",
       "avgViewers": 604,
       "peakViewers": 903,
@@ -124,6 +117,13 @@
       "peakViewers": 729,
       "sampleCount": 28,
       "totalMsgs": 4955
+    },
+    {
+      "name": "God of War Ragnarök",
+      "avgViewers": 556,
+      "peakViewers": 690,
+      "sampleCount": 9,
+      "totalMsgs": 1979
     },
     {
       "name": "God of War",
@@ -147,8 +147,8 @@
       "totalMsgs": 1752
     },
     "13": {
-      "avgViewers": 173,
-      "sampleCount": 13,
+      "avgViewers": 162,
+      "sampleCount": 14,
       "totalMsgs": 1176
     },
     "14": {
@@ -187,9 +187,9 @@
       "totalMsgs": 27773
     },
     "21": {
-      "avgViewers": 707,
-      "sampleCount": 100,
-      "totalMsgs": 20440
+      "avgViewers": 708,
+      "sampleCount": 103,
+      "totalMsgs": 21135
     },
     "22": {
       "avgViewers": 723,
@@ -203,18 +203,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-02-22",
-      "avgViewers": 677,
-      "peakViewers": 836,
-      "totalMsgs": 18114,
-      "categories": [
-        "God of War",
-        "Just Chatting",
-        "Chat Roulette",
-        "IRL"
-      ]
-    },
     {
       "date": "2026-02-23",
       "avgViewers": 717,
@@ -363,18 +351,28 @@
     },
     {
       "date": "2026-03-07",
-      "avgViewers": 682,
+      "avgViewers": 687,
       "peakViewers": 832,
-      "totalMsgs": 12132,
+      "totalMsgs": 12827,
       "categories": [
         "Just Chatting",
         "IRL",
         "Songbattle.io",
         "Grand Theft Auto V (GTA)",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Counter-Strike 2"
+      ]
+    },
+    {
+      "date": "2026-03-08",
+      "avgViewers": 18,
+      "peakViewers": 18,
+      "totalMsgs": 0,
+      "categories": [
+        "God of War Ragnarök"
       ]
     }
   ],
-  "botStartedAt": "2026-03-07T15:23:18.007Z",
-  "lastUpdated": "2026-03-07T21:23:18.172Z"
+  "botStartedAt": "2026-03-08T13:14:06.136Z",
+  "lastUpdated": "2026-03-08T13:15:15.062Z"
 }
