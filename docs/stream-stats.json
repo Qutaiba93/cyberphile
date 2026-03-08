@@ -1,10 +1,10 @@
 {
   "totalSessions": 25,
   "totalDays": 23,
-  "totalSegments": 1005,
+  "totalSegments": 1008,
   "allTimePeak": 903,
   "allTimeAvg": 638,
-  "totalMessages": 212584,
+  "totalMessages": 213221,
   "categories": [
     {
       "name": "VRChat",
@@ -36,17 +36,10 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 707,
+      "avgViewers": 705,
       "peakViewers": 811,
-      "sampleCount": 133,
-      "totalMsgs": 25810
-    },
-    {
-      "name": "VALORANT",
-      "avgViewers": 682,
-      "peakViewers": 769,
-      "sampleCount": 13,
-      "totalMsgs": 2727
+      "sampleCount": 134,
+      "totalMsgs": 26002
     },
     {
       "name": "Games + Demos",
@@ -82,6 +75,13 @@
       "peakViewers": 725,
       "sampleCount": 30,
       "totalMsgs": 4208
+    },
+    {
+      "name": "VALORANT",
+      "avgViewers": 656,
+      "peakViewers": 769,
+      "sampleCount": 15,
+      "totalMsgs": 3172
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -152,9 +152,9 @@
       "totalMsgs": 1522
     },
     "14": {
-      "avgViewers": 363,
-      "sampleCount": 68,
-      "totalMsgs": 11650
+      "avgViewers": 368,
+      "sampleCount": 71,
+      "totalMsgs": 12287
     },
     "15": {
       "avgViewers": 528,
@@ -365,16 +365,17 @@
     },
     {
       "date": "2026-03-08",
-      "avgViewers": 241,
-      "peakViewers": 384,
-      "totalMsgs": 548,
+      "avgViewers": 317,
+      "peakViewers": 514,
+      "totalMsgs": 1185,
       "categories": [
         "God of War Ragnarök",
         "Just Chatting",
-        "Grand Theft Auto V (GTA)"
+        "Grand Theft Auto V (GTA)",
+        "VALORANT"
       ]
     }
   ],
   "botStartedAt": "2026-03-08T13:14:06.136Z",
-  "lastUpdated": "2026-03-08T14:14:15.067Z"
+  "lastUpdated": "2026-03-08T14:44:15.081Z"
 }
