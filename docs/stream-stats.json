@@ -1,10 +1,10 @@
 {
   "totalSessions": 25,
   "totalDays": 23,
-  "totalSegments": 1054,
+  "totalSegments": 1057,
   "allTimePeak": 903,
   "allTimeAvg": 644,
-  "totalMessages": 227311,
+  "totalMessages": 228217,
   "categories": [
     {
       "name": "VRChat",
@@ -36,10 +36,10 @@
     },
     {
       "name": "Rocket League",
-      "avgViewers": 752,
+      "avgViewers": 751,
       "peakViewers": 756,
-      "sampleCount": 3,
-      "totalMsgs": 883
+      "sampleCount": 4,
+      "totalMsgs": 1328
     },
     {
       "name": "Songbattle.io",
@@ -108,8 +108,8 @@
       "name": "Just Chatting",
       "avgViewers": 609,
       "peakViewers": 903,
-      "sampleCount": 483,
-      "totalMsgs": 104497
+      "sampleCount": 485,
+      "totalMsgs": 104958
     },
     {
       "name": "ARC Raiders",
@@ -206,9 +206,9 @@
       "totalMsgs": 23106
     },
     "22": {
-      "avgViewers": 724,
-      "sampleCount": 65,
-      "totalMsgs": 15215
+      "avgViewers": 725,
+      "sampleCount": 68,
+      "totalMsgs": 16121
     },
     "23": {
       "avgViewers": 688,
@@ -379,9 +379,9 @@
     },
     {
       "date": "2026-03-08",
-      "avgViewers": 701,
+      "avgViewers": 704,
       "peakViewers": 902,
-      "totalMsgs": 15275,
+      "totalMsgs": 16181,
       "categories": [
         "God of War Ragnarök",
         "Just Chatting",
@@ -395,5 +395,5 @@
     }
   ],
   "botStartedAt": "2026-03-08T19:23:41.106Z",
-  "lastUpdated": "2026-03-08T22:23:41.220Z"
+  "lastUpdated": "2026-03-08T22:53:41.236Z"
 }
