@@ -1,10 +1,10 @@
 {
   "totalSessions": 25,
   "totalDays": 23,
-  "totalSegments": 1008,
+  "totalSegments": 1011,
   "allTimePeak": 903,
-  "allTimeAvg": 638,
-  "totalMessages": 213221,
+  "allTimeAvg": 637,
+  "totalMessages": 213861,
   "categories": [
     {
       "name": "VRChat",
@@ -78,10 +78,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 656,
+      "avgViewers": 642,
       "peakViewers": 769,
-      "sampleCount": 15,
-      "totalMsgs": 3172
+      "sampleCount": 17,
+      "totalMsgs": 3575
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -101,8 +101,8 @@
       "name": "Just Chatting",
       "avgViewers": 601,
       "peakViewers": 903,
-      "sampleCount": 462,
-      "totalMsgs": 98263
+      "sampleCount": 463,
+      "totalMsgs": 98500
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -152,14 +152,14 @@
       "totalMsgs": 1522
     },
     "14": {
-      "avgViewers": 368,
-      "sampleCount": 71,
-      "totalMsgs": 12287
+      "avgViewers": 372,
+      "sampleCount": 73,
+      "totalMsgs": 12690
     },
     "15": {
-      "avgViewers": 528,
-      "sampleCount": 102,
-      "totalMsgs": 20513
+      "avgViewers": 529,
+      "sampleCount": 103,
+      "totalMsgs": 20750
     },
     "16": {
       "avgViewers": 623,
@@ -365,9 +365,9 @@
     },
     {
       "date": "2026-03-08",
-      "avgViewers": 317,
-      "peakViewers": 514,
-      "totalMsgs": 1185,
+      "avgViewers": 378,
+      "peakViewers": 603,
+      "totalMsgs": 1825,
       "categories": [
         "God of War Ragnarök",
         "Just Chatting",
@@ -377,5 +377,5 @@
     }
   ],
   "botStartedAt": "2026-03-08T13:14:06.136Z",
-  "lastUpdated": "2026-03-08T14:44:15.081Z"
+  "lastUpdated": "2026-03-08T15:14:15.090Z"
 }
