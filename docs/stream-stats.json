@@ -1,24 +1,24 @@
 {
   "totalSessions": 25,
   "totalDays": 23,
-  "totalSegments": 1048,
+  "totalSegments": 1051,
   "allTimePeak": 903,
   "allTimeAvg": 643,
-  "totalMessages": 225556,
+  "totalMessages": 226428,
   "categories": [
-    {
-      "name": "Games + Demos",
-      "avgViewers": 781,
-      "peakViewers": 876,
-      "sampleCount": 5,
-      "totalMsgs": 2188
-    },
     {
       "name": "VRChat",
       "avgViewers": 772,
       "peakViewers": 796,
       "sampleCount": 5,
       "totalMsgs": 1057
+    },
+    {
+      "name": "Games + Demos",
+      "avgViewers": 766,
+      "peakViewers": 876,
+      "sampleCount": 7,
+      "totalMsgs": 2696
     },
     {
       "name": "Chat Roulette",
@@ -99,10 +99,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 608,
+      "avgViewers": 609,
       "peakViewers": 903,
-      "sampleCount": 482,
-      "totalMsgs": 104133
+      "sampleCount": 483,
+      "totalMsgs": 104497
     },
     {
       "name": "ARC Raiders",
@@ -194,9 +194,9 @@
       "totalMsgs": 30178
     },
     "21": {
-      "avgViewers": 709,
-      "sampleCount": 105,
-      "totalMsgs": 21916
+      "avgViewers": 710,
+      "sampleCount": 108,
+      "totalMsgs": 22788
     },
     "22": {
       "avgViewers": 723,
@@ -372,9 +372,9 @@
     },
     {
       "date": "2026-03-08",
-      "avgViewers": 696,
+      "avgViewers": 698,
       "peakViewers": 902,
-      "totalMsgs": 13520,
+      "totalMsgs": 14392,
       "categories": [
         "God of War Ragnarök",
         "Just Chatting",
@@ -387,5 +387,5 @@
     }
   ],
   "botStartedAt": "2026-03-08T19:23:41.106Z",
-  "lastUpdated": "2026-03-08T21:23:41.220Z"
+  "lastUpdated": "2026-03-08T21:53:41.220Z"
 }
