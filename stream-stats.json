@@ -1,10 +1,10 @@
 {
   "totalSessions": 25,
   "totalDays": 23,
-  "totalSegments": 1042,
+  "totalSegments": 1045,
   "allTimePeak": 903,
-  "allTimeAvg": 642,
-  "totalMessages": 223069,
+  "allTimeAvg": 643,
+  "totalMessages": 223974,
   "categories": [
     {
       "name": "VRChat",
@@ -19,6 +19,13 @@
       "peakViewers": 902,
       "sampleCount": 120,
       "totalMsgs": 28868
+    },
+    {
+      "name": "Games + Demos",
+      "avgViewers": 762,
+      "peakViewers": 842,
+      "sampleCount": 2,
+      "totalMsgs": 606
     },
     {
       "name": "Gartic Phone",
@@ -40,13 +47,6 @@
       "peakViewers": 811,
       "sampleCount": 136,
       "totalMsgs": 26401
-    },
-    {
-      "name": "Games + Demos",
-      "avgViewers": 681,
-      "peakViewers": 681,
-      "sampleCount": 1,
-      "totalMsgs": 259
     },
     {
       "name": "Counter-Strike 2",
@@ -98,18 +98,18 @@
       "totalMsgs": 701
     },
     {
+      "name": "Just Chatting",
+      "avgViewers": 608,
+      "peakViewers": 903,
+      "sampleCount": 482,
+      "totalMsgs": 104133
+    },
+    {
       "name": "ARC Raiders",
       "avgViewers": 608,
       "peakViewers": 612,
       "sampleCount": 2,
       "totalMsgs": 608
-    },
-    {
-      "name": "Just Chatting",
-      "avgViewers": 607,
-      "peakViewers": 903,
-      "sampleCount": 480,
-      "totalMsgs": 103575
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -189,9 +189,9 @@
       "totalMsgs": 29571
     },
     "20": {
-      "avgViewers": 714,
-      "sampleCount": 116,
-      "totalMsgs": 28472
+      "avgViewers": 718,
+      "sampleCount": 119,
+      "totalMsgs": 29377
     },
     "21": {
       "avgViewers": 708,
@@ -372,19 +372,20 @@
     },
     {
       "date": "2026-03-08",
-      "avgViewers": 678,
+      "avgViewers": 690,
       "peakViewers": 902,
-      "totalMsgs": 11033,
+      "totalMsgs": 11938,
       "categories": [
         "God of War Ragnarök",
         "Just Chatting",
         "Grand Theft Auto V (GTA)",
         "VALORANT",
         "ARC Raiders",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Games + Demos"
       ]
     }
   ],
   "botStartedAt": "2026-03-08T19:23:41.106Z",
-  "lastUpdated": "2026-03-08T20:23:41.205Z"
+  "lastUpdated": "2026-03-08T20:53:41.219Z"
 }
