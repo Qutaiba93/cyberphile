@@ -1,10 +1,10 @@
 {
   "totalSessions": 25,
   "totalDays": 23,
-  "totalSegments": 1026,
+  "totalSegments": 1029,
   "allTimePeak": 903,
   "allTimeAvg": 639,
-  "totalMessages": 218149,
+  "totalMessages": 218980,
   "categories": [
     {
       "name": "VRChat",
@@ -106,10 +106,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 605,
+      "avgViewers": 606,
       "peakViewers": 903,
-      "sampleCount": 474,
-      "totalMsgs": 101781
+      "sampleCount": 477,
+      "totalMsgs": 102612
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -174,14 +174,14 @@
       "totalMsgs": 25924
     },
     "17": {
-      "avgViewers": 674,
-      "sampleCount": 120,
-      "totalMsgs": 24525
+      "avgViewers": 676,
+      "sampleCount": 122,
+      "totalMsgs": 25063
     },
     "18": {
-      "avgViewers": 685,
-      "sampleCount": 126,
-      "totalMsgs": 33013
+      "avgViewers": 686,
+      "sampleCount": 127,
+      "totalMsgs": 33306
     },
     "19": {
       "avgViewers": 713,
@@ -372,9 +372,9 @@
     },
     {
       "date": "2026-03-08",
-      "avgViewers": 573,
+      "avgViewers": 597,
       "peakViewers": 841,
-      "totalMsgs": 6113,
+      "totalMsgs": 6944,
       "categories": [
         "God of War Ragnarök",
         "Just Chatting",
@@ -385,5 +385,5 @@
     }
   ],
   "botStartedAt": "2026-03-08T13:14:06.136Z",
-  "lastUpdated": "2026-03-08T17:44:18.162Z"
+  "lastUpdated": "2026-03-08T18:14:18.171Z"
 }
