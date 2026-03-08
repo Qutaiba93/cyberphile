@@ -1,10 +1,10 @@
 {
   "totalSessions": 25,
   "totalDays": 23,
-  "totalSegments": 1051,
+  "totalSegments": 1054,
   "allTimePeak": 903,
-  "allTimeAvg": 643,
-  "totalMessages": 226428,
+  "allTimeAvg": 644,
+  "totalMessages": 227311,
   "categories": [
     {
       "name": "VRChat",
@@ -33,6 +33,13 @@
       "peakViewers": 769,
       "sampleCount": 5,
       "totalMsgs": 620
+    },
+    {
+      "name": "Rocket League",
+      "avgViewers": 752,
+      "peakViewers": 756,
+      "sampleCount": 3,
+      "totalMsgs": 883
     },
     {
       "name": "Songbattle.io",
@@ -195,13 +202,13 @@
     },
     "21": {
       "avgViewers": 710,
-      "sampleCount": 108,
-      "totalMsgs": 22788
+      "sampleCount": 109,
+      "totalMsgs": 23106
     },
     "22": {
-      "avgViewers": 723,
-      "sampleCount": 63,
-      "totalMsgs": 14650
+      "avgViewers": 724,
+      "sampleCount": 65,
+      "totalMsgs": 15215
     },
     "23": {
       "avgViewers": 688,
@@ -372,9 +379,9 @@
     },
     {
       "date": "2026-03-08",
-      "avgViewers": 698,
+      "avgViewers": 701,
       "peakViewers": 902,
-      "totalMsgs": 14392,
+      "totalMsgs": 15275,
       "categories": [
         "God of War Ragnarök",
         "Just Chatting",
@@ -382,10 +389,11 @@
         "VALORANT",
         "ARC Raiders",
         "Chat Roulette",
-        "Games + Demos"
+        "Games + Demos",
+        "Rocket League"
       ]
     }
   ],
   "botStartedAt": "2026-03-08T19:23:41.106Z",
-  "lastUpdated": "2026-03-08T21:53:41.220Z"
+  "lastUpdated": "2026-03-08T22:23:41.220Z"
 }
