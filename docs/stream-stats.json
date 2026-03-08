@@ -1,10 +1,10 @@
 {
   "totalSessions": 25,
   "totalDays": 23,
-  "totalSegments": 1032,
+  "totalSegments": 1035,
   "allTimePeak": 903,
   "allTimeAvg": 640,
-  "totalMessages": 219943,
+  "totalMessages": 221386,
   "categories": [
     {
       "name": "VRChat",
@@ -15,10 +15,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 754,
-      "peakViewers": 860,
-      "sampleCount": 110,
-      "totalMsgs": 25742
+      "avgViewers": 756,
+      "peakViewers": 873,
+      "sampleCount": 113,
+      "totalMsgs": 27185
     },
     {
       "name": "Gartic Phone",
@@ -179,14 +179,14 @@
       "totalMsgs": 25063
     },
     "18": {
-      "avgViewers": 689,
-      "sampleCount": 130,
-      "totalMsgs": 34269
+      "avgViewers": 691,
+      "sampleCount": 132,
+      "totalMsgs": 35259
     },
     "19": {
-      "avgViewers": 713,
-      "sampleCount": 126,
-      "totalMsgs": 28134
+      "avgViewers": 714,
+      "sampleCount": 127,
+      "totalMsgs": 28587
     },
     "20": {
       "avgViewers": 711,
@@ -372,18 +372,19 @@
     },
     {
       "date": "2026-03-08",
-      "avgViewers": 616,
-      "peakViewers": 841,
-      "totalMsgs": 7907,
+      "avgViewers": 636,
+      "peakViewers": 873,
+      "totalMsgs": 9350,
       "categories": [
         "God of War Ragnarök",
         "Just Chatting",
         "Grand Theft Auto V (GTA)",
         "VALORANT",
-        "ARC Raiders"
+        "ARC Raiders",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-03-08T13:14:06.136Z",
-  "lastUpdated": "2026-03-08T18:44:18.183Z"
+  "lastUpdated": "2026-03-08T19:14:18.198Z"
 }
