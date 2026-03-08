@@ -1,11 +1,18 @@
 {
   "totalSessions": 25,
   "totalDays": 23,
-  "totalSegments": 1045,
+  "totalSegments": 1048,
   "allTimePeak": 903,
   "allTimeAvg": 643,
-  "totalMessages": 223974,
+  "totalMessages": 225556,
   "categories": [
+    {
+      "name": "Games + Demos",
+      "avgViewers": 781,
+      "peakViewers": 876,
+      "sampleCount": 5,
+      "totalMsgs": 2188
+    },
     {
       "name": "VRChat",
       "avgViewers": 772,
@@ -19,13 +26,6 @@
       "peakViewers": 902,
       "sampleCount": 120,
       "totalMsgs": 28868
-    },
-    {
-      "name": "Games + Demos",
-      "avgViewers": 762,
-      "peakViewers": 842,
-      "sampleCount": 2,
-      "totalMsgs": 606
     },
     {
       "name": "Gartic Phone",
@@ -189,14 +189,14 @@
       "totalMsgs": 29571
     },
     "20": {
-      "avgViewers": 718,
-      "sampleCount": 119,
-      "totalMsgs": 29377
+      "avgViewers": 719,
+      "sampleCount": 120,
+      "totalMsgs": 30178
     },
     "21": {
-      "avgViewers": 708,
-      "sampleCount": 103,
-      "totalMsgs": 21135
+      "avgViewers": 709,
+      "sampleCount": 105,
+      "totalMsgs": 21916
     },
     "22": {
       "avgViewers": 723,
@@ -372,9 +372,9 @@
     },
     {
       "date": "2026-03-08",
-      "avgViewers": 690,
+      "avgViewers": 696,
       "peakViewers": 902,
-      "totalMsgs": 11938,
+      "totalMsgs": 13520,
       "categories": [
         "God of War Ragnarök",
         "Just Chatting",
@@ -387,5 +387,5 @@
     }
   ],
   "botStartedAt": "2026-03-08T19:23:41.106Z",
-  "lastUpdated": "2026-03-08T20:53:41.219Z"
+  "lastUpdated": "2026-03-08T21:23:41.220Z"
 }
