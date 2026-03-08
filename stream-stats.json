@@ -1,10 +1,10 @@
 {
   "totalSessions": 25,
   "totalDays": 23,
-  "totalSegments": 1014,
+  "totalSegments": 1017,
   "allTimePeak": 903,
   "allTimeAvg": 637,
-  "totalMessages": 214613,
+  "totalMessages": 215267,
   "categories": [
     {
       "name": "VRChat",
@@ -38,8 +38,8 @@
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 705,
       "peakViewers": 811,
-      "sampleCount": 134,
-      "totalMsgs": 26002
+      "sampleCount": 135,
+      "totalMsgs": 26203
     },
     {
       "name": "Games + Demos",
@@ -106,10 +106,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 601,
+      "avgViewers": 602,
       "peakViewers": 903,
-      "sampleCount": 464,
-      "totalMsgs": 98644
+      "sampleCount": 466,
+      "totalMsgs": 99097
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -164,14 +164,14 @@
       "totalMsgs": 12690
     },
     "15": {
-      "avgViewers": 532,
-      "sampleCount": 106,
-      "totalMsgs": 21502
+      "avgViewers": 534,
+      "sampleCount": 108,
+      "totalMsgs": 21955
     },
     "16": {
-      "avgViewers": 623,
-      "sampleCount": 109,
-      "totalMsgs": 23751
+      "avgViewers": 624,
+      "sampleCount": 110,
+      "totalMsgs": 23952
     },
     "17": {
       "avgViewers": 669,
@@ -372,9 +372,9 @@
     },
     {
       "date": "2026-03-08",
-      "avgViewers": 427,
-      "peakViewers": 650,
-      "totalMsgs": 2577,
+      "avgViewers": 468,
+      "peakViewers": 681,
+      "totalMsgs": 3231,
       "categories": [
         "God of War Ragnarök",
         "Just Chatting",
@@ -385,5 +385,5 @@
     }
   ],
   "botStartedAt": "2026-03-08T13:14:06.136Z",
-  "lastUpdated": "2026-03-08T15:44:15.092Z"
+  "lastUpdated": "2026-03-08T16:14:15.105Z"
 }
