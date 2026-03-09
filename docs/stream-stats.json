@@ -1,10 +1,10 @@
 {
   "totalSessions": 26,
   "totalDays": 24,
-  "totalSegments": 1062,
+  "totalSegments": 1065,
   "allTimePeak": 903,
-  "allTimeAvg": 643,
-  "totalMessages": 228794,
+  "allTimeAvg": 642,
+  "totalMessages": 229213,
   "categories": [
     {
       "name": "VRChat",
@@ -33,13 +33,6 @@
       "peakViewers": 769,
       "sampleCount": 5,
       "totalMsgs": 620
-    },
-    {
-      "name": "Rocket League",
-      "avgViewers": 751,
-      "peakViewers": 756,
-      "sampleCount": 4,
-      "totalMsgs": 1328
     },
     {
       "name": "Songbattle.io",
@@ -126,6 +119,13 @@
       "totalMsgs": 1817
     },
     {
+      "name": "Rocket League",
+      "avgViewers": 567,
+      "peakViewers": 756,
+      "sampleCount": 7,
+      "totalMsgs": 1747
+    },
+    {
       "name": "Minecraft",
       "avgViewers": 566,
       "peakViewers": 729,
@@ -166,9 +166,9 @@
       "totalMsgs": 1523
     },
     "14": {
-      "avgViewers": 368,
-      "sampleCount": 75,
-      "totalMsgs": 12842
+      "avgViewers": 366,
+      "sampleCount": 78,
+      "totalMsgs": 13261
     },
     "15": {
       "avgViewers": 534,
@@ -383,14 +383,15 @@
     },
     {
       "date": "2026-03-09",
-      "avgViewers": 155,
-      "peakViewers": 259,
-      "totalMsgs": 153,
+      "avgViewers": 239,
+      "peakViewers": 373,
+      "totalMsgs": 572,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Rocket League"
       ]
     }
   ],
   "botStartedAt": "2026-03-09T13:52:56.491Z",
-  "lastUpdated": "2026-03-09T14:23:04.975Z"
+  "lastUpdated": "2026-03-09T14:53:04.988Z"
 }
