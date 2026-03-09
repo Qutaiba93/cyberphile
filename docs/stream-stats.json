@@ -1,10 +1,10 @@
 {
   "totalSessions": 26,
   "totalDays": 24,
-  "totalSegments": 1080,
+  "totalSegments": 1083,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 231988,
+  "totalMessages": 232728,
   "categories": [
     {
       "name": "VRChat",
@@ -63,6 +63,13 @@
       "totalMsgs": 22276
     },
     {
+      "name": "ARC Raiders",
+      "avgViewers": 665,
+      "peakViewers": 706,
+      "sampleCount": 9,
+      "totalMsgs": 1959
+    },
+    {
       "name": "The Empty Eyes",
       "avgViewers": 663,
       "peakViewers": 677,
@@ -75,13 +82,6 @@
       "peakViewers": 725,
       "sampleCount": 30,
       "totalMsgs": 4208
-    },
-    {
-      "name": "ARC Raiders",
-      "avgViewers": 659,
-      "peakViewers": 701,
-      "sampleCount": 8,
-      "totalMsgs": 1785
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -106,10 +106,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 606,
+      "avgViewers": 607,
       "peakViewers": 903,
-      "sampleCount": 494,
-      "totalMsgs": 106259
+      "sampleCount": 496,
+      "totalMsgs": 106825
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -181,9 +181,9 @@
       "totalMsgs": 27208
     },
     "17": {
-      "avgViewers": 677,
-      "sampleCount": 124,
-      "totalMsgs": 25472
+      "avgViewers": 678,
+      "sampleCount": 127,
+      "totalMsgs": 26212
     },
     "18": {
       "avgViewers": 691,
@@ -383,9 +383,9 @@
     },
     {
       "date": "2026-03-09",
-      "avgViewers": 494,
-      "peakViewers": 701,
-      "totalMsgs": 3347,
+      "avgViewers": 523,
+      "peakViewers": 739,
+      "totalMsgs": 4087,
       "categories": [
         "Just Chatting",
         "Rocket League",
@@ -395,5 +395,5 @@
     }
   ],
   "botStartedAt": "2026-03-09T13:52:56.491Z",
-  "lastUpdated": "2026-03-09T17:23:05.014Z"
+  "lastUpdated": "2026-03-09T17:53:05.021Z"
 }
