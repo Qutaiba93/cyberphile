@@ -1,10 +1,10 @@
 {
-  "totalSessions": 25,
-  "totalDays": 23,
-  "totalSegments": 1057,
+  "totalSessions": 26,
+  "totalDays": 24,
+  "totalSegments": 1060,
   "allTimePeak": 903,
-  "allTimeAvg": 644,
-  "totalMessages": 228217,
+  "allTimeAvg": 643,
+  "totalMessages": 228642,
   "categories": [
     {
       "name": "VRChat",
@@ -108,8 +108,8 @@
       "name": "Just Chatting",
       "avgViewers": 609,
       "peakViewers": 903,
-      "sampleCount": 485,
-      "totalMsgs": 104958
+      "sampleCount": 488,
+      "totalMsgs": 105383
     },
     {
       "name": "ARC Raiders",
@@ -161,9 +161,9 @@
       "totalMsgs": 1752
     },
     "13": {
-      "avgViewers": 184,
-      "sampleCount": 18,
-      "totalMsgs": 1522
+      "avgViewers": 176,
+      "sampleCount": 19,
+      "totalMsgs": 1523
     },
     "14": {
       "avgViewers": 372,
@@ -206,29 +206,17 @@
       "totalMsgs": 23106
     },
     "22": {
-      "avgViewers": 725,
-      "sampleCount": 68,
-      "totalMsgs": 16121
+      "avgViewers": 726,
+      "sampleCount": 69,
+      "totalMsgs": 16377
     },
     "23": {
-      "avgViewers": 688,
-      "sampleCount": 30,
-      "totalMsgs": 5076
+      "avgViewers": 690,
+      "sampleCount": 31,
+      "totalMsgs": 5244
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-02-23",
-      "avgViewers": 717,
-      "peakViewers": 856,
-      "totalMsgs": 10781,
-      "categories": [
-        "Just Chatting",
-        "VALORANT",
-        "Chat Roulette",
-        "Grand Theft Auto V (GTA)"
-      ]
-    },
     {
       "date": "2026-02-24",
       "avgViewers": 683,
@@ -379,9 +367,9 @@
     },
     {
       "date": "2026-03-08",
-      "avgViewers": 704,
+      "avgViewers": 705,
       "peakViewers": 902,
-      "totalMsgs": 16181,
+      "totalMsgs": 16605,
       "categories": [
         "God of War Ragnarök",
         "Just Chatting",
@@ -392,8 +380,17 @@
         "Games + Demos",
         "Rocket League"
       ]
+    },
+    {
+      "date": "2026-03-09",
+      "avgViewers": 32,
+      "peakViewers": 32,
+      "totalMsgs": 1,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
-  "botStartedAt": "2026-03-08T19:23:41.106Z",
-  "lastUpdated": "2026-03-08T22:53:41.236Z"
+  "botStartedAt": "2026-03-09T13:52:56.491Z",
+  "lastUpdated": "2026-03-09T13:54:04.988Z"
 }
