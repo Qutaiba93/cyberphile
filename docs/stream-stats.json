@@ -1,10 +1,10 @@
 {
   "totalSessions": 26,
   "totalDays": 24,
-  "totalSegments": 1074,
+  "totalSegments": 1077,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 230811,
+  "totalMessages": 231361,
   "categories": [
     {
       "name": "VRChat",
@@ -77,6 +77,13 @@
       "totalMsgs": 4208
     },
     {
+      "name": "ARC Raiders",
+      "avgViewers": 640,
+      "peakViewers": 670,
+      "sampleCount": 5,
+      "totalMsgs": 1158
+    },
+    {
       "name": "Counter-Strike: Global Offensive",
       "avgViewers": 638,
       "peakViewers": 638,
@@ -96,13 +103,6 @@
       "peakViewers": 769,
       "sampleCount": 22,
       "totalMsgs": 4449
-    },
-    {
-      "name": "ARC Raiders",
-      "avgViewers": 608,
-      "peakViewers": 612,
-      "sampleCount": 2,
-      "totalMsgs": 608
     },
     {
       "name": "Just Chatting",
@@ -176,9 +176,9 @@
       "totalMsgs": 22933
     },
     "16": {
-      "avgViewers": 630,
-      "sampleCount": 117,
-      "totalMsgs": 26440
+      "avgViewers": 631,
+      "sampleCount": 120,
+      "totalMsgs": 26990
     },
     "17": {
       "avgViewers": 676,
@@ -383,16 +383,17 @@
     },
     {
       "date": "2026-03-09",
-      "avgViewers": 421,
-      "peakViewers": 657,
-      "totalMsgs": 2170,
+      "avgViewers": 461,
+      "peakViewers": 670,
+      "totalMsgs": 2720,
       "categories": [
         "Just Chatting",
         "Rocket League",
-        "VALORANT"
+        "VALORANT",
+        "ARC Raiders"
       ]
     }
   ],
   "botStartedAt": "2026-03-09T13:52:56.491Z",
-  "lastUpdated": "2026-03-09T16:23:05.001Z"
+  "lastUpdated": "2026-03-09T16:53:05.002Z"
 }
