@@ -1,10 +1,10 @@
 {
   "totalSessions": 26,
   "totalDays": 24,
-  "totalSegments": 1089,
+  "totalSegments": 1092,
   "allTimePeak": 903,
-  "allTimeAvg": 642,
-  "totalMessages": 234365,
+  "allTimeAvg": 643,
+  "totalMessages": 235142,
   "categories": [
     {
       "name": "VRChat",
@@ -106,10 +106,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 609,
+      "avgViewers": 610,
       "peakViewers": 903,
-      "sampleCount": 502,
-      "totalMsgs": 108462
+      "sampleCount": 505,
+      "totalMsgs": 109239
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -186,14 +186,14 @@
       "totalMsgs": 26624
     },
     "18": {
-      "avgViewers": 695,
-      "sampleCount": 137,
-      "totalMsgs": 36484
+      "avgViewers": 696,
+      "sampleCount": 138,
+      "totalMsgs": 36724
     },
     "19": {
-      "avgViewers": 721,
-      "sampleCount": 132,
-      "totalMsgs": 29571
+      "avgViewers": 722,
+      "sampleCount": 134,
+      "totalMsgs": 30108
     },
     "20": {
       "avgViewers": 719,
@@ -383,9 +383,9 @@
     },
     {
       "date": "2026-03-09",
-      "avgViewers": 574,
-      "peakViewers": 804,
-      "totalMsgs": 5724,
+      "avgViewers": 595,
+      "peakViewers": 818,
+      "totalMsgs": 6501,
       "categories": [
         "Just Chatting",
         "Rocket League",
@@ -395,5 +395,5 @@
     }
   ],
   "botStartedAt": "2026-03-09T13:52:56.491Z",
-  "lastUpdated": "2026-03-09T18:53:05.033Z"
+  "lastUpdated": "2026-03-09T19:23:05.047Z"
 }
