@@ -1,10 +1,10 @@
 {
   "totalSessions": 26,
   "totalDays": 24,
-  "totalSegments": 1092,
+  "totalSegments": 1096,
   "allTimePeak": 903,
   "allTimeAvg": 643,
-  "totalMessages": 235142,
+  "totalMessages": 235796,
   "categories": [
     {
       "name": "VRChat",
@@ -119,18 +119,18 @@
       "totalMsgs": 1817
     },
     {
+      "name": "Minecraft",
+      "avgViewers": 584,
+      "peakViewers": 729,
+      "sampleCount": 32,
+      "totalMsgs": 5609
+    },
+    {
       "name": "Rocket League",
       "avgViewers": 567,
       "peakViewers": 756,
       "sampleCount": 7,
       "totalMsgs": 1747
-    },
-    {
-      "name": "Minecraft",
-      "avgViewers": 566,
-      "peakViewers": 729,
-      "sampleCount": 28,
-      "totalMsgs": 4955
     },
     {
       "name": "God of War Ragnarök",
@@ -192,8 +192,8 @@
     },
     "19": {
       "avgViewers": 722,
-      "sampleCount": 134,
-      "totalMsgs": 30108
+      "sampleCount": 138,
+      "totalMsgs": 30762
     },
     "20": {
       "avgViewers": 719,
@@ -383,17 +383,18 @@
     },
     {
       "date": "2026-03-09",
-      "avgViewers": 595,
+      "avgViewers": 608,
       "peakViewers": 818,
-      "totalMsgs": 6501,
+      "totalMsgs": 7155,
       "categories": [
         "Just Chatting",
         "Rocket League",
         "VALORANT",
-        "ARC Raiders"
+        "ARC Raiders",
+        "Minecraft"
       ]
     }
   ],
-  "botStartedAt": "2026-03-09T13:52:56.491Z",
-  "lastUpdated": "2026-03-09T19:23:05.047Z"
+  "botStartedAt": "2026-03-09T19:45:12.125Z",
+  "lastUpdated": "2026-03-09T19:46:12.221Z"
 }
