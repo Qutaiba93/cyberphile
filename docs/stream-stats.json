@@ -1,10 +1,10 @@
 {
   "totalSessions": 27,
   "totalDays": 25,
-  "totalSegments": 1125,
+  "totalSegments": 1128,
   "allTimePeak": 903,
-  "allTimeAvg": 641,
-  "totalMessages": 241773,
+  "allTimeAvg": 642,
+  "totalMessages": 242396,
   "categories": [
     {
       "name": "VRChat",
@@ -105,6 +105,13 @@
       "totalMsgs": 4449
     },
     {
+      "name": "Rocket League",
+      "avgViewers": 609,
+      "peakViewers": 756,
+      "sampleCount": 10,
+      "totalMsgs": 2370
+    },
+    {
       "name": "Just Chatting",
       "avgViewers": 607,
       "peakViewers": 903,
@@ -124,13 +131,6 @@
       "peakViewers": 729,
       "sampleCount": 39,
       "totalMsgs": 7433
-    },
-    {
-      "name": "Rocket League",
-      "avgViewers": 567,
-      "peakViewers": 756,
-      "sampleCount": 7,
-      "totalMsgs": 1747
     },
     {
       "name": "God of War Ragnarök",
@@ -187,8 +187,8 @@
     },
     "18": {
       "avgViewers": 696,
-      "sampleCount": 139,
-      "totalMsgs": 36938
+      "sampleCount": 142,
+      "totalMsgs": 37561
     },
     "19": {
       "avgViewers": 722,
@@ -387,15 +387,16 @@
     },
     {
       "date": "2026-03-10",
-      "avgViewers": 529,
-      "peakViewers": 706,
-      "totalMsgs": 2901,
+      "avgViewers": 554,
+      "peakViewers": 723,
+      "totalMsgs": 3524,
       "categories": [
         "Just Chatting",
-        "Grand Theft Auto V (GTA)"
+        "Grand Theft Auto V (GTA)",
+        "Rocket League"
       ]
     }
   ],
   "botStartedAt": "2026-03-10T15:19:05.682Z",
-  "lastUpdated": "2026-03-10T18:19:17.477Z"
+  "lastUpdated": "2026-03-10T18:49:17.484Z"
 }
