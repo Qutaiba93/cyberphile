@@ -1,10 +1,10 @@
 {
   "totalSessions": 27,
   "totalDays": 25,
-  "totalSegments": 1128,
+  "totalSegments": 1131,
   "allTimePeak": 903,
   "allTimeAvg": 642,
-  "totalMessages": 242396,
+  "totalMessages": 242968,
   "categories": [
     {
       "name": "VRChat",
@@ -50,10 +50,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 680,
+      "avgViewers": 682,
       "peakViewers": 841,
-      "sampleCount": 41,
-      "totalMsgs": 7198
+      "sampleCount": 43,
+      "totalMsgs": 7580
     },
     {
       "name": "IRL",
@@ -106,10 +106,10 @@
     },
     {
       "name": "Rocket League",
-      "avgViewers": 609,
+      "avgViewers": 618,
       "peakViewers": 756,
-      "sampleCount": 10,
-      "totalMsgs": 2370
+      "sampleCount": 11,
+      "totalMsgs": 2560
     },
     {
       "name": "Just Chatting",
@@ -187,13 +187,13 @@
     },
     "18": {
       "avgViewers": 696,
-      "sampleCount": 142,
-      "totalMsgs": 37561
+      "sampleCount": 144,
+      "totalMsgs": 38016
     },
     "19": {
       "avgViewers": 722,
-      "sampleCount": 139,
-      "totalMsgs": 31004
+      "sampleCount": 140,
+      "totalMsgs": 31121
     },
     "20": {
       "avgViewers": 716,
@@ -387,16 +387,17 @@
     },
     {
       "date": "2026-03-10",
-      "avgViewers": 554,
-      "peakViewers": 723,
-      "totalMsgs": 3524,
+      "avgViewers": 575,
+      "peakViewers": 733,
+      "totalMsgs": 4096,
       "categories": [
         "Just Chatting",
         "Grand Theft Auto V (GTA)",
-        "Rocket League"
+        "Rocket League",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-03-10T15:19:05.682Z",
-  "lastUpdated": "2026-03-10T18:49:17.484Z"
+  "lastUpdated": "2026-03-10T19:19:17.492Z"
 }
