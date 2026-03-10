@@ -1,10 +1,10 @@
 {
   "totalSessions": 27,
   "totalDays": 25,
-  "totalSegments": 1113,
+  "totalSegments": 1116,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 239609,
+  "totalMessages": 240325,
   "categories": [
     {
       "name": "VRChat",
@@ -43,10 +43,10 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 705,
+      "avgViewers": 701,
       "peakViewers": 811,
-      "sampleCount": 136,
-      "totalMsgs": 26401
+      "sampleCount": 139,
+      "totalMsgs": 27117
     },
     {
       "name": "Counter-Strike 2",
@@ -176,9 +176,9 @@
       "totalMsgs": 23450
     },
     "16": {
-      "avgViewers": 630,
-      "sampleCount": 122,
-      "totalMsgs": 27428
+      "avgViewers": 628,
+      "sampleCount": 125,
+      "totalMsgs": 28144
     },
     "17": {
       "avgViewers": 678,
@@ -387,14 +387,15 @@
     },
     {
       "date": "2026-03-10",
-      "avgViewers": 312,
-      "peakViewers": 484,
-      "totalMsgs": 737,
+      "avgViewers": 388,
+      "peakViewers": 578,
+      "totalMsgs": 1453,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Grand Theft Auto V (GTA)"
       ]
     }
   ],
   "botStartedAt": "2026-03-10T15:19:05.682Z",
-  "lastUpdated": "2026-03-10T16:19:17.458Z"
+  "lastUpdated": "2026-03-10T16:49:17.458Z"
 }
