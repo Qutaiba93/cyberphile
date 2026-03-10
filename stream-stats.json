@@ -1,10 +1,10 @@
 {
-  "totalSessions": 26,
-  "totalDays": 24,
-  "totalSegments": 1104,
+  "totalSessions": 27,
+  "totalDays": 25,
+  "totalSegments": 1108,
   "allTimePeak": 903,
   "allTimeAvg": 643,
-  "totalMessages": 237920,
+  "totalMessages": 238873,
   "categories": [
     {
       "name": "VRChat",
@@ -22,10 +22,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 764,
+      "avgViewers": 763,
       "peakViewers": 902,
-      "sampleCount": 120,
-      "totalMsgs": 28868
+      "sampleCount": 122,
+      "totalMsgs": 29493
     },
     {
       "name": "Gartic Phone",
@@ -106,10 +106,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 610,
+      "avgViewers": 609,
       "peakViewers": 903,
-      "sampleCount": 506,
-      "totalMsgs": 109539
+      "sampleCount": 508,
+      "totalMsgs": 109867
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -171,9 +171,9 @@
       "totalMsgs": 13365
     },
     "15": {
-      "avgViewers": 534,
-      "sampleCount": 114,
-      "totalMsgs": 22933
+      "avgViewers": 530,
+      "sampleCount": 115,
+      "totalMsgs": 22934
     },
     "16": {
       "avgViewers": 631,
@@ -202,8 +202,8 @@
     },
     "21": {
       "avgViewers": 710,
-      "sampleCount": 110,
-      "totalMsgs": 23406
+      "sampleCount": 113,
+      "totalMsgs": 24358
     },
     "22": {
       "avgViewers": 726,
@@ -217,16 +217,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-02-24",
-      "avgViewers": 683,
-      "peakViewers": 786,
-      "totalMsgs": 2060,
-      "categories": [
-        "IRL",
-        "Just Chatting"
-      ]
-    },
     {
       "date": "2026-02-25",
       "avgViewers": 680,
@@ -383,18 +373,28 @@
     },
     {
       "date": "2026-03-09",
-      "avgViewers": 619,
+      "avgViewers": 624,
       "peakViewers": 818,
-      "totalMsgs": 9279,
+      "totalMsgs": 10231,
       "categories": [
         "Just Chatting",
         "Rocket League",
         "VALORANT",
         "ARC Raiders",
-        "Minecraft"
+        "Minecraft",
+        "Chat Roulette"
+      ]
+    },
+    {
+      "date": "2026-03-10",
+      "avgViewers": 92,
+      "peakViewers": 92,
+      "totalMsgs": 1,
+      "categories": [
+        "Just Chatting"
       ]
     }
   ],
-  "botStartedAt": "2026-03-09T19:45:12.125Z",
-  "lastUpdated": "2026-03-09T21:15:12.241Z"
+  "botStartedAt": "2026-03-10T15:19:05.682Z",
+  "lastUpdated": "2026-03-10T15:20:17.464Z"
 }
