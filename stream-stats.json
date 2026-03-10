@@ -1,10 +1,10 @@
 {
   "totalSessions": 27,
   "totalDays": 25,
-  "totalSegments": 1134,
+  "totalSegments": 1137,
   "allTimePeak": 903,
   "allTimeAvg": 642,
-  "totalMessages": 243405,
+  "totalMessages": 243834,
   "categories": [
     {
       "name": "VRChat",
@@ -50,10 +50,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 685,
+      "avgViewers": 687,
       "peakViewers": 841,
-      "sampleCount": 46,
-      "totalMsgs": 8017
+      "sampleCount": 48,
+      "totalMsgs": 8286
     },
     {
       "name": "IRL",
@@ -113,10 +113,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 607,
+      "avgViewers": 608,
       "peakViewers": 903,
-      "sampleCount": 517,
-      "totalMsgs": 111510
+      "sampleCount": 518,
+      "totalMsgs": 111670
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -192,13 +192,13 @@
     },
     "19": {
       "avgViewers": 722,
-      "sampleCount": 143,
-      "totalMsgs": 31558
+      "sampleCount": 145,
+      "totalMsgs": 31923
     },
     "20": {
       "avgViewers": 716,
-      "sampleCount": 126,
-      "totalMsgs": 31760
+      "sampleCount": 127,
+      "totalMsgs": 31824
     },
     "21": {
       "avgViewers": 710,
@@ -387,9 +387,9 @@
     },
     {
       "date": "2026-03-10",
-      "avgViewers": 592,
-      "peakViewers": 738,
-      "totalMsgs": 4533,
+      "avgViewers": 606,
+      "peakViewers": 747,
+      "totalMsgs": 4962,
       "categories": [
         "Just Chatting",
         "Grand Theft Auto V (GTA)",
@@ -399,5 +399,5 @@
     }
   ],
   "botStartedAt": "2026-03-10T15:19:05.682Z",
-  "lastUpdated": "2026-03-10T19:49:17.500Z"
+  "lastUpdated": "2026-03-10T20:19:17.501Z"
 }
