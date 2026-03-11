@@ -1,10 +1,10 @@
 {
   "totalSessions": 28,
   "totalDays": 26,
-  "totalSegments": 1170,
+  "totalSegments": 1173,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 250754,
+  "totalMessages": 251365,
   "categories": [
     {
       "name": "VRChat",
@@ -91,13 +91,6 @@
       "totalMsgs": 262
     },
     {
-      "name": "League of Legends",
-      "avgViewers": 634,
-      "peakViewers": 643,
-      "sampleCount": 2,
-      "totalMsgs": 461
-    },
-    {
       "name": "Call of Duty: Black Ops",
       "avgViewers": 628,
       "peakViewers": 695,
@@ -112,6 +105,13 @@
       "totalMsgs": 4449
     },
     {
+      "name": "League of Legends",
+      "avgViewers": 622,
+      "peakViewers": 643,
+      "sampleCount": 3,
+      "totalMsgs": 637
+    },
+    {
       "name": "Rocket League",
       "avgViewers": 612,
       "peakViewers": 756,
@@ -120,10 +120,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 604,
+      "avgViewers": 605,
       "peakViewers": 903,
-      "sampleCount": 531,
-      "totalMsgs": 114459
+      "sampleCount": 533,
+      "totalMsgs": 114894
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -183,14 +183,14 @@
       "totalMsgs": 25008
     },
     "16": {
-      "avgViewers": 627,
-      "sampleCount": 132,
-      "totalMsgs": 29259
+      "avgViewers": 626,
+      "sampleCount": 133,
+      "totalMsgs": 29435
     },
     "17": {
-      "avgViewers": 679,
-      "sampleCount": 134,
-      "totalMsgs": 27657
+      "avgViewers": 678,
+      "sampleCount": 136,
+      "totalMsgs": 28092
     },
     "18": {
       "avgViewers": 696,
@@ -393,9 +393,9 @@
     },
     {
       "date": "2026-03-11",
-      "avgViewers": 470,
-      "peakViewers": 643,
-      "totalMsgs": 2978,
+      "avgViewers": 497,
+      "peakViewers": 679,
+      "totalMsgs": 3589,
       "categories": [
         "Just Chatting",
         "Rocket League",
@@ -404,5 +404,5 @@
     }
   ],
   "botStartedAt": "2026-03-11T14:24:25.148Z",
-  "lastUpdated": "2026-03-11T16:54:33.424Z"
+  "lastUpdated": "2026-03-11T17:24:33.425Z"
 }
