@@ -1,10 +1,10 @@
 {
   "totalSessions": 28,
   "totalDays": 26,
-  "totalSegments": 1188,
+  "totalSegments": 1191,
   "allTimePeak": 903,
   "allTimeAvg": 642,
-  "totalMessages": 254512,
+  "totalMessages": 255362,
   "categories": [
     {
       "name": "VRChat",
@@ -24,8 +24,8 @@
       "name": "Chat Roulette",
       "avgViewers": 762,
       "peakViewers": 902,
-      "sampleCount": 128,
-      "totalMsgs": 31063
+      "sampleCount": 131,
+      "totalMsgs": 31913
     },
     {
       "name": "Gartic Phone",
@@ -198,14 +198,14 @@
       "totalMsgs": 39278
     },
     "19": {
-      "avgViewers": 721,
-      "sampleCount": 150,
-      "totalMsgs": 33020
+      "avgViewers": 722,
+      "sampleCount": 151,
+      "totalMsgs": 33472
     },
     "20": {
       "avgViewers": 717,
-      "sampleCount": 132,
-      "totalMsgs": 33023
+      "sampleCount": 134,
+      "totalMsgs": 33421
     },
     "21": {
       "avgViewers": 710,
@@ -393,9 +393,9 @@
     },
     {
       "date": "2026-03-11",
-      "avgViewers": 592,
-      "peakViewers": 753,
-      "totalMsgs": 6736,
+      "avgViewers": 607,
+      "peakViewers": 767,
+      "totalMsgs": 7586,
       "categories": [
         "Just Chatting",
         "Rocket League",
@@ -406,5 +406,5 @@
     }
   ],
   "botStartedAt": "2026-03-11T14:24:25.148Z",
-  "lastUpdated": "2026-03-11T19:54:33.456Z"
+  "lastUpdated": "2026-03-11T20:24:33.458Z"
 }
