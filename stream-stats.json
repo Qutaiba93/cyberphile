@@ -1,10 +1,10 @@
 {
   "totalSessions": 28,
   "totalDays": 26,
-  "totalSegments": 1182,
+  "totalSegments": 1185,
   "allTimePeak": 903,
   "allTimeAvg": 642,
-  "totalMessages": 253203,
+  "totalMessages": 253818,
   "categories": [
     {
       "name": "VRChat",
@@ -120,10 +120,17 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 606,
+      "avgViewers": 607,
       "peakViewers": 903,
-      "sampleCount": 542,
-      "totalMsgs": 116732
+      "sampleCount": 543,
+      "totalMsgs": 116944
+    },
+    {
+      "name": "Minecraft",
+      "avgViewers": 603,
+      "peakViewers": 729,
+      "sampleCount": 41,
+      "totalMsgs": 7836
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -131,13 +138,6 @@
       "peakViewers": 652,
       "sampleCount": 10,
       "totalMsgs": 1817
-    },
-    {
-      "name": "Minecraft",
-      "avgViewers": 599,
-      "peakViewers": 729,
-      "sampleCount": 39,
-      "totalMsgs": 7433
     },
     {
       "name": "God of War Ragnarök",
@@ -194,13 +194,13 @@
     },
     "18": {
       "avgViewers": 697,
-      "sampleCount": 149,
-      "totalMsgs": 39066
+      "sampleCount": 150,
+      "totalMsgs": 39278
     },
     "19": {
-      "avgViewers": 722,
-      "sampleCount": 145,
-      "totalMsgs": 31923
+      "avgViewers": 721,
+      "sampleCount": 147,
+      "totalMsgs": 32326
     },
     "20": {
       "avgViewers": 717,
@@ -393,16 +393,17 @@
     },
     {
       "date": "2026-03-11",
-      "avgViewers": 567,
+      "avgViewers": 581,
       "peakViewers": 751,
-      "totalMsgs": 5427,
+      "totalMsgs": 6042,
       "categories": [
         "Just Chatting",
         "Rocket League",
-        "League of Legends"
+        "League of Legends",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-03-11T14:24:25.148Z",
-  "lastUpdated": "2026-03-11T18:54:33.446Z"
+  "lastUpdated": "2026-03-11T19:24:33.453Z"
 }
