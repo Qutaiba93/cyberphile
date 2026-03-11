@@ -1,10 +1,10 @@
 {
-  "totalSessions": 27,
-  "totalDays": 25,
-  "totalSegments": 1152,
+  "totalSessions": 28,
+  "totalDays": 26,
+  "totalSegments": 1156,
   "allTimePeak": 903,
   "allTimeAvg": 643,
-  "totalMessages": 246886,
+  "totalMessages": 247777,
   "categories": [
     {
       "name": "VRChat",
@@ -22,10 +22,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 763,
+      "avgViewers": 762,
       "peakViewers": 902,
-      "sampleCount": 123,
-      "totalMsgs": 29646
+      "sampleCount": 126,
+      "totalMsgs": 30536
     },
     {
       "name": "Gartic Phone",
@@ -113,10 +113,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 608,
+      "avgViewers": 607,
       "peakViewers": 903,
-      "sampleCount": 521,
-      "totalMsgs": 112395
+      "sampleCount": 522,
+      "totalMsgs": 112396
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -166,9 +166,9 @@
       "totalMsgs": 1523
     },
     "14": {
-      "avgViewers": 367,
-      "sampleCount": 79,
-      "totalMsgs": 13365
+      "avgViewers": 364,
+      "sampleCount": 80,
+      "totalMsgs": 13366
     },
     "15": {
       "avgViewers": 523,
@@ -207,30 +207,16 @@
     },
     "22": {
       "avgViewers": 725,
-      "sampleCount": 73,
-      "totalMsgs": 17255
+      "sampleCount": 75,
+      "totalMsgs": 17744
     },
     "23": {
-      "avgViewers": 690,
-      "sampleCount": 31,
-      "totalMsgs": 5244
+      "avgViewers": 691,
+      "sampleCount": 32,
+      "totalMsgs": 5645
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-02-25",
-      "avgViewers": 680,
-      "peakViewers": 823,
-      "totalMsgs": 11221,
-      "categories": [
-        "Just Chatting",
-        "Chat Roulette",
-        "Counter-Strike 2",
-        "Minecraft",
-        "Grand Theft Auto V (GTA)",
-        "God of War"
-      ]
-    },
     {
       "date": "2026-02-26",
       "avgViewers": 616,
@@ -387,9 +373,9 @@
     },
     {
       "date": "2026-03-10",
-      "avgViewers": 641,
-      "peakViewers": 747,
-      "totalMsgs": 8014,
+      "avgViewers": 647,
+      "peakViewers": 748,
+      "totalMsgs": 8904,
       "categories": [
         "Just Chatting",
         "Grand Theft Auto V (GTA)",
@@ -397,8 +383,17 @@
         "Counter-Strike 2",
         "Chat Roulette"
       ]
+    },
+    {
+      "date": "2026-03-11",
+      "avgViewers": 124,
+      "peakViewers": 124,
+      "totalMsgs": 1,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
-  "botStartedAt": "2026-03-10T15:19:05.682Z",
-  "lastUpdated": "2026-03-10T22:49:17.555Z"
+  "botStartedAt": "2026-03-11T14:24:25.148Z",
+  "lastUpdated": "2026-03-11T14:25:33.412Z"
 }
