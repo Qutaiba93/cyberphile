@@ -28,22 +28,22 @@
       "streak": 14
     },
     {
+      "name": "poseidon_o7",
+      "balance": 4625,
+      "totalEarned": 4625,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 14
+    },
+    {
       "name": "shance",
-      "balance": 4525,
-      "totalEarned": 5655,
+      "balance": 4535,
+      "totalEarned": 5665,
       "totalSpent": 1377,
       "gamesPlayed": 21,
       "gamesWon": 8,
       "streak": 14
-    },
-    {
-      "name": "poseidon_o7",
-      "balance": 4519,
-      "totalEarned": 4519,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 13
     },
     {
       "name": "muzlamic",
@@ -83,8 +83,8 @@
     },
     {
       "name": "drogan",
-      "balance": 3801,
-      "totalEarned": 3801,
+      "balance": 3807,
+      "totalEarned": 3807,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -191,8 +191,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 2807,
-      "totalEarned": 2807,
+      "balance": 2823,
+      "totalEarned": 2823,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -290,8 +290,8 @@
     },
     {
       "name": "nitro_st",
-      "balance": 2350,
-      "totalEarned": 2350,
+      "balance": 2352,
+      "totalEarned": 2352,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -334,6 +334,15 @@
       "streak": 13
     },
     {
+      "name": "intermediatewastakensadge",
+      "balance": 2275,
+      "totalEarned": 2275,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 12
+    },
+    {
       "name": "nas_3",
       "balance": 2274,
       "totalEarned": 2294,
@@ -361,6 +370,15 @@
       "streak": 9
     },
     {
+      "name": "blu3zy",
+      "balance": 2221,
+      "totalEarned": 2221,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 11
+    },
+    {
       "name": "weppss",
       "balance": 2219,
       "totalEarned": 2219,
@@ -386,15 +404,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 9
-    },
-    {
-      "name": "intermediatewastakensadge",
-      "balance": 2165,
-      "totalEarned": 2165,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 11
     },
     {
       "name": "furrreal",
@@ -440,20 +449,11 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "blu3zy",
-      "balance": 2105,
-      "totalEarned": 2105,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 10
     }
   ],
   "stats": {
     "totalPlayers": 811,
-    "totalCirculating": 531837,
+    "totalCirculating": 533266,
     "totalGames": 3345,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -486,5 +486,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-12T19:45:34.111Z"
+  "lastUpdated": "2026-03-12T20:15:34.113Z"
 }
