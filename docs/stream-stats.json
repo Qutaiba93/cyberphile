@@ -1,10 +1,10 @@
 {
   "totalSessions": 29,
   "totalDays": 27,
-  "totalSegments": 1203,
+  "totalSegments": 1206,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 257935,
+  "totalMessages": 258581,
   "categories": [
     {
       "name": "VRChat",
@@ -50,10 +50,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 692,
+      "avgViewers": 690,
       "peakViewers": 841,
-      "sampleCount": 59,
-      "totalMsgs": 10460
+      "sampleCount": 60,
+      "totalMsgs": 10649
     },
     {
       "name": "IRL",
@@ -119,13 +119,6 @@
       "totalMsgs": 117691
     },
     {
-      "name": "Call of Duty: Black Ops",
-      "avgViewers": 605,
-      "peakViewers": 695,
-      "sampleCount": 8,
-      "totalMsgs": 1030
-    },
-    {
       "name": "Minecraft",
       "avgViewers": 603,
       "peakViewers": 729,
@@ -138,6 +131,13 @@
       "peakViewers": 652,
       "sampleCount": 10,
       "totalMsgs": 1817
+    },
+    {
+      "name": "Call of Duty: Black Ops",
+      "avgViewers": 591,
+      "peakViewers": 695,
+      "sampleCount": 10,
+      "totalMsgs": 1487
     },
     {
       "name": "God of War Ragnarök",
@@ -208,9 +208,9 @@
       "totalMsgs": 34151
     },
     "21": {
-      "avgViewers": 713,
-      "sampleCount": 125,
-      "totalMsgs": 27176
+      "avgViewers": 710,
+      "sampleCount": 128,
+      "totalMsgs": 27822
     },
     "22": {
       "avgViewers": 725,
@@ -394,16 +394,17 @@
     },
     {
       "date": "2026-03-12",
-      "avgViewers": 356,
-      "peakViewers": 536,
-      "totalMsgs": 909,
+      "avgViewers": 413,
+      "peakViewers": 570,
+      "totalMsgs": 1555,
       "categories": [
         "Grand Theft Auto V (GTA)",
         "Just Chatting",
-        "Call of Duty: Black Ops"
+        "Call of Duty: Black Ops",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-03-12T14:45:23.321Z",
-  "lastUpdated": "2026-03-12T21:15:34.139Z"
+  "lastUpdated": "2026-03-12T21:45:34.153Z"
 }
