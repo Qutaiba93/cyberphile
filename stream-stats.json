@@ -1,10 +1,10 @@
 {
   "totalSessions": 29,
   "totalDays": 27,
-  "totalSegments": 1200,
+  "totalSegments": 1203,
   "allTimePeak": 903,
-  "allTimeAvg": 642,
-  "totalMessages": 257452,
+  "allTimeAvg": 641,
+  "totalMessages": 257935,
   "categories": [
     {
       "name": "VRChat",
@@ -91,13 +91,6 @@
       "totalMsgs": 262
     },
     {
-      "name": "Call of Duty: Black Ops",
-      "avgViewers": 628,
-      "peakViewers": 695,
-      "sampleCount": 6,
-      "totalMsgs": 701
-    },
-    {
       "name": "VALORANT",
       "avgViewers": 626,
       "peakViewers": 769,
@@ -122,8 +115,15 @@
       "name": "Just Chatting",
       "avgViewers": 605,
       "peakViewers": 903,
-      "sampleCount": 547,
-      "totalMsgs": 117537
+      "sampleCount": 548,
+      "totalMsgs": 117691
+    },
+    {
+      "name": "Call of Duty: Black Ops",
+      "avgViewers": 605,
+      "peakViewers": 695,
+      "sampleCount": 8,
+      "totalMsgs": 1030
     },
     {
       "name": "Minecraft",
@@ -203,14 +203,14 @@
       "totalMsgs": 33472
     },
     "20": {
-      "avgViewers": 703,
-      "sampleCount": 138,
-      "totalMsgs": 33847
+      "avgViewers": 700,
+      "sampleCount": 140,
+      "totalMsgs": 34151
     },
     "21": {
-      "avgViewers": 715,
-      "sampleCount": 124,
-      "totalMsgs": 26997
+      "avgViewers": 713,
+      "sampleCount": 125,
+      "totalMsgs": 27176
     },
     "22": {
       "avgViewers": 725,
@@ -394,15 +394,16 @@
     },
     {
       "date": "2026-03-12",
-      "avgViewers": 238,
-      "peakViewers": 386,
-      "totalMsgs": 426,
+      "avgViewers": 356,
+      "peakViewers": 536,
+      "totalMsgs": 909,
       "categories": [
         "Grand Theft Auto V (GTA)",
-        "Just Chatting"
+        "Just Chatting",
+        "Call of Duty: Black Ops"
       ]
     }
   ],
   "botStartedAt": "2026-03-12T14:45:23.321Z",
-  "lastUpdated": "2026-03-12T20:45:34.124Z"
+  "lastUpdated": "2026-03-12T21:15:34.139Z"
 }
