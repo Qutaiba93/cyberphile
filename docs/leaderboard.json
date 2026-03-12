@@ -29,8 +29,8 @@
     },
     {
       "name": "shance",
-      "balance": 4523,
-      "totalEarned": 5653,
+      "balance": 4525,
+      "totalEarned": 5655,
       "totalSpent": 1377,
       "gamesPlayed": 21,
       "gamesWon": 8,
@@ -307,6 +307,15 @@
       "streak": 14
     },
     {
+      "name": "kale96",
+      "balance": 2333,
+      "totalEarned": 2333,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 9
+    },
+    {
       "name": "slikeroompaloompa",
       "balance": 2324,
       "totalEarned": 2924,
@@ -341,15 +350,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 13
-    },
-    {
-      "name": "kale96",
-      "balance": 2234,
-      "totalEarned": 2234,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 8
     },
     {
       "name": "reggiekool",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 811,
-    "totalCirculating": 531728,
+    "totalCirculating": 531837,
     "totalGames": 3345,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -486,5 +486,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-12T19:15:34.106Z"
+  "lastUpdated": "2026-03-12T19:45:34.111Z"
 }
