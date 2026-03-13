@@ -1,10 +1,10 @@
 {
   "totalSessions": 31,
   "totalDays": 28,
-  "totalSegments": 1246,
+  "totalSegments": 1249,
   "allTimePeak": 903,
   "allTimeAvg": 639,
-  "totalMessages": 268526,
+  "totalMessages": 269144,
   "categories": [
     {
       "name": "VRChat",
@@ -120,10 +120,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 602,
+      "avgViewers": 603,
       "peakViewers": 903,
-      "sampleCount": 569,
-      "totalMsgs": 123617
+      "sampleCount": 572,
+      "totalMsgs": 124235
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -194,8 +194,8 @@
     },
     "18": {
       "avgViewers": 697,
-      "sampleCount": 150,
-      "totalMsgs": 39278
+      "sampleCount": 153,
+      "totalMsgs": 39896
     },
     "19": {
       "avgViewers": 722,
@@ -394,9 +394,9 @@
     },
     {
       "date": "2026-03-13",
-      "avgViewers": 531,
+      "avgViewers": 549,
       "peakViewers": 700,
-      "totalMsgs": 4633,
+      "totalMsgs": 5251,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2"
@@ -404,5 +404,5 @@
     }
   ],
   "botStartedAt": "2026-03-13T14:01:54.069Z",
-  "lastUpdated": "2026-03-13T18:02:00.925Z"
+  "lastUpdated": "2026-03-13T18:32:00.928Z"
 }
