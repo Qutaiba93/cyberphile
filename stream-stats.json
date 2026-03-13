@@ -1,10 +1,10 @@
 {
   "totalSessions": 31,
   "totalDays": 28,
-  "totalSegments": 1252,
+  "totalSegments": 1255,
   "allTimePeak": 903,
   "allTimeAvg": 640,
-  "totalMessages": 269675,
+  "totalMessages": 270778,
   "categories": [
     {
       "name": "VRChat",
@@ -24,8 +24,8 @@
       "name": "Chat Roulette",
       "avgViewers": 760,
       "peakViewers": 902,
-      "sampleCount": 141,
-      "totalMsgs": 34621
+      "sampleCount": 142,
+      "totalMsgs": 34858
     },
     {
       "name": "Gartic Phone",
@@ -120,10 +120,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 603,
+      "avgViewers": 604,
       "peakViewers": 903,
-      "sampleCount": 575,
-      "totalMsgs": 124766
+      "sampleCount": 577,
+      "totalMsgs": 125632
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -199,8 +199,8 @@
     },
     "19": {
       "avgViewers": 722,
-      "sampleCount": 151,
-      "totalMsgs": 33472
+      "sampleCount": 154,
+      "totalMsgs": 34575
     },
     "20": {
       "avgViewers": 700,
@@ -394,15 +394,16 @@
     },
     {
       "date": "2026-03-13",
-      "avgViewers": 564,
-      "peakViewers": 715,
-      "totalMsgs": 5782,
+      "avgViewers": 581,
+      "peakViewers": 741,
+      "totalMsgs": 6885,
       "categories": [
         "Just Chatting",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-03-13T14:01:54.069Z",
-  "lastUpdated": "2026-03-13T19:02:00.934Z"
+  "lastUpdated": "2026-03-13T19:32:00.940Z"
 }
