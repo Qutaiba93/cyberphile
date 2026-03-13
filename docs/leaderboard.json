@@ -127,6 +127,15 @@
       "streak": 14
     },
     {
+      "name": "alexmesq",
+      "balance": 3282,
+      "totalEarned": 3282,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "lena_xc",
       "balance": 3281,
       "totalEarned": 3281,
@@ -134,15 +143,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 15
-    },
-    {
-      "name": "alexmesq",
-      "balance": 3280,
-      "totalEarned": 3280,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
     },
     {
       "name": "sothoth",
@@ -245,8 +245,8 @@
     },
     {
       "name": "machamp1",
-      "balance": 2714,
-      "totalEarned": 2939,
+      "balance": 2716,
+      "totalEarned": 2941,
       "totalSpent": 225,
       "gamesPlayed": 5,
       "gamesWon": 1,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 818,
-    "totalCirculating": 558360,
+    "totalCirculating": 558423,
     "totalGames": 3345,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -486,5 +486,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-13T00:45:34.210Z"
+  "lastUpdated": "2026-03-13T14:03:00.888Z"
 }
