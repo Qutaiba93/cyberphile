@@ -1,10 +1,10 @@
 {
   "totalSessions": 32,
   "totalDays": 29,
-  "totalSegments": 1306,
+  "totalSegments": 1309,
   "allTimePeak": 903,
   "allTimeAvg": 642,
-  "totalMessages": 282021,
+  "totalMessages": 282531,
   "categories": [
     {
       "name": "VRChat",
@@ -106,17 +106,17 @@
     },
     {
       "name": "Rocket League",
-      "avgViewers": 612,
+      "avgViewers": 618,
       "peakViewers": 756,
-      "sampleCount": 14,
-      "totalMsgs": 3013
+      "sampleCount": 16,
+      "totalMsgs": 3307
     },
     {
       "name": "Just Chatting",
       "avgViewers": 606,
       "peakViewers": 903,
-      "sampleCount": 606,
-      "totalMsgs": 131207
+      "sampleCount": 607,
+      "totalMsgs": 131423
     },
     {
       "name": "Minecraft",
@@ -194,13 +194,13 @@
     },
     "18": {
       "avgViewers": 697,
-      "sampleCount": 160,
-      "totalMsgs": 41380
+      "sampleCount": 162,
+      "totalMsgs": 41715
     },
     "19": {
       "avgViewers": 723,
-      "sampleCount": 157,
-      "totalMsgs": 35782
+      "sampleCount": 158,
+      "totalMsgs": 35957
     },
     "20": {
       "avgViewers": 705,
@@ -393,17 +393,18 @@
     },
     {
       "date": "2026-03-14",
-      "avgViewers": 601,
+      "avgViewers": 608,
       "peakViewers": 734,
-      "totalMsgs": 5615,
+      "totalMsgs": 6125,
       "categories": [
         "Just Chatting",
         "Minecraft",
         "VALORANT",
-        "ARC Raiders"
+        "ARC Raiders",
+        "Rocket League"
       ]
     }
   ],
   "botStartedAt": "2026-03-14T17:13:01.033Z",
-  "lastUpdated": "2026-03-14T18:43:01.144Z"
+  "lastUpdated": "2026-03-14T19:13:01.151Z"
 }
