@@ -1,10 +1,10 @@
 {
   "totalSessions": 32,
   "totalDays": 29,
-  "totalSegments": 1322,
+  "totalSegments": 1323,
   "allTimePeak": 903,
   "allTimeAvg": 643,
-  "totalMessages": 286496,
+  "totalMessages": 286500,
   "categories": [
     {
       "name": "VRChat",
@@ -43,10 +43,10 @@
     },
     {
       "name": "Trash Horror Collection",
-      "avgViewers": 703,
+      "avgViewers": 696,
       "peakViewers": 720,
-      "sampleCount": 4,
-      "totalMsgs": 432
+      "sampleCount": 5,
+      "totalMsgs": 436
     },
     {
       "name": "Grand Theft Auto V (GTA)",
@@ -216,8 +216,8 @@
     },
     "21": {
       "avgViewers": 712,
-      "sampleCount": 136,
-      "totalMsgs": 29347
+      "sampleCount": 137,
+      "totalMsgs": 29351
     },
     "22": {
       "avgViewers": 724,
@@ -400,9 +400,9 @@
     },
     {
       "date": "2026-03-14",
-      "avgViewers": 644,
+      "avgViewers": 645,
       "peakViewers": 775,
-      "totalMsgs": 10090,
+      "totalMsgs": 10094,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -413,6 +413,6 @@
       ]
     }
   ],
-  "botStartedAt": "2026-03-14T20:56:30.846Z",
-  "lastUpdated": "2026-03-14T20:57:30.954Z"
+  "botStartedAt": "2026-03-14T21:06:18.211Z",
+  "lastUpdated": "2026-03-14T21:07:18.314Z"
 }
