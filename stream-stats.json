@@ -1,10 +1,10 @@
 {
-  "totalSessions": 31,
-  "totalDays": 28,
-  "totalSegments": 1276,
+  "totalSessions": 32,
+  "totalDays": 29,
+  "totalSegments": 1280,
   "allTimePeak": 903,
   "allTimeAvg": 642,
-  "totalMessages": 275920,
+  "totalMessages": 276425,
   "categories": [
     {
       "name": "VRChat",
@@ -115,8 +115,8 @@
       "name": "Just Chatting",
       "avgViewers": 607,
       "peakViewers": 903,
-      "sampleCount": 588,
-      "totalMsgs": 127673
+      "sampleCount": 592,
+      "totalMsgs": 128178
     },
     {
       "name": "Minecraft",
@@ -173,9 +173,9 @@
       "totalMsgs": 1523
     },
     "14": {
-      "avgViewers": 354,
-      "sampleCount": 87,
-      "totalMsgs": 14219
+      "avgViewers": 350,
+      "sampleCount": 88,
+      "totalMsgs": 14238
     },
     "15": {
       "avgViewers": 520,
@@ -218,24 +218,12 @@
       "totalMsgs": 21052
     },
     "23": {
-      "avgViewers": 687,
-      "sampleCount": 38,
-      "totalMsgs": 7659
+      "avgViewers": 691,
+      "sampleCount": 41,
+      "totalMsgs": 8145
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-02-28",
-      "avgViewers": 668,
-      "peakViewers": 855,
-      "totalMsgs": 13996,
-      "categories": [
-        "Just Chatting",
-        "IRL",
-        "Chat Roulette",
-        "Grand Theft Auto V (GTA)"
-      ]
-    },
     {
       "date": "2026-03-01",
       "avgViewers": 689,
@@ -394,16 +382,25 @@
     },
     {
       "date": "2026-03-13",
-      "avgViewers": 669,
+      "avgViewers": 673,
       "peakViewers": 840,
-      "totalMsgs": 12027,
+      "totalMsgs": 12513,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
         "Chat Roulette"
       ]
+    },
+    {
+      "date": "2026-03-14",
+      "avgViewers": 69,
+      "peakViewers": 69,
+      "totalMsgs": 19,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
-  "botStartedAt": "2026-03-13T14:01:54.069Z",
-  "lastUpdated": "2026-03-13T23:02:03.979Z"
+  "botStartedAt": "2026-03-14T14:23:06.482Z",
+  "lastUpdated": "2026-03-14T14:24:14.745Z"
 }
