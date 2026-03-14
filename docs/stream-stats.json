@@ -1,10 +1,10 @@
 {
   "totalSessions": 32,
   "totalDays": 29,
-  "totalSegments": 1325,
+  "totalSegments": 1328,
   "allTimePeak": 903,
   "allTimeAvg": 643,
-  "totalMessages": 287065,
+  "totalMessages": 288518,
   "categories": [
     {
       "name": "VRChat",
@@ -42,18 +42,18 @@
       "totalMsgs": 1148
     },
     {
+      "name": "Trash Horror Collection",
+      "avgViewers": 696,
+      "peakViewers": 737,
+      "sampleCount": 10,
+      "totalMsgs": 2454
+    },
+    {
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 694,
       "peakViewers": 811,
       "sampleCount": 145,
       "totalMsgs": 27658
-    },
-    {
-      "name": "Trash Horror Collection",
-      "avgViewers": 689,
-      "peakViewers": 720,
-      "sampleCount": 7,
-      "totalMsgs": 1001
     },
     {
       "name": "Counter-Strike 2",
@@ -216,8 +216,8 @@
     },
     "21": {
       "avgViewers": 711,
-      "sampleCount": 139,
-      "totalMsgs": 29916
+      "sampleCount": 142,
+      "totalMsgs": 31369
     },
     "22": {
       "avgViewers": 724,
@@ -400,9 +400,9 @@
     },
     {
       "date": "2026-03-14",
-      "avgViewers": 646,
+      "avgViewers": 650,
       "peakViewers": 775,
-      "totalMsgs": 10659,
+      "totalMsgs": 12112,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -414,5 +414,5 @@
     }
   ],
   "botStartedAt": "2026-03-14T21:06:18.211Z",
-  "lastUpdated": "2026-03-14T21:36:18.316Z"
+  "lastUpdated": "2026-03-14T22:06:18.331Z"
 }
