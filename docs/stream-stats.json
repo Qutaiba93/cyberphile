@@ -1,10 +1,10 @@
 {
   "totalSessions": 32,
   "totalDays": 29,
-  "totalSegments": 1296,
+  "totalSegments": 1298,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 279031,
+  "totalMessages": 279355,
   "categories": [
     {
       "name": "VRChat",
@@ -92,10 +92,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 629,
+      "avgViewers": 634,
       "peakViewers": 769,
-      "sampleCount": 24,
-      "totalMsgs": 4455
+      "sampleCount": 26,
+      "totalMsgs": 4779
     },
     {
       "name": "League of Legends",
@@ -188,9 +188,9 @@
       "totalMsgs": 31554
     },
     "17": {
-      "avgViewers": 678,
-      "sampleCount": 146,
-      "totalMsgs": 30129
+      "avgViewers": 679,
+      "sampleCount": 148,
+      "totalMsgs": 30453
     },
     "18": {
       "avgViewers": 697,
@@ -393,9 +393,9 @@
     },
     {
       "date": "2026-03-14",
-      "avgViewers": 537,
-      "peakViewers": 673,
-      "totalMsgs": 2625,
+      "avgViewers": 554,
+      "peakViewers": 696,
+      "totalMsgs": 2949,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -403,6 +403,6 @@
       ]
     }
   ],
-  "botStartedAt": "2026-03-14T16:53:19.211Z",
-  "lastUpdated": "2026-03-14T16:54:19.318Z"
+  "botStartedAt": "2026-03-14T17:13:01.033Z",
+  "lastUpdated": "2026-03-14T17:14:01.135Z"
 }
