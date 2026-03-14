@@ -1,10 +1,10 @@
 {
   "totalSessions": 32,
   "totalDays": 29,
-  "totalSegments": 1291,
+  "totalSegments": 1292,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 278519,
+  "totalMessages": 278522,
   "categories": [
     {
       "name": "VRChat",
@@ -122,8 +122,8 @@
       "name": "Minecraft",
       "avgViewers": 605,
       "peakViewers": 729,
-      "sampleCount": 42,
-      "totalMsgs": 8089
+      "sampleCount": 43,
+      "totalMsgs": 8092
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -184,8 +184,8 @@
     },
     "16": {
       "avgViewers": 628,
-      "sampleCount": 141,
-      "totalMsgs": 31042
+      "sampleCount": 142,
+      "totalMsgs": 31045
     },
     "17": {
       "avgViewers": 678,
@@ -393,14 +393,15 @@
     },
     {
       "date": "2026-03-14",
-      "avgViewers": 493,
+      "avgViewers": 503,
       "peakViewers": 639,
-      "totalMsgs": 2113,
+      "totalMsgs": 2116,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Minecraft"
       ]
     }
   ],
-  "botStartedAt": "2026-03-14T16:08:07.312Z",
-  "lastUpdated": "2026-03-14T16:09:07.428Z"
+  "botStartedAt": "2026-03-14T16:16:40.807Z",
+  "lastUpdated": "2026-03-14T16:17:40.909Z"
 }
