@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "slikeroompaloompa",
-      "balance": 35486,
-      "totalEarned": 245586,
-      "totalSpent": 210100,
-      "gamesPlayed": 54,
-      "gamesWon": 20,
-      "streak": 3
+      "balance": 40566,
+      "totalEarned": 256666,
+      "totalSpent": 216100,
+      "gamesPlayed": 57,
+      "gamesWon": 22,
+      "streak": 4
     },
     {
       "name": "t3mm",
@@ -38,12 +38,12 @@
     },
     {
       "name": "meliziana",
-      "balance": 5995,
-      "totalEarned": 26486,
+      "balance": 6103,
+      "totalEarned": 26594,
       "totalSpent": 20491,
       "gamesPlayed": 133,
       "gamesWon": 53,
-      "streak": 17
+      "streak": 18
     },
     {
       "name": "skibidi_toiiet",
@@ -128,12 +128,12 @@
     },
     {
       "name": "nitro_st",
-      "balance": 4067,
-      "totalEarned": 4067,
+      "balance": 4169,
+      "totalEarned": 4169,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 11
+      "streak": 12
     },
     {
       "name": "lena_xc",
@@ -226,6 +226,15 @@
       "streak": 3
     },
     {
+      "name": "machamp1",
+      "balance": 3324,
+      "totalEarned": 3549,
+      "totalSpent": 225,
+      "gamesPlayed": 5,
+      "gamesWon": 1,
+      "streak": 18
+    },
+    {
       "name": "yshy_02222",
       "balance": 3297,
       "totalEarned": 3297,
@@ -244,15 +253,6 @@
       "streak": 13
     },
     {
-      "name": "machamp1",
-      "balance": 3222,
-      "totalEarned": 3447,
-      "totalSpent": 225,
-      "gamesPlayed": 5,
-      "gamesWon": 1,
-      "streak": 17
-    },
-    {
       "name": "upkey",
       "balance": 3169,
       "totalEarned": 3169,
@@ -260,6 +260,15 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 16
+    },
+    {
+      "name": "lilsneech",
+      "balance": 3120,
+      "totalEarned": 9597,
+      "totalSpent": 6477,
+      "gamesPlayed": 21,
+      "gamesWon": 9,
+      "streak": 4
     },
     {
       "name": "reggiekool",
@@ -287,15 +296,6 @@
       "gamesPlayed": 1,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "lilsneech",
-      "balance": 3042,
-      "totalEarned": 9519,
-      "totalSpent": 6477,
-      "gamesPlayed": 21,
-      "gamesWon": 9,
-      "streak": 3
     },
     {
       "name": "zeepzeep",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 872,
-    "totalCirculating": 680727,
-    "totalGames": 3858,
+    "totalCirculating": 686481,
+    "totalGames": 3861,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -486,5 +486,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-15T20:58:59.110Z"
+  "lastUpdated": "2026-03-15T21:28:59.112Z"
 }
