@@ -11,11 +11,11 @@
     },
     {
       "name": "slikeroompaloompa",
-      "balance": 15438,
-      "totalEarned": 185538,
-      "totalSpent": 170100,
-      "gamesPlayed": 49,
-      "gamesWon": 17,
+      "balance": 15452,
+      "totalEarned": 205552,
+      "totalSpent": 190100,
+      "gamesPlayed": 51,
+      "gamesWon": 18,
       "streak": 3
     },
     {
@@ -110,8 +110,8 @@
     },
     {
       "name": "neinswein",
-      "balance": 4710,
-      "totalEarned": 4735,
+      "balance": 4712,
+      "totalEarned": 4737,
       "totalSpent": 25,
       "gamesPlayed": 1,
       "gamesWon": 1,
@@ -197,6 +197,15 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 17
+    },
+    {
+      "name": "lilsneech",
+      "balance": 3532,
+      "totalEarned": 9509,
+      "totalSpent": 5977,
+      "gamesPlayed": 21,
+      "gamesWon": 9,
+      "streak": 3
     },
     {
       "name": "ahmet_uk",
@@ -326,8 +335,8 @@
     },
     {
       "name": "s3rkan01",
-      "balance": 2874,
-      "totalEarned": 4269,
+      "balance": 2876,
+      "totalEarned": 4271,
       "totalSpent": 1395,
       "gamesPlayed": 1,
       "gamesWon": 1,
@@ -440,21 +449,12 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 3
-    },
-    {
-      "name": "faddy4u",
-      "balance": 2523,
-      "totalEarned": 4990,
-      "totalSpent": 2467,
-      "gamesPlayed": 80,
-      "gamesWon": 29,
-      "streak": 17
     }
   ],
   "stats": {
     "totalPlayers": 872,
-    "totalCirculating": 660856,
-    "totalGames": 3851,
+    "totalCirculating": 663079,
+    "totalGames": 3854,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -486,5 +486,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-15T19:28:59.084Z"
+  "lastUpdated": "2026-03-15T19:58:59.098Z"
 }
