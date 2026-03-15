@@ -1,22 +1,22 @@
 {
   "leaderboard": [
     {
-      "name": "slikeroompaloompa",
-      "balance": 42374,
-      "totalEarned": 160474,
-      "totalSpent": 118100,
-      "gamesPlayed": 34,
-      "gamesWon": 16,
-      "streak": 3
-    },
-    {
       "name": "t3mm",
-      "balance": 17094,
-      "totalEarned": 52055,
-      "totalSpent": 34961,
-      "gamesPlayed": 84,
+      "balance": 17098,
+      "totalEarned": 56059,
+      "totalSpent": 38961,
+      "gamesPlayed": 85,
       "gamesWon": 35,
       "streak": 16
+    },
+    {
+      "name": "slikeroompaloompa",
+      "balance": 15438,
+      "totalEarned": 185538,
+      "totalSpent": 170100,
+      "gamesPlayed": 49,
+      "gamesWon": 17,
+      "streak": 3
     },
     {
       "name": "shance",
@@ -110,8 +110,8 @@
     },
     {
       "name": "neinswein",
-      "balance": 4704,
-      "totalEarned": 4729,
+      "balance": 4710,
+      "totalEarned": 4735,
       "totalSpent": 25,
       "gamesPlayed": 1,
       "gamesWon": 1,
@@ -182,8 +182,8 @@
     },
     {
       "name": "nick6",
-      "balance": 3641,
-      "totalEarned": 3641,
+      "balance": 3645,
+      "totalEarned": 3645,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -191,8 +191,8 @@
     },
     {
       "name": "schitt",
-      "balance": 3593,
-      "totalEarned": 3593,
+      "balance": 3595,
+      "totalEarned": 3595,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -425,8 +425,8 @@
     },
     {
       "name": "kooooool",
-      "balance": 2573,
-      "totalEarned": 2573,
+      "balance": 2575,
+      "totalEarned": 2575,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 871,
-    "totalCirculating": 689196,
-    "totalGames": 3820,
+    "totalPlayers": 872,
+    "totalCirculating": 660856,
+    "totalGames": 3851,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -486,5 +486,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-15T18:58:59.073Z"
+  "lastUpdated": "2026-03-15T19:28:59.084Z"
 }
