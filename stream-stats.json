@@ -1,10 +1,10 @@
 {
-  "totalSessions": 32,
-  "totalDays": 29,
-  "totalSegments": 1334,
+  "totalSessions": 33,
+  "totalDays": 30,
+  "totalSegments": 1337,
   "allTimePeak": 903,
   "allTimeAvg": 643,
-  "totalMessages": 290153,
+  "totalMessages": 291020,
   "categories": [
     {
       "name": "VRChat",
@@ -122,8 +122,8 @@
       "name": "Just Chatting",
       "avgViewers": 608,
       "peakViewers": 903,
-      "sampleCount": 617,
-      "totalMsgs": 135371
+      "sampleCount": 620,
+      "totalMsgs": 136238
     },
     {
       "name": "Minecraft",
@@ -180,9 +180,9 @@
       "totalMsgs": 1523
     },
     "14": {
-      "avgViewers": 350,
-      "sampleCount": 91,
-      "totalMsgs": 15064
+      "avgViewers": 347,
+      "sampleCount": 92,
+      "totalMsgs": 15067
     },
     "15": {
       "avgViewers": 524,
@@ -225,24 +225,12 @@
       "totalMsgs": 22687
     },
     "23": {
-      "avgViewers": 691,
-      "sampleCount": 41,
-      "totalMsgs": 8145
+      "avgViewers": 696,
+      "sampleCount": 43,
+      "totalMsgs": 9009
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-01",
-      "avgViewers": 689,
-      "peakViewers": 800,
-      "totalMsgs": 12024,
-      "categories": [
-        "Resident Evil Requiem",
-        "Just Chatting",
-        "Chat Roulette",
-        "Grand Theft Auto V (GTA)"
-      ]
-    },
     {
       "date": "2026-03-02",
       "avgViewers": 704,
@@ -400,9 +388,9 @@
     },
     {
       "date": "2026-03-14",
-      "avgViewers": 659,
-      "peakViewers": 788,
-      "totalMsgs": 13747,
+      "avgViewers": 664,
+      "peakViewers": 806,
+      "totalMsgs": 14611,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -411,8 +399,17 @@
         "Rocket League",
         "Trash Horror Collection"
       ]
+    },
+    {
+      "date": "2026-03-15",
+      "avgViewers": 81,
+      "peakViewers": 81,
+      "totalMsgs": 3,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
-  "botStartedAt": "2026-03-14T21:06:18.211Z",
-  "lastUpdated": "2026-03-14T23:06:19.796Z"
+  "botStartedAt": "2026-03-15T14:28:51.597Z",
+  "lastUpdated": "2026-03-15T14:29:59.038Z"
 }
