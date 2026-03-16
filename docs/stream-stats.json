@@ -1,10 +1,10 @@
 {
   "totalSessions": 34,
   "totalDays": 31,
-  "totalSegments": 1375,
+  "totalSegments": 1377,
   "allTimePeak": 903,
   "allTimeAvg": 642,
-  "totalMessages": 300061,
+  "totalMessages": 300505,
   "categories": [
     {
       "name": "VRChat",
@@ -92,10 +92,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 643,
+      "avgViewers": 644,
       "peakViewers": 769,
-      "sampleCount": 29,
-      "totalMsgs": 6071
+      "sampleCount": 30,
+      "totalMsgs": 6186
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -129,8 +129,8 @@
       "name": "Minecraft",
       "avgViewers": 606,
       "peakViewers": 729,
-      "sampleCount": 45,
-      "totalMsgs": 8319
+      "sampleCount": 46,
+      "totalMsgs": 8648
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -196,8 +196,8 @@
     },
     "17": {
       "avgViewers": 682,
-      "sampleCount": 161,
-      "totalMsgs": 34301
+      "sampleCount": 163,
+      "totalMsgs": 34745
     },
     "18": {
       "avgViewers": 698,
@@ -401,16 +401,17 @@
     },
     {
       "date": "2026-03-16",
-      "avgViewers": 514,
+      "avgViewers": 529,
       "peakViewers": 673,
-      "totalMsgs": 2469,
+      "totalMsgs": 2913,
       "categories": [
         "Just Chatting",
         "ARC Raiders",
-        "Minecraft"
+        "Minecraft",
+        "VALORANT"
       ]
     }
   ],
   "botStartedAt": "2026-03-16T17:28:20.320Z",
-  "lastUpdated": "2026-03-16T17:29:20.419Z"
+  "lastUpdated": "2026-03-16T17:58:20.408Z"
 }
