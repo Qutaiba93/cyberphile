@@ -1,10 +1,10 @@
 {
   "totalSessions": 34,
   "totalDays": 31,
-  "totalSegments": 1398,
+  "totalSegments": 1401,
   "allTimePeak": 903,
-  "allTimeAvg": 643,
-  "totalMessages": 306821,
+  "allTimeAvg": 644,
+  "totalMessages": 307595,
   "categories": [
     {
       "name": "VRChat",
@@ -57,10 +57,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 682,
+      "avgViewers": 684,
       "peakViewers": 841,
-      "sampleCount": 75,
-      "totalMsgs": 13967
+      "sampleCount": 78,
+      "totalMsgs": 14741
     },
     {
       "name": "IRL",
@@ -216,8 +216,8 @@
     },
     "21": {
       "avgViewers": 712,
-      "sampleCount": 144,
-      "totalMsgs": 31965
+      "sampleCount": 147,
+      "totalMsgs": 32739
     },
     "22": {
       "avgViewers": 725,
@@ -401,9 +401,9 @@
     },
     {
       "date": "2026-03-16",
-      "avgViewers": 633,
+      "avgViewers": 639,
       "peakViewers": 772,
-      "totalMsgs": 9229,
+      "totalMsgs": 10003,
       "categories": [
         "Just Chatting",
         "ARC Raiders",
@@ -414,5 +414,5 @@
     }
   ],
   "botStartedAt": "2026-03-16T17:28:20.320Z",
-  "lastUpdated": "2026-03-16T21:28:21.784Z"
+  "lastUpdated": "2026-03-16T21:58:21.798Z"
 }
