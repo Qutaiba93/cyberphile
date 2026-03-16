@@ -1,10 +1,10 @@
 {
   "totalSessions": 34,
   "totalDays": 31,
-  "totalSegments": 1372,
+  "totalSegments": 1375,
   "allTimePeak": 903,
   "allTimeAvg": 642,
-  "totalMessages": 299418,
+  "totalMessages": 300061,
   "categories": [
     {
       "name": "VRChat",
@@ -70,18 +70,18 @@
       "totalMsgs": 13371
     },
     {
-      "name": "ARC Raiders",
-      "avgViewers": 664,
-      "peakViewers": 716,
-      "sampleCount": 16,
-      "totalMsgs": 3561
-    },
-    {
       "name": "The Empty Eyes",
       "avgViewers": 663,
       "peakViewers": 677,
       "sampleCount": 3,
       "totalMsgs": 225
+    },
+    {
+      "name": "ARC Raiders",
+      "avgViewers": 661,
+      "peakViewers": 716,
+      "sampleCount": 18,
+      "totalMsgs": 4185
     },
     {
       "name": "Call of Duty: Black Ops II",
@@ -129,8 +129,8 @@
       "name": "Minecraft",
       "avgViewers": 606,
       "peakViewers": 729,
-      "sampleCount": 44,
-      "totalMsgs": 8300
+      "sampleCount": 45,
+      "totalMsgs": 8319
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -195,9 +195,9 @@
       "totalMsgs": 35715
     },
     "17": {
-      "avgViewers": 683,
-      "sampleCount": 158,
-      "totalMsgs": 33658
+      "avgViewers": 682,
+      "sampleCount": 161,
+      "totalMsgs": 34301
     },
     "18": {
       "avgViewers": 698,
@@ -401,15 +401,16 @@
     },
     {
       "date": "2026-03-16",
-      "avgViewers": 485,
+      "avgViewers": 514,
       "peakViewers": 673,
-      "totalMsgs": 1826,
+      "totalMsgs": 2469,
       "categories": [
         "Just Chatting",
-        "ARC Raiders"
+        "ARC Raiders",
+        "Minecraft"
       ]
     }
   ],
-  "botStartedAt": "2026-03-16T15:07:51.480Z",
-  "lastUpdated": "2026-03-16T17:07:59.207Z"
+  "botStartedAt": "2026-03-16T17:28:20.320Z",
+  "lastUpdated": "2026-03-16T17:29:20.419Z"
 }
