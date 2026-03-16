@@ -1,10 +1,10 @@
 {
   "totalSessions": 34,
   "totalDays": 31,
-  "totalSegments": 1366,
+  "totalSegments": 1369,
   "allTimePeak": 903,
   "allTimeAvg": 642,
-  "totalMessages": 298253,
+  "totalMessages": 298713,
   "categories": [
     {
       "name": "VRChat",
@@ -73,8 +73,8 @@
       "name": "ARC Raiders",
       "avgViewers": 672,
       "peakViewers": 716,
-      "sampleCount": 12,
-      "totalMsgs": 2693
+      "sampleCount": 13,
+      "totalMsgs": 2856
     },
     {
       "name": "The Empty Eyes",
@@ -122,8 +122,8 @@
       "name": "Just Chatting",
       "avgViewers": 606,
       "peakViewers": 903,
-      "sampleCount": 637,
-      "totalMsgs": 139457
+      "sampleCount": 639,
+      "totalMsgs": 139754
     },
     {
       "name": "Minecraft",
@@ -191,8 +191,8 @@
     },
     "16": {
       "avgViewers": 633,
-      "sampleCount": 152,
-      "totalMsgs": 34550
+      "sampleCount": 155,
+      "totalMsgs": 35010
     },
     "17": {
       "avgViewers": 683,
@@ -401,14 +401,15 @@
     },
     {
       "date": "2026-03-16",
-      "avgViewers": 340,
-      "peakViewers": 553,
-      "totalMsgs": 661,
+      "avgViewers": 437,
+      "peakViewers": 673,
+      "totalMsgs": 1121,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "ARC Raiders"
       ]
     }
   ],
   "botStartedAt": "2026-03-16T15:07:51.480Z",
-  "lastUpdated": "2026-03-16T16:07:59.195Z"
+  "lastUpdated": "2026-03-16T16:37:59.199Z"
 }
