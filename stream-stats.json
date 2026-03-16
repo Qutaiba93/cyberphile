@@ -1,10 +1,10 @@
 {
   "totalSessions": 34,
   "totalDays": 31,
-  "totalSegments": 1395,
+  "totalSegments": 1398,
   "allTimePeak": 903,
   "allTimeAvg": 643,
-  "totalMessages": 305805,
+  "totalMessages": 306821,
   "categories": [
     {
       "name": "VRChat",
@@ -56,18 +56,18 @@
       "totalMsgs": 27658
     },
     {
+      "name": "Counter-Strike 2",
+      "avgViewers": 682,
+      "peakViewers": 841,
+      "sampleCount": 75,
+      "totalMsgs": 13967
+    },
+    {
       "name": "IRL",
       "avgViewers": 680,
       "peakViewers": 836,
       "sampleCount": 68,
       "totalMsgs": 26290
-    },
-    {
-      "name": "Counter-Strike 2",
-      "avgViewers": 680,
-      "peakViewers": 841,
-      "sampleCount": 73,
-      "totalMsgs": 13371
     },
     {
       "name": "The Empty Eyes",
@@ -122,8 +122,8 @@
       "name": "Just Chatting",
       "avgViewers": 608,
       "peakViewers": 903,
-      "sampleCount": 646,
-      "totalMsgs": 141919
+      "sampleCount": 647,
+      "totalMsgs": 142339
     },
     {
       "name": "Minecraft",
@@ -210,14 +210,14 @@
       "totalMsgs": 40212
     },
     "20": {
-      "avgViewers": 707,
-      "sampleCount": 159,
-      "totalMsgs": 39435
+      "avgViewers": 708,
+      "sampleCount": 160,
+      "totalMsgs": 39855
     },
     "21": {
-      "avgViewers": 711,
-      "sampleCount": 142,
-      "totalMsgs": 31369
+      "avgViewers": 712,
+      "sampleCount": 144,
+      "totalMsgs": 31965
     },
     "22": {
       "avgViewers": 725,
@@ -401,17 +401,18 @@
     },
     {
       "date": "2026-03-16",
-      "avgViewers": 622,
-      "peakViewers": 763,
-      "totalMsgs": 8213,
+      "avgViewers": 633,
+      "peakViewers": 772,
+      "totalMsgs": 9229,
       "categories": [
         "Just Chatting",
         "ARC Raiders",
         "Minecraft",
-        "VALORANT"
+        "VALORANT",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-03-16T17:28:20.320Z",
-  "lastUpdated": "2026-03-16T20:58:20.460Z"
+  "lastUpdated": "2026-03-16T21:28:21.784Z"
 }
