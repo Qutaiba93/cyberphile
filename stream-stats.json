@@ -1,10 +1,10 @@
 {
   "totalSessions": 34,
   "totalDays": 31,
-  "totalSegments": 1361,
+  "totalSegments": 1363,
   "allTimePeak": 903,
   "allTimeAvg": 643,
-  "totalMessages": 297592,
+  "totalMessages": 297789,
   "categories": [
     {
       "name": "VRChat",
@@ -120,10 +120,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 608,
+      "avgViewers": 607,
       "peakViewers": 903,
-      "sampleCount": 632,
-      "totalMsgs": 138796
+      "sampleCount": 634,
+      "totalMsgs": 138993
     },
     {
       "name": "Minecraft",
@@ -185,9 +185,9 @@
       "totalMsgs": 15454
     },
     "15": {
-      "avgViewers": 525,
-      "sampleCount": 144,
-      "totalMsgs": 28832
+      "avgViewers": 521,
+      "sampleCount": 146,
+      "totalMsgs": 29029
     },
     "16": {
       "avgViewers": 633,
@@ -401,14 +401,14 @@
     },
     {
       "date": "2026-03-16",
-      "avgViewers": 56,
-      "peakViewers": 56,
-      "totalMsgs": 0,
+      "avgViewers": 199,
+      "peakViewers": 325,
+      "totalMsgs": 197,
       "categories": [
         "Just Chatting"
       ]
     }
   ],
   "botStartedAt": "2026-03-16T15:07:51.480Z",
-  "lastUpdated": "2026-03-16T15:08:59.197Z"
+  "lastUpdated": "2026-03-16T15:37:59.182Z"
 }
