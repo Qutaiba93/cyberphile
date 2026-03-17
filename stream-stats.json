@@ -1,10 +1,10 @@
 {
-  "totalSessions": 34,
-  "totalDays": 31,
-  "totalSegments": 1401,
+  "totalSessions": 35,
+  "totalDays": 32,
+  "totalSegments": 1405,
   "allTimePeak": 903,
-  "allTimeAvg": 644,
-  "totalMessages": 307595,
+  "allTimeAvg": 643,
+  "totalMessages": 308315,
   "categories": [
     {
       "name": "VRChat",
@@ -57,10 +57,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 684,
+      "avgViewers": 685,
       "peakViewers": 841,
-      "sampleCount": 78,
-      "totalMsgs": 14741
+      "sampleCount": 81,
+      "totalMsgs": 15456
     },
     {
       "name": "IRL",
@@ -120,10 +120,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 608,
+      "avgViewers": 607,
       "peakViewers": 903,
-      "sampleCount": 647,
-      "totalMsgs": 142339
+      "sampleCount": 648,
+      "totalMsgs": 142344
     },
     {
       "name": "Minecraft",
@@ -216,13 +216,13 @@
     },
     "21": {
       "avgViewers": 712,
-      "sampleCount": 147,
-      "totalMsgs": 32739
+      "sampleCount": 148,
+      "totalMsgs": 32920
     },
     "22": {
-      "avgViewers": 725,
-      "sampleCount": 93,
-      "totalMsgs": 22687
+      "avgViewers": 718,
+      "sampleCount": 96,
+      "totalMsgs": 23226
     },
     "23": {
       "avgViewers": 696,
@@ -231,16 +231,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-03",
-      "avgViewers": 633,
-      "peakViewers": 750,
-      "totalMsgs": 7843,
-      "categories": [
-        "Just Chatting",
-        "Grand Theft Auto V (GTA)"
-      ]
-    },
     {
       "date": "2026-03-04",
       "avgViewers": 668,
@@ -401,9 +391,9 @@
     },
     {
       "date": "2026-03-16",
-      "avgViewers": 639,
+      "avgViewers": 646,
       "peakViewers": 772,
-      "totalMsgs": 10003,
+      "totalMsgs": 10718,
       "categories": [
         "Just Chatting",
         "ARC Raiders",
@@ -411,8 +401,17 @@
         "VALORANT",
         "Counter-Strike 2"
       ]
+    },
+    {
+      "date": "2026-03-17",
+      "avgViewers": 39,
+      "peakViewers": 39,
+      "totalMsgs": 5,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
-  "botStartedAt": "2026-03-16T17:28:20.320Z",
-  "lastUpdated": "2026-03-16T21:58:21.798Z"
+  "botStartedAt": "2026-03-17T22:26:09.741Z",
+  "lastUpdated": "2026-03-17T22:27:18.845Z"
 }
