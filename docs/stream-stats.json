@@ -1,10 +1,10 @@
 {
-  "totalSessions": 35,
-  "totalDays": 32,
-  "totalSegments": 1407,
+  "totalSessions": 36,
+  "totalDays": 33,
+  "totalSegments": 1411,
   "allTimePeak": 903,
-  "allTimeAvg": 643,
-  "totalMessages": 308749,
+  "allTimeAvg": 642,
+  "totalMessages": 309336,
   "categories": [
     {
       "name": "VRChat",
@@ -22,10 +22,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 763,
+      "avgViewers": 760,
       "peakViewers": 902,
-      "sampleCount": 152,
-      "totalMsgs": 37959
+      "sampleCount": 154,
+      "totalMsgs": 38293
     },
     {
       "name": "Gartic Phone",
@@ -119,18 +119,18 @@
       "totalMsgs": 637
     },
     {
-      "name": "Just Chatting",
-      "avgViewers": 606,
-      "peakViewers": 903,
-      "sampleCount": 650,
-      "totalMsgs": 142778
-    },
-    {
       "name": "Minecraft",
       "avgViewers": 606,
       "peakViewers": 729,
       "sampleCount": 46,
       "totalMsgs": 8648
+    },
+    {
+      "name": "Just Chatting",
+      "avgViewers": 605,
+      "peakViewers": 903,
+      "sampleCount": 652,
+      "totalMsgs": 143031
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -185,9 +185,9 @@
       "totalMsgs": 15454
     },
     "15": {
-      "avgViewers": 521,
-      "sampleCount": 149,
-      "totalMsgs": 29493
+      "avgViewers": 518,
+      "sampleCount": 150,
+      "totalMsgs": 29495
     },
     "16": {
       "avgViewers": 633,
@@ -220,30 +220,17 @@
       "totalMsgs": 32920
     },
     "22": {
-      "avgViewers": 709,
-      "sampleCount": 98,
-      "totalMsgs": 23660
+      "avgViewers": 706,
+      "sampleCount": 99,
+      "totalMsgs": 23911
     },
     "23": {
-      "avgViewers": 696,
-      "sampleCount": 43,
-      "totalMsgs": 9009
+      "avgViewers": 689,
+      "sampleCount": 45,
+      "totalMsgs": 9343
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-04",
-      "avgViewers": 668,
-      "peakViewers": 860,
-      "totalMsgs": 15309,
-      "categories": [
-        "Just Chatting",
-        "Minecraft",
-        "Counter-Strike 2",
-        "VALORANT",
-        "Chat Roulette"
-      ]
-    },
     {
       "date": "2026-03-05",
       "avgViewers": 731,
@@ -404,14 +391,24 @@
     },
     {
       "date": "2026-03-17",
-      "avgViewers": 193,
-      "peakViewers": 323,
-      "totalMsgs": 439,
+      "avgViewers": 342,
+      "peakViewers": 562,
+      "totalMsgs": 1024,
+      "categories": [
+        "Just Chatting",
+        "Chat Roulette"
+      ]
+    },
+    {
+      "date": "2026-03-18",
+      "avgViewers": 147,
+      "peakViewers": 147,
+      "totalMsgs": 2,
       "categories": [
         "Just Chatting"
       ]
     }
   ],
-  "botStartedAt": "2026-03-17T22:26:09.741Z",
-  "lastUpdated": "2026-03-17T22:56:18.841Z"
+  "botStartedAt": "2026-03-18T15:18:09.221Z",
+  "lastUpdated": "2026-03-18T15:19:16.892Z"
 }
