@@ -1,10 +1,10 @@
 {
   "totalSessions": 36,
   "totalDays": 33,
-  "totalSegments": 1428,
+  "totalSegments": 1431,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 312000,
+  "totalMessages": 312365,
   "categories": [
     {
       "name": "VRChat",
@@ -85,10 +85,10 @@
     },
     {
       "name": "ARC Raiders",
-      "avgViewers": 657,
+      "avgViewers": 654,
       "peakViewers": 716,
-      "sampleCount": 21,
-      "totalMsgs": 4584
+      "sampleCount": 24,
+      "totalMsgs": 4949
     },
     {
       "name": "VALORANT",
@@ -200,9 +200,9 @@
       "totalMsgs": 35672
     },
     "18": {
-      "avgViewers": 698,
-      "sampleCount": 170,
-      "totalMsgs": 43520
+      "avgViewers": 697,
+      "sampleCount": 173,
+      "totalMsgs": 43885
     },
     "19": {
       "avgViewers": 722,
@@ -401,9 +401,9 @@
     },
     {
       "date": "2026-03-18",
-      "avgViewers": 533,
+      "avgViewers": 548,
       "peakViewers": 650,
-      "totalMsgs": 2666,
+      "totalMsgs": 3031,
       "categories": [
         "Just Chatting",
         "VALORANT",
@@ -412,6 +412,6 @@
       ]
     }
   ],
-  "botStartedAt": "2026-03-18T15:38:45.066Z",
-  "lastUpdated": "2026-03-18T18:08:45.194Z"
+  "botStartedAt": "2026-03-18T18:19:57.946Z",
+  "lastUpdated": "2026-03-18T18:20:58.056Z"
 }

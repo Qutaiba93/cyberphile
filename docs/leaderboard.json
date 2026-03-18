@@ -1,24 +1,6 @@
 {
   "leaderboard": [
     {
-      "name": "slikeroompaloompa",
-      "balance": 42944,
-      "totalEarned": 522794,
-      "totalSpent": 479850,
-      "gamesPlayed": 154,
-      "gamesWon": 50,
-      "streak": 6
-    },
-    {
-      "name": "neinswein",
-      "balance": 17037,
-      "totalEarned": 135045,
-      "totalSpent": 118008,
-      "gamesPlayed": 41,
-      "gamesWon": 16,
-      "streak": 20
-    },
-    {
       "name": "lilsneech",
       "balance": 16315,
       "totalEarned": 62006,
@@ -29,10 +11,10 @@
     },
     {
       "name": "shance",
-      "balance": 12412,
-      "totalEarned": 34764,
-      "totalSpent": 22599,
-      "gamesPlayed": 68,
+      "balance": 12117,
+      "totalEarned": 34824,
+      "totalSpent": 22954,
+      "gamesPlayed": 102,
       "gamesWon": 21,
       "streak": 20
     },
@@ -43,6 +25,15 @@
       "totalSpent": 27661,
       "gamesPlayed": 161,
       "gamesWon": 58,
+      "streak": 20
+    },
+    {
+      "name": "neinswein",
+      "balance": 8388,
+      "totalEarned": 225213,
+      "totalSpent": 216825,
+      "gamesPlayed": 62,
+      "gamesWon": 23,
       "streak": 20
     },
     {
@@ -65,8 +56,8 @@
     },
     {
       "name": "taboxl",
-      "balance": 5670,
-      "totalEarned": 8038,
+      "balance": 5678,
+      "totalEarned": 8046,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
@@ -101,8 +92,8 @@
     },
     {
       "name": "plebcentral",
-      "balance": 5478,
-      "totalEarned": 5478,
+      "balance": 5482,
+      "totalEarned": 5482,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -163,6 +154,15 @@
       "streak": 19
     },
     {
+      "name": "sliker",
+      "balance": 4181,
+      "totalEarned": 11224,
+      "totalSpent": 7043,
+      "gamesPlayed": 4,
+      "gamesWon": 2,
+      "streak": 1
+    },
+    {
       "name": "skullyontop",
       "balance": 4163,
       "totalEarned": 4173,
@@ -173,8 +173,8 @@
     },
     {
       "name": "schitt",
-      "balance": 4139,
-      "totalEarned": 4139,
+      "balance": 4143,
+      "totalEarned": 4143,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -254,8 +254,8 @@
     },
     {
       "name": "intermediatewastakensadge",
-      "balance": 3523,
-      "totalEarned": 3523,
+      "balance": 3525,
+      "totalEarned": 3525,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -281,8 +281,8 @@
     },
     {
       "name": "damiybe",
-      "balance": 3270,
-      "totalEarned": 3280,
+      "balance": 3272,
+      "totalEarned": 3282,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -442,19 +442,19 @@
       "streak": 1
     },
     {
-      "name": "titan95",
-      "balance": 2652,
-      "totalEarned": 16032,
-      "totalSpent": 13380,
-      "gamesPlayed": 30,
-      "gamesWon": 16,
-      "streak": 5
+      "name": "chrisdonwest",
+      "balance": 2629,
+      "totalEarned": 2629,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 20
     }
   ],
   "stats": {
     "totalPlayers": 904,
-    "totalCirculating": 748069,
-    "totalGames": 4380,
+    "totalCirculating": 697521,
+    "totalGames": 4467,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-18T18:08:45.196Z"
+  "lastUpdated": "2026-03-18T18:20:58.057Z"
 }
