@@ -1,10 +1,10 @@
 {
   "totalSessions": 36,
   "totalDays": 33,
-  "totalSegments": 1419,
+  "totalSegments": 1422,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 310590,
+  "totalMessages": 311203,
   "categories": [
     {
       "name": "VRChat",
@@ -94,8 +94,8 @@
       "name": "VALORANT",
       "avgViewers": 646,
       "peakViewers": 769,
-      "sampleCount": 43,
-      "totalMsgs": 9428
+      "sampleCount": 44,
+      "totalMsgs": 9543
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -129,8 +129,8 @@
       "name": "Just Chatting",
       "avgViewers": 604,
       "peakViewers": 903,
-      "sampleCount": 654,
-      "totalMsgs": 143282
+      "sampleCount": 656,
+      "totalMsgs": 143780
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -191,8 +191,8 @@
     },
     "16": {
       "avgViewers": 631,
-      "sampleCount": 161,
-      "totalMsgs": 36388
+      "sampleCount": 164,
+      "totalMsgs": 37001
     },
     "17": {
       "avgViewers": 682,
@@ -401,9 +401,9 @@
     },
     {
       "date": "2026-03-18",
-      "avgViewers": 427,
-      "peakViewers": 577,
-      "totalMsgs": 1256,
+      "avgViewers": 480,
+      "peakViewers": 648,
+      "totalMsgs": 1869,
       "categories": [
         "Just Chatting",
         "VALORANT",
@@ -412,5 +412,5 @@
     }
   ],
   "botStartedAt": "2026-03-18T15:38:45.066Z",
-  "lastUpdated": "2026-03-18T16:38:45.182Z"
+  "lastUpdated": "2026-03-18T17:08:45.182Z"
 }
