@@ -1,10 +1,10 @@
 {
   "totalSessions": 36,
   "totalDays": 33,
-  "totalSegments": 1414,
+  "totalSegments": 1416,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 309585,
+  "totalMessages": 309917,
   "categories": [
     {
       "name": "VRChat",
@@ -57,10 +57,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 685,
+      "avgViewers": 681,
       "peakViewers": 841,
-      "sampleCount": 81,
-      "totalMsgs": 15456
+      "sampleCount": 83,
+      "totalMsgs": 15788
     },
     {
       "name": "IRL",
@@ -185,9 +185,9 @@
       "totalMsgs": 15454
     },
     "15": {
-      "avgViewers": 515,
-      "sampleCount": 153,
-      "totalMsgs": 29744
+      "avgViewers": 514,
+      "sampleCount": 155,
+      "totalMsgs": 30076
     },
     "16": {
       "avgViewers": 633,
@@ -401,15 +401,16 @@
     },
     {
       "date": "2026-03-18",
-      "avgViewers": 295,
-      "peakViewers": 377,
-      "totalMsgs": 251,
+      "avgViewers": 358,
+      "peakViewers": 517,
+      "totalMsgs": 583,
       "categories": [
         "Just Chatting",
-        "VALORANT"
+        "VALORANT",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-03-18T15:38:45.066Z",
-  "lastUpdated": "2026-03-18T15:39:45.176Z"
+  "lastUpdated": "2026-03-18T16:08:45.168Z"
 }
