@@ -1,10 +1,10 @@
 {
   "totalSessions": 37,
   "totalDays": 34,
-  "totalSegments": 1498,
+  "totalSegments": 1501,
   "allTimePeak": 903,
   "allTimeAvg": 643,
-  "totalMessages": 326135,
+  "totalMessages": 326613,
   "categories": [
     {
       "name": "VRChat",
@@ -73,8 +73,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 683,
       "peakViewers": 841,
-      "sampleCount": 100,
-      "totalMsgs": 19230
+      "sampleCount": 102,
+      "totalMsgs": 19492
     },
     {
       "name": "The Empty Eyes",
@@ -134,10 +134,10 @@
     },
     {
       "name": "Minecraft",
-      "avgViewers": 606,
+      "avgViewers": 607,
       "peakViewers": 729,
-      "sampleCount": 46,
-      "totalMsgs": 8648
+      "sampleCount": 47,
+      "totalMsgs": 8864
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -228,13 +228,13 @@
     },
     "22": {
       "avgViewers": 706,
-      "sampleCount": 109,
-      "totalMsgs": 25870
+      "sampleCount": 110,
+      "totalMsgs": 25996
     },
     "23": {
       "avgViewers": 689,
-      "sampleCount": 45,
-      "totalMsgs": 9343
+      "sampleCount": 47,
+      "totalMsgs": 9695
     }
   },
   "dailyHistory": [
@@ -408,19 +408,20 @@
     },
     {
       "date": "2026-03-19",
-      "avgViewers": 696,
+      "avgViewers": 695,
       "peakViewers": 804,
-      "totalMsgs": 8915,
+      "totalMsgs": 9393,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
         "VALORANT",
         "Counter-Strike 2",
         "IRL",
-        "PUBG: Battlegrounds"
+        "PUBG: Battlegrounds",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-03-19T18:26:52.573Z",
-  "lastUpdated": "2026-03-19T22:56:52.740Z"
+  "lastUpdated": "2026-03-19T23:26:52.757Z"
 }
