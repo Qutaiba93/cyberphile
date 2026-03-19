@@ -1,10 +1,10 @@
 {
   "totalSessions": 37,
   "totalDays": 34,
-  "totalSegments": 1465,
+  "totalSegments": 1468,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 318518,
+  "totalMessages": 319209,
   "categories": [
     {
       "name": "VRChat",
@@ -21,18 +21,18 @@
       "totalMsgs": 2696
     },
     {
-      "name": "Chat Roulette",
-      "avgViewers": 752,
-      "peakViewers": 902,
-      "sampleCount": 161,
-      "totalMsgs": 39591
-    },
-    {
       "name": "Gartic Phone",
       "avgViewers": 752,
       "peakViewers": 769,
       "sampleCount": 5,
       "totalMsgs": 620
+    },
+    {
+      "name": "Chat Roulette",
+      "avgViewers": 751,
+      "peakViewers": 902,
+      "sampleCount": 163,
+      "totalMsgs": 39957
     },
     {
       "name": "Songbattle.io",
@@ -92,10 +92,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 646,
+      "avgViewers": 647,
       "peakViewers": 769,
-      "sampleCount": 47,
-      "totalMsgs": 9941
+      "sampleCount": 48,
+      "totalMsgs": 10266
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -195,9 +195,9 @@
       "totalMsgs": 37573
     },
     "17": {
-      "avgViewers": 680,
-      "sampleCount": 173,
-      "totalMsgs": 36398
+      "avgViewers": 681,
+      "sampleCount": 176,
+      "totalMsgs": 37089
     },
     "18": {
       "avgViewers": 696,
@@ -401,15 +401,16 @@
     },
     {
       "date": "2026-03-19",
-      "avgViewers": 531,
-      "peakViewers": 698,
-      "totalMsgs": 1298,
+      "avgViewers": 581,
+      "peakViewers": 736,
+      "totalMsgs": 1989,
       "categories": [
         "Just Chatting",
-        "Chat Roulette"
+        "Chat Roulette",
+        "VALORANT"
       ]
     }
   ],
   "botStartedAt": "2026-03-19T15:31:10.060Z",
-  "lastUpdated": "2026-03-19T17:31:17.946Z"
+  "lastUpdated": "2026-03-19T18:01:17.951Z"
 }
