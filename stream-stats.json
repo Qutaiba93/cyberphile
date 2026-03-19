@@ -1,10 +1,10 @@
 {
   "totalSessions": 37,
   "totalDays": 34,
-  "totalSegments": 1477,
+  "totalSegments": 1480,
   "allTimePeak": 903,
   "allTimeAvg": 642,
-  "totalMessages": 320428,
+  "totalMessages": 321455,
   "categories": [
     {
       "name": "VRChat",
@@ -56,18 +56,18 @@
       "totalMsgs": 27658
     },
     {
+      "name": "Counter-Strike 2",
+      "avgViewers": 682,
+      "peakViewers": 841,
+      "sampleCount": 97,
+      "totalMsgs": 18492
+    },
+    {
       "name": "IRL",
       "avgViewers": 680,
       "peakViewers": 836,
       "sampleCount": 68,
       "totalMsgs": 26290
-    },
-    {
-      "name": "Counter-Strike 2",
-      "avgViewers": 680,
-      "peakViewers": 841,
-      "sampleCount": 95,
-      "totalMsgs": 18189
     },
     {
       "name": "The Empty Eyes",
@@ -119,18 +119,18 @@
       "totalMsgs": 637
     },
     {
+      "name": "Just Chatting",
+      "avgViewers": 606,
+      "peakViewers": 903,
+      "sampleCount": 670,
+      "totalMsgs": 146595
+    },
+    {
       "name": "Minecraft",
       "avgViewers": 606,
       "peakViewers": 729,
       "sampleCount": 46,
       "totalMsgs": 8648
-    },
-    {
-      "name": "Just Chatting",
-      "avgViewers": 605,
-      "peakViewers": 903,
-      "sampleCount": 669,
-      "totalMsgs": 145871
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -206,8 +206,8 @@
     },
     "19": {
       "avgViewers": 721,
-      "sampleCount": 177,
-      "totalMsgs": 41703
+      "sampleCount": 180,
+      "totalMsgs": 42730
     },
     "20": {
       "avgViewers": 706,
@@ -401,9 +401,9 @@
     },
     {
       "date": "2026-03-19",
-      "avgViewers": 640,
-      "peakViewers": 736,
-      "totalMsgs": 3208,
+      "avgViewers": 656,
+      "peakViewers": 793,
+      "totalMsgs": 4235,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -413,5 +413,5 @@
     }
   ],
   "botStartedAt": "2026-03-19T18:26:52.573Z",
-  "lastUpdated": "2026-03-19T19:26:52.671Z"
+  "lastUpdated": "2026-03-19T19:56:52.672Z"
 }
