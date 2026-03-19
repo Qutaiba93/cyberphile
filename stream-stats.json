@@ -1,10 +1,10 @@
 {
   "totalSessions": 37,
   "totalDays": 34,
-  "totalSegments": 1489,
+  "totalSegments": 1492,
   "allTimePeak": 903,
   "allTimeAvg": 643,
-  "totalMessages": 324043,
+  "totalMessages": 324814,
   "categories": [
     {
       "name": "VRChat",
@@ -57,10 +57,10 @@
     },
     {
       "name": "IRL",
-      "avgViewers": 682,
+      "avgViewers": 684,
       "peakViewers": 836,
-      "sampleCount": 70,
-      "totalMsgs": 26778
+      "sampleCount": 72,
+      "totalMsgs": 27335
     },
     {
       "name": "Counter-Strike 2",
@@ -120,10 +120,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 607,
+      "avgViewers": 608,
       "peakViewers": 903,
-      "sampleCount": 677,
-      "totalMsgs": 148695
+      "sampleCount": 678,
+      "totalMsgs": 148909
     },
     {
       "name": "Minecraft",
@@ -216,8 +216,8 @@
     },
     "21": {
       "avgViewers": 712,
-      "sampleCount": 156,
-      "totalMsgs": 34616
+      "sampleCount": 159,
+      "totalMsgs": 35387
     },
     "22": {
       "avgViewers": 706,
@@ -401,9 +401,9 @@
     },
     {
       "date": "2026-03-19",
-      "avgViewers": 689,
+      "avgViewers": 694,
       "peakViewers": 804,
-      "totalMsgs": 6823,
+      "totalMsgs": 7594,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -414,5 +414,5 @@
     }
   ],
   "botStartedAt": "2026-03-19T18:26:52.573Z",
-  "lastUpdated": "2026-03-19T21:26:52.719Z"
+  "lastUpdated": "2026-03-19T21:56:52.730Z"
 }
