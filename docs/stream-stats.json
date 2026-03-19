@@ -1,10 +1,10 @@
 {
-  "totalSessions": 36,
-  "totalDays": 33,
-  "totalSegments": 1457,
+  "totalSessions": 37,
+  "totalDays": 34,
+  "totalSegments": 1459,
   "allTimePeak": 903,
-  "allTimeAvg": 642,
-  "totalMessages": 317220,
+  "allTimeAvg": 641,
+  "totalMessages": 317359,
   "categories": [
     {
       "name": "VRChat",
@@ -22,10 +22,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 760,
+      "avgViewers": 757,
       "peakViewers": 902,
-      "sampleCount": 154,
-      "totalMsgs": 38293
+      "sampleCount": 155,
+      "totalMsgs": 38432
     },
     {
       "name": "Gartic Phone",
@@ -129,7 +129,7 @@
       "name": "Just Chatting",
       "avgViewers": 605,
       "peakViewers": 903,
-      "sampleCount": 664,
+      "sampleCount": 665,
       "totalMsgs": 145293
     },
     {
@@ -190,9 +190,9 @@
       "totalMsgs": 30076
     },
     "16": {
-      "avgViewers": 631,
-      "sampleCount": 164,
-      "totalMsgs": 37001
+      "avgViewers": 627,
+      "sampleCount": 166,
+      "totalMsgs": 37140
     },
     "17": {
       "avgViewers": 680,
@@ -231,18 +231,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-05",
-      "avgViewers": 731,
-      "peakViewers": 903,
-      "totalMsgs": 16948,
-      "categories": [
-        "Minecraft",
-        "Just Chatting",
-        "Counter-Strike: Global Offensive",
-        "Grand Theft Auto V (GTA)"
-      ]
-    },
     {
       "date": "2026-03-06",
       "avgViewers": 682,
@@ -410,8 +398,18 @@
         "Counter-Strike 2",
         "ARC Raiders"
       ]
+    },
+    {
+      "date": "2026-03-19",
+      "avgViewers": 284,
+      "peakViewers": 365,
+      "totalMsgs": 139,
+      "categories": [
+        "Just Chatting",
+        "Chat Roulette"
+      ]
     }
   ],
   "botStartedAt": "2026-03-19T15:31:10.060Z",
-  "lastUpdated": "2026-03-19T16:01:17.920Z"
+  "lastUpdated": "2026-03-19T16:31:17.932Z"
 }
