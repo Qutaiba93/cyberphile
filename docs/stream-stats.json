@@ -1,10 +1,10 @@
 {
   "totalSessions": 37,
   "totalDays": 34,
-  "totalSegments": 1501,
+  "totalSegments": 1504,
   "allTimePeak": 903,
   "allTimeAvg": 643,
-  "totalMessages": 326613,
+  "totalMessages": 327355,
   "categories": [
     {
       "name": "VRChat",
@@ -126,18 +126,18 @@
       "totalMsgs": 637
     },
     {
+      "name": "Minecraft",
+      "avgViewers": 610,
+      "peakViewers": 729,
+      "sampleCount": 50,
+      "totalMsgs": 9606
+    },
+    {
       "name": "Just Chatting",
       "avgViewers": 608,
       "peakViewers": 903,
       "sampleCount": 679,
       "totalMsgs": 149111
-    },
-    {
-      "name": "Minecraft",
-      "avgViewers": 607,
-      "peakViewers": 729,
-      "sampleCount": 47,
-      "totalMsgs": 8864
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -232,9 +232,9 @@
       "totalMsgs": 25996
     },
     "23": {
-      "avgViewers": 689,
-      "sampleCount": 47,
-      "totalMsgs": 9695
+      "avgViewers": 686,
+      "sampleCount": 50,
+      "totalMsgs": 10437
     }
   },
   "dailyHistory": [
@@ -408,9 +408,9 @@
     },
     {
       "date": "2026-03-19",
-      "avgViewers": 695,
+      "avgViewers": 692,
       "peakViewers": 804,
-      "totalMsgs": 9393,
+      "totalMsgs": 10135,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -423,5 +423,5 @@
     }
   ],
   "botStartedAt": "2026-03-19T18:26:52.573Z",
-  "lastUpdated": "2026-03-19T23:26:52.757Z"
+  "lastUpdated": "2026-03-19T23:56:52.761Z"
 }
