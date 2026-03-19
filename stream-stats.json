@@ -1,10 +1,10 @@
 {
   "totalSessions": 37,
   "totalDays": 34,
-  "totalSegments": 1480,
+  "totalSegments": 1483,
   "allTimePeak": 903,
   "allTimeAvg": 642,
-  "totalMessages": 321455,
+  "totalMessages": 322336,
   "categories": [
     {
       "name": "VRChat",
@@ -64,10 +64,10 @@
     },
     {
       "name": "IRL",
-      "avgViewers": 680,
+      "avgViewers": 681,
       "peakViewers": 836,
-      "sampleCount": 68,
-      "totalMsgs": 26290
+      "sampleCount": 69,
+      "totalMsgs": 26565
     },
     {
       "name": "The Empty Eyes",
@@ -122,8 +122,8 @@
       "name": "Just Chatting",
       "avgViewers": 606,
       "peakViewers": 903,
-      "sampleCount": 670,
-      "totalMsgs": 146595
+      "sampleCount": 672,
+      "totalMsgs": 147201
     },
     {
       "name": "Minecraft",
@@ -205,14 +205,14 @@
       "totalMsgs": 45257
     },
     "19": {
-      "avgViewers": 721,
-      "sampleCount": 180,
-      "totalMsgs": 42730
+      "avgViewers": 722,
+      "sampleCount": 181,
+      "totalMsgs": 43176
     },
     "20": {
       "avgViewers": 706,
-      "sampleCount": 166,
-      "totalMsgs": 40906
+      "sampleCount": 168,
+      "totalMsgs": 41341
     },
     "21": {
       "avgViewers": 711,
@@ -401,17 +401,18 @@
     },
     {
       "date": "2026-03-19",
-      "avgViewers": 656,
-      "peakViewers": 793,
-      "totalMsgs": 4235,
+      "avgViewers": 669,
+      "peakViewers": 804,
+      "totalMsgs": 5116,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
         "VALORANT",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "IRL"
       ]
     }
   ],
   "botStartedAt": "2026-03-19T18:26:52.573Z",
-  "lastUpdated": "2026-03-19T19:56:52.672Z"
+  "lastUpdated": "2026-03-19T20:26:52.688Z"
 }
