@@ -1,10 +1,10 @@
 {
-  "totalSessions": 37,
-  "totalDays": 34,
-  "totalSegments": 1508,
+  "totalSessions": 38,
+  "totalDays": 35,
+  "totalSegments": 1510,
   "allTimePeak": 903,
   "allTimeAvg": 643,
-  "totalMessages": 328388,
+  "totalMessages": 328639,
   "categories": [
     {
       "name": "VRChat",
@@ -134,10 +134,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 608,
+      "avgViewers": 607,
       "peakViewers": 903,
-      "sampleCount": 679,
-      "totalMsgs": 149111
+      "sampleCount": 681,
+      "totalMsgs": 149362
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -217,14 +217,14 @@
       "totalMsgs": 43176
     },
     "20": {
-      "avgViewers": 708,
-      "sampleCount": 172,
-      "totalMsgs": 42672
+      "avgViewers": 705,
+      "sampleCount": 173,
+      "totalMsgs": 42676
     },
     "21": {
-      "avgViewers": 713,
-      "sampleCount": 160,
-      "totalMsgs": 35589
+      "avgViewers": 710,
+      "sampleCount": 161,
+      "totalMsgs": 35836
     },
     "22": {
       "avgViewers": 706,
@@ -238,20 +238,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-06",
-      "avgViewers": 682,
-      "peakViewers": 819,
-      "totalMsgs": 12600,
-      "categories": [
-        "Just Chatting",
-        "Counter-Strike 2",
-        "Games + Demos",
-        "Chat Roulette",
-        "VRChat",
-        "God of War Ragnarök"
-      ]
-    },
     {
       "date": "2026-03-07",
       "avgViewers": 687,
@@ -420,8 +406,17 @@
         "PUBG: Battlegrounds",
         "Minecraft"
       ]
+    },
+    {
+      "date": "2026-03-20",
+      "avgViewers": 299,
+      "peakViewers": 347,
+      "totalMsgs": 251,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-03-20T16:16:46.707Z",
-  "lastUpdated": "2026-03-20T20:46:58.987Z"
+  "lastUpdated": "2026-03-20T21:16:58.992Z"
 }
