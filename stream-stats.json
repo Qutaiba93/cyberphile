@@ -1,10 +1,10 @@
 {
   "totalSessions": 38,
   "totalDays": 35,
-  "totalSegments": 1522,
+  "totalSegments": 1525,
   "allTimePeak": 903,
   "allTimeAvg": 642,
-  "totalMessages": 331198,
+  "totalMessages": 331877,
   "categories": [
     {
       "name": "VRChat",
@@ -64,10 +64,10 @@
     },
     {
       "name": "IRL",
-      "avgViewers": 684,
+      "avgViewers": 681,
       "peakViewers": 836,
-      "sampleCount": 72,
-      "totalMsgs": 27335
+      "sampleCount": 75,
+      "totalMsgs": 28014
     },
     {
       "name": "Counter-Strike 2",
@@ -239,9 +239,9 @@
       "totalMsgs": 27122
     },
     "23": {
-      "avgViewers": 684,
-      "sampleCount": 52,
-      "totalMsgs": 10905
+      "avgViewers": 680,
+      "sampleCount": 55,
+      "totalMsgs": 11584
     }
   },
   "dailyHistory": [
@@ -416,17 +416,18 @@
     },
     {
       "date": "2026-03-20",
-      "avgViewers": 544,
-      "peakViewers": 634,
-      "totalMsgs": 2810,
+      "avgViewers": 554,
+      "peakViewers": 641,
+      "totalMsgs": 3489,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
         "Creepy Shift: House for Sale",
-        "VALORANT"
+        "VALORANT",
+        "IRL"
       ]
     }
   ],
   "botStartedAt": "2026-03-20T16:16:46.707Z",
-  "lastUpdated": "2026-03-20T23:16:59.013Z"
+  "lastUpdated": "2026-03-20T23:46:59.014Z"
 }
