@@ -1,10 +1,10 @@
 {
   "totalSessions": 38,
   "totalDays": 35,
-  "totalSegments": 1516,
+  "totalSegments": 1519,
   "allTimePeak": 903,
   "allTimeAvg": 642,
-  "totalMessages": 330058,
+  "totalMessages": 330566,
   "categories": [
     {
       "name": "VRChat",
@@ -73,8 +73,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 681,
       "peakViewers": 841,
-      "sampleCount": 105,
-      "totalMsgs": 20107
+      "sampleCount": 106,
+      "totalMsgs": 20263
     },
     {
       "name": "The Empty Eyes",
@@ -138,6 +138,13 @@
       "peakViewers": 903,
       "sampleCount": 684,
       "totalMsgs": 150166
+    },
+    {
+      "name": "Creepy Shift: House for Sale",
+      "avgViewers": 605,
+      "peakViewers": 611,
+      "sampleCount": 2,
+      "totalMsgs": 352
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -227,9 +234,9 @@
       "totalMsgs": 37078
     },
     "22": {
-      "avgViewers": 705,
-      "sampleCount": 111,
-      "totalMsgs": 26173
+      "avgViewers": 702,
+      "sampleCount": 114,
+      "totalMsgs": 26681
     },
     "23": {
       "avgViewers": 685,
@@ -409,15 +416,16 @@
     },
     {
       "date": "2026-03-20",
-      "avgViewers": 489,
+      "avgViewers": 523,
       "peakViewers": 632,
-      "totalMsgs": 1670,
+      "totalMsgs": 2178,
       "categories": [
         "Just Chatting",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Creepy Shift: House for Sale"
       ]
     }
   ],
   "botStartedAt": "2026-03-20T16:16:46.707Z",
-  "lastUpdated": "2026-03-20T22:16:59.003Z"
+  "lastUpdated": "2026-03-20T22:46:59.004Z"
 }
