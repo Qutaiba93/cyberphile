@@ -11,8 +11,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 8292,
-      "totalEarned": 47188,
+      "balance": 8294,
+      "totalEarned": 47190,
       "totalSpent": 38896,
       "gamesPlayed": 196,
       "gamesWon": 68,
@@ -65,8 +65,8 @@
     },
     {
       "name": "plebcentral",
-      "balance": 5821,
-      "totalEarned": 5821,
+      "balance": 5823,
+      "totalEarned": 5823,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 936,
-    "totalCirculating": 716750,
+    "totalCirculating": 716764,
     "totalGames": 5092,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-20T16:17:55.799Z"
+  "lastUpdated": "2026-03-20T16:46:55.786Z"
 }
