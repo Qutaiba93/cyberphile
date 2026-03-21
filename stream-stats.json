@@ -1,10 +1,10 @@
 {
   "totalSessions": 40,
   "totalDays": 36,
-  "totalSegments": 1578,
+  "totalSegments": 1581,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 342502,
+  "totalMessages": 342869,
   "categories": [
     {
       "name": "VRChat",
@@ -119,6 +119,13 @@
       "totalMsgs": 3592
     },
     {
+      "name": "Backrooms",
+      "avgViewers": 623,
+      "peakViewers": 623,
+      "sampleCount": 1,
+      "totalMsgs": 117
+    },
+    {
       "name": "League of Legends",
       "avgViewers": 622,
       "peakViewers": 643,
@@ -134,10 +141,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 608,
+      "avgViewers": 609,
       "peakViewers": 903,
-      "sampleCount": 708,
-      "totalMsgs": 155485
+      "sampleCount": 710,
+      "totalMsgs": 155735
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -247,13 +254,13 @@
     },
     "22": {
       "avgViewers": 701,
-      "sampleCount": 121,
-      "totalMsgs": 27800
+      "sampleCount": 122,
+      "totalMsgs": 27877
     },
     "23": {
-      "avgViewers": 679,
-      "sampleCount": 57,
-      "totalMsgs": 12059
+      "avgViewers": 678,
+      "sampleCount": 59,
+      "totalMsgs": 12349
     }
   },
   "dailyHistory": [
@@ -427,18 +434,19 @@
     },
     {
       "date": "2026-03-21",
-      "avgViewers": 615,
+      "avgViewers": 618,
       "peakViewers": 762,
-      "totalMsgs": 9410,
+      "totalMsgs": 9777,
       "categories": [
         "Movierooms",
         "Just Chatting",
         "Counter-Strike 2",
         "VALORANT",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Backrooms"
       ]
     }
   ],
   "botStartedAt": "2026-03-21T13:50:49.829Z",
-  "lastUpdated": "2026-03-21T22:50:57.682Z"
+  "lastUpdated": "2026-03-21T23:20:57.694Z"
 }
