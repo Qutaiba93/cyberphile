@@ -1,10 +1,10 @@
 {
   "totalSessions": 39,
   "totalDays": 36,
-  "totalSegments": 1531,
+  "totalSegments": 1534,
   "allTimePeak": 903,
-  "allTimeAvg": 642,
-  "totalMessages": 333293,
+  "allTimeAvg": 641,
+  "totalMessages": 333835,
   "categories": [
     {
       "name": "VRChat",
@@ -183,10 +183,10 @@
     },
     {
       "name": "Movierooms",
-      "avgViewers": 232,
-      "peakViewers": 274,
-      "sampleCount": 2,
-      "totalMsgs": 201
+      "avgViewers": 316,
+      "peakViewers": 430,
+      "sampleCount": 5,
+      "totalMsgs": 743
     }
   ],
   "hourlyPatterns": {
@@ -196,9 +196,9 @@
       "totalMsgs": 4122
     },
     "1": {
-      "avgViewers": 274,
-      "sampleCount": 1,
-      "totalMsgs": 88
+      "avgViewers": 347,
+      "sampleCount": 4,
+      "totalMsgs": 630
     },
     "13": {
       "avgViewers": 176,
@@ -427,14 +427,14 @@
     },
     {
       "date": "2026-03-21",
-      "avgViewers": 232,
-      "peakViewers": 274,
-      "totalMsgs": 201,
+      "avgViewers": 316,
+      "peakViewers": 430,
+      "totalMsgs": 743,
       "categories": [
         "Movierooms"
       ]
     }
   ],
-  "botStartedAt": "2026-03-20T16:16:46.707Z",
-  "lastUpdated": "2026-03-21T01:16:59.048Z"
+  "botStartedAt": "2026-03-21T13:50:49.829Z",
+  "lastUpdated": "2026-03-21T13:51:56.170Z"
 }
