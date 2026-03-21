@@ -1,10 +1,10 @@
 {
-  "totalSessions": 38,
-  "totalDays": 35,
-  "totalSegments": 1529,
+  "totalSessions": 39,
+  "totalDays": 36,
+  "totalSegments": 1531,
   "allTimePeak": 903,
   "allTimeAvg": 642,
-  "totalMessages": 333092,
+  "totalMessages": 333293,
   "categories": [
     {
       "name": "VRChat",
@@ -180,13 +180,25 @@
       "peakViewers": 601,
       "sampleCount": 41,
       "totalMsgs": 9011
+    },
+    {
+      "name": "Movierooms",
+      "avgViewers": 232,
+      "peakViewers": 274,
+      "sampleCount": 2,
+      "totalMsgs": 201
     }
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 606,
-      "sampleCount": 21,
-      "totalMsgs": 4009
+      "avgViewers": 587,
+      "sampleCount": 22,
+      "totalMsgs": 4122
+    },
+    "1": {
+      "avgViewers": 274,
+      "sampleCount": 1,
+      "totalMsgs": 88
     },
     "13": {
       "avgViewers": 176,
@@ -245,20 +257,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-07",
-      "avgViewers": 687,
-      "peakViewers": 832,
-      "totalMsgs": 12827,
-      "categories": [
-        "Just Chatting",
-        "IRL",
-        "Songbattle.io",
-        "Grand Theft Auto V (GTA)",
-        "Chat Roulette",
-        "Counter-Strike 2"
-      ]
-    },
     {
       "date": "2026-03-08",
       "avgViewers": 705,
@@ -426,8 +424,17 @@
         "VALORANT",
         "IRL"
       ]
+    },
+    {
+      "date": "2026-03-21",
+      "avgViewers": 232,
+      "peakViewers": 274,
+      "totalMsgs": 201,
+      "categories": [
+        "Movierooms"
+      ]
     }
   ],
   "botStartedAt": "2026-03-20T16:16:46.707Z",
-  "lastUpdated": "2026-03-21T00:46:59.032Z"
+  "lastUpdated": "2026-03-21T01:16:59.048Z"
 }
