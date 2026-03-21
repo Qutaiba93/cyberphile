@@ -1,10 +1,10 @@
 {
   "totalSessions": 40,
   "totalDays": 36,
-  "totalSegments": 1581,
+  "totalSegments": 1584,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 342869,
+  "totalMessages": 343130,
   "categories": [
     {
       "name": "VRChat",
@@ -119,13 +119,6 @@
       "totalMsgs": 3592
     },
     {
-      "name": "Backrooms",
-      "avgViewers": 623,
-      "peakViewers": 623,
-      "sampleCount": 1,
-      "totalMsgs": 117
-    },
-    {
       "name": "League of Legends",
       "avgViewers": 622,
       "peakViewers": 643,
@@ -152,6 +145,13 @@
       "peakViewers": 611,
       "sampleCount": 2,
       "totalMsgs": 352
+    },
+    {
+      "name": "Backrooms",
+      "avgViewers": 603,
+      "peakViewers": 623,
+      "sampleCount": 4,
+      "totalMsgs": 378
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -258,9 +258,9 @@
       "totalMsgs": 27877
     },
     "23": {
-      "avgViewers": 678,
-      "sampleCount": 59,
-      "totalMsgs": 12349
+      "avgViewers": 674,
+      "sampleCount": 62,
+      "totalMsgs": 12610
     }
   },
   "dailyHistory": [
@@ -434,9 +434,9 @@
     },
     {
       "date": "2026-03-21",
-      "avgViewers": 618,
+      "avgViewers": 617,
       "peakViewers": 762,
-      "totalMsgs": 9777,
+      "totalMsgs": 10038,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -448,5 +448,5 @@
     }
   ],
   "botStartedAt": "2026-03-21T13:50:49.829Z",
-  "lastUpdated": "2026-03-21T23:20:57.694Z"
+  "lastUpdated": "2026-03-21T23:50:57.701Z"
 }
