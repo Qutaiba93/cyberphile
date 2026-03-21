@@ -1,10 +1,10 @@
 {
   "totalSessions": 40,
   "totalDays": 36,
-  "totalSegments": 1569,
+  "totalSegments": 1572,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 341136,
+  "totalMessages": 341671,
   "categories": [
     {
       "name": "VRChat",
@@ -31,8 +31,8 @@
       "name": "Chat Roulette",
       "avgViewers": 751,
       "peakViewers": 902,
-      "sampleCount": 163,
-      "totalMsgs": 39957
+      "sampleCount": 166,
+      "totalMsgs": 40492
     },
     {
       "name": "Songbattle.io",
@@ -242,8 +242,8 @@
     },
     "21": {
       "avgViewers": 705,
-      "sampleCount": 168,
-      "totalMsgs": 37335
+      "sampleCount": 171,
+      "totalMsgs": 37870
     },
     "22": {
       "avgViewers": 701,
@@ -427,17 +427,18 @@
     },
     {
       "date": "2026-03-21",
-      "avgViewers": 592,
-      "peakViewers": 731,
-      "totalMsgs": 8044,
+      "avgViewers": 603,
+      "peakViewers": 762,
+      "totalMsgs": 8579,
       "categories": [
         "Movierooms",
         "Just Chatting",
         "Counter-Strike 2",
-        "VALORANT"
+        "VALORANT",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-03-21T13:50:49.829Z",
-  "lastUpdated": "2026-03-21T21:20:56.266Z"
+  "lastUpdated": "2026-03-21T21:50:57.672Z"
 }
