@@ -20,8 +20,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 8542,
-      "totalEarned": 47438,
+      "balance": 8548,
+      "totalEarned": 47444,
       "totalSpent": 38896,
       "gamesPlayed": 196,
       "gamesWon": 68,
@@ -56,8 +56,8 @@
     },
     {
       "name": "drogan",
-      "balance": 6297,
-      "totalEarned": 6297,
+      "balance": 6359,
+      "totalEarned": 6359,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -74,8 +74,8 @@
     },
     {
       "name": "weppss",
-      "balance": 5638,
-      "totalEarned": 7913,
+      "balance": 5648,
+      "totalEarned": 7923,
       "totalSpent": 2275,
       "gamesPlayed": 19,
       "gamesWon": 7,
@@ -110,8 +110,8 @@
     },
     {
       "name": "nitro_st",
-      "balance": 4791,
-      "totalEarned": 4791,
+      "balance": 4793,
+      "totalEarned": 4793,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -191,8 +191,8 @@
     },
     {
       "name": "ambizine",
-      "balance": 4105,
-      "totalEarned": 15214,
+      "balance": 4109,
+      "totalEarned": 15218,
       "totalSpent": 11109,
       "gamesPlayed": 59,
       "gamesWon": 20,
@@ -254,8 +254,8 @@
     },
     {
       "name": "furrreal",
-      "balance": 3533,
-      "totalEarned": 3533,
+      "balance": 3541,
+      "totalEarned": 3541,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -263,8 +263,8 @@
     },
     {
       "name": "papaah",
-      "balance": 3465,
-      "totalEarned": 3465,
+      "balance": 3467,
+      "totalEarned": 3467,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -325,6 +325,15 @@
       "streak": 13
     },
     {
+      "name": "chrisdonwest",
+      "balance": 3135,
+      "totalEarned": 3135,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 23
+    },
+    {
       "name": "m1lxnn",
       "balance": 3131,
       "totalEarned": 3171,
@@ -343,18 +352,9 @@
       "streak": 6
     },
     {
-      "name": "chrisdonwest",
-      "balance": 3103,
-      "totalEarned": 3103,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 23
-    },
-    {
       "name": "faddy4u",
-      "balance": 3069,
-      "totalEarned": 5536,
+      "balance": 3089,
+      "totalEarned": 5556,
       "totalSpent": 2467,
       "gamesPlayed": 80,
       "gamesWon": 29,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 946,
-    "totalCirculating": 769534,
-    "totalGames": 5261,
+    "totalCirculating": 769272,
+    "totalGames": 5262,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-21T00:16:59.027Z"
+  "lastUpdated": "2026-03-21T00:46:59.034Z"
 }
