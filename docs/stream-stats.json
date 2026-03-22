@@ -1,7 +1,7 @@
 {
   "totalSessions": 42,
   "totalDays": 37,
-  "totalSegments": 1603,
+  "totalSegments": 1604,
   "allTimePeak": 903,
   "allTimeAvg": 639,
   "totalMessages": 346803,
@@ -75,6 +75,13 @@
       "peakViewers": 841,
       "sampleCount": 115,
       "totalMsgs": 21733
+    },
+    {
+      "name": "Sea of Thieves",
+      "avgViewers": 664,
+      "peakViewers": 664,
+      "sampleCount": 1,
+      "totalMsgs": 0
     },
     {
       "name": "The Empty Eyes",
@@ -259,7 +266,7 @@
     },
     "23": {
       "avgViewers": 672,
-      "sampleCount": 63,
+      "sampleCount": 64,
       "totalMsgs": 12680
     }
   },
@@ -432,16 +439,17 @@
     },
     {
       "date": "2026-03-22",
-      "avgViewers": 315,
-      "peakViewers": 566,
+      "avgViewers": 350,
+      "peakViewers": 664,
       "totalMsgs": 1535,
       "categories": [
         "Movierooms",
         "Just Chatting",
-        "VALORANT"
+        "VALORANT",
+        "Sea of Thieves"
       ]
     }
   ],
-  "botStartedAt": "2026-03-22T19:40:17.675Z",
-  "lastUpdated": "2026-03-22T22:40:18.006Z"
+  "botStartedAt": "2026-03-22T23:05:41.963Z",
+  "lastUpdated": "2026-03-22T23:06:42.309Z"
 }
