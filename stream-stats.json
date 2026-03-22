@@ -1,10 +1,10 @@
 {
-  "totalSessions": 40,
-  "totalDays": 36,
-  "totalSegments": 1593,
+  "totalSessions": 41,
+  "totalDays": 37,
+  "totalSegments": 1596,
   "allTimePeak": 903,
-  "allTimeAvg": 641,
-  "totalMessages": 344416,
+  "allTimeAvg": 640,
+  "totalMessages": 346084,
   "categories": [
     {
       "name": "VRChat",
@@ -136,8 +136,8 @@
       "name": "Just Chatting",
       "avgViewers": 608,
       "peakViewers": 903,
-      "sampleCount": 712,
-      "totalMsgs": 156396
+      "sampleCount": 713,
+      "totalMsgs": 157248
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -190,10 +190,10 @@
     },
     {
       "name": "Movierooms",
-      "avgViewers": 316,
+      "avgViewers": 276,
       "peakViewers": 430,
-      "sampleCount": 5,
-      "totalMsgs": 743
+      "sampleCount": 7,
+      "totalMsgs": 1559
     }
   ],
   "hourlyPatterns": {
@@ -203,9 +203,9 @@
       "totalMsgs": 4677
     },
     "1": {
-      "avgViewers": 417,
-      "sampleCount": 6,
-      "totalMsgs": 1291
+      "avgViewers": 380,
+      "sampleCount": 9,
+      "totalMsgs": 2959
     },
     "13": {
       "avgViewers": 176,
@@ -264,22 +264,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-08",
-      "avgViewers": 705,
-      "peakViewers": 902,
-      "totalMsgs": 16605,
-      "categories": [
-        "God of War Ragnarök",
-        "Just Chatting",
-        "Grand Theft Auto V (GTA)",
-        "VALORANT",
-        "ARC Raiders",
-        "Chat Roulette",
-        "Games + Demos",
-        "Rocket League"
-      ]
-    },
     {
       "date": "2026-03-09",
       "avgViewers": 624,
@@ -434,9 +418,9 @@
     },
     {
       "date": "2026-03-21",
-      "avgViewers": 607,
+      "avgViewers": 606,
       "peakViewers": 762,
-      "totalMsgs": 11324,
+      "totalMsgs": 12176,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -445,8 +429,17 @@
         "Chat Roulette",
         "Backrooms"
       ]
+    },
+    {
+      "date": "2026-03-22",
+      "avgViewers": 175,
+      "peakViewers": 208,
+      "totalMsgs": 816,
+      "categories": [
+        "Movierooms"
+      ]
     }
   ],
   "botStartedAt": "2026-03-21T13:50:49.829Z",
-  "lastUpdated": "2026-03-22T01:20:57.736Z"
+  "lastUpdated": "2026-03-22T01:50:57.917Z"
 }
