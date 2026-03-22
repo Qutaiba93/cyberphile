@@ -1,10 +1,10 @@
 {
   "totalSessions": 40,
   "totalDays": 36,
-  "totalSegments": 1587,
+  "totalSegments": 1590,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 343373,
+  "totalMessages": 343619,
   "categories": [
     {
       "name": "VRChat",
@@ -162,10 +162,10 @@
     },
     {
       "name": "Backrooms",
-      "avgViewers": 582,
+      "avgViewers": 567,
       "peakViewers": 623,
-      "sampleCount": 7,
-      "totalMsgs": 621
+      "sampleCount": 10,
+      "totalMsgs": 867
     },
     {
       "name": "God of War Ragnarök",
@@ -198,9 +198,9 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 583,
-      "sampleCount": 24,
-      "totalMsgs": 4295
+      "avgViewers": 577,
+      "sampleCount": 27,
+      "totalMsgs": 4541
     },
     "1": {
       "avgViewers": 347,
@@ -434,9 +434,9 @@
     },
     {
       "date": "2026-03-21",
-      "avgViewers": 614,
+      "avgViewers": 610,
       "peakViewers": 762,
-      "totalMsgs": 10281,
+      "totalMsgs": 10527,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -448,5 +448,5 @@
     }
   ],
   "botStartedAt": "2026-03-21T13:50:49.829Z",
-  "lastUpdated": "2026-03-22T00:20:57.710Z"
+  "lastUpdated": "2026-03-22T00:50:57.724Z"
 }
