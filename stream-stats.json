@@ -1,10 +1,10 @@
 {
   "totalSessions": 40,
   "totalDays": 36,
-  "totalSegments": 1584,
+  "totalSegments": 1587,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 343130,
+  "totalMessages": 343373,
   "categories": [
     {
       "name": "VRChat",
@@ -147,13 +147,6 @@
       "totalMsgs": 352
     },
     {
-      "name": "Backrooms",
-      "avgViewers": 603,
-      "peakViewers": 623,
-      "sampleCount": 4,
-      "totalMsgs": 378
-    },
-    {
       "name": "Call of Duty: Modern Warfare 2",
       "avgViewers": 601,
       "peakViewers": 652,
@@ -166,6 +159,13 @@
       "peakViewers": 695,
       "sampleCount": 10,
       "totalMsgs": 1487
+    },
+    {
+      "name": "Backrooms",
+      "avgViewers": 582,
+      "peakViewers": 623,
+      "sampleCount": 7,
+      "totalMsgs": 621
     },
     {
       "name": "God of War Ragnarök",
@@ -198,9 +198,9 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 587,
-      "sampleCount": 22,
-      "totalMsgs": 4122
+      "avgViewers": 583,
+      "sampleCount": 24,
+      "totalMsgs": 4295
     },
     "1": {
       "avgViewers": 347,
@@ -258,9 +258,9 @@
       "totalMsgs": 27877
     },
     "23": {
-      "avgViewers": 674,
-      "sampleCount": 62,
-      "totalMsgs": 12610
+      "avgViewers": 672,
+      "sampleCount": 63,
+      "totalMsgs": 12680
     }
   },
   "dailyHistory": [
@@ -434,9 +434,9 @@
     },
     {
       "date": "2026-03-21",
-      "avgViewers": 617,
+      "avgViewers": 614,
       "peakViewers": 762,
-      "totalMsgs": 10038,
+      "totalMsgs": 10281,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -448,5 +448,5 @@
     }
   ],
   "botStartedAt": "2026-03-21T13:50:49.829Z",
-  "lastUpdated": "2026-03-21T23:50:57.701Z"
+  "lastUpdated": "2026-03-22T00:20:57.710Z"
 }
