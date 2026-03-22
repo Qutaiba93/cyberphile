@@ -11,8 +11,8 @@
     },
     {
       "name": "zahcy",
-      "balance": 12270,
-      "totalEarned": 50601,
+      "balance": 12296,
+      "totalEarned": 50627,
       "totalSpent": 58384,
       "gamesPlayed": 181,
       "gamesWon": 61,
@@ -56,8 +56,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 7401,
-      "totalEarned": 7411,
+      "balance": 7411,
+      "totalEarned": 7421,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -101,8 +101,8 @@
     },
     {
       "name": "muzlamic",
-      "balance": 5447,
-      "totalEarned": 6297,
+      "balance": 5467,
+      "totalEarned": 6317,
       "totalSpent": 850,
       "gamesPlayed": 82,
       "gamesWon": 31,
@@ -208,6 +208,15 @@
       "streak": 10
     },
     {
+      "name": "intermediatewastakensadge",
+      "balance": 4389,
+      "totalEarned": 4389,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 22
+    },
+    {
       "name": "patwifi",
       "balance": 4371,
       "totalEarned": 4371,
@@ -215,15 +224,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 5
-    },
-    {
-      "name": "intermediatewastakensadge",
-      "balance": 4369,
-      "totalEarned": 4369,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 22
     },
     {
       "name": "furrreal",
@@ -236,12 +236,12 @@
     },
     {
       "name": "nick6",
-      "balance": 4050,
-      "totalEarned": 4050,
+      "balance": 4121,
+      "totalEarned": 4121,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "slikeroompaloompa",
@@ -281,8 +281,8 @@
     },
     {
       "name": "nas_3",
-      "balance": 3703,
-      "totalEarned": 3723,
+      "balance": 3719,
+      "totalEarned": 3739,
       "totalSpent": 20,
       "gamesPlayed": 2,
       "gamesWon": 1,
@@ -326,8 +326,8 @@
     },
     {
       "name": "chrisdonwest",
-      "balance": 3309,
-      "totalEarned": 3309,
+      "balance": 3325,
+      "totalEarned": 3325,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -344,8 +344,8 @@
     },
     {
       "name": "faddy4u",
-      "balance": 3260,
-      "totalEarned": 5807,
+      "balance": 3264,
+      "totalEarned": 5811,
       "totalSpent": 2547,
       "gamesPlayed": 88,
       "gamesWon": 30,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 962,
-    "totalCirculating": 796090,
+    "totalPlayers": 965,
+    "totalCirculating": 797968,
     "totalGames": 5627,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-22T13:13:29.502Z"
+  "lastUpdated": "2026-03-22T13:42:29.492Z"
 }
