@@ -128,8 +128,8 @@
     },
     {
       "name": "schitt",
-      "balance": 5057,
-      "totalEarned": 5057,
+      "balance": 5059,
+      "totalEarned": 5059,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 979,
-    "totalCirculating": 811869,
-    "totalGames": 6042,
+    "totalCirculating": 811901,
+    "totalGames": 6043,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-22T23:35:42.254Z"
+  "lastUpdated": "2026-03-22T23:38:41.528Z"
 }
