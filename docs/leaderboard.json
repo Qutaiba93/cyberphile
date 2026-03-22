@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 22728,
-      "totalEarned": 425314,
+      "balance": 22732,
+      "totalEarned": 425318,
       "totalSpent": 484095,
       "gamesPlayed": 248,
       "gamesWon": 77,
@@ -74,8 +74,8 @@
     },
     {
       "name": "drogan",
-      "balance": 6831,
-      "totalEarned": 6831,
+      "balance": 6833,
+      "totalEarned": 6833,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -109,15 +109,6 @@
       "streak": 10
     },
     {
-      "name": "furrreal",
-      "balance": 5309,
-      "totalEarned": 6309,
-      "totalSpent": 1000,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 24
-    },
-    {
       "name": "alexmesq",
       "balance": 5276,
       "totalEarned": 5276,
@@ -128,8 +119,8 @@
     },
     {
       "name": "faisaluibi",
-      "balance": 4986,
-      "totalEarned": 7843,
+      "balance": 4992,
+      "totalEarned": 7849,
       "totalSpent": 2857,
       "gamesPlayed": 3,
       "gamesWon": 0,
@@ -235,6 +226,15 @@
       "streak": 22
     },
     {
+      "name": "furrreal",
+      "balance": 4315,
+      "totalEarned": 6315,
+      "totalSpent": 2000,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 24
+    },
+    {
       "name": "nick6",
       "balance": 4050,
       "totalEarned": 4050,
@@ -242,6 +242,15 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
+    },
+    {
+      "name": "slikeroompaloompa",
+      "balance": 4042,
+      "totalEarned": 669999,
+      "totalSpent": 671891,
+      "gamesPlayed": 586,
+      "gamesWon": 169,
+      "streak": 10
     },
     {
       "name": "blu3zy",
@@ -298,15 +307,6 @@
       "streak": 8
     },
     {
-      "name": "sothoth",
-      "balance": 3512,
-      "totalEarned": 9512,
-      "totalSpent": 6000,
-      "gamesPlayed": 11,
-      "gamesWon": 4,
-      "streak": 2
-    },
-    {
       "name": "tommysamppr",
       "balance": 3506,
       "totalEarned": 5286,
@@ -326,8 +326,8 @@
     },
     {
       "name": "chrisdonwest",
-      "balance": 3307,
-      "totalEarned": 3307,
+      "balance": 3309,
+      "totalEarned": 3309,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 961,
-    "totalCirculating": 795924,
-    "totalGames": 5607,
+    "totalPlayers": 962,
+    "totalCirculating": 796090,
+    "totalGames": 5627,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-22T01:50:57.918Z"
+  "lastUpdated": "2026-03-22T13:13:29.502Z"
 }
