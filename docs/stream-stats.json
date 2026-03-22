@@ -1,10 +1,10 @@
 {
   "totalSessions": 40,
   "totalDays": 36,
-  "totalSegments": 1590,
+  "totalSegments": 1593,
   "allTimePeak": 903,
   "allTimeAvg": 641,
-  "totalMessages": 343619,
+  "totalMessages": 344416,
   "categories": [
     {
       "name": "VRChat",
@@ -134,10 +134,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 609,
+      "avgViewers": 608,
       "peakViewers": 903,
-      "sampleCount": 710,
-      "totalMsgs": 155735
+      "sampleCount": 712,
+      "totalMsgs": 156396
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -162,10 +162,10 @@
     },
     {
       "name": "Backrooms",
-      "avgViewers": 567,
+      "avgViewers": 563,
       "peakViewers": 623,
-      "sampleCount": 10,
-      "totalMsgs": 867
+      "sampleCount": 11,
+      "totalMsgs": 1003
     },
     {
       "name": "God of War Ragnarök",
@@ -198,14 +198,14 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 577,
-      "sampleCount": 27,
-      "totalMsgs": 4541
+      "avgViewers": 576,
+      "sampleCount": 28,
+      "totalMsgs": 4677
     },
     "1": {
-      "avgViewers": 347,
-      "sampleCount": 4,
-      "totalMsgs": 630
+      "avgViewers": 417,
+      "sampleCount": 6,
+      "totalMsgs": 1291
     },
     "13": {
       "avgViewers": 176,
@@ -434,9 +434,9 @@
     },
     {
       "date": "2026-03-21",
-      "avgViewers": 610,
+      "avgViewers": 607,
       "peakViewers": 762,
-      "totalMsgs": 10527,
+      "totalMsgs": 11324,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -448,5 +448,5 @@
     }
   ],
   "botStartedAt": "2026-03-21T13:50:49.829Z",
-  "lastUpdated": "2026-03-22T00:50:57.724Z"
+  "lastUpdated": "2026-03-22T01:20:57.736Z"
 }
