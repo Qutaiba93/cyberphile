@@ -1,10 +1,10 @@
 {
   "totalSessions": 44,
   "totalDays": 38,
-  "totalSegments": 1653,
+  "totalSegments": 1656,
   "allTimePeak": 903,
-  "allTimeAvg": 637,
-  "totalMessages": 353401,
+  "allTimeAvg": 638,
+  "totalMessages": 354422,
   "categories": [
     {
       "name": "VRChat",
@@ -64,10 +64,10 @@
     },
     {
       "name": "IRL",
-      "avgViewers": 682,
-      "peakViewers": 836,
-      "sampleCount": 82,
-      "totalMsgs": 29865
+      "avgViewers": 687,
+      "peakViewers": 841,
+      "sampleCount": 85,
+      "totalMsgs": 30886
     },
     {
       "name": "Counter-Strike 2",
@@ -250,9 +250,9 @@
       "totalMsgs": 39730
     },
     "18": {
-      "avgViewers": 696,
-      "sampleCount": 190,
-      "totalMsgs": 46986
+      "avgViewers": 698,
+      "sampleCount": 193,
+      "totalMsgs": 48007
     },
     "19": {
       "avgViewers": 721,
@@ -447,9 +447,9 @@
     },
     {
       "date": "2026-03-23",
-      "avgViewers": 574,
-      "peakViewers": 805,
-      "totalMsgs": 5647,
+      "avgViewers": 592,
+      "peakViewers": 841,
+      "totalMsgs": 6668,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -459,5 +459,5 @@
     }
   ],
   "botStartedAt": "2026-03-23T00:42:05.742Z",
-  "lastUpdated": "2026-03-23T18:12:06.107Z"
+  "lastUpdated": "2026-03-23T18:42:06.109Z"
 }
