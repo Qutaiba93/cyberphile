@@ -1,10 +1,10 @@
 {
   "totalSessions": 44,
   "totalDays": 38,
-  "totalSegments": 1641,
+  "totalSegments": 1644,
   "allTimePeak": 903,
   "allTimeAvg": 637,
-  "totalMessages": 351082,
+  "totalMessages": 351519,
   "categories": [
     {
       "name": "VRChat",
@@ -106,10 +106,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 640,
+      "avgViewers": 641,
       "peakViewers": 769,
-      "sampleCount": 66,
-      "totalMsgs": 12759
+      "sampleCount": 68,
+      "totalMsgs": 12990
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -143,8 +143,8 @@
       "name": "Just Chatting",
       "avgViewers": 605,
       "peakViewers": 903,
-      "sampleCount": 729,
-      "totalMsgs": 159126
+      "sampleCount": 730,
+      "totalMsgs": 159332
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -240,9 +240,9 @@
       "totalMsgs": 31153
     },
     "16": {
-      "avgViewers": 624,
-      "sampleCount": 176,
-      "totalMsgs": 38800
+      "avgViewers": 625,
+      "sampleCount": 179,
+      "totalMsgs": 39237
     },
     "17": {
       "avgViewers": 681,
@@ -447,15 +447,16 @@
     },
     {
       "date": "2026-03-23",
-      "avgViewers": 512,
-      "peakViewers": 655,
-      "totalMsgs": 3328,
+      "avgViewers": 528,
+      "peakViewers": 678,
+      "totalMsgs": 3765,
       "categories": [
         "Movierooms",
-        "Just Chatting"
+        "Just Chatting",
+        "VALORANT"
       ]
     }
   ],
   "botStartedAt": "2026-03-23T00:42:05.742Z",
-  "lastUpdated": "2026-03-23T16:12:06.106Z"
+  "lastUpdated": "2026-03-23T16:42:06.107Z"
 }
