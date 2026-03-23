@@ -1,10 +1,10 @@
 {
-  "totalSessions": 42,
-  "totalDays": 37,
-  "totalSegments": 1615,
+  "totalSessions": 43,
+  "totalDays": 38,
+  "totalSegments": 1617,
   "allTimePeak": 903,
   "allTimeAvg": 639,
-  "totalMessages": 347754,
+  "totalMessages": 348021,
   "categories": [
     {
       "name": "VRChat",
@@ -197,22 +197,22 @@
     },
     {
       "name": "Movierooms",
-      "avgViewers": 280,
-      "peakViewers": 430,
-      "sampleCount": 8,
-      "totalMsgs": 1746
+      "avgViewers": 331,
+      "peakViewers": 552,
+      "sampleCount": 10,
+      "totalMsgs": 2013
     }
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 584,
-      "sampleCount": 33,
-      "totalMsgs": 5119
+      "avgViewers": 582,
+      "sampleCount": 34,
+      "totalMsgs": 5226
     },
     "1": {
-      "avgViewers": 373,
-      "sampleCount": 10,
-      "totalMsgs": 3146
+      "avgViewers": 389,
+      "sampleCount": 11,
+      "totalMsgs": 3306
     },
     "13": {
       "avgViewers": 193,
@@ -271,20 +271,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-09",
-      "avgViewers": 624,
-      "peakViewers": 818,
-      "totalMsgs": 10231,
-      "categories": [
-        "Just Chatting",
-        "Rocket League",
-        "VALORANT",
-        "ARC Raiders",
-        "Minecraft",
-        "Chat Roulette"
-      ]
-    },
     {
       "date": "2026-03-10",
       "avgViewers": 647,
@@ -448,8 +434,17 @@
         "VALORANT",
         "Sea of Thieves"
       ]
+    },
+    {
+      "date": "2026-03-23",
+      "avgViewers": 536,
+      "peakViewers": 552,
+      "totalMsgs": 267,
+      "categories": [
+        "Movierooms"
+      ]
     }
   ],
   "botStartedAt": "2026-03-23T00:42:05.742Z",
-  "lastUpdated": "2026-03-23T00:43:06.088Z"
+  "lastUpdated": "2026-03-23T01:12:06.027Z"
 }
