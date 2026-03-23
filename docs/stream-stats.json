@@ -1,10 +1,10 @@
 {
   "totalSessions": 44,
   "totalDays": 38,
-  "totalSegments": 1665,
+  "totalSegments": 1668,
   "allTimePeak": 903,
   "allTimeAvg": 639,
-  "totalMessages": 356498,
+  "totalMessages": 356887,
   "categories": [
     {
       "name": "VRChat",
@@ -52,8 +52,8 @@
       "name": "IRL",
       "avgViewers": 697,
       "peakViewers": 843,
-      "sampleCount": 94,
-      "totalMsgs": 32962
+      "sampleCount": 95,
+      "totalMsgs": 32996
     },
     {
       "name": "Grand Theft Auto V (GTA)",
@@ -143,8 +143,8 @@
       "name": "Just Chatting",
       "avgViewers": 606,
       "peakViewers": 903,
-      "sampleCount": 733,
-      "totalMsgs": 159901
+      "sampleCount": 735,
+      "totalMsgs": 160256
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -261,8 +261,8 @@
     },
     "20": {
       "avgViewers": 706,
-      "sampleCount": 180,
-      "totalMsgs": 44177
+      "sampleCount": 183,
+      "totalMsgs": 44566
     },
     "21": {
       "avgViewers": 705,
@@ -447,9 +447,9 @@
     },
     {
       "date": "2026-03-23",
-      "avgViewers": 629,
+      "avgViewers": 633,
       "peakViewers": 843,
-      "totalMsgs": 8744,
+      "totalMsgs": 9133,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -459,5 +459,5 @@
     }
   ],
   "botStartedAt": "2026-03-23T00:42:05.742Z",
-  "lastUpdated": "2026-03-23T20:12:06.117Z"
+  "lastUpdated": "2026-03-23T20:42:06.116Z"
 }
