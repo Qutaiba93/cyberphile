@@ -38,8 +38,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 8667,
-      "totalEarned": 47563,
+      "balance": 8685,
+      "totalEarned": 47581,
       "totalSpent": 38896,
       "gamesPlayed": 196,
       "gamesWon": 68,
@@ -47,8 +47,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 7837,
-      "totalEarned": 7847,
+      "balance": 7849,
+      "totalEarned": 7859,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -146,8 +146,8 @@
     },
     {
       "name": "schitt",
-      "balance": 5319,
-      "totalEarned": 5319,
+      "balance": 5321,
+      "totalEarned": 5321,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -173,8 +173,8 @@
     },
     {
       "name": "nitro_st",
-      "balance": 5006,
-      "totalEarned": 5006,
+      "balance": 5008,
+      "totalEarned": 5008,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -209,8 +209,8 @@
     },
     {
       "name": "upkey",
-      "balance": 4799,
-      "totalEarned": 4799,
+      "balance": 4813,
+      "totalEarned": 4813,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -290,8 +290,8 @@
     },
     {
       "name": "papaah",
-      "balance": 3996,
-      "totalEarned": 3996,
+      "balance": 4000,
+      "totalEarned": 4000,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1001,
-    "totalCirculating": 850196,
+    "totalCirculating": 850425,
     "totalGames": 6303,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-23T22:42:06.123Z"
+  "lastUpdated": "2026-03-23T23:12:06.126Z"
 }
