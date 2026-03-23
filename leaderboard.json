@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 24722,
-      "totalEarned": 428848,
+      "balance": 24728,
+      "totalEarned": 428854,
       "totalSpent": 485635,
       "gamesPlayed": 256,
       "gamesWon": 81,
@@ -11,8 +11,8 @@
     },
     {
       "name": "zahcy",
-      "balance": 18034,
-      "totalEarned": 99840,
+      "balance": 18052,
+      "totalEarned": 99858,
       "totalSpent": 101859,
       "gamesPlayed": 388,
       "gamesWon": 156,
@@ -56,12 +56,12 @@
     },
     {
       "name": "weppss",
-      "balance": 7361,
-      "totalEarned": 11756,
+      "balance": 7445,
+      "totalEarned": 11840,
       "totalSpent": 4395,
       "gamesPlayed": 37,
       "gamesWon": 11,
-      "streak": 5
+      "streak": 6
     },
     {
       "name": "taboxl",
@@ -128,8 +128,8 @@
     },
     {
       "name": "schitt",
-      "balance": 5177,
-      "totalEarned": 5177,
+      "balance": 5179,
+      "totalEarned": 5179,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -137,8 +137,8 @@
     },
     {
       "name": "faisaluibi",
-      "balance": 5132,
-      "totalEarned": 7989,
+      "balance": 5136,
+      "totalEarned": 7993,
       "totalSpent": 2857,
       "gamesPlayed": 3,
       "gamesWon": 0,
@@ -152,6 +152,15 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 6
+    },
+    {
+      "name": "zuyu",
+      "balance": 4937,
+      "totalEarned": 9347,
+      "totalSpent": 4410,
+      "gamesPlayed": 10,
+      "gamesWon": 5,
+      "streak": 8
     },
     {
       "name": "ambizine",
@@ -170,15 +179,6 @@
       "gamesPlayed": 5,
       "gamesWon": 1,
       "streak": 25
-    },
-    {
-      "name": "zuyu",
-      "balance": 4845,
-      "totalEarned": 9255,
-      "totalSpent": 4410,
-      "gamesPlayed": 10,
-      "gamesWon": 5,
-      "streak": 7
     },
     {
       "name": "skullyontop",
@@ -208,6 +208,15 @@
       "streak": 23
     },
     {
+      "name": "intermediatewastakensadge",
+      "balance": 4621,
+      "totalEarned": 4621,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 23
+    },
+    {
       "name": "upkey",
       "balance": 4583,
       "totalEarned": 4583,
@@ -233,15 +242,6 @@
       "gamesPlayed": 1,
       "gamesWon": 0,
       "streak": 5
-    },
-    {
-      "name": "intermediatewastakensadge",
-      "balance": 4517,
-      "totalEarned": 4517,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 22
     },
     {
       "name": "furrreal",
@@ -353,8 +353,8 @@
     },
     {
       "name": "neincs",
-      "balance": 3261,
-      "totalEarned": 3261,
+      "balance": 3263,
+      "totalEarned": 3263,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 980,
-    "totalCirculating": 817381,
+    "totalCirculating": 818158,
     "totalGames": 6052,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-23T00:34:18.746Z"
+  "lastUpdated": "2026-03-23T00:43:06.092Z"
 }
