@@ -1,10 +1,10 @@
 {
   "totalSessions": 44,
   "totalDays": 38,
-  "totalSegments": 1671,
+  "totalSegments": 1674,
   "allTimePeak": 903,
   "allTimeAvg": 639,
-  "totalMessages": 357795,
+  "totalMessages": 358355,
   "categories": [
     {
       "name": "VRChat",
@@ -77,6 +77,13 @@
       "totalMsgs": 21733
     },
     {
+      "name": "Sea of Thieves",
+      "avgViewers": 668,
+      "peakViewers": 719,
+      "sampleCount": 8,
+      "totalMsgs": 669
+    },
+    {
       "name": "The Empty Eyes",
       "avgViewers": 663,
       "peakViewers": 677,
@@ -89,13 +96,6 @@
       "peakViewers": 725,
       "sampleCount": 30,
       "totalMsgs": 4208
-    },
-    {
-      "name": "Sea of Thieves",
-      "avgViewers": 654,
-      "peakViewers": 664,
-      "sampleCount": 6,
-      "totalMsgs": 396
     },
     {
       "name": "ARC Raiders",
@@ -143,8 +143,8 @@
       "name": "Just Chatting",
       "avgViewers": 606,
       "peakViewers": 903,
-      "sampleCount": 736,
-      "totalMsgs": 160362
+      "sampleCount": 737,
+      "totalMsgs": 160649
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -266,8 +266,8 @@
     },
     "21": {
       "avgViewers": 706,
-      "sampleCount": 173,
-      "totalMsgs": 38129
+      "sampleCount": 176,
+      "totalMsgs": 38689
     },
     "22": {
       "avgViewers": 701,
@@ -447,17 +447,18 @@
     },
     {
       "date": "2026-03-23",
-      "avgViewers": 638,
+      "avgViewers": 642,
       "peakViewers": 843,
-      "totalMsgs": 10041,
+      "totalMsgs": 10601,
       "categories": [
         "Movierooms",
         "Just Chatting",
         "VALORANT",
-        "IRL"
+        "IRL",
+        "Sea of Thieves"
       ]
     }
   ],
   "botStartedAt": "2026-03-23T00:42:05.742Z",
-  "lastUpdated": "2026-03-23T21:12:06.114Z"
+  "lastUpdated": "2026-03-23T21:42:06.116Z"
 }
