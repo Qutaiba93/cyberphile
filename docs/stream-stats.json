@@ -1,10 +1,10 @@
 {
   "totalSessions": 44,
   "totalDays": 38,
-  "totalSegments": 1682,
+  "totalSegments": 1683,
   "allTimePeak": 903,
   "allTimeAvg": 639,
-  "totalMessages": 359303,
+  "totalMessages": 359311,
   "categories": [
     {
       "name": "VRChat",
@@ -31,8 +31,8 @@
       "name": "Chat Roulette",
       "avgViewers": 750,
       "peakViewers": 902,
-      "sampleCount": 170,
-      "totalMsgs": 41076
+      "sampleCount": 171,
+      "totalMsgs": 41084
     },
     {
       "name": "Songbattle.io",
@@ -276,8 +276,8 @@
     },
     "23": {
       "avgViewers": 670,
-      "sampleCount": 70,
-      "totalMsgs": 13189
+      "sampleCount": 71,
+      "totalMsgs": 13197
     }
   },
   "dailyHistory": [
@@ -449,16 +449,17 @@
       "date": "2026-03-23",
       "avgViewers": 644,
       "peakViewers": 843,
-      "totalMsgs": 11549,
+      "totalMsgs": 11557,
       "categories": [
         "Movierooms",
         "Just Chatting",
         "VALORANT",
         "IRL",
-        "Sea of Thieves"
+        "Sea of Thieves",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-03-23T00:42:05.742Z",
-  "lastUpdated": "2026-03-23T23:12:06.118Z"
+  "lastUpdated": "2026-03-23T23:42:06.122Z"
 }
