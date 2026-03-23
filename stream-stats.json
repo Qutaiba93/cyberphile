@@ -1,10 +1,10 @@
 {
   "totalSessions": 44,
   "totalDays": 38,
-  "totalSegments": 1674,
+  "totalSegments": 1677,
   "allTimePeak": 903,
   "allTimeAvg": 639,
-  "totalMessages": 358355,
+  "totalMessages": 358686,
   "categories": [
     {
       "name": "VRChat",
@@ -80,8 +80,8 @@
       "name": "Sea of Thieves",
       "avgViewers": 668,
       "peakViewers": 719,
-      "sampleCount": 8,
-      "totalMsgs": 669
+      "sampleCount": 11,
+      "totalMsgs": 1000
     },
     {
       "name": "The Empty Eyes",
@@ -265,14 +265,14 @@
       "totalMsgs": 45368
     },
     "21": {
-      "avgViewers": 706,
-      "sampleCount": 176,
-      "totalMsgs": 38689
+      "avgViewers": 705,
+      "sampleCount": 178,
+      "totalMsgs": 38913
     },
     "22": {
       "avgViewers": 701,
-      "sampleCount": 122,
-      "totalMsgs": 27877
+      "sampleCount": 123,
+      "totalMsgs": 27984
     },
     "23": {
       "avgViewers": 670,
@@ -447,9 +447,9 @@
     },
     {
       "date": "2026-03-23",
-      "avgViewers": 642,
+      "avgViewers": 643,
       "peakViewers": 843,
-      "totalMsgs": 10601,
+      "totalMsgs": 10932,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -460,5 +460,5 @@
     }
   ],
   "botStartedAt": "2026-03-23T00:42:05.742Z",
-  "lastUpdated": "2026-03-23T21:42:06.116Z"
+  "lastUpdated": "2026-03-23T22:12:06.117Z"
 }
