@@ -1,10 +1,10 @@
 {
   "totalSessions": 44,
   "totalDays": 38,
-  "totalSegments": 1656,
+  "totalSegments": 1659,
   "allTimePeak": 903,
   "allTimeAvg": 638,
-  "totalMessages": 354422,
+  "totalMessages": 355204,
   "categories": [
     {
       "name": "VRChat",
@@ -56,18 +56,18 @@
       "totalMsgs": 27658
     },
     {
+      "name": "IRL",
+      "avgViewers": 691,
+      "peakViewers": 841,
+      "sampleCount": 88,
+      "totalMsgs": 31668
+    },
+    {
       "name": "PUBG: Battlegrounds",
       "avgViewers": 691,
       "peakViewers": 698,
       "sampleCount": 2,
       "totalMsgs": 381
-    },
-    {
-      "name": "IRL",
-      "avgViewers": 687,
-      "peakViewers": 841,
-      "sampleCount": 85,
-      "totalMsgs": 30886
     },
     {
       "name": "Counter-Strike 2",
@@ -250,14 +250,14 @@
       "totalMsgs": 39730
     },
     "18": {
-      "avgViewers": 698,
-      "sampleCount": 193,
-      "totalMsgs": 48007
+      "avgViewers": 700,
+      "sampleCount": 195,
+      "totalMsgs": 48498
     },
     "19": {
       "avgViewers": 721,
-      "sampleCount": 187,
-      "totalMsgs": 44523
+      "sampleCount": 188,
+      "totalMsgs": 44814
     },
     "20": {
       "avgViewers": 706,
@@ -447,9 +447,9 @@
     },
     {
       "date": "2026-03-23",
-      "avgViewers": 592,
+      "avgViewers": 607,
       "peakViewers": 841,
-      "totalMsgs": 6668,
+      "totalMsgs": 7450,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -459,5 +459,5 @@
     }
   ],
   "botStartedAt": "2026-03-23T00:42:05.742Z",
-  "lastUpdated": "2026-03-23T18:42:06.109Z"
+  "lastUpdated": "2026-03-23T19:12:06.109Z"
 }
