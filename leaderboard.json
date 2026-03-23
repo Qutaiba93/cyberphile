@@ -47,12 +47,12 @@
     },
     {
       "name": "tevb0t",
-      "balance": 7717,
-      "totalEarned": 7727,
+      "balance": 7819,
+      "totalEarned": 7829,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
-      "streak": 24
+      "streak": 25
     },
     {
       "name": "weppss",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 985,
-    "totalCirculating": 823390,
-    "totalGames": 6178,
+    "totalCirculating": 823424,
+    "totalGames": 6184,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-23T03:12:06.033Z"
+  "lastUpdated": "2026-03-23T03:42:06.035Z"
 }
