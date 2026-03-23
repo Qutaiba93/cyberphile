@@ -1,10 +1,10 @@
 {
   "totalSessions": 44,
   "totalDays": 38,
-  "totalSegments": 1659,
+  "totalSegments": 1662,
   "allTimePeak": 903,
   "allTimeAvg": 638,
-  "totalMessages": 355204,
+  "totalMessages": 356107,
   "categories": [
     {
       "name": "VRChat",
@@ -49,18 +49,18 @@
       "totalMsgs": 3389
     },
     {
+      "name": "IRL",
+      "avgViewers": 696,
+      "peakViewers": 843,
+      "sampleCount": 91,
+      "totalMsgs": 32571
+    },
+    {
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 694,
       "peakViewers": 811,
       "sampleCount": 145,
       "totalMsgs": 27658
-    },
-    {
-      "name": "IRL",
-      "avgViewers": 691,
-      "peakViewers": 841,
-      "sampleCount": 88,
-      "totalMsgs": 31668
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -255,9 +255,9 @@
       "totalMsgs": 48498
     },
     "19": {
-      "avgViewers": 721,
-      "sampleCount": 188,
-      "totalMsgs": 44814
+      "avgViewers": 723,
+      "sampleCount": 191,
+      "totalMsgs": 45717
     },
     "20": {
       "avgViewers": 706,
@@ -447,9 +447,9 @@
     },
     {
       "date": "2026-03-23",
-      "avgViewers": 607,
-      "peakViewers": 841,
-      "totalMsgs": 7450,
+      "avgViewers": 621,
+      "peakViewers": 843,
+      "totalMsgs": 8353,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -459,5 +459,5 @@
     }
   ],
   "botStartedAt": "2026-03-23T00:42:05.742Z",
-  "lastUpdated": "2026-03-23T19:12:06.109Z"
+  "lastUpdated": "2026-03-23T19:42:06.115Z"
 }
