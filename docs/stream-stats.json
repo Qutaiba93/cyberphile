@@ -1,10 +1,10 @@
 {
   "totalSessions": 46,
   "totalDays": 39,
-  "totalSegments": 1732,
+  "totalSegments": 1735,
   "allTimePeak": 903,
   "allTimeAvg": 637,
-  "totalMessages": 367121,
+  "totalMessages": 367465,
   "categories": [
     {
       "name": "VRChat",
@@ -80,8 +80,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 669,
       "peakViewers": 841,
-      "sampleCount": 126,
-      "totalMsgs": 23402
+      "sampleCount": 128,
+      "totalMsgs": 23568
     },
     {
       "name": "The Empty Eyes",
@@ -143,8 +143,8 @@
       "name": "Just Chatting",
       "avgViewers": 605,
       "peakViewers": 903,
-      "sampleCount": 755,
-      "totalMsgs": 163774
+      "sampleCount": 756,
+      "totalMsgs": 163952
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -251,13 +251,13 @@
     },
     "18": {
       "avgViewers": 700,
-      "sampleCount": 199,
-      "totalMsgs": 49028
+      "sampleCount": 201,
+      "totalMsgs": 49194
     },
     "19": {
-      "avgViewers": 724,
-      "sampleCount": 193,
-      "totalMsgs": 46040
+      "avgViewers": 723,
+      "sampleCount": 194,
+      "totalMsgs": 46218
     },
     "20": {
       "avgViewers": 706,
@@ -448,9 +448,9 @@
     },
     {
       "date": "2026-03-24",
-      "avgViewers": 556,
+      "avgViewers": 566,
       "peakViewers": 732,
-      "totalMsgs": 6155,
+      "totalMsgs": 6499,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -461,5 +461,5 @@
     }
   ],
   "botStartedAt": "2026-03-23T00:42:05.742Z",
-  "lastUpdated": "2026-03-24T18:42:06.226Z"
+  "lastUpdated": "2026-03-24T19:12:06.223Z"
 }
