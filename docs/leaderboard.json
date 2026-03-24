@@ -388,6 +388,15 @@
       "streak": 7
     },
     {
+      "name": "bakaiskii",
+      "balance": 3461,
+      "totalEarned": 9166,
+      "totalSpent": 5705,
+      "gamesPlayed": 100,
+      "gamesWon": 46,
+      "streak": 16
+    },
+    {
       "name": "sonofarnis",
       "balance": 3364,
       "totalEarned": 3364,
@@ -440,21 +449,12 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 8
-    },
-    {
-      "name": "darth70",
-      "balance": 3165,
-      "totalEarned": 3165,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 7
     }
   ],
   "stats": {
     "totalPlayers": 1008,
-    "totalCirculating": 863377,
-    "totalGames": 6321,
+    "totalCirculating": 864574,
+    "totalGames": 6326,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-24T09:42:06.213Z"
+  "lastUpdated": "2026-03-24T10:12:06.214Z"
 }
