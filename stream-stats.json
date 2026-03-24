@@ -1,10 +1,10 @@
 {
   "totalSessions": 46,
   "totalDays": 39,
-  "totalSegments": 1753,
+  "totalSegments": 1756,
   "allTimePeak": 903,
-  "allTimeAvg": 638,
-  "totalMessages": 371102,
+  "allTimeAvg": 637,
+  "totalMessages": 371640,
   "categories": [
     {
       "name": "VRChat",
@@ -71,17 +71,17 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 669,
+      "avgViewers": 668,
       "peakViewers": 841,
-      "sampleCount": 128,
-      "totalMsgs": 23568
+      "sampleCount": 130,
+      "totalMsgs": 23933
     },
     {
       "name": "Sea of Thieves",
-      "avgViewers": 667,
+      "avgViewers": 666,
       "peakViewers": 719,
-      "sampleCount": 38,
-      "totalMsgs": 5895
+      "sampleCount": 39,
+      "totalMsgs": 6068
     },
     {
       "name": "The Empty Eyes",
@@ -270,9 +270,9 @@
       "totalMsgs": 40419
     },
     "22": {
-      "avgViewers": 698,
-      "sampleCount": 129,
-      "totalMsgs": 28780
+      "avgViewers": 696,
+      "sampleCount": 132,
+      "totalMsgs": 29318
     },
     "23": {
       "avgViewers": 669,
@@ -448,9 +448,9 @@
     },
     {
       "date": "2026-03-24",
-      "avgViewers": 596,
+      "avgViewers": 597,
       "peakViewers": 732,
-      "totalMsgs": 10136,
+      "totalMsgs": 10674,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -461,5 +461,5 @@
     }
   ],
   "botStartedAt": "2026-03-23T00:42:05.742Z",
-  "lastUpdated": "2026-03-24T22:12:06.228Z"
+  "lastUpdated": "2026-03-24T22:42:06.229Z"
 }
