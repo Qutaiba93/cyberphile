@@ -1,10 +1,10 @@
 {
   "totalSessions": 46,
   "totalDays": 39,
-  "totalSegments": 1759,
+  "totalSegments": 1762,
   "allTimePeak": 903,
   "allTimeAvg": 637,
-  "totalMessages": 371956,
+  "totalMessages": 372216,
   "categories": [
     {
       "name": "VRChat",
@@ -73,8 +73,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 667,
       "peakViewers": 841,
-      "sampleCount": 133,
-      "totalMsgs": 24249
+      "sampleCount": 136,
+      "totalMsgs": 24509
     },
     {
       "name": "Sea of Thieves",
@@ -275,9 +275,9 @@
       "totalMsgs": 29535
     },
     "23": {
-      "avgViewers": 669,
-      "sampleCount": 74,
-      "totalMsgs": 13583
+      "avgViewers": 667,
+      "sampleCount": 77,
+      "totalMsgs": 13843
     }
   },
   "dailyHistory": [
@@ -448,9 +448,9 @@
     },
     {
       "date": "2026-03-24",
-      "avgViewers": 599,
+      "avgViewers": 600,
       "peakViewers": 732,
-      "totalMsgs": 10990,
+      "totalMsgs": 11250,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -461,5 +461,5 @@
     }
   ],
   "botStartedAt": "2026-03-23T00:42:05.742Z",
-  "lastUpdated": "2026-03-24T23:12:06.231Z"
+  "lastUpdated": "2026-03-24T23:42:06.230Z"
 }
