@@ -1,10 +1,10 @@
 {
-  "totalSessions": 44,
-  "totalDays": 38,
-  "totalSegments": 1692,
+  "totalSessions": 45,
+  "totalDays": 39,
+  "totalSegments": 1694,
   "allTimePeak": 903,
   "allTimeAvg": 639,
-  "totalMessages": 360813,
+  "totalMessages": 361050,
   "categories": [
     {
       "name": "VRChat",
@@ -143,8 +143,8 @@
       "name": "Just Chatting",
       "avgViewers": 606,
       "peakViewers": 903,
-      "sampleCount": 743,
-      "totalMsgs": 161695
+      "sampleCount": 744,
+      "totalMsgs": 161848
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -197,10 +197,10 @@
     },
     {
       "name": "Movierooms",
-      "avgViewers": 436,
+      "avgViewers": 427,
       "peakViewers": 552,
-      "sampleCount": 22,
-      "totalMsgs": 3554
+      "sampleCount": 23,
+      "totalMsgs": 3638
     }
   ],
   "hourlyPatterns": {
@@ -210,9 +210,9 @@
       "totalMsgs": 6250
     },
     "1": {
-      "avgViewers": 447,
-      "sampleCount": 17,
-      "totalMsgs": 4401
+      "avgViewers": 443,
+      "sampleCount": 19,
+      "totalMsgs": 4638
     },
     "2": {
       "avgViewers": 513,
@@ -281,19 +281,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-10",
-      "avgViewers": 647,
-      "peakViewers": 748,
-      "totalMsgs": 8904,
-      "categories": [
-        "Just Chatting",
-        "Grand Theft Auto V (GTA)",
-        "Rocket League",
-        "Counter-Strike 2",
-        "Chat Roulette"
-      ]
-    },
     {
       "date": "2026-03-11",
       "avgViewers": 635,
@@ -449,7 +436,7 @@
       "date": "2026-03-23",
       "avgViewers": 641,
       "peakViewers": 843,
-      "totalMsgs": 13059,
+      "totalMsgs": 13212,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -458,8 +445,17 @@
         "Sea of Thieves",
         "Chat Roulette"
       ]
+    },
+    {
+      "date": "2026-03-24",
+      "avgViewers": 225,
+      "peakViewers": 225,
+      "totalMsgs": 84,
+      "categories": [
+        "Movierooms"
+      ]
     }
   ],
   "botStartedAt": "2026-03-23T00:42:05.742Z",
-  "lastUpdated": "2026-03-24T01:12:06.165Z"
+  "lastUpdated": "2026-03-24T01:42:06.167Z"
 }
