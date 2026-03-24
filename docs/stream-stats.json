@@ -1,10 +1,10 @@
 {
   "totalSessions": 46,
   "totalDays": 39,
-  "totalSegments": 1708,
+  "totalSegments": 1711,
   "allTimePeak": 903,
   "allTimeAvg": 637,
-  "totalMessages": 362765,
+  "totalMessages": 363483,
   "categories": [
     {
       "name": "VRChat",
@@ -143,8 +143,8 @@
       "name": "Just Chatting",
       "avgViewers": 605,
       "peakViewers": 903,
-      "sampleCount": 749,
-      "totalMsgs": 162485
+      "sampleCount": 752,
+      "totalMsgs": 163203
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -230,14 +230,14 @@
       "totalMsgs": 2004
     },
     "14": {
-      "avgViewers": 355,
-      "sampleCount": 106,
-      "totalMsgs": 16806
+      "avgViewers": 359,
+      "sampleCount": 108,
+      "totalMsgs": 17360
     },
     "15": {
-      "avgViewers": 512,
-      "sampleCount": 164,
-      "totalMsgs": 31153
+      "avgViewers": 513,
+      "sampleCount": 165,
+      "totalMsgs": 31317
     },
     "16": {
       "avgViewers": 625,
@@ -448,9 +448,9 @@
     },
     {
       "date": "2026-03-24",
-      "avgViewers": 380,
-      "peakViewers": 538,
-      "totalMsgs": 1799,
+      "avgViewers": 415,
+      "peakViewers": 608,
+      "totalMsgs": 2517,
       "categories": [
         "Movierooms",
         "Just Chatting"
@@ -458,5 +458,5 @@
     }
   ],
   "botStartedAt": "2026-03-23T00:42:05.742Z",
-  "lastUpdated": "2026-03-24T14:42:06.221Z"
+  "lastUpdated": "2026-03-24T15:12:06.219Z"
 }
