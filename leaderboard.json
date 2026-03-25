@@ -38,8 +38,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 8820,
-      "totalEarned": 55216,
+      "balance": 8828,
+      "totalEarned": 55224,
       "totalSpent": 46396,
       "gamesPlayed": 218,
       "gamesWon": 76,
@@ -83,12 +83,12 @@
     },
     {
       "name": "weppss",
-      "balance": 7362,
-      "totalEarned": 12457,
+      "balance": 7454,
+      "totalEarned": 12549,
       "totalSpent": 5095,
       "gamesPlayed": 42,
       "gamesWon": 12,
-      "streak": 7
+      "streak": 8
     },
     {
       "name": "5pray",
@@ -352,6 +352,15 @@
       "streak": 4
     },
     {
+      "name": "chrisdonwest",
+      "balance": 3715,
+      "totalEarned": 3715,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 27
+    },
+    {
       "name": "raphaellxo",
       "balance": 3706,
       "totalEarned": 3706,
@@ -359,15 +368,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 9
-    },
-    {
-      "name": "chrisdonwest",
-      "balance": 3611,
-      "totalEarned": 3611,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 26
     },
     {
       "name": "twilighty",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1030,
-    "totalCirculating": 915763,
+    "totalCirculating": 915971,
     "totalGames": 6596,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-25T02:12:06.232Z"
+  "lastUpdated": "2026-03-25T02:42:06.244Z"
 }
