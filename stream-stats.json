@@ -1,10 +1,10 @@
 {
   "totalSessions": 48,
   "totalDays": 40,
-  "totalSegments": 1817,
+  "totalSegments": 1820,
   "allTimePeak": 903,
-  "allTimeAvg": 636,
-  "totalMessages": 382280,
+  "allTimeAvg": 637,
+  "totalMessages": 382691,
   "categories": [
     {
       "name": "VRChat",
@@ -68,6 +68,13 @@
       "peakViewers": 698,
       "sampleCount": 2,
       "totalMsgs": 381
+    },
+    {
+      "name": "DayZ",
+      "avgViewers": 683,
+      "peakViewers": 709,
+      "sampleCount": 3,
+      "totalMsgs": 411
     },
     {
       "name": "Counter-Strike 2",
@@ -272,9 +279,9 @@
       "totalMsgs": 47015
     },
     "21": {
-      "avgViewers": 704,
-      "sampleCount": 184,
-      "totalMsgs": 40419
+      "avgViewers": 703,
+      "sampleCount": 187,
+      "totalMsgs": 40830
     },
     "22": {
       "avgViewers": 695,
@@ -455,17 +462,18 @@
     },
     {
       "date": "2026-03-25",
-      "avgViewers": 603,
+      "avgViewers": 607,
       "peakViewers": 769,
-      "totalMsgs": 9763,
+      "totalMsgs": 10174,
       "categories": [
         "Movierooms",
         "Just Chatting",
         "Slots & Casino",
-        "VALORANT"
+        "VALORANT",
+        "DayZ"
       ]
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-25T21:00:51.688Z"
+  "lastUpdated": "2026-03-25T21:30:51.688Z"
 }
