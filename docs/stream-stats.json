@@ -1,10 +1,10 @@
 {
   "totalSessions": 48,
   "totalDays": 40,
-  "totalSegments": 1783,
+  "totalSegments": 1786,
   "allTimePeak": 903,
   "allTimeAvg": 635,
-  "totalMessages": 374720,
+  "totalMessages": 375321,
   "categories": [
     {
       "name": "VRChat",
@@ -133,6 +133,13 @@
       "totalMsgs": 637
     },
     {
+      "name": "Slots & Casino",
+      "avgViewers": 622,
+      "peakViewers": 627,
+      "sampleCount": 2,
+      "totalMsgs": 432
+    },
+    {
       "name": "Minecraft",
       "avgViewers": 611,
       "peakViewers": 729,
@@ -150,8 +157,8 @@
       "name": "Just Chatting",
       "avgViewers": 604,
       "peakViewers": 903,
-      "sampleCount": 763,
-      "totalMsgs": 165105
+      "sampleCount": 764,
+      "totalMsgs": 165274
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -235,9 +242,9 @@
       "totalMsgs": 17860
     },
     "15": {
-      "avgViewers": 516,
-      "sampleCount": 171,
-      "totalMsgs": 32367
+      "avgViewers": 518,
+      "sampleCount": 174,
+      "totalMsgs": 32968
     },
     "16": {
       "avgViewers": 627,
@@ -448,15 +455,16 @@
     },
     {
       "date": "2026-03-25",
-      "avgViewers": 421,
-      "peakViewers": 579,
-      "totalMsgs": 2203,
+      "avgViewers": 449,
+      "peakViewers": 627,
+      "totalMsgs": 2804,
       "categories": [
         "Movierooms",
-        "Just Chatting"
+        "Just Chatting",
+        "Slots & Casino"
       ]
     }
   ],
   "botStartedAt": "2026-03-23T00:42:05.742Z",
-  "lastUpdated": "2026-03-25T15:12:06.287Z"
+  "lastUpdated": "2026-03-25T15:42:06.290Z"
 }
