@@ -1,10 +1,10 @@
 {
   "totalSessions": 48,
   "totalDays": 40,
-  "totalSegments": 1829,
+  "totalSegments": 1832,
   "allTimePeak": 903,
   "allTimeAvg": 637,
-  "totalMessages": 384146,
+  "totalMessages": 384761,
   "categories": [
     {
       "name": "VRChat",
@@ -98,13 +98,6 @@
       "totalMsgs": 4208
     },
     {
-      "name": "DayZ",
-      "avgViewers": 657,
-      "peakViewers": 709,
-      "sampleCount": 12,
-      "totalMsgs": 1866
-    },
-    {
       "name": "ARC Raiders",
       "avgViewers": 653,
       "peakViewers": 716,
@@ -117,6 +110,13 @@
       "peakViewers": 769,
       "sampleCount": 83,
       "totalMsgs": 15931
+    },
+    {
+      "name": "DayZ",
+      "avgViewers": 652,
+      "peakViewers": 709,
+      "sampleCount": 15,
+      "totalMsgs": 2481
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -289,9 +289,9 @@
       "totalMsgs": 30597
     },
     "23": {
-      "avgViewers": 666,
-      "sampleCount": 79,
-      "totalMsgs": 13997
+      "avgViewers": 665,
+      "sampleCount": 82,
+      "totalMsgs": 14612
     }
   },
   "dailyHistory": [
@@ -462,9 +462,9 @@
     },
     {
       "date": "2026-03-25",
-      "avgViewers": 613,
+      "avgViewers": 614,
       "peakViewers": 769,
-      "totalMsgs": 11629,
+      "totalMsgs": 12244,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -475,5 +475,5 @@
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-25T23:00:51.692Z"
+  "lastUpdated": "2026-03-25T23:30:51.690Z"
 }
