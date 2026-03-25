@@ -37,15 +37,6 @@
       "streak": 26
     },
     {
-      "name": "meliziana",
-      "balance": 8828,
-      "totalEarned": 55224,
-      "totalSpent": 46396,
-      "gamesPlayed": 218,
-      "gamesWon": 76,
-      "streak": 3
-    },
-    {
       "name": "tevb0t",
       "balance": 8385,
       "totalEarned": 8395,
@@ -53,6 +44,15 @@
       "gamesPlayed": 1,
       "gamesWon": 0,
       "streak": 27
+    },
+    {
+      "name": "meliziana",
+      "balance": 8330,
+      "totalEarned": 55226,
+      "totalSpent": 46896,
+      "gamesPlayed": 218,
+      "gamesWon": 76,
+      "streak": 3
     },
     {
       "name": "plebcentral",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1030,
-    "totalCirculating": 916035,
-    "totalGames": 6596,
+    "totalCirculating": 916003,
+    "totalGames": 6598,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-25T12:42:06.294Z"
+  "lastUpdated": "2026-03-25T13:12:06.290Z"
 }
