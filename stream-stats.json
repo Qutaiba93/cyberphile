@@ -1,10 +1,10 @@
 {
   "totalSessions": 48,
   "totalDays": 40,
-  "totalSegments": 1826,
+  "totalSegments": 1829,
   "allTimePeak": 903,
   "allTimeAvg": 637,
-  "totalMessages": 383523,
+  "totalMessages": 384146,
   "categories": [
     {
       "name": "VRChat",
@@ -91,18 +91,18 @@
       "totalMsgs": 225
     },
     {
-      "name": "DayZ",
-      "avgViewers": 663,
-      "peakViewers": 709,
-      "sampleCount": 9,
-      "totalMsgs": 1243
-    },
-    {
       "name": "Call of Duty: Black Ops II",
       "avgViewers": 660,
       "peakViewers": 725,
       "sampleCount": 30,
       "totalMsgs": 4208
+    },
+    {
+      "name": "DayZ",
+      "avgViewers": 657,
+      "peakViewers": 709,
+      "sampleCount": 12,
+      "totalMsgs": 1866
     },
     {
       "name": "ARC Raiders",
@@ -284,9 +284,9 @@
       "totalMsgs": 41223
     },
     "22": {
-      "avgViewers": 694,
-      "sampleCount": 137,
-      "totalMsgs": 29974
+      "avgViewers": 693,
+      "sampleCount": 140,
+      "totalMsgs": 30597
     },
     "23": {
       "avgViewers": 666,
@@ -462,9 +462,9 @@
     },
     {
       "date": "2026-03-25",
-      "avgViewers": 611,
+      "avgViewers": 613,
       "peakViewers": 769,
-      "totalMsgs": 11006,
+      "totalMsgs": 11629,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -475,5 +475,5 @@
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-25T22:30:51.689Z"
+  "lastUpdated": "2026-03-25T23:00:51.692Z"
 }
