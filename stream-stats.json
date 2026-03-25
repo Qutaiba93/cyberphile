@@ -1,10 +1,10 @@
 {
   "totalSessions": 48,
   "totalDays": 40,
-  "totalSegments": 1809,
+  "totalSegments": 1810,
   "allTimePeak": 903,
   "allTimeAvg": 636,
-  "totalMessages": 381266,
+  "totalMessages": 381370,
   "categories": [
     {
       "name": "VRChat",
@@ -106,10 +106,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 647,
+      "avgViewers": 648,
       "peakViewers": 769,
-      "sampleCount": 75,
-      "totalMsgs": 14917
+      "sampleCount": 76,
+      "totalMsgs": 15021
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -263,8 +263,8 @@
     },
     "19": {
       "avgViewers": 724,
-      "sampleCount": 202,
-      "totalMsgs": 48303
+      "sampleCount": 203,
+      "totalMsgs": 48407
     },
     "20": {
       "avgViewers": 704,
@@ -455,16 +455,17 @@
     },
     {
       "date": "2026-03-25",
-      "avgViewers": 584,
+      "avgViewers": 588,
       "peakViewers": 769,
-      "totalMsgs": 8749,
+      "totalMsgs": 8853,
       "categories": [
         "Movierooms",
         "Just Chatting",
-        "Slots & Casino"
+        "Slots & Casino",
+        "VALORANT"
       ]
     }
   ],
-  "botStartedAt": "2026-03-25T17:32:25.920Z",
-  "lastUpdated": "2026-03-25T19:32:26.252Z"
+  "botStartedAt": "2026-03-25T19:55:06.863Z",
+  "lastUpdated": "2026-03-25T19:56:07.422Z"
 }
