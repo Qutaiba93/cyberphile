@@ -1,10 +1,10 @@
 {
   "totalSessions": 48,
   "totalDays": 40,
-  "totalSegments": 1786,
+  "totalSegments": 1789,
   "allTimePeak": 903,
   "allTimeAvg": 635,
-  "totalMessages": 375321,
+  "totalMessages": 375899,
   "categories": [
     {
       "name": "VRChat",
@@ -119,6 +119,13 @@
       "totalMsgs": 262
     },
     {
+      "name": "Slots & Casino",
+      "avgViewers": 627,
+      "peakViewers": 639,
+      "sampleCount": 3,
+      "totalMsgs": 602
+    },
+    {
       "name": "Rocket League",
       "avgViewers": 623,
       "peakViewers": 756,
@@ -131,13 +138,6 @@
       "peakViewers": 643,
       "sampleCount": 3,
       "totalMsgs": 637
-    },
-    {
-      "name": "Slots & Casino",
-      "avgViewers": 622,
-      "peakViewers": 627,
-      "sampleCount": 2,
-      "totalMsgs": 432
     },
     {
       "name": "Minecraft",
@@ -157,8 +157,8 @@
       "name": "Just Chatting",
       "avgViewers": 604,
       "peakViewers": 903,
-      "sampleCount": 764,
-      "totalMsgs": 165274
+      "sampleCount": 766,
+      "totalMsgs": 165682
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -242,14 +242,14 @@
       "totalMsgs": 17860
     },
     "15": {
-      "avgViewers": 518,
-      "sampleCount": 174,
-      "totalMsgs": 32968
+      "avgViewers": 520,
+      "sampleCount": 176,
+      "totalMsgs": 33342
     },
     "16": {
-      "avgViewers": 627,
-      "sampleCount": 187,
-      "totalMsgs": 41072
+      "avgViewers": 628,
+      "sampleCount": 188,
+      "totalMsgs": 41276
     },
     "17": {
       "avgViewers": 682,
@@ -455,9 +455,9 @@
     },
     {
       "date": "2026-03-25",
-      "avgViewers": 449,
-      "peakViewers": 627,
-      "totalMsgs": 2804,
+      "avgViewers": 476,
+      "peakViewers": 683,
+      "totalMsgs": 3382,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -466,5 +466,5 @@
     }
   ],
   "botStartedAt": "2026-03-23T00:42:05.742Z",
-  "lastUpdated": "2026-03-25T15:42:06.290Z"
+  "lastUpdated": "2026-03-25T16:12:06.292Z"
 }
