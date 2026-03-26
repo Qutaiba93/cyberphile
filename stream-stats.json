@@ -1,10 +1,10 @@
 {
   "totalSessions": 49,
   "totalDays": 41,
-  "totalSegments": 1847,
+  "totalSegments": 1850,
   "allTimePeak": 903,
   "allTimeAvg": 636,
-  "totalMessages": 386577,
+  "totalMessages": 386999,
   "categories": [
     {
       "name": "VRChat",
@@ -29,10 +29,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 748,
+      "avgViewers": 747,
       "peakViewers": 902,
-      "sampleCount": 174,
-      "totalMsgs": 41540
+      "sampleCount": 175,
+      "totalMsgs": 41643
     },
     {
       "name": "Songbattle.io",
@@ -157,8 +157,8 @@
       "name": "Just Chatting",
       "avgViewers": 606,
       "peakViewers": 903,
-      "sampleCount": 790,
-      "totalMsgs": 171810
+      "sampleCount": 792,
+      "totalMsgs": 172129
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -279,9 +279,9 @@
       "totalMsgs": 47776
     },
     "21": {
-      "avgViewers": 703,
-      "sampleCount": 190,
-      "totalMsgs": 41223
+      "avgViewers": 701,
+      "sampleCount": 193,
+      "totalMsgs": 41645
     },
     "22": {
       "avgViewers": 693,
@@ -461,14 +461,15 @@
     },
     {
       "date": "2026-03-26",
-      "avgViewers": 358,
-      "peakViewers": 496,
-      "totalMsgs": 761,
+      "avgViewers": 455,
+      "peakViewers": 615,
+      "totalMsgs": 1183,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-26T21:00:51.801Z"
+  "lastUpdated": "2026-03-26T21:30:51.801Z"
 }
