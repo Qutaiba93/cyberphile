@@ -37,15 +37,6 @@
       "streak": 3
     },
     {
-      "name": "kooooool",
-      "balance": 8777,
-      "totalEarned": 23877,
-      "totalSpent": 15100,
-      "gamesPlayed": 10,
-      "gamesWon": 4,
-      "streak": 6
-    },
-    {
       "name": "tevb0t",
       "balance": 8645,
       "totalEarned": 8655,
@@ -56,8 +47,8 @@
     },
     {
       "name": "plebcentral",
-      "balance": 8588,
-      "totalEarned": 15588,
+      "balance": 8590,
+      "totalEarned": 15590,
       "totalSpent": 7000,
       "gamesPlayed": 2,
       "gamesWon": 1,
@@ -71,6 +62,15 @@
       "gamesPlayed": 12,
       "gamesWon": 5,
       "streak": 28
+    },
+    {
+      "name": "kooooool",
+      "balance": 7781,
+      "totalEarned": 23881,
+      "totalSpent": 16100,
+      "gamesPlayed": 11,
+      "gamesWon": 4,
+      "streak": 6
     },
     {
       "name": "alexmesq",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1040,
-    "totalCirculating": 939772,
-    "totalGames": 7171,
+    "totalCirculating": 938713,
+    "totalGames": 7176,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-26T14:00:51.783Z"
+  "lastUpdated": "2026-03-26T14:30:51.783Z"
 }
