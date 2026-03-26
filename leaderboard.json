@@ -298,6 +298,15 @@
       "streak": 6
     },
     {
+      "name": "raphaellxo",
+      "balance": 4170,
+      "totalEarned": 4170,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 10
+    },
+    {
       "name": "neincs",
       "balance": 4124,
       "totalEarned": 4124,
@@ -314,15 +323,6 @@
       "gamesPlayed": 11,
       "gamesWon": 3,
       "streak": 13
-    },
-    {
-      "name": "raphaellxo",
-      "balance": 4066,
-      "totalEarned": 4066,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 9
     },
     {
       "name": "blu3zy",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1040,
-    "totalCirculating": 938201,
+    "totalCirculating": 938484,
     "totalGames": 7177,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-26T17:00:51.797Z"
+  "lastUpdated": "2026-03-26T17:30:51.800Z"
 }
