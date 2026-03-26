@@ -64,15 +64,6 @@
       "streak": 28
     },
     {
-      "name": "kooooool",
-      "balance": 7781,
-      "totalEarned": 23881,
-      "totalSpent": 16100,
-      "gamesPlayed": 11,
-      "gamesWon": 4,
-      "streak": 6
-    },
-    {
       "name": "alexmesq",
       "balance": 7728,
       "totalEarned": 8728,
@@ -116,6 +107,15 @@
       "gamesPlayed": 184,
       "gamesWon": 55,
       "streak": 5
+    },
+    {
+      "name": "kooooool",
+      "balance": 6785,
+      "totalEarned": 23885,
+      "totalSpent": 17100,
+      "gamesPlayed": 12,
+      "gamesWon": 4,
+      "streak": 6
     },
     {
       "name": "furrreal",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1040,
-    "totalCirculating": 938713,
-    "totalGames": 7176,
+    "totalCirculating": 937717,
+    "totalGames": 7177,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-26T14:30:51.783Z"
+  "lastUpdated": "2026-03-26T15:00:51.783Z"
 }
