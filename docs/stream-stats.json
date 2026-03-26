@@ -1,10 +1,10 @@
 {
   "totalSessions": 48,
   "totalDays": 40,
-  "totalSegments": 1838,
+  "totalSegments": 1841,
   "allTimePeak": 903,
   "allTimeAvg": 636,
-  "totalMessages": 385311,
+  "totalMessages": 385557,
   "categories": [
     {
       "name": "VRChat",
@@ -119,18 +119,18 @@
       "totalMsgs": 262
     },
     {
-      "name": "DayZ",
-      "avgViewers": 633,
-      "peakViewers": 709,
-      "sampleCount": 21,
-      "totalMsgs": 3031
-    },
-    {
       "name": "Slots & Casino",
       "avgViewers": 627,
       "peakViewers": 639,
       "sampleCount": 3,
       "totalMsgs": 602
+    },
+    {
+      "name": "DayZ",
+      "avgViewers": 625,
+      "peakViewers": 709,
+      "sampleCount": 24,
+      "totalMsgs": 3277
     },
     {
       "name": "Rocket League",
@@ -219,9 +219,9 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 558,
-      "sampleCount": 49,
-      "totalMsgs": 7324
+      "avgViewers": 559,
+      "sampleCount": 52,
+      "totalMsgs": 7570
     },
     "1": {
       "avgViewers": 453,
@@ -462,9 +462,9 @@
     },
     {
       "date": "2026-03-25",
-      "avgViewers": 611,
+      "avgViewers": 610,
       "peakViewers": 769,
-      "totalMsgs": 12794,
+      "totalMsgs": 13040,
       "categories": [
         "Movierooms",
         "Just Chatting",
@@ -475,5 +475,5 @@
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-26T00:30:51.691Z"
+  "lastUpdated": "2026-03-26T01:00:51.692Z"
 }
