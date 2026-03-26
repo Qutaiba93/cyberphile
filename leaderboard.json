@@ -47,8 +47,8 @@
     },
     {
       "name": "plebcentral",
-      "balance": 8590,
-      "totalEarned": 15590,
+      "balance": 8592,
+      "totalEarned": 15592,
       "totalSpent": 7000,
       "gamesPlayed": 2,
       "gamesWon": 1,
@@ -164,8 +164,8 @@
     },
     {
       "name": "machamp1",
-      "balance": 5780,
-      "totalEarned": 6005,
+      "balance": 5784,
+      "totalEarned": 6009,
       "totalSpent": 225,
       "gamesPlayed": 5,
       "gamesWon": 1,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1040,
-    "totalCirculating": 938584,
+    "totalCirculating": 938590,
     "totalGames": 7177,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-26T18:30:51.803Z"
+  "lastUpdated": "2026-03-26T19:00:51.804Z"
 }
