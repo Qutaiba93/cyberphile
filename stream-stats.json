@@ -1,10 +1,10 @@
 {
   "totalSessions": 49,
   "totalDays": 41,
-  "totalSegments": 1856,
+  "totalSegments": 1859,
   "allTimePeak": 903,
   "allTimeAvg": 636,
-  "totalMessages": 388349,
+  "totalMessages": 388903,
   "categories": [
     {
       "name": "VRChat",
@@ -140,6 +140,13 @@
       "totalMsgs": 637
     },
     {
+      "name": "Call of Duty: Black Ops III",
+      "avgViewers": 622,
+      "peakViewers": 622,
+      "sampleCount": 1,
+      "totalMsgs": 219
+    },
+    {
       "name": "DayZ",
       "avgViewers": 621,
       "peakViewers": 709,
@@ -157,8 +164,8 @@
       "name": "Just Chatting",
       "avgViewers": 606,
       "peakViewers": 903,
-      "sampleCount": 793,
-      "totalMsgs": 172354
+      "sampleCount": 795,
+      "totalMsgs": 172689
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -284,9 +291,9 @@
       "totalMsgs": 42465
     },
     "22": {
-      "avgViewers": 692,
-      "sampleCount": 143,
-      "totalMsgs": 31127
+      "avgViewers": 691,
+      "sampleCount": 146,
+      "totalMsgs": 31681
     },
     "23": {
       "avgViewers": 662,
@@ -461,16 +468,17 @@
     },
     {
       "date": "2026-03-26",
-      "avgViewers": 537,
+      "avgViewers": 554,
       "peakViewers": 645,
-      "totalMsgs": 2533,
+      "totalMsgs": 3087,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
-        "VALORANT"
+        "VALORANT",
+        "Call of Duty: Black Ops III"
       ]
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-26T22:30:51.806Z"
+  "lastUpdated": "2026-03-26T23:00:51.814Z"
 }
