@@ -19,6 +19,15 @@
       "streak": 5
     },
     {
+      "name": "kooooool",
+      "balance": 9773,
+      "totalEarned": 23873,
+      "totalSpent": 14100,
+      "gamesPlayed": 9,
+      "gamesWon": 4,
+      "streak": 6
+    },
+    {
       "name": "poseidon_o7",
       "balance": 9749,
       "totalEarned": 9769,
@@ -37,15 +46,6 @@
       "streak": 3
     },
     {
-      "name": "kooooool",
-      "balance": 8687,
-      "totalEarned": 21787,
-      "totalSpent": 13100,
-      "gamesPlayed": 8,
-      "gamesWon": 3,
-      "streak": 5
-    },
-    {
       "name": "tevb0t",
       "balance": 8645,
       "totalEarned": 8655,
@@ -56,12 +56,12 @@
     },
     {
       "name": "plebcentral",
-      "balance": 8491,
-      "totalEarned": 15491,
+      "balance": 8588,
+      "totalEarned": 15588,
       "totalSpent": 7000,
       "gamesPlayed": 2,
       "gamesWon": 1,
-      "streak": 8
+      "streak": 9
     },
     {
       "name": "taboxl",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1040,
-    "totalCirculating": 939631,
-    "totalGames": 7166,
+    "totalCirculating": 940768,
+    "totalGames": 7170,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-26T13:00:51.782Z"
+  "lastUpdated": "2026-03-26T13:30:51.785Z"
 }
