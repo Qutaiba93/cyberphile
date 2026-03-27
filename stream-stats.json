@@ -1,10 +1,10 @@
 {
   "totalSessions": 50,
   "totalDays": 42,
-  "totalSegments": 1915,
+  "totalSegments": 1918,
   "allTimePeak": 903,
-  "allTimeAvg": 634,
-  "totalMessages": 398587,
+  "allTimeAvg": 635,
+  "totalMessages": 399745,
   "categories": [
     {
       "name": "VRChat",
@@ -169,10 +169,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 603,
+      "avgViewers": 604,
       "peakViewers": 903,
-      "sampleCount": 823,
-      "totalMsgs": 176924
+      "sampleCount": 825,
+      "totalMsgs": 177923
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -187,6 +187,13 @@
       "peakViewers": 695,
       "sampleCount": 10,
       "totalMsgs": 1487
+    },
+    {
+      "name": "Sons of the Forest",
+      "avgViewers": 574,
+      "peakViewers": 693,
+      "sampleCount": 4,
+      "totalMsgs": 407
     },
     {
       "name": "Backrooms",
@@ -215,13 +222,6 @@
       "peakViewers": 601,
       "sampleCount": 41,
       "totalMsgs": 9011
-    },
-    {
-      "name": "Sons of the Forest",
-      "avgViewers": 534,
-      "peakViewers": 551,
-      "sampleCount": 3,
-      "totalMsgs": 248
     },
     {
       "name": "Movierooms",
@@ -284,8 +284,8 @@
     },
     "19": {
       "avgViewers": 724,
-      "sampleCount": 207,
-      "totalMsgs": 48833
+      "sampleCount": 210,
+      "totalMsgs": 49991
     },
     "20": {
       "avgViewers": 697,
@@ -477,16 +477,17 @@
     },
     {
       "date": "2026-03-27",
-      "avgViewers": 625,
+      "avgViewers": 635,
       "peakViewers": 755,
-      "totalMsgs": 5876,
+      "totalMsgs": 7034,
       "categories": [
         "Just Chatting",
         "Call of Duty: Black Ops III",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Sons of the Forest"
       ]
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-27T19:30:51.852Z"
+  "lastUpdated": "2026-03-27T20:00:51.860Z"
 }
