@@ -1,10 +1,10 @@
 {
   "totalSessions": 50,
   "totalDays": 42,
-  "totalSegments": 1903,
+  "totalSegments": 1906,
   "allTimePeak": 903,
   "allTimeAvg": 634,
-  "totalMessages": 395731,
+  "totalMessages": 397008,
   "categories": [
     {
       "name": "VRChat",
@@ -119,6 +119,13 @@
       "totalMsgs": 262
     },
     {
+      "name": "Call of Duty: Black Ops III",
+      "avgViewers": 632,
+      "peakViewers": 720,
+      "sampleCount": 17,
+      "totalMsgs": 3841
+    },
+    {
       "name": "Slots & Casino",
       "avgViewers": 627,
       "peakViewers": 639,
@@ -145,13 +152,6 @@
       "peakViewers": 709,
       "sampleCount": 26,
       "totalMsgs": 3536
-    },
-    {
-      "name": "Call of Duty: Black Ops III",
-      "avgViewers": 615,
-      "peakViewers": 672,
-      "sampleCount": 14,
-      "totalMsgs": 2564
     },
     {
       "name": "Minecraft",
@@ -274,8 +274,8 @@
     },
     "17": {
       "avgViewers": 683,
-      "sampleCount": 203,
-      "totalMsgs": 43055
+      "sampleCount": 206,
+      "totalMsgs": 44332
     },
     "18": {
       "avgViewers": 701,
@@ -477,9 +477,9 @@
     },
     {
       "date": "2026-03-27",
-      "avgViewers": 550,
-      "peakViewers": 672,
-      "totalMsgs": 3020,
+      "avgViewers": 574,
+      "peakViewers": 720,
+      "totalMsgs": 4297,
       "categories": [
         "Just Chatting",
         "Call of Duty: Black Ops III"
@@ -487,5 +487,5 @@
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-27T17:30:51.854Z"
+  "lastUpdated": "2026-03-27T18:00:51.855Z"
 }
