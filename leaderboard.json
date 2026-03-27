@@ -11,8 +11,8 @@
     },
     {
       "name": "zahcy",
-      "balance": 19250,
-      "totalEarned": 101056,
+      "balance": 19258,
+      "totalEarned": 101064,
       "totalSpent": 101859,
       "gamesPlayed": 388,
       "gamesWon": 156,
@@ -20,8 +20,8 @@
     },
     {
       "name": "poseidon_o7",
-      "balance": 10161,
-      "totalEarned": 10181,
+      "balance": 10177,
+      "totalEarned": 10197,
       "totalSpent": 20,
       "gamesPlayed": 2,
       "gamesWon": 0,
@@ -56,12 +56,12 @@
     },
     {
       "name": "taboxl",
-      "balance": 8294,
-      "totalEarned": 10662,
+      "balance": 8396,
+      "totalEarned": 10764,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
-      "streak": 28
+      "streak": 29
     },
     {
       "name": "alexmesq",
@@ -245,8 +245,8 @@
     },
     {
       "name": "papaah",
-      "balance": 5090,
-      "totalEarned": 5090,
+      "balance": 5130,
+      "totalEarned": 5130,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,8 +299,8 @@
     },
     {
       "name": "raphaellxo",
-      "balance": 4338,
-      "totalEarned": 4338,
+      "balance": 4342,
+      "totalEarned": 4342,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -407,8 +407,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 3602,
-      "totalEarned": 3703,
+      "balance": 3606,
+      "totalEarned": 3707,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1046,
-    "totalCirculating": 965281,
+    "totalCirculating": 966459,
     "totalGames": 7215,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-27T01:00:51.822Z"
+  "lastUpdated": "2026-03-27T01:30:51.820Z"
 }

@@ -1,10 +1,10 @@
 {
   "totalSessions": 49,
   "totalDays": 41,
-  "totalSegments": 1871,
+  "totalSegments": 1874,
   "allTimePeak": 903,
   "allTimeAvg": 635,
-  "totalMessages": 391164,
+  "totalMessages": 391509,
   "categories": [
     {
       "name": "VRChat",
@@ -155,10 +155,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 606,
+      "avgViewers": 605,
       "peakViewers": 903,
-      "sampleCount": 801,
-      "totalMsgs": 173830
+      "sampleCount": 803,
+      "totalMsgs": 174080
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -203,6 +203,13 @@
       "totalMsgs": 1979
     },
     {
+      "name": "Sons of the Forest",
+      "avgViewers": 551,
+      "peakViewers": 551,
+      "sampleCount": 1,
+      "totalMsgs": 95
+    },
+    {
       "name": "God of War",
       "avgViewers": 548,
       "peakViewers": 696,
@@ -231,9 +238,9 @@
       "totalMsgs": 8711
     },
     "1": {
-      "avgViewers": 461,
-      "sampleCount": 29,
-      "totalMsgs": 5780
+      "avgViewers": 471,
+      "sampleCount": 32,
+      "totalMsgs": 6125
     },
     "2": {
       "avgViewers": 497,
@@ -470,15 +477,16 @@
       "date": "2026-03-26",
       "avgViewers": 567,
       "peakViewers": 645,
-      "totalMsgs": 5348,
+      "totalMsgs": 5693,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
         "VALORANT",
-        "Call of Duty: Black Ops III"
+        "Call of Duty: Black Ops III",
+        "Sons of the Forest"
       ]
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-27T01:00:51.814Z"
+  "lastUpdated": "2026-03-27T01:30:51.813Z"
 }
