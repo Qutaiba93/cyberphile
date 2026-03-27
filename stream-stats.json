@@ -1,10 +1,10 @@
 {
   "totalSessions": 50,
   "totalDays": 42,
-  "totalSegments": 1906,
+  "totalSegments": 1909,
   "allTimePeak": 903,
   "allTimeAvg": 634,
-  "totalMessages": 397008,
+  "totalMessages": 397552,
   "categories": [
     {
       "name": "VRChat",
@@ -71,10 +71,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 666,
+      "avgViewers": 667,
       "peakViewers": 841,
-      "sampleCount": 138,
-      "totalMsgs": 24663
+      "sampleCount": 141,
+      "totalMsgs": 25207
     },
     {
       "name": "Sea of Thieves",
@@ -279,8 +279,8 @@
     },
     "18": {
       "avgViewers": 701,
-      "sampleCount": 207,
-      "totalMsgs": 51006
+      "sampleCount": 210,
+      "totalMsgs": 51550
     },
     "19": {
       "avgViewers": 724,
@@ -477,15 +477,16 @@
     },
     {
       "date": "2026-03-27",
-      "avgViewers": 574,
-      "peakViewers": 720,
-      "totalMsgs": 4297,
+      "avgViewers": 593,
+      "peakViewers": 732,
+      "totalMsgs": 4841,
       "categories": [
         "Just Chatting",
-        "Call of Duty: Black Ops III"
+        "Call of Duty: Black Ops III",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-27T18:00:51.855Z"
+  "lastUpdated": "2026-03-27T18:30:51.858Z"
 }
