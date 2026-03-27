@@ -1,10 +1,10 @@
 {
   "totalSessions": 50,
   "totalDays": 42,
-  "totalSegments": 1918,
+  "totalSegments": 1921,
   "allTimePeak": 903,
   "allTimeAvg": 635,
-  "totalMessages": 399745,
+  "totalMessages": 400376,
   "categories": [
     {
       "name": "VRChat",
@@ -154,6 +154,13 @@
       "totalMsgs": 3536
     },
     {
+      "name": "Sons of the Forest",
+      "avgViewers": 616,
+      "peakViewers": 693,
+      "sampleCount": 7,
+      "totalMsgs": 1038
+    },
+    {
       "name": "Minecraft",
       "avgViewers": 611,
       "peakViewers": 729,
@@ -187,13 +194,6 @@
       "peakViewers": 695,
       "sampleCount": 10,
       "totalMsgs": 1487
-    },
-    {
-      "name": "Sons of the Forest",
-      "avgViewers": 574,
-      "peakViewers": 693,
-      "sampleCount": 4,
-      "totalMsgs": 407
     },
     {
       "name": "Backrooms",
@@ -289,8 +289,8 @@
     },
     "20": {
       "avgViewers": 697,
-      "sampleCount": 201,
-      "totalMsgs": 47776
+      "sampleCount": 204,
+      "totalMsgs": 48407
     },
     "21": {
       "avgViewers": 700,
@@ -477,9 +477,9 @@
     },
     {
       "date": "2026-03-27",
-      "avgViewers": 635,
+      "avgViewers": 638,
       "peakViewers": 755,
-      "totalMsgs": 7034,
+      "totalMsgs": 7665,
       "categories": [
         "Just Chatting",
         "Call of Duty: Black Ops III",
@@ -489,5 +489,5 @@
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-27T20:00:51.860Z"
+  "lastUpdated": "2026-03-27T20:30:51.857Z"
 }
