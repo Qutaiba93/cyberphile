@@ -1,10 +1,10 @@
 {
   "totalSessions": 50,
   "totalDays": 42,
-  "totalSegments": 1897,
+  "totalSegments": 1900,
   "allTimePeak": 903,
   "allTimeAvg": 634,
-  "totalMessages": 394658,
+  "totalMessages": 395228,
   "categories": [
     {
       "name": "VRChat",
@@ -175,18 +175,18 @@
       "totalMsgs": 1817
     },
     {
+      "name": "Call of Duty: Black Ops III",
+      "avgViewers": 601,
+      "peakViewers": 648,
+      "sampleCount": 11,
+      "totalMsgs": 2061
+    },
+    {
       "name": "Call of Duty: Black Ops",
       "avgViewers": 591,
       "peakViewers": 695,
       "sampleCount": 10,
       "totalMsgs": 1487
-    },
-    {
-      "name": "Call of Duty: Black Ops III",
-      "avgViewers": 589,
-      "peakViewers": 627,
-      "sampleCount": 8,
-      "totalMsgs": 1491
     },
     {
       "name": "Backrooms",
@@ -269,8 +269,8 @@
     },
     "16": {
       "avgViewers": 629,
-      "sampleCount": 196,
-      "totalMsgs": 42460
+      "sampleCount": 199,
+      "totalMsgs": 43030
     },
     "17": {
       "avgViewers": 683,
@@ -477,9 +477,9 @@
     },
     {
       "date": "2026-03-27",
-      "avgViewers": 496,
-      "peakViewers": 628,
-      "totalMsgs": 1947,
+      "avgViewers": 526,
+      "peakViewers": 648,
+      "totalMsgs": 2517,
       "categories": [
         "Just Chatting",
         "Call of Duty: Black Ops III"
@@ -487,5 +487,5 @@
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-27T16:30:51.850Z"
+  "lastUpdated": "2026-03-27T17:00:51.853Z"
 }
