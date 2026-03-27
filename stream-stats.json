@@ -1,10 +1,10 @@
 {
   "totalSessions": 49,
   "totalDays": 41,
-  "totalSegments": 1862,
+  "totalSegments": 1865,
   "allTimePeak": 903,
   "allTimeAvg": 635,
-  "totalMessages": 389549,
+  "totalMessages": 390023,
   "categories": [
     {
       "name": "VRChat",
@@ -168,13 +168,6 @@
       "totalMsgs": 352
     },
     {
-      "name": "Call of Duty: Black Ops III",
-      "avgViewers": 605,
-      "peakViewers": 622,
-      "sampleCount": 4,
-      "totalMsgs": 865
-    },
-    {
       "name": "Call of Duty: Modern Warfare 2",
       "avgViewers": 601,
       "peakViewers": 652,
@@ -187,6 +180,13 @@
       "peakViewers": 695,
       "sampleCount": 10,
       "totalMsgs": 1487
+    },
+    {
+      "name": "Call of Duty: Black Ops III",
+      "avgViewers": 584,
+      "peakViewers": 622,
+      "sampleCount": 7,
+      "totalMsgs": 1339
     },
     {
       "name": "Backrooms",
@@ -296,9 +296,9 @@
       "totalMsgs": 31681
     },
     "23": {
-      "avgViewers": 660,
-      "sampleCount": 88,
-      "totalMsgs": 15613
+      "avgViewers": 657,
+      "sampleCount": 91,
+      "totalMsgs": 16087
     }
   },
   "dailyHistory": [
@@ -470,7 +470,7 @@
       "date": "2026-03-26",
       "avgViewers": 561,
       "peakViewers": 645,
-      "totalMsgs": 3733,
+      "totalMsgs": 4207,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -480,5 +480,5 @@
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-26T23:30:51.806Z"
+  "lastUpdated": "2026-03-27T00:00:51.809Z"
 }
