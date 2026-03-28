@@ -1,10 +1,10 @@
 {
-  "totalSessions": 51,
+  "totalSessions": 52,
   "totalDays": 43,
-  "totalSegments": 1958,
+  "totalSegments": 1960,
   "allTimePeak": 903,
-  "allTimeAvg": 634,
-  "totalMessages": 408046,
+  "allTimeAvg": 633,
+  "totalMessages": 408138,
   "categories": [
     {
       "name": "VRChat",
@@ -168,18 +168,18 @@
       "totalMsgs": 10639
     },
     {
-      "name": "Just Chatting",
-      "avgViewers": 605,
-      "peakViewers": 903,
-      "sampleCount": 838,
-      "totalMsgs": 182805
-    },
-    {
       "name": "Creepy Shift: House for Sale",
       "avgViewers": 605,
       "peakViewers": 611,
       "sampleCount": 2,
       "totalMsgs": 352
+    },
+    {
+      "name": "Just Chatting",
+      "avgViewers": 604,
+      "peakViewers": 903,
+      "sampleCount": 839,
+      "totalMsgs": 182897
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -225,9 +225,9 @@
     },
     {
       "name": "Movierooms",
-      "avgViewers": 429,
+      "avgViewers": 423,
       "peakViewers": 552,
-      "sampleCount": 53,
+      "sampleCount": 54,
       "totalMsgs": 7003
     }
   ],
@@ -258,9 +258,9 @@
       "totalMsgs": 2004
     },
     "14": {
-      "avgViewers": 355,
-      "sampleCount": 114,
-      "totalMsgs": 17963
+      "avgViewers": 351,
+      "sampleCount": 116,
+      "totalMsgs": 18055
     },
     "15": {
       "avgViewers": 520,
@@ -476,15 +476,16 @@
     },
     {
       "date": "2026-03-28",
-      "avgViewers": 412,
+      "avgViewers": 366,
       "peakViewers": 522,
-      "totalMsgs": 937,
+      "totalMsgs": 1029,
       "categories": [
         "VALORANT",
-        "Movierooms"
+        "Movierooms",
+        "Just Chatting"
       ]
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-28T14:30:51.898Z"
+  "lastUpdated": "2026-03-28T15:00:51.902Z"
 }
