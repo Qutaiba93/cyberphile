@@ -92,8 +92,8 @@
     },
     {
       "name": "drogan",
-      "balance": 8311,
-      "totalEarned": 8311,
+      "balance": 8315,
+      "totalEarned": 8315,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -182,8 +182,8 @@
     },
     {
       "name": "nitro_st",
-      "balance": 5902,
-      "totalEarned": 5902,
+      "balance": 5906,
+      "totalEarned": 5906,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -236,8 +236,8 @@
     },
     {
       "name": "papaah",
-      "balance": 5446,
-      "totalEarned": 5446,
+      "balance": 5458,
+      "totalEarned": 5458,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,8 +299,8 @@
     },
     {
       "name": "raphaellxo",
-      "balance": 4590,
-      "totalEarned": 4590,
+      "balance": 4616,
+      "totalEarned": 4616,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -308,8 +308,8 @@
     },
     {
       "name": "reformedbolvarmargret02",
-      "balance": 4515,
-      "totalEarned": 4515,
+      "balance": 4583,
+      "totalEarned": 4583,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -344,8 +344,8 @@
     },
     {
       "name": "darth70",
-      "balance": 4248,
-      "totalEarned": 4248,
+      "balance": 4256,
+      "totalEarned": 4256,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -388,6 +388,15 @@
       "streak": 1
     },
     {
+      "name": "faridlamm",
+      "balance": 3982,
+      "totalEarned": 4083,
+      "totalSpent": 101,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 13
+    },
+    {
       "name": "twilighty",
       "balance": 3977,
       "totalEarned": 3977,
@@ -395,15 +404,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "faridlamm",
-      "balance": 3970,
-      "totalEarned": 4071,
-      "totalSpent": 101,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 13
     },
     {
       "name": "xx_i_garrem_deez_xx",
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1072,
-    "totalCirculating": 1011212,
-    "totalGames": 7395,
+    "totalPlayers": 1075,
+    "totalCirculating": 1012191,
+    "totalGames": 7415,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-28T02:00:51.892Z"
+  "lastUpdated": "2026-03-28T02:30:51.882Z"
 }
