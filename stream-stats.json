@@ -1,10 +1,10 @@
 {
   "totalSessions": 53,
   "totalDays": 43,
-  "totalSegments": 2005,
+  "totalSegments": 2008,
   "allTimePeak": 903,
   "allTimeAvg": 632,
-  "totalMessages": 417357,
+  "totalMessages": 417990,
   "categories": [
     {
       "name": "VRChat",
@@ -80,8 +80,8 @@
       "name": "Sea of Thieves",
       "avgViewers": 673,
       "peakViewers": 776,
-      "sampleCount": 58,
-      "totalMsgs": 9939
+      "sampleCount": 59,
+      "totalMsgs": 10155
     },
     {
       "name": "The Empty Eyes",
@@ -129,8 +129,8 @@
       "name": "Sons of the Forest",
       "avgViewers": 631,
       "peakViewers": 693,
-      "sampleCount": 18,
-      "totalMsgs": 2591
+      "sampleCount": 19,
+      "totalMsgs": 2806
     },
     {
       "name": "Slots & Casino",
@@ -178,8 +178,8 @@
       "name": "Just Chatting",
       "avgViewers": 601,
       "peakViewers": 903,
-      "sampleCount": 858,
-      "totalMsgs": 186315
+      "sampleCount": 859,
+      "totalMsgs": 186517
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -298,9 +298,9 @@
       "totalMsgs": 44223
     },
     "22": {
-      "avgViewers": 688,
-      "sampleCount": 155,
-      "totalMsgs": 34220
+      "avgViewers": 687,
+      "sampleCount": 158,
+      "totalMsgs": 34853
     },
     "23": {
       "avgViewers": 658,
@@ -476,19 +476,20 @@
     },
     {
       "date": "2026-03-28",
-      "avgViewers": 548,
+      "avgViewers": 552,
       "peakViewers": 793,
-      "totalMsgs": 10248,
+      "totalMsgs": 10881,
       "categories": [
         "VALORANT",
         "Movierooms",
         "Just Chatting",
         "IRL",
         "Counter-Strike 2",
-        "Sea of Thieves"
+        "Sea of Thieves",
+        "Sons of the Forest"
       ]
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-28T22:30:51.907Z"
+  "lastUpdated": "2026-03-28T23:00:51.908Z"
 }
