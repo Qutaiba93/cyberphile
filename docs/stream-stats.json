@@ -1,10 +1,10 @@
 {
   "totalSessions": 53,
   "totalDays": 43,
-  "totalSegments": 1978,
+  "totalSegments": 1981,
   "allTimePeak": 903,
   "allTimeAvg": 631,
-  "totalMessages": 411878,
+  "totalMessages": 412497,
   "categories": [
     {
       "name": "VRChat",
@@ -71,10 +71,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 670,
+      "avgViewers": 671,
       "peakViewers": 841,
-      "sampleCount": 147,
-      "totalMsgs": 26242
+      "sampleCount": 148,
+      "totalMsgs": 26404
     },
     {
       "name": "Sea of Thieves",
@@ -175,18 +175,18 @@
       "totalMsgs": 352
     },
     {
+      "name": "Just Chatting",
+      "avgViewers": 601,
+      "peakViewers": 903,
+      "sampleCount": 857,
+      "totalMsgs": 186132
+    },
+    {
       "name": "Call of Duty: Modern Warfare 2",
       "avgViewers": 601,
       "peakViewers": 652,
       "sampleCount": 10,
       "totalMsgs": 1817
-    },
-    {
-      "name": "Just Chatting",
-      "avgViewers": 600,
-      "peakViewers": 903,
-      "sampleCount": 855,
-      "totalMsgs": 185675
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -278,9 +278,9 @@
       "totalMsgs": 46078
     },
     "18": {
-      "avgViewers": 702,
-      "sampleCount": 213,
-      "totalMsgs": 52161
+      "avgViewers": 703,
+      "sampleCount": 216,
+      "totalMsgs": 52780
     },
     "19": {
       "avgViewers": 724,
@@ -476,17 +476,18 @@
     },
     {
       "date": "2026-03-28",
-      "avgViewers": 399,
-      "peakViewers": 743,
-      "totalMsgs": 4769,
+      "avgViewers": 433,
+      "peakViewers": 774,
+      "totalMsgs": 5388,
       "categories": [
         "VALORANT",
         "Movierooms",
         "Just Chatting",
-        "IRL"
+        "IRL",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-28T18:00:51.901Z"
+  "lastUpdated": "2026-03-28T18:30:51.902Z"
 }
