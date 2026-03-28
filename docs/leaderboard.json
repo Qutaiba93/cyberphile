@@ -92,8 +92,8 @@
     },
     {
       "name": "drogan",
-      "balance": 8305,
-      "totalEarned": 8305,
+      "balance": 8311,
+      "totalEarned": 8311,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,8 +146,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 6255,
-      "totalEarned": 6255,
+      "balance": 6265,
+      "totalEarned": 6265,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -182,8 +182,8 @@
     },
     {
       "name": "nitro_st",
-      "balance": 5896,
-      "totalEarned": 5896,
+      "balance": 5902,
+      "totalEarned": 5902,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -236,8 +236,8 @@
     },
     {
       "name": "papaah",
-      "balance": 5430,
-      "totalEarned": 5430,
+      "balance": 5446,
+      "totalEarned": 5446,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,8 +299,8 @@
     },
     {
       "name": "raphaellxo",
-      "balance": 4560,
-      "totalEarned": 4560,
+      "balance": 4590,
+      "totalEarned": 4590,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -308,8 +308,8 @@
     },
     {
       "name": "reformedbolvarmargret02",
-      "balance": 4479,
-      "totalEarned": 4479,
+      "balance": 4515,
+      "totalEarned": 4515,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -344,8 +344,8 @@
     },
     {
       "name": "darth70",
-      "balance": 4246,
-      "totalEarned": 4246,
+      "balance": 4248,
+      "totalEarned": 4248,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -398,8 +398,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 3960,
-      "totalEarned": 4061,
+      "balance": 3970,
+      "totalEarned": 4071,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -433,6 +433,15 @@
       "streak": 3
     },
     {
+      "name": "ionlywatchretardedpeople",
+      "balance": 3562,
+      "totalEarned": 3562,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "quantik",
       "balance": 3554,
       "totalEarned": 3554,
@@ -440,21 +449,12 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 11
-    },
-    {
-      "name": "ionlywatchretardedpeople",
-      "balance": 3552,
-      "totalEarned": 3552,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
     }
   ],
   "stats": {
-    "totalPlayers": 1070,
-    "totalCirculating": 1010612,
-    "totalGames": 7390,
+    "totalPlayers": 1072,
+    "totalCirculating": 1011212,
+    "totalGames": 7395,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-28T01:30:51.882Z"
+  "lastUpdated": "2026-03-28T02:00:51.892Z"
 }
