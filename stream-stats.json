@@ -1,10 +1,10 @@
 {
-  "totalSessions": 50,
-  "totalDays": 42,
-  "totalSegments": 1948,
+  "totalSessions": 51,
+  "totalDays": 43,
+  "totalSegments": 1951,
   "allTimePeak": 903,
-  "allTimeAvg": 635,
-  "totalMessages": 407109,
+  "allTimeAvg": 634,
+  "totalMessages": 407424,
   "categories": [
     {
       "name": "VRChat",
@@ -106,10 +106,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 651,
+      "avgViewers": 642,
       "peakViewers": 769,
-      "sampleCount": 88,
-      "totalMsgs": 16534
+      "sampleCount": 90,
+      "totalMsgs": 16690
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -225,10 +225,10 @@
     },
     {
       "name": "Movierooms",
-      "avgViewers": 424,
+      "avgViewers": 423,
       "peakViewers": 552,
-      "sampleCount": 45,
-      "totalMsgs": 6222
+      "sampleCount": 46,
+      "totalMsgs": 6381
     }
   ],
   "hourlyPatterns": {
@@ -238,9 +238,9 @@
       "totalMsgs": 9427
     },
     "1": {
-      "avgViewers": 476,
-      "sampleCount": 35,
-      "totalMsgs": 6404
+      "avgViewers": 460,
+      "sampleCount": 38,
+      "totalMsgs": 6719
     },
     "2": {
       "avgViewers": 515,
@@ -309,20 +309,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-14",
-      "avgViewers": 664,
-      "peakViewers": 806,
-      "totalMsgs": 14611,
-      "categories": [
-        "Just Chatting",
-        "Minecraft",
-        "VALORANT",
-        "ARC Raiders",
-        "Rocket League",
-        "Trash Horror Collection"
-      ]
-    },
     {
       "date": "2026-03-15",
       "avgViewers": 651,
@@ -487,8 +473,18 @@
         "Sons of the Forest",
         "VALORANT"
       ]
+    },
+    {
+      "date": "2026-03-28",
+      "avgViewers": 279,
+      "peakViewers": 363,
+      "totalMsgs": 315,
+      "categories": [
+        "VALORANT",
+        "Movierooms"
+      ]
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-28T01:00:51.871Z"
+  "lastUpdated": "2026-03-28T01:30:51.876Z"
 }
