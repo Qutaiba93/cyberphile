@@ -1,10 +1,10 @@
 {
   "totalSessions": 50,
   "totalDays": 42,
-  "totalSegments": 1945,
+  "totalSegments": 1948,
   "allTimePeak": 903,
   "allTimeAvg": 635,
-  "totalMessages": 406811,
+  "totalMessages": 407109,
   "categories": [
     {
       "name": "VRChat",
@@ -106,10 +106,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 652,
+      "avgViewers": 651,
       "peakViewers": 769,
-      "sampleCount": 85,
-      "totalMsgs": 16236
+      "sampleCount": 88,
+      "totalMsgs": 16534
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -233,9 +233,9 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 566,
-      "sampleCount": 61,
-      "totalMsgs": 9129
+      "avgViewers": 568,
+      "sampleCount": 64,
+      "totalMsgs": 9427
     },
     "1": {
       "avgViewers": 476,
@@ -477,17 +477,18 @@
     },
     {
       "date": "2026-03-27",
-      "avgViewers": 645,
+      "avgViewers": 644,
       "peakViewers": 755,
-      "totalMsgs": 14100,
+      "totalMsgs": 14398,
       "categories": [
         "Just Chatting",
         "Call of Duty: Black Ops III",
         "Counter-Strike 2",
-        "Sons of the Forest"
+        "Sons of the Forest",
+        "VALORANT"
       ]
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-28T00:30:51.871Z"
+  "lastUpdated": "2026-03-28T01:00:51.871Z"
 }
