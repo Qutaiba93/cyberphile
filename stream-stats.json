@@ -1,10 +1,10 @@
 {
   "totalSessions": 53,
   "totalDays": 43,
-  "totalSegments": 2014,
+  "totalSegments": 2017,
   "allTimePeak": 903,
   "allTimeAvg": 632,
-  "totalMessages": 418993,
+  "totalMessages": 419562,
   "categories": [
     {
       "name": "VRChat",
@@ -190,10 +190,10 @@
     },
     {
       "name": "Call of Duty: Black Ops",
-      "avgViewers": 593,
+      "avgViewers": 591,
       "peakViewers": 695,
-      "sampleCount": 12,
-      "totalMsgs": 1811
+      "sampleCount": 15,
+      "totalMsgs": 2380
     },
     {
       "name": "Backrooms",
@@ -233,9 +233,9 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 568,
-      "sampleCount": 64,
-      "totalMsgs": 9427
+      "avgViewers": 569,
+      "sampleCount": 67,
+      "totalMsgs": 9996
     },
     "1": {
       "avgViewers": 461,
@@ -476,9 +476,9 @@
     },
     {
       "date": "2026-03-28",
-      "avgViewers": 558,
+      "avgViewers": 559,
       "peakViewers": 793,
-      "totalMsgs": 11884,
+      "totalMsgs": 12453,
       "categories": [
         "VALORANT",
         "Movierooms",
@@ -492,5 +492,5 @@
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-29T00:00:51.907Z"
+  "lastUpdated": "2026-03-29T00:30:51.910Z"
 }
