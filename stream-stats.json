@@ -1,10 +1,10 @@
 {
   "totalSessions": 53,
   "totalDays": 43,
-  "totalSegments": 2011,
+  "totalSegments": 2014,
   "allTimePeak": 903,
   "allTimeAvg": 632,
-  "totalMessages": 418491,
+  "totalMessages": 418993,
   "categories": [
     {
       "name": "VRChat",
@@ -129,8 +129,8 @@
       "name": "Sons of the Forest",
       "avgViewers": 631,
       "peakViewers": 693,
-      "sampleCount": 22,
-      "totalMsgs": 3307
+      "sampleCount": 23,
+      "totalMsgs": 3485
     },
     {
       "name": "Slots & Casino",
@@ -190,10 +190,10 @@
     },
     {
       "name": "Call of Duty: Black Ops",
-      "avgViewers": 591,
+      "avgViewers": 593,
       "peakViewers": 695,
-      "sampleCount": 10,
-      "totalMsgs": 1487
+      "sampleCount": 12,
+      "totalMsgs": 1811
     },
     {
       "name": "Backrooms",
@@ -303,9 +303,9 @@
       "totalMsgs": 34853
     },
     "23": {
-      "avgViewers": 657,
-      "sampleCount": 100,
-      "totalMsgs": 19423
+      "avgViewers": 656,
+      "sampleCount": 103,
+      "totalMsgs": 19925
     }
   },
   "dailyHistory": [
@@ -476,9 +476,9 @@
     },
     {
       "date": "2026-03-28",
-      "avgViewers": 556,
+      "avgViewers": 558,
       "peakViewers": 793,
-      "totalMsgs": 11382,
+      "totalMsgs": 11884,
       "categories": [
         "VALORANT",
         "Movierooms",
@@ -486,10 +486,11 @@
         "IRL",
         "Counter-Strike 2",
         "Sea of Thieves",
-        "Sons of the Forest"
+        "Sons of the Forest",
+        "Call of Duty: Black Ops"
       ]
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-28T23:30:51.908Z"
+  "lastUpdated": "2026-03-29T00:00:51.907Z"
 }
