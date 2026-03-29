@@ -1,10 +1,10 @@
 {
-  "totalSessions": 53,
-  "totalDays": 43,
-  "totalSegments": 2026,
+  "totalSessions": 54,
+  "totalDays": 44,
+  "totalSegments": 2028,
   "allTimePeak": 903,
   "allTimeAvg": 632,
-  "totalMessages": 421371,
+  "totalMessages": 421654,
   "categories": [
     {
       "name": "VRChat",
@@ -178,8 +178,8 @@
       "name": "Just Chatting",
       "avgViewers": 601,
       "peakViewers": 903,
-      "sampleCount": 860,
-      "totalMsgs": 186741
+      "sampleCount": 861,
+      "totalMsgs": 186909
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -225,10 +225,10 @@
     },
     {
       "name": "Movierooms",
-      "avgViewers": 423,
+      "avgViewers": 417,
       "peakViewers": 552,
-      "sampleCount": 54,
-      "totalMsgs": 7003
+      "sampleCount": 55,
+      "totalMsgs": 7118
     }
   ],
   "hourlyPatterns": {
@@ -243,9 +243,9 @@
       "totalMsgs": 8231
     },
     "2": {
-      "avgViewers": 507,
-      "sampleCount": 24,
-      "totalMsgs": 2733
+      "avgViewers": 494,
+      "sampleCount": 26,
+      "totalMsgs": 3016
     },
     "3": {
       "avgViewers": 536,
@@ -309,16 +309,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-15",
-      "avgViewers": 651,
-      "peakViewers": 830,
-      "totalMsgs": 6575,
-      "categories": [
-        "Just Chatting",
-        "IRL"
-      ]
-    },
     {
       "date": "2026-03-16",
       "avgViewers": 646,
@@ -478,7 +468,7 @@
       "date": "2026-03-28",
       "avgViewers": 560,
       "peakViewers": 793,
-      "totalMsgs": 14262,
+      "totalMsgs": 14430,
       "categories": [
         "VALORANT",
         "Movierooms",
@@ -489,8 +479,17 @@
         "Sons of the Forest",
         "Call of Duty: Black Ops"
       ]
+    },
+    {
+      "date": "2026-03-29",
+      "avgViewers": 127,
+      "peakViewers": 127,
+      "totalMsgs": 115,
+      "categories": [
+        "Movierooms"
+      ]
     }
   ],
   "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-29T02:00:51.916Z"
+  "lastUpdated": "2026-03-29T02:30:51.912Z"
 }
