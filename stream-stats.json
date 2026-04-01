@@ -1,10 +1,10 @@
 {
   "totalSessions": 55,
   "totalDays": 45,
-  "totalSegments": 2090,
+  "totalSegments": 2093,
   "allTimePeak": 903,
   "allTimeAvg": 626,
-  "totalMessages": 431278,
+  "totalMessages": 431715,
   "categories": [
     {
       "name": "VRChat",
@@ -183,10 +183,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 599,
+      "avgViewers": 598,
       "peakViewers": 903,
-      "sampleCount": 877,
-      "totalMsgs": 189676
+      "sampleCount": 878,
+      "totalMsgs": 189844
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -222,6 +222,13 @@
       "peakViewers": 601,
       "sampleCount": 41,
       "totalMsgs": 9011
+    },
+    {
+      "name": "Too Well Hidden",
+      "avgViewers": 412,
+      "peakViewers": 421,
+      "sampleCount": 2,
+      "totalMsgs": 269
     },
     {
       "name": "Movierooms",
@@ -303,14 +310,14 @@
       "totalMsgs": 45220
     },
     "22": {
-      "avgViewers": 682,
-      "sampleCount": 163,
-      "totalMsgs": 35862
+      "avgViewers": 681,
+      "sampleCount": 164,
+      "totalMsgs": 36030
     },
     "23": {
-      "avgViewers": 656,
-      "sampleCount": 103,
-      "totalMsgs": 19925
+      "avgViewers": 652,
+      "sampleCount": 105,
+      "totalMsgs": 20194
     }
   },
   "dailyHistory": [
@@ -483,17 +490,18 @@
     },
     {
       "date": "2026-04-01",
-      "avgViewers": 505,
+      "avgViewers": 501,
       "peakViewers": 571,
-      "totalMsgs": 8442,
+      "totalMsgs": 8879,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
         "Call of Duty: Black Ops",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Too Well Hidden"
       ]
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-01T22:56:08.607Z"
+  "lastUpdated": "2026-04-01T23:26:08.607Z"
 }

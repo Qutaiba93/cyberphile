@@ -20,8 +20,8 @@
     },
     {
       "name": "zuyu",
-      "balance": 15049,
-      "totalEarned": 43513,
+      "balance": 15061,
+      "totalEarned": 43525,
       "totalSpent": 28464,
       "gamesPlayed": 28,
       "gamesWon": 11,
@@ -56,8 +56,8 @@
     },
     {
       "name": "taboxl",
-      "balance": 9891,
-      "totalEarned": 12259,
+      "balance": 9925,
+      "totalEarned": 12293,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
@@ -92,8 +92,8 @@
     },
     {
       "name": "drogan",
-      "balance": 8874,
-      "totalEarned": 8874,
+      "balance": 8880,
+      "totalEarned": 8880,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -110,8 +110,8 @@
     },
     {
       "name": "5pray",
-      "balance": 8407,
-      "totalEarned": 8407,
+      "balance": 8411,
+      "totalEarned": 8411,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,8 +146,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 6801,
-      "totalEarned": 8866,
+      "balance": 6803,
+      "totalEarned": 8868,
       "totalSpent": 2065,
       "gamesPlayed": 21,
       "gamesWon": 5,
@@ -299,8 +299,8 @@
     },
     {
       "name": "lena_xc",
-      "balance": 5079,
-      "totalEarned": 5079,
+      "balance": 5087,
+      "totalEarned": 5087,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -352,6 +352,15 @@
       "streak": 1
     },
     {
+      "name": "lostinplacex",
+      "balance": 4621,
+      "totalEarned": 4621,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "reformedbolvarmargret02",
       "balance": 4607,
       "totalEarned": 4607,
@@ -361,18 +370,9 @@
       "streak": 5
     },
     {
-      "name": "lostinplacex",
-      "balance": 4589,
-      "totalEarned": 4589,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
-    },
-    {
       "name": "twilighty",
-      "balance": 4535,
-      "totalEarned": 4535,
+      "balance": 4539,
+      "totalEarned": 4539,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -389,8 +389,8 @@
     },
     {
       "name": "ayoub12h6",
-      "balance": 4417,
-      "totalEarned": 4417,
+      "balance": 4441,
+      "totalEarned": 4441,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -407,8 +407,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 4337,
-      "totalEarned": 4438,
+      "balance": 4351,
+      "totalEarned": 4452,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1132,
-    "totalCirculating": 1096949,
+    "totalPlayers": 1133,
+    "totalCirculating": 1097669,
     "totalGames": 7625,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-01T22:56:08.615Z"
+  "lastUpdated": "2026-04-01T23:26:08.615Z"
 }
