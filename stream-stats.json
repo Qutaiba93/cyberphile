@@ -1,10 +1,10 @@
 {
   "totalSessions": 55,
   "totalDays": 45,
-  "totalSegments": 2066,
+  "totalSegments": 2069,
   "allTimePeak": 903,
   "allTimeAvg": 627,
-  "totalMessages": 427030,
+  "totalMessages": 427627,
   "categories": [
     {
       "name": "VRChat",
@@ -78,10 +78,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 667,
+      "avgViewers": 664,
       "peakViewers": 841,
-      "sampleCount": 159,
-      "totalMsgs": 28075
+      "sampleCount": 162,
+      "totalMsgs": 28672
     },
     {
       "name": "The Empty Eyes",
@@ -283,14 +283,14 @@
       "totalMsgs": 46796
     },
     "18": {
-      "avgViewers": 700,
-      "sampleCount": 224,
-      "totalMsgs": 54046
+      "avgViewers": 699,
+      "sampleCount": 225,
+      "totalMsgs": 54182
     },
     "19": {
-      "avgViewers": 724,
-      "sampleCount": 216,
-      "totalMsgs": 51265
+      "avgViewers": 723,
+      "sampleCount": 218,
+      "totalMsgs": 51726
     },
     "20": {
       "avgViewers": 696,
@@ -483,9 +483,9 @@
     },
     {
       "date": "2026-04-01",
-      "avgViewers": 495,
+      "avgViewers": 497,
       "peakViewers": 571,
-      "totalMsgs": 4194,
+      "totalMsgs": 4791,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -495,5 +495,5 @@
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-01T18:56:08.557Z"
+  "lastUpdated": "2026-04-01T19:26:08.556Z"
 }
