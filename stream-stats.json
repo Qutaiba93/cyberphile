@@ -1,10 +1,10 @@
 {
   "totalSessions": 55,
   "totalDays": 45,
-  "totalSegments": 2075,
+  "totalSegments": 2078,
   "allTimePeak": 903,
   "allTimeAvg": 627,
-  "totalMessages": 428468,
+  "totalMessages": 429174,
   "categories": [
     {
       "name": "VRChat",
@@ -92,10 +92,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 660,
+      "avgViewers": 658,
       "peakViewers": 841,
-      "sampleCount": 168,
-      "totalMsgs": 29513
+      "sampleCount": 170,
+      "totalMsgs": 29998
     },
     {
       "name": "ARC Raiders",
@@ -185,8 +185,8 @@
       "name": "Just Chatting",
       "avgViewers": 599,
       "peakViewers": 903,
-      "sampleCount": 873,
-      "totalMsgs": 188864
+      "sampleCount": 874,
+      "totalMsgs": 189085
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -293,9 +293,9 @@
       "totalMsgs": 52319
     },
     "20": {
-      "avgViewers": 694,
-      "sampleCount": 215,
-      "totalMsgs": 50508
+      "avgViewers": 692,
+      "sampleCount": 218,
+      "totalMsgs": 51214
     },
     "21": {
       "avgViewers": 698,
@@ -483,9 +483,9 @@
     },
     {
       "date": "2026-04-01",
-      "avgViewers": 503,
+      "avgViewers": 505,
       "peakViewers": 571,
-      "totalMsgs": 5632,
+      "totalMsgs": 6338,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -495,5 +495,5 @@
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-01T20:26:08.607Z"
+  "lastUpdated": "2026-04-01T20:56:08.605Z"
 }
