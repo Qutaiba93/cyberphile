@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 59980,
-      "totalEarned": 813306,
+      "balance": 60039,
+      "totalEarned": 813365,
       "totalSpent": 834835,
       "gamesPlayed": 412,
       "gamesWon": 157,
-      "streak": 30
+      "streak": 1
     },
     {
       "name": "zahcy",
@@ -101,12 +101,12 @@
     },
     {
       "name": "alexmesq",
-      "balance": 8394,
-      "totalEarned": 9394,
+      "balance": 8451,
+      "totalEarned": 9451,
       "totalSpent": 1000,
       "gamesPlayed": 2,
       "gamesWon": 0,
-      "streak": 16
+      "streak": 1
     },
     {
       "name": "5pray",
@@ -281,12 +281,12 @@
     },
     {
       "name": "nas_3",
-      "balance": 5020,
-      "totalEarned": 5040,
+      "balance": 5079,
+      "totalEarned": 5099,
       "totalSpent": 20,
       "gamesPlayed": 2,
       "gamesWon": 1,
-      "streak": 3
+      "streak": 1
     },
     {
       "name": "lena_xc",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1088,
-    "totalCirculating": 1077882,
+    "totalCirculating": 1078633,
     "totalGames": 7568,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-03-29T06:30:51.941Z"
+  "lastUpdated": "2026-04-01T14:27:08.600Z"
 }

@@ -1,7 +1,7 @@
 {
-  "totalSessions": 54,
-  "totalDays": 44,
-  "totalSegments": 2039,
+  "totalSessions": 55,
+  "totalDays": 45,
+  "totalSegments": 2040,
   "allTimePeak": 903,
   "allTimeAvg": 629,
   "totalMessages": 422836,
@@ -178,7 +178,7 @@
       "name": "Just Chatting",
       "avgViewers": 601,
       "peakViewers": 903,
-      "sampleCount": 861,
+      "sampleCount": 862,
       "totalMsgs": 186909
     },
     {
@@ -264,7 +264,7 @@
     },
     "14": {
       "avgViewers": 351,
-      "sampleCount": 116,
+      "sampleCount": 117,
       "totalMsgs": 18055
     },
     "15": {
@@ -314,19 +314,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-16",
-      "avgViewers": 646,
-      "peakViewers": 772,
-      "totalMsgs": 10718,
-      "categories": [
-        "Just Chatting",
-        "ARC Raiders",
-        "Minecraft",
-        "VALORANT",
-        "Counter-Strike 2"
-      ]
-    },
     {
       "date": "2026-03-17",
       "avgViewers": 342,
@@ -493,8 +480,17 @@
       "categories": [
         "Movierooms"
       ]
+    },
+    {
+      "date": "2026-04-01",
+      "avgViewers": 357,
+      "peakViewers": 357,
+      "totalMsgs": 0,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
-  "botStartedAt": "2026-03-25T20:00:51.343Z",
-  "lastUpdated": "2026-03-29T06:30:51.934Z"
+  "botStartedAt": "2026-04-01T14:26:08.266Z",
+  "lastUpdated": "2026-04-01T14:27:08.595Z"
 }
