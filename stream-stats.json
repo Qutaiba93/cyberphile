@@ -1,10 +1,10 @@
 {
   "totalSessions": 55,
   "totalDays": 45,
-  "totalSegments": 2072,
+  "totalSegments": 2075,
   "allTimePeak": 903,
   "allTimeAvg": 627,
-  "totalMessages": 428117,
+  "totalMessages": 428468,
   "categories": [
     {
       "name": "VRChat",
@@ -84,18 +84,18 @@
       "totalMsgs": 225
     },
     {
-      "name": "Counter-Strike 2",
-      "avgViewers": 662,
-      "peakViewers": 841,
-      "sampleCount": 165,
-      "totalMsgs": 29162
-    },
-    {
       "name": "Call of Duty: Black Ops II",
       "avgViewers": 660,
       "peakViewers": 725,
       "sampleCount": 30,
       "totalMsgs": 4208
+    },
+    {
+      "name": "Counter-Strike 2",
+      "avgViewers": 660,
+      "peakViewers": 841,
+      "sampleCount": 168,
+      "totalMsgs": 29513
     },
     {
       "name": "ARC Raiders",
@@ -288,14 +288,14 @@
       "totalMsgs": 54182
     },
     "19": {
-      "avgViewers": 720,
-      "sampleCount": 221,
-      "totalMsgs": 52216
+      "avgViewers": 719,
+      "sampleCount": 222,
+      "totalMsgs": 52319
     },
     "20": {
-      "avgViewers": 696,
-      "sampleCount": 213,
-      "totalMsgs": 50260
+      "avgViewers": 694,
+      "sampleCount": 215,
+      "totalMsgs": 50508
     },
     "21": {
       "avgViewers": 698,
@@ -483,9 +483,9 @@
     },
     {
       "date": "2026-04-01",
-      "avgViewers": 502,
+      "avgViewers": 503,
       "peakViewers": 571,
-      "totalMsgs": 5281,
+      "totalMsgs": 5632,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -495,5 +495,5 @@
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-01T19:56:08.557Z"
+  "lastUpdated": "2026-04-01T20:26:08.607Z"
 }
