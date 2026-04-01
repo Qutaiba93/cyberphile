@@ -1,10 +1,10 @@
 {
   "totalSessions": 55,
   "totalDays": 45,
-  "totalSegments": 2048,
+  "totalSegments": 2051,
   "allTimePeak": 903,
   "allTimeAvg": 628,
-  "totalMessages": 424238,
+  "totalMessages": 424864,
   "categories": [
     {
       "name": "VRChat",
@@ -29,10 +29,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 745,
+      "avgViewers": 742,
       "peakViewers": 902,
-      "sampleCount": 178,
-      "totalMsgs": 42463
+      "sampleCount": 181,
+      "totalMsgs": 43089
     },
     {
       "name": "Songbattle.io",
@@ -269,13 +269,13 @@
     },
     "15": {
       "avgViewers": 511,
-      "sampleCount": 193,
-      "totalMsgs": 36335
+      "sampleCount": 194,
+      "totalMsgs": 36521
     },
     "16": {
       "avgViewers": 621,
-      "sampleCount": 205,
-      "totalMsgs": 44225
+      "sampleCount": 207,
+      "totalMsgs": 44665
     },
     "17": {
       "avgViewers": 681,
@@ -483,14 +483,15 @@
     },
     {
       "date": "2026-04-01",
-      "avgViewers": 436,
-      "peakViewers": 498,
-      "totalMsgs": 1402,
+      "avgViewers": 464,
+      "peakViewers": 561,
+      "totalMsgs": 2028,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-01T15:56:08.634Z"
+  "lastUpdated": "2026-04-01T16:26:08.552Z"
 }
