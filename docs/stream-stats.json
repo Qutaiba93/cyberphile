@@ -1,10 +1,10 @@
 {
   "totalSessions": 55,
   "totalDays": 45,
-  "totalSegments": 2069,
+  "totalSegments": 2072,
   "allTimePeak": 903,
   "allTimeAvg": 627,
-  "totalMessages": 427627,
+  "totalMessages": 428117,
   "categories": [
     {
       "name": "VRChat",
@@ -77,18 +77,18 @@
       "totalMsgs": 10155
     },
     {
-      "name": "Counter-Strike 2",
-      "avgViewers": 664,
-      "peakViewers": 841,
-      "sampleCount": 162,
-      "totalMsgs": 28672
-    },
-    {
       "name": "The Empty Eyes",
       "avgViewers": 663,
       "peakViewers": 677,
       "sampleCount": 3,
       "totalMsgs": 225
+    },
+    {
+      "name": "Counter-Strike 2",
+      "avgViewers": 662,
+      "peakViewers": 841,
+      "sampleCount": 165,
+      "totalMsgs": 29162
     },
     {
       "name": "Call of Duty: Black Ops II",
@@ -288,9 +288,9 @@
       "totalMsgs": 54182
     },
     "19": {
-      "avgViewers": 723,
-      "sampleCount": 218,
-      "totalMsgs": 51726
+      "avgViewers": 720,
+      "sampleCount": 221,
+      "totalMsgs": 52216
     },
     "20": {
       "avgViewers": 696,
@@ -483,9 +483,9 @@
     },
     {
       "date": "2026-04-01",
-      "avgViewers": 497,
+      "avgViewers": 502,
       "peakViewers": 571,
-      "totalMsgs": 4791,
+      "totalMsgs": 5281,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -495,5 +495,5 @@
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-01T19:26:08.556Z"
+  "lastUpdated": "2026-04-01T19:56:08.557Z"
 }
