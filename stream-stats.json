@@ -1,10 +1,10 @@
 {
   "totalSessions": 55,
   "totalDays": 45,
-  "totalSegments": 2087,
+  "totalSegments": 2090,
   "allTimePeak": 903,
   "allTimeAvg": 626,
-  "totalMessages": 430655,
+  "totalMessages": 431278,
   "categories": [
     {
       "name": "VRChat",
@@ -29,10 +29,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 737,
+      "avgViewers": 735,
       "peakViewers": 902,
-      "sampleCount": 185,
-      "totalMsgs": 43928
+      "sampleCount": 187,
+      "totalMsgs": 44334
     },
     {
       "name": "Songbattle.io",
@@ -185,8 +185,8 @@
       "name": "Just Chatting",
       "avgViewers": 599,
       "peakViewers": 903,
-      "sampleCount": 876,
-      "totalMsgs": 189459
+      "sampleCount": 877,
+      "totalMsgs": 189676
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -303,9 +303,9 @@
       "totalMsgs": 45220
     },
     "22": {
-      "avgViewers": 685,
-      "sampleCount": 160,
-      "totalMsgs": 35239
+      "avgViewers": 682,
+      "sampleCount": 163,
+      "totalMsgs": 35862
     },
     "23": {
       "avgViewers": 656,
@@ -483,9 +483,9 @@
     },
     {
       "date": "2026-04-01",
-      "avgViewers": 503,
+      "avgViewers": 505,
       "peakViewers": 571,
-      "totalMsgs": 7819,
+      "totalMsgs": 8442,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -495,5 +495,5 @@
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-01T22:26:08.604Z"
+  "lastUpdated": "2026-04-01T22:56:08.607Z"
 }
