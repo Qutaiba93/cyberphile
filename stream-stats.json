@@ -1,10 +1,10 @@
 {
   "totalSessions": 57,
   "totalDays": 46,
-  "totalSegments": 2131,
+  "totalSegments": 2134,
   "allTimePeak": 903,
   "allTimeAvg": 622,
-  "totalMessages": 435455,
+  "totalMessages": 436099,
   "categories": [
     {
       "name": "VRChat",
@@ -183,17 +183,17 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 597,
+      "avgViewers": 598,
       "peakViewers": 903,
-      "sampleCount": 884,
-      "totalMsgs": 190671
+      "sampleCount": 886,
+      "totalMsgs": 191041
     },
     {
       "name": "Call of Duty: Black Ops",
-      "avgViewers": 570,
-      "peakViewers": 695,
-      "sampleCount": 27,
-      "totalMsgs": 4385
+      "avgViewers": 575,
+      "peakViewers": 719,
+      "sampleCount": 28,
+      "totalMsgs": 4659
     },
     {
       "name": "Backrooms",
@@ -301,8 +301,8 @@
     },
     "20": {
       "avgViewers": 691,
-      "sampleCount": 221,
-      "totalMsgs": 51695
+      "sampleCount": 224,
+      "totalMsgs": 52339
     },
     "21": {
       "avgViewers": 691,
@@ -493,15 +493,16 @@
     },
     {
       "date": "2026-04-02",
-      "avgViewers": 326,
-      "peakViewers": 703,
-      "totalMsgs": 1557,
+      "avgViewers": 383,
+      "peakViewers": 734,
+      "totalMsgs": 2201,
       "categories": [
         "Movierooms",
-        "Just Chatting"
+        "Just Chatting",
+        "Call of Duty: Black Ops"
       ]
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-02T20:26:08.645Z"
+  "lastUpdated": "2026-04-02T20:56:08.643Z"
 }
