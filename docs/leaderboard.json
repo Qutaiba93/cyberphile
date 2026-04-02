@@ -56,8 +56,8 @@
     },
     {
       "name": "taboxl",
-      "balance": 10097,
-      "totalEarned": 12465,
+      "balance": 10099,
+      "totalEarned": 12467,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
@@ -137,8 +137,8 @@
     },
     {
       "name": "ambizine",
-      "balance": 7236,
-      "totalEarned": 26345,
+      "balance": 7246,
+      "totalEarned": 26355,
       "totalSpent": 19109,
       "gamesPlayed": 75,
       "gamesWon": 27,
@@ -173,8 +173,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 6778,
-      "totalEarned": 6778,
+      "balance": 6810,
+      "totalEarned": 6810,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -218,8 +218,8 @@
     },
     {
       "name": "papaah",
-      "balance": 6227,
-      "totalEarned": 6227,
+      "balance": 6249,
+      "totalEarned": 6249,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -326,8 +326,8 @@
     },
     {
       "name": "neincs",
-      "balance": 4979,
-      "totalEarned": 4979,
+      "balance": 4989,
+      "totalEarned": 4989,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -442,18 +442,18 @@
       "streak": 1
     },
     {
-      "name": "blu3zy",
-      "balance": 3999,
-      "totalEarned": 3999,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
+      "name": "kale96",
+      "balance": 4014,
+      "totalEarned": 10564,
+      "totalSpent": 6550,
+      "gamesPlayed": 6,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     }
   ],
   "stats": {
-    "totalPlayers": 1143,
-    "totalCirculating": 1109469,
+    "totalPlayers": 1144,
+    "totalCirculating": 1110096,
     "totalGames": 7659,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-02T03:56:08.617Z"
+  "lastUpdated": "2026-04-02T04:26:08.621Z"
 }
