@@ -1,10 +1,10 @@
 {
   "totalSessions": 55,
   "totalDays": 45,
-  "totalSegments": 2108,
+  "totalSegments": 2111,
   "allTimePeak": 903,
-  "allTimeAvg": 625,
-  "totalMessages": 433007,
+  "allTimeAvg": 624,
+  "totalMessages": 433673,
   "categories": [
     {
       "name": "VRChat",
@@ -98,18 +98,18 @@
       "totalMsgs": 6722
     },
     {
-      "name": "Counter-Strike 2",
-      "avgViewers": 643,
-      "peakViewers": 841,
-      "sampleCount": 187,
-      "totalMsgs": 31722
-    },
-    {
       "name": "VALORANT",
       "avgViewers": 642,
       "peakViewers": 769,
       "sampleCount": 90,
       "totalMsgs": 16690
+    },
+    {
+      "name": "Counter-Strike 2",
+      "avgViewers": 641,
+      "peakViewers": 841,
+      "sampleCount": 190,
+      "totalMsgs": 32388
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -246,13 +246,13 @@
     },
     "1": {
       "avgViewers": 477,
-      "sampleCount": 52,
-      "totalMsgs": 8772
+      "sampleCount": 53,
+      "totalMsgs": 8859
     },
     "2": {
       "avgViewers": 458,
-      "sampleCount": 29,
-      "totalMsgs": 3314
+      "sampleCount": 31,
+      "totalMsgs": 3893
     },
     "3": {
       "avgViewers": 299,
@@ -490,9 +490,9 @@
     },
     {
       "date": "2026-04-01",
-      "avgViewers": 498,
+      "avgViewers": 496,
       "peakViewers": 571,
-      "totalMsgs": 10171,
+      "totalMsgs": 10837,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -503,5 +503,5 @@
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-02T01:56:08.606Z"
+  "lastUpdated": "2026-04-02T02:26:08.610Z"
 }
