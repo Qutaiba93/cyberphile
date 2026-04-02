@@ -1,10 +1,10 @@
 {
   "totalSessions": 57,
   "totalDays": 46,
-  "totalSegments": 2143,
+  "totalSegments": 2146,
   "allTimePeak": 903,
   "allTimeAvg": 622,
-  "totalMessages": 437115,
+  "totalMessages": 437427,
   "categories": [
     {
       "name": "VRChat",
@@ -40,6 +40,13 @@
       "peakViewers": 734,
       "sampleCount": 4,
       "totalMsgs": 1148
+    },
+    {
+      "name": "Try to Drive",
+      "avgViewers": 712,
+      "peakViewers": 720,
+      "sampleCount": 2,
+      "totalMsgs": 165
     },
     {
       "name": "Trash Horror Collection",
@@ -99,10 +106,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 646,
+      "avgViewers": 647,
       "peakViewers": 769,
-      "sampleCount": 94,
-      "totalMsgs": 17180
+      "sampleCount": 95,
+      "totalMsgs": 17327
     },
     {
       "name": "Counter-Strike 2",
@@ -311,8 +318,8 @@
     },
     "22": {
       "avgViewers": 682,
-      "sampleCount": 166,
-      "totalMsgs": 36242
+      "sampleCount": 169,
+      "totalMsgs": 36554
     },
     "23": {
       "avgViewers": 643,
@@ -493,17 +500,18 @@
     },
     {
       "date": "2026-04-02",
-      "avgViewers": 482,
-      "peakViewers": 746,
-      "totalMsgs": 3217,
+      "avgViewers": 504,
+      "peakViewers": 748,
+      "totalMsgs": 3529,
       "categories": [
         "Movierooms",
         "Just Chatting",
         "Call of Duty: Black Ops",
-        "VALORANT"
+        "VALORANT",
+        "Try to Drive"
       ]
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-02T22:26:08.646Z"
+  "lastUpdated": "2026-04-02T22:56:08.649Z"
 }
