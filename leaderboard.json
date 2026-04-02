@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 40111,
-      "totalEarned": 829437,
+      "balance": 40173,
+      "totalEarned": 829499,
       "totalSpent": 870835,
       "gamesPlayed": 419,
       "gamesWon": 158,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "zahcy",
@@ -118,13 +118,22 @@
       "streak": 1
     },
     {
+      "name": "ambizine",
+      "balance": 7762,
+      "totalEarned": 27371,
+      "totalSpent": 19609,
+      "gamesPlayed": 76,
+      "gamesWon": 28,
+      "streak": 2
+    },
+    {
       "name": "kooooool",
-      "balance": 7416,
-      "totalEarned": 24516,
-      "totalSpent": 17100,
-      "gamesPlayed": 12,
-      "gamesWon": 4,
-      "streak": 1
+      "balance": 7505,
+      "totalEarned": 24630,
+      "totalSpent": 17125,
+      "gamesPlayed": 13,
+      "gamesWon": 5,
+      "streak": 2
     },
     {
       "name": "muzlamic",
@@ -133,15 +142,6 @@
       "totalSpent": 850,
       "gamesPlayed": 82,
       "gamesWon": 31,
-      "streak": 2
-    },
-    {
-      "name": "ambizine",
-      "balance": 7256,
-      "totalEarned": 26365,
-      "totalSpent": 19109,
-      "gamesPlayed": 75,
-      "gamesWon": 27,
       "streak": 2
     },
     {
@@ -155,8 +155,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 7003,
-      "totalEarned": 9068,
+      "balance": 7005,
+      "totalEarned": 9070,
       "totalSpent": 2065,
       "gamesPlayed": 21,
       "gamesWon": 5,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1145,
-    "totalCirculating": 1111041,
-    "totalGames": 7659,
+    "totalCirculating": 1111766,
+    "totalGames": 7661,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-02T18:26:08.641Z"
+  "lastUpdated": "2026-04-02T18:56:08.642Z"
 }
