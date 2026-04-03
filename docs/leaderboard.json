@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 40203,
-      "totalEarned": 829529,
+      "balance": 40274,
+      "totalEarned": 829600,
       "totalSpent": 870835,
       "gamesPlayed": 419,
       "gamesWon": 158,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "zahcy",
@@ -83,8 +83,8 @@
     },
     {
       "name": "plebcentral",
-      "balance": 9668,
-      "totalEarned": 16668,
+      "balance": 9676,
+      "totalEarned": 16676,
       "totalSpent": 7000,
       "gamesPlayed": 2,
       "gamesWon": 1,
@@ -128,12 +128,12 @@
     },
     {
       "name": "kooooool",
-      "balance": 7537,
-      "totalEarned": 24662,
+      "balance": 7608,
+      "totalEarned": 24733,
       "totalSpent": 17125,
       "gamesPlayed": 13,
       "gamesWon": 5,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "muzlamic",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1154,
-    "totalCirculating": 1136382,
+    "totalCirculating": 1136538,
     "totalGames": 7699,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-03T16:26:08.733Z"
+  "lastUpdated": "2026-04-03T16:56:08.735Z"
 }
