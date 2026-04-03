@@ -1,10 +1,10 @@
 {
-  "totalSessions": 57,
-  "totalDays": 46,
-  "totalSegments": 2148,
+  "totalSessions": 58,
+  "totalDays": 47,
+  "totalSegments": 2149,
   "allTimePeak": 903,
-  "allTimeAvg": 623,
-  "totalMessages": 437696,
+  "allTimeAvg": 622,
+  "totalMessages": 437772,
   "categories": [
     {
       "name": "VRChat",
@@ -40,13 +40,6 @@
       "peakViewers": 734,
       "sampleCount": 4,
       "totalMsgs": 1148
-    },
-    {
-      "name": "Try to Drive",
-      "avgViewers": 705,
-      "peakViewers": 720,
-      "sampleCount": 4,
-      "totalMsgs": 434
     },
     {
       "name": "Trash Horror Collection",
@@ -182,6 +175,13 @@
       "totalMsgs": 352
     },
     {
+      "name": "Try to Drive",
+      "avgViewers": 603,
+      "peakViewers": 720,
+      "sampleCount": 5,
+      "totalMsgs": 510
+    },
+    {
       "name": "Call of Duty: Modern Warfare 2",
       "avgViewers": 601,
       "peakViewers": 652,
@@ -302,9 +302,9 @@
       "totalMsgs": 54182
     },
     "19": {
-      "avgViewers": 714,
-      "sampleCount": 225,
-      "totalMsgs": 52668
+      "avgViewers": 712,
+      "sampleCount": 226,
+      "totalMsgs": 52744
     },
     "20": {
       "avgViewers": 691,
@@ -328,18 +328,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-18",
-      "avgViewers": 618,
-      "peakViewers": 721,
-      "totalMsgs": 7886,
-      "categories": [
-        "Just Chatting",
-        "VALORANT",
-        "Counter-Strike 2",
-        "ARC Raiders"
-      ]
-    },
     {
       "date": "2026-03-19",
       "avgViewers": 687,
@@ -510,8 +498,17 @@
         "VALORANT",
         "Try to Drive"
       ]
+    },
+    {
+      "date": "2026-04-03",
+      "avgViewers": 197,
+      "peakViewers": 197,
+      "totalMsgs": 76,
+      "categories": [
+        "Try to Drive"
+      ]
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-03T19:26:08.740Z"
+  "lastUpdated": "2026-04-03T19:56:08.739Z"
 }
