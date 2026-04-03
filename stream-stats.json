@@ -1,10 +1,10 @@
 {
   "totalSessions": 58,
   "totalDays": 47,
-  "totalSegments": 2155,
+  "totalSegments": 2158,
   "allTimePeak": 903,
-  "allTimeAvg": 622,
-  "totalMessages": 438906,
+  "allTimeAvg": 623,
+  "totalMessages": 439624,
   "categories": [
     {
       "name": "VRChat",
@@ -29,10 +29,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 733,
+      "avgViewers": 734,
       "peakViewers": 902,
-      "sampleCount": 192,
-      "totalMsgs": 45300
+      "sampleCount": 195,
+      "totalMsgs": 46018
     },
     {
       "name": "Songbattle.io",
@@ -308,13 +308,13 @@
     },
     "20": {
       "avgViewers": 691,
-      "sampleCount": 230,
-      "totalMsgs": 53409
+      "sampleCount": 231,
+      "totalMsgs": 53635
     },
     "21": {
-      "avgViewers": 692,
-      "sampleCount": 220,
-      "totalMsgs": 45920
+      "avgViewers": 693,
+      "sampleCount": 222,
+      "totalMsgs": 46412
     },
     "22": {
       "avgViewers": 682,
@@ -501,9 +501,9 @@
     },
     {
       "date": "2026-04-03",
-      "avgViewers": 551,
+      "avgViewers": 619,
       "peakViewers": 797,
-      "totalMsgs": 1210,
+      "totalMsgs": 1928,
       "categories": [
         "Try to Drive",
         "Chat Roulette"
@@ -511,5 +511,5 @@
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-03T20:56:08.741Z"
+  "lastUpdated": "2026-04-03T21:26:08.740Z"
 }
