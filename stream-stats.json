@@ -1,10 +1,10 @@
 {
   "totalSessions": 58,
   "totalDays": 47,
-  "totalSegments": 2149,
+  "totalSegments": 2152,
   "allTimePeak": 903,
   "allTimeAvg": 622,
-  "totalMessages": 437772,
+  "totalMessages": 438303,
   "categories": [
     {
       "name": "VRChat",
@@ -29,10 +29,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 735,
+      "avgViewers": 733,
       "peakViewers": 902,
-      "sampleCount": 187,
-      "totalMsgs": 44334
+      "sampleCount": 189,
+      "totalMsgs": 44697
     },
     {
       "name": "Songbattle.io",
@@ -175,13 +175,6 @@
       "totalMsgs": 352
     },
     {
-      "name": "Try to Drive",
-      "avgViewers": 603,
-      "peakViewers": 720,
-      "sampleCount": 5,
-      "totalMsgs": 510
-    },
-    {
       "name": "Call of Duty: Modern Warfare 2",
       "avgViewers": 601,
       "peakViewers": 652,
@@ -208,6 +201,13 @@
       "peakViewers": 623,
       "sampleCount": 11,
       "totalMsgs": 1003
+    },
+    {
+      "name": "Try to Drive",
+      "avgViewers": 562,
+      "peakViewers": 720,
+      "sampleCount": 6,
+      "totalMsgs": 678
     },
     {
       "name": "God of War Ragnarök",
@@ -302,14 +302,14 @@
       "totalMsgs": 54182
     },
     "19": {
-      "avgViewers": 712,
-      "sampleCount": 226,
-      "totalMsgs": 52744
+      "avgViewers": 711,
+      "sampleCount": 227,
+      "totalMsgs": 52912
     },
     "20": {
-      "avgViewers": 691,
-      "sampleCount": 225,
-      "totalMsgs": 52443
+      "avgViewers": 690,
+      "sampleCount": 227,
+      "totalMsgs": 52806
     },
     "21": {
       "avgViewers": 692,
@@ -501,14 +501,15 @@
     },
     {
       "date": "2026-04-03",
-      "avgViewers": 197,
-      "peakViewers": 197,
-      "totalMsgs": 76,
+      "avgViewers": 406,
+      "peakViewers": 596,
+      "totalMsgs": 607,
       "categories": [
-        "Try to Drive"
+        "Try to Drive",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-03T19:56:08.739Z"
+  "lastUpdated": "2026-04-03T20:26:08.744Z"
 }
