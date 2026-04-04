@@ -1,10 +1,10 @@
 {
   "totalSessions": 59,
   "totalDays": 48,
-  "totalSegments": 2221,
+  "totalSegments": 2224,
   "allTimePeak": 903,
   "allTimeAvg": 623,
-  "totalMessages": 451908,
+  "totalMessages": 452647,
   "categories": [
     {
       "name": "VRChat",
@@ -52,8 +52,8 @@
       "name": "IRL",
       "avgViewers": 696,
       "peakViewers": 843,
-      "sampleCount": 101,
-      "totalMsgs": 35695
+      "sampleCount": 102,
+      "totalMsgs": 35908
     },
     {
       "name": "Grand Theft Auto V (GTA)",
@@ -178,8 +178,8 @@
       "name": "Just Chatting",
       "avgViewers": 596,
       "peakViewers": 903,
-      "sampleCount": 900,
-      "totalMsgs": 194201
+      "sampleCount": 902,
+      "totalMsgs": 194727
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -298,8 +298,8 @@
     },
     "18": {
       "avgViewers": 699,
-      "sampleCount": 227,
-      "totalMsgs": 54813
+      "sampleCount": 230,
+      "totalMsgs": 55552
     },
     "19": {
       "avgViewers": 711,
@@ -498,9 +498,9 @@
     },
     {
       "date": "2026-04-04",
-      "avgViewers": 577,
+      "avgViewers": 592,
       "peakViewers": 755,
-      "totalMsgs": 6031,
+      "totalMsgs": 6770,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -509,5 +509,5 @@
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-04T18:26:08.780Z"
+  "lastUpdated": "2026-04-04T18:56:08.781Z"
 }
