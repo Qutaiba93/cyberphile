@@ -1,10 +1,10 @@
 {
   "totalSessions": 59,
   "totalDays": 48,
-  "totalSegments": 2242,
+  "totalSegments": 2245,
   "allTimePeak": 903,
   "allTimeAvg": 623,
-  "totalMessages": 457799,
+  "totalMessages": 458305,
   "categories": [
     {
       "name": "VRChat",
@@ -178,8 +178,8 @@
       "name": "Just Chatting",
       "avgViewers": 598,
       "peakViewers": 903,
-      "sampleCount": 915,
-      "totalMsgs": 198363
+      "sampleCount": 918,
+      "totalMsgs": 198869
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -313,13 +313,13 @@
     },
     "21": {
       "avgViewers": 693,
-      "sampleCount": 231,
-      "totalMsgs": 48320
+      "sampleCount": 232,
+      "totalMsgs": 48531
     },
     "22": {
       "avgViewers": 684,
-      "sampleCount": 176,
-      "totalMsgs": 37953
+      "sampleCount": 178,
+      "totalMsgs": 38248
     },
     "23": {
       "avgViewers": 648,
@@ -498,9 +498,9 @@
     },
     {
       "date": "2026-04-04",
-      "avgViewers": 625,
+      "avgViewers": 628,
       "peakViewers": 755,
-      "totalMsgs": 11922,
+      "totalMsgs": 12428,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -510,5 +510,5 @@
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-04T21:49:55.870Z"
+  "lastUpdated": "2026-04-04T22:19:55.869Z"
 }
