@@ -1,10 +1,10 @@
 {
   "totalSessions": 58,
   "totalDays": 47,
-  "totalSegments": 2185,
+  "totalSegments": 2188,
   "allTimePeak": 903,
   "allTimeAvg": 623,
-  "totalMessages": 444692,
+  "totalMessages": 445127,
   "categories": [
     {
       "name": "VRChat",
@@ -133,13 +133,6 @@
       "totalMsgs": 602
     },
     {
-      "name": "PUBG: Battlegrounds",
-      "avgViewers": 625,
-      "peakViewers": 698,
-      "sampleCount": 6,
-      "totalMsgs": 1029
-    },
-    {
       "name": "Rocket League",
       "avgViewers": 623,
       "peakViewers": 756,
@@ -166,6 +159,13 @@
       "peakViewers": 729,
       "sampleCount": 54,
       "totalMsgs": 10639
+    },
+    {
+      "name": "PUBG: Battlegrounds",
+      "avgViewers": 611,
+      "peakViewers": 698,
+      "sampleCount": 9,
+      "totalMsgs": 1464
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -252,14 +252,14 @@
       "totalMsgs": 11775
     },
     "1": {
-      "avgViewers": 487,
-      "sampleCount": 58,
-      "totalMsgs": 9594
+      "avgViewers": 489,
+      "sampleCount": 59,
+      "totalMsgs": 9695
     },
     "2": {
-      "avgViewers": 438,
-      "sampleCount": 35,
-      "totalMsgs": 4260
+      "avgViewers": 446,
+      "sampleCount": 37,
+      "totalMsgs": 4594
     },
     "3": {
       "avgViewers": 290,
@@ -501,9 +501,9 @@
     },
     {
       "date": "2026-04-03",
-      "avgViewers": 674,
+      "avgViewers": 667,
       "peakViewers": 797,
-      "totalMsgs": 6996,
+      "totalMsgs": 7431,
       "categories": [
         "Try to Drive",
         "Chat Roulette",
@@ -513,5 +513,5 @@
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-04T01:56:08.752Z"
+  "lastUpdated": "2026-04-04T02:26:08.754Z"
 }
