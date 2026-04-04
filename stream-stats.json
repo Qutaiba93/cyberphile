@@ -1,10 +1,10 @@
 {
   "totalSessions": 58,
   "totalDays": 47,
-  "totalSegments": 2194,
+  "totalSegments": 2197,
   "allTimePeak": 903,
   "allTimeAvg": 623,
-  "totalMessages": 445630,
+  "totalMessages": 445877,
   "categories": [
     {
       "name": "VRChat",
@@ -182,18 +182,18 @@
       "totalMsgs": 191239
     },
     {
-      "name": "PUBG: Battlegrounds",
-      "avgViewers": 593,
-      "peakViewers": 698,
-      "sampleCount": 15,
-      "totalMsgs": 1967
-    },
-    {
       "name": "Call of Duty: Black Ops",
       "avgViewers": 585,
       "peakViewers": 719,
       "sampleCount": 31,
       "totalMsgs": 4987
+    },
+    {
+      "name": "PUBG: Battlegrounds",
+      "avgViewers": 578,
+      "peakViewers": 698,
+      "sampleCount": 18,
+      "totalMsgs": 2214
     },
     {
       "name": "Backrooms",
@@ -262,9 +262,9 @@
       "totalMsgs": 4923
     },
     "3": {
-      "avgViewers": 319,
-      "sampleCount": 18,
-      "totalMsgs": 1357
+      "avgViewers": 345,
+      "sampleCount": 21,
+      "totalMsgs": 1604
     },
     "4": {
       "avgViewers": 270,
@@ -501,9 +501,9 @@
     },
     {
       "date": "2026-04-03",
-      "avgViewers": 654,
+      "avgViewers": 645,
       "peakViewers": 797,
-      "totalMsgs": 7934,
+      "totalMsgs": 8181,
       "categories": [
         "Try to Drive",
         "Chat Roulette",
@@ -513,5 +513,5 @@
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-04T03:26:08.753Z"
+  "lastUpdated": "2026-04-04T03:56:08.753Z"
 }

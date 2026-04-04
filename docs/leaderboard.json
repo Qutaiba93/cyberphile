@@ -83,8 +83,8 @@
     },
     {
       "name": "furrreal",
-      "balance": 9919,
-      "totalEarned": 13419,
+      "balance": 9927,
+      "totalEarned": 13427,
       "totalSpent": 3500,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -236,8 +236,8 @@
     },
     {
       "name": "xfaisalz1",
-      "balance": 5851,
-      "totalEarned": 49162,
+      "balance": 5861,
+      "totalEarned": 49172,
       "totalSpent": 44480,
       "gamesPlayed": 463,
       "gamesWon": 170,
@@ -344,8 +344,17 @@
     },
     {
       "name": "darth70",
-      "balance": 5166,
-      "totalEarned": 5166,
+      "balance": 5170,
+      "totalEarned": 5170,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 4
+    },
+    {
+      "name": "chrisdonwest",
+      "balance": 5119,
+      "totalEarned": 5119,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -359,15 +368,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "chrisdonwest",
-      "balance": 5043,
-      "totalEarned": 5043,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 4
     },
     {
       "name": "confusion",
@@ -425,8 +425,8 @@
     },
     {
       "name": "kale96",
-      "balance": 4489,
-      "totalEarned": 11039,
+      "balance": 4513,
+      "totalEarned": 11063,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1189,
-    "totalCirculating": 1169644,
+    "totalPlayers": 1191,
+    "totalCirculating": 1170583,
     "totalGames": 7776,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-04T03:26:08.760Z"
+  "lastUpdated": "2026-04-04T03:56:08.759Z"
 }
