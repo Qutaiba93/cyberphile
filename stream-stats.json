@@ -1,10 +1,10 @@
 {
   "totalSessions": 58,
   "totalDays": 47,
-  "totalSegments": 2179,
+  "totalSegments": 2182,
   "allTimePeak": 903,
   "allTimeAvg": 623,
-  "totalMessages": 443861,
+  "totalMessages": 444202,
   "categories": [
     {
       "name": "VRChat",
@@ -63,13 +63,6 @@
       "totalMsgs": 33958
     },
     {
-      "name": "PUBG: Battlegrounds",
-      "avgViewers": 691,
-      "peakViewers": 698,
-      "sampleCount": 2,
-      "totalMsgs": 381
-    },
-    {
       "name": "Sea of Thieves",
       "avgViewers": 673,
       "peakViewers": 776,
@@ -91,6 +84,13 @@
       "totalMsgs": 4208
     },
     {
+      "name": "PUBG: Battlegrounds",
+      "avgViewers": 657,
+      "peakViewers": 698,
+      "sampleCount": 3,
+      "totalMsgs": 539
+    },
+    {
       "name": "ARC Raiders",
       "avgViewers": 653,
       "peakViewers": 716,
@@ -106,10 +106,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 645,
+      "avgViewers": 644,
       "peakViewers": 841,
-      "sampleCount": 209,
-      "totalMsgs": 36142
+      "sampleCount": 211,
+      "totalMsgs": 36325
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -247,14 +247,14 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 572,
-      "sampleCount": 81,
-      "totalMsgs": 11679
+      "avgViewers": 573,
+      "sampleCount": 82,
+      "totalMsgs": 11775
     },
     "1": {
-      "avgViewers": 477,
-      "sampleCount": 53,
-      "totalMsgs": 8859
+      "avgViewers": 482,
+      "sampleCount": 55,
+      "totalMsgs": 9104
     },
     "2": {
       "avgViewers": 438,
@@ -501,16 +501,17 @@
     },
     {
       "date": "2026-04-03",
-      "avgViewers": 689,
+      "avgViewers": 681,
       "peakViewers": 797,
-      "totalMsgs": 6165,
+      "totalMsgs": 6506,
       "categories": [
         "Try to Drive",
         "Chat Roulette",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "PUBG: Battlegrounds"
       ]
     }
   ],
   "botStartedAt": "2026-04-01T14:26:08.266Z",
-  "lastUpdated": "2026-04-04T00:56:08.748Z"
+  "lastUpdated": "2026-04-04T01:26:08.749Z"
 }
