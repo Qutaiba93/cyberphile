@@ -1,10 +1,10 @@
 {
   "totalSessions": 59,
   "totalDays": 48,
-  "totalSegments": 2245,
+  "totalSegments": 2248,
   "allTimePeak": 903,
   "allTimeAvg": 623,
-  "totalMessages": 458305,
+  "totalMessages": 458959,
   "categories": [
     {
       "name": "VRChat",
@@ -31,8 +31,8 @@
       "name": "Chat Roulette",
       "avgViewers": 734,
       "peakViewers": 902,
-      "sampleCount": 199,
-      "totalMsgs": 46726
+      "sampleCount": 202,
+      "totalMsgs": 47380
     },
     {
       "name": "Songbattle.io",
@@ -318,8 +318,8 @@
     },
     "22": {
       "avgViewers": 684,
-      "sampleCount": 178,
-      "totalMsgs": 38248
+      "sampleCount": 181,
+      "totalMsgs": 38902
     },
     "23": {
       "avgViewers": 648,
@@ -498,17 +498,18 @@
     },
     {
       "date": "2026-04-04",
-      "avgViewers": 628,
+      "avgViewers": 633,
       "peakViewers": 755,
-      "totalMsgs": 12428,
+      "totalMsgs": 13082,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
         "IRL",
-        "Minecraft"
+        "Minecraft",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-04T22:19:55.869Z"
+  "lastUpdated": "2026-04-04T22:49:55.872Z"
 }
