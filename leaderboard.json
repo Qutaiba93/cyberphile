@@ -28,13 +28,22 @@
       "streak": 4
     },
     {
+      "name": "meliziana",
+      "balance": 17852,
+      "totalEarned": 73848,
+      "totalSpent": 55996,
+      "gamesPlayed": 243,
+      "gamesWon": 85,
+      "streak": 3
+    },
+    {
       "name": "plebcentral",
-      "balance": 13374,
-      "totalEarned": 30054,
+      "balance": 13446,
+      "totalEarned": 30126,
       "totalSpent": 16680,
       "gamesPlayed": 4,
       "gamesWon": 2,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "poseidon_o7",
@@ -73,15 +82,6 @@
       "streak": 4
     },
     {
-      "name": "meliziana",
-      "balance": 10002,
-      "totalEarned": 63798,
-      "totalSpent": 53796,
-      "gamesPlayed": 239,
-      "gamesWon": 85,
-      "streak": 3
-    },
-    {
       "name": "furrreal",
       "balance": 9927,
       "totalEarned": 13427,
@@ -101,8 +101,8 @@
     },
     {
       "name": "5pray",
-      "balance": 8998,
-      "totalEarned": 8998,
+      "balance": 9000,
+      "totalEarned": 9000,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -352,15 +352,6 @@
       "streak": 4
     },
     {
-      "name": "chrisdonwest",
-      "balance": 5119,
-      "totalEarned": 5119,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 4
-    },
-    {
       "name": "raphaellxo",
       "balance": 5051,
       "totalEarned": 5051,
@@ -449,12 +440,21 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 3
+    },
+    {
+      "name": "neinswein",
+      "balance": 4326,
+      "totalEarned": 360338,
+      "totalSpent": 358494,
+      "gamesPlayed": 124,
+      "gamesWon": 46,
+      "streak": 1
     }
   ],
   "stats": {
     "totalPlayers": 1191,
-    "totalCirculating": 1170857,
-    "totalGames": 7776,
+    "totalCirculating": 1174939,
+    "totalGames": 7791,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-04T13:56:08.783Z"
+  "lastUpdated": "2026-04-04T14:26:08.786Z"
 }
