@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 42667,
-      "totalEarned": 847993,
+      "balance": 42671,
+      "totalEarned": 847997,
       "totalSpent": 886835,
       "gamesPlayed": 424,
       "gamesWon": 160,
@@ -20,8 +20,8 @@
     },
     {
       "name": "zuyu",
-      "balance": 21436,
-      "totalEarned": 81329,
+      "balance": 21438,
+      "totalEarned": 81331,
       "totalSpent": 59893,
       "gamesPlayed": 36,
       "gamesWon": 14,
@@ -38,8 +38,8 @@
     },
     {
       "name": "poseidon_o7",
-      "balance": 12468,
-      "totalEarned": 12488,
+      "balance": 12480,
+      "totalEarned": 12500,
       "totalSpent": 20,
       "gamesPlayed": 2,
       "gamesWon": 0,
@@ -146,8 +146,8 @@
     },
     {
       "name": "machamp1",
-      "balance": 7451,
-      "totalEarned": 7676,
+      "balance": 7473,
+      "totalEarned": 7698,
       "totalSpent": 225,
       "gamesPlayed": 5,
       "gamesWon": 1,
@@ -155,8 +155,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 7163,
-      "totalEarned": 10228,
+      "balance": 7187,
+      "totalEarned": 10252,
       "totalSpent": 3065,
       "gamesPlayed": 24,
       "gamesWon": 5,
@@ -164,8 +164,8 @@
     },
     {
       "name": "schitt",
-      "balance": 7114,
-      "totalEarned": 7114,
+      "balance": 7118,
+      "totalEarned": 7118,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -209,8 +209,8 @@
     },
     {
       "name": "nas_3",
-      "balance": 6323,
-      "totalEarned": 6343,
+      "balance": 6357,
+      "totalEarned": 6377,
       "totalSpent": 20,
       "gamesPlayed": 2,
       "gamesWon": 1,
@@ -226,6 +226,15 @@
       "streak": 3
     },
     {
+      "name": "faisaluibi",
+      "balance": 6098,
+      "totalEarned": 8955,
+      "totalSpent": 2857,
+      "gamesPlayed": 3,
+      "gamesWon": 0,
+      "streak": 2
+    },
+    {
       "name": "chaser",
       "balance": 6095,
       "totalEarned": 10870,
@@ -233,15 +242,6 @@
       "gamesPlayed": 6,
       "gamesWon": 5,
       "streak": 1
-    },
-    {
-      "name": "faisaluibi",
-      "balance": 6092,
-      "totalEarned": 8949,
-      "totalSpent": 2857,
-      "gamesPlayed": 3,
-      "gamesWon": 0,
-      "streak": 2
     },
     {
       "name": "upkey",
@@ -254,8 +254,8 @@
     },
     {
       "name": "skullyontop",
-      "balance": 5955,
-      "totalEarned": 5965,
+      "balance": 5975,
+      "totalEarned": 5985,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 1,
@@ -317,8 +317,8 @@
     },
     {
       "name": "kooooool",
-      "balance": 5552,
-      "totalEarned": 31702,
+      "balance": 5554,
+      "totalEarned": 31704,
       "totalSpent": 26150,
       "gamesPlayed": 21,
       "gamesWon": 8,
@@ -344,8 +344,8 @@
     },
     {
       "name": "confusion",
-      "balance": 5046,
-      "totalEarned": 5561,
+      "balance": 5050,
+      "totalEarned": 5565,
       "totalSpent": 515,
       "gamesPlayed": 11,
       "gamesWon": 4,
@@ -362,8 +362,8 @@
     },
     {
       "name": "xx_i_garrem_deez_xx",
-      "balance": 4999,
-      "totalEarned": 4999,
+      "balance": 5009,
+      "totalEarned": 5009,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,8 +434,8 @@
     },
     {
       "name": "kingirnfist",
-      "balance": 4492,
-      "totalEarned": 19492,
+      "balance": 4526,
+      "totalEarned": 19526,
       "totalSpent": 15000,
       "gamesPlayed": 2,
       "gamesWon": 1,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1343,
-    "totalCirculating": 1222872,
+    "totalPlayers": 1345,
+    "totalCirculating": 1224429,
     "totalGames": 8076,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-05T19:19:56.002Z"
+  "lastUpdated": "2026-04-05T19:49:56.004Z"
 }
