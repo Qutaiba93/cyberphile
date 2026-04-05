@@ -1,10 +1,10 @@
 {
   "totalSessions": 60,
   "totalDays": 49,
-  "totalSegments": 2276,
+  "totalSegments": 2279,
   "allTimePeak": 903,
   "allTimeAvg": 623,
-  "totalMessages": 464073,
+  "totalMessages": 464598,
   "categories": [
     {
       "name": "VRChat",
@@ -99,10 +99,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 639,
+      "avgViewers": 641,
       "peakViewers": 769,
-      "sampleCount": 101,
-      "totalMsgs": 18358
+      "sampleCount": 104,
+      "totalMsgs": 18883
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -282,9 +282,9 @@
       "totalMsgs": 20289
     },
     "15": {
-      "avgViewers": 512,
-      "sampleCount": 202,
-      "totalMsgs": 38474
+      "avgViewers": 515,
+      "sampleCount": 205,
+      "totalMsgs": 38999
     },
     "16": {
       "avgViewers": 620,
@@ -498,9 +498,9 @@
     },
     {
       "date": "2026-04-05",
-      "avgViewers": 444,
-      "peakViewers": 652,
-      "totalMsgs": 2088,
+      "avgViewers": 494,
+      "peakViewers": 693,
+      "totalMsgs": 2613,
       "categories": [
         "Just Chatting",
         "VALORANT"
@@ -508,5 +508,5 @@
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-05T15:19:55.969Z"
+  "lastUpdated": "2026-04-05T15:49:55.981Z"
 }
