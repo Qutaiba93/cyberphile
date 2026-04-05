@@ -56,8 +56,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 11630,
-      "totalEarned": 11640,
+      "balance": 11638,
+      "totalEarned": 11648,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -65,8 +65,8 @@
     },
     {
       "name": "weppss",
-      "balance": 10904,
-      "totalEarned": 16799,
+      "balance": 10906,
+      "totalEarned": 16801,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -155,8 +155,8 @@
     },
     {
       "name": "machamp1",
-      "balance": 7325,
-      "totalEarned": 7550,
+      "balance": 7341,
+      "totalEarned": 7566,
       "totalSpent": 225,
       "gamesPlayed": 5,
       "gamesWon": 1,
@@ -182,8 +182,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 6935,
-      "totalEarned": 10000,
+      "balance": 6985,
+      "totalEarned": 10050,
       "totalSpent": 3065,
       "gamesPlayed": 24,
       "gamesWon": 5,
@@ -290,8 +290,17 @@
     },
     {
       "name": "darth70",
-      "balance": 5655,
-      "totalEarned": 5655,
+      "balance": 5661,
+      "totalEarned": 5661,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 5
+    },
+    {
+      "name": "neincs",
+      "balance": 5569,
+      "totalEarned": 5569,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -305,15 +314,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "neincs",
-      "balance": 5533,
-      "totalEarned": 5533,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 5
     },
     {
       "name": "ahmet_uk",
@@ -362,8 +362,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 5005,
-      "totalEarned": 5005,
+      "balance": 5011,
+      "totalEarned": 5011,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,8 +434,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 4510,
-      "totalEarned": 4510,
+      "balance": 4524,
+      "totalEarned": 4524,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1224,
-    "totalCirculating": 1209290,
+    "totalPlayers": 1225,
+    "totalCirculating": 1210157,
     "totalGames": 7902,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-05T01:19:55.890Z"
+  "lastUpdated": "2026-04-05T01:49:55.891Z"
 }
