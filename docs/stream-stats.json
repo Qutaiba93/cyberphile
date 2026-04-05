@@ -1,10 +1,10 @@
 {
   "totalSessions": 60,
   "totalDays": 49,
-  "totalSegments": 2273,
+  "totalSegments": 2276,
   "allTimePeak": 903,
   "allTimeAvg": 623,
-  "totalMessages": 463403,
+  "totalMessages": 464073,
   "categories": [
     {
       "name": "VRChat",
@@ -99,10 +99,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 640,
+      "avgViewers": 639,
       "peakViewers": 769,
-      "sampleCount": 99,
-      "totalMsgs": 17958
+      "sampleCount": 101,
+      "totalMsgs": 18358
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -176,10 +176,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 596,
+      "avgViewers": 597,
       "peakViewers": 903,
-      "sampleCount": 930,
-      "totalMsgs": 200807
+      "sampleCount": 931,
+      "totalMsgs": 201077
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -277,14 +277,14 @@
       "totalMsgs": 2536
     },
     "14": {
-      "avgViewers": 354,
-      "sampleCount": 129,
-      "totalMsgs": 20158
+      "avgViewers": 355,
+      "sampleCount": 130,
+      "totalMsgs": 20289
     },
     "15": {
-      "avgViewers": 511,
-      "sampleCount": 200,
-      "totalMsgs": 37935
+      "avgViewers": 512,
+      "sampleCount": 202,
+      "totalMsgs": 38474
     },
     "16": {
       "avgViewers": 620,
@@ -498,9 +498,9 @@
     },
     {
       "date": "2026-04-05",
-      "avgViewers": 376,
-      "peakViewers": 542,
-      "totalMsgs": 1418,
+      "avgViewers": 444,
+      "peakViewers": 652,
+      "totalMsgs": 2088,
       "categories": [
         "Just Chatting",
         "VALORANT"
@@ -508,5 +508,5 @@
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-05T14:49:55.965Z"
+  "lastUpdated": "2026-04-05T15:19:55.969Z"
 }
