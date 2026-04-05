@@ -29,8 +29,8 @@
     },
     {
       "name": "zuyu",
-      "balance": 21364,
-      "totalEarned": 81257,
+      "balance": 21366,
+      "totalEarned": 81259,
       "totalSpent": 59893,
       "gamesPlayed": 36,
       "gamesWon": 14,
@@ -56,8 +56,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 11600,
-      "totalEarned": 11610,
+      "balance": 11630,
+      "totalEarned": 11640,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -65,8 +65,8 @@
     },
     {
       "name": "weppss",
-      "balance": 10898,
-      "totalEarned": 16793,
+      "balance": 10904,
+      "totalEarned": 16799,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -128,8 +128,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 7680,
-      "totalEarned": 7680,
+      "balance": 7686,
+      "totalEarned": 7686,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "machamp1",
-      "balance": 7315,
-      "totalEarned": 7540,
+      "balance": 7325,
+      "totalEarned": 7550,
       "totalSpent": 225,
       "gamesPlayed": 5,
       "gamesWon": 1,
@@ -200,8 +200,8 @@
     },
     {
       "name": "nitro_st",
-      "balance": 6577,
-      "totalEarned": 6577,
+      "balance": 6579,
+      "totalEarned": 6579,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -290,8 +290,8 @@
     },
     {
       "name": "darth70",
-      "balance": 5621,
-      "totalEarned": 5621,
+      "balance": 5655,
+      "totalEarned": 5655,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -307,6 +307,15 @@
       "streak": 1
     },
     {
+      "name": "neincs",
+      "balance": 5533,
+      "totalEarned": 5533,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 5
+    },
+    {
       "name": "ahmet_uk",
       "balance": 5528,
       "totalEarned": 5528,
@@ -314,15 +323,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
-    },
-    {
-      "name": "neincs",
-      "balance": 5499,
-      "totalEarned": 5499,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 5
     },
     {
       "name": "lena_xc",
@@ -361,6 +361,15 @@
       "streak": 1
     },
     {
+      "name": "twilighty",
+      "balance": 5005,
+      "totalEarned": 5005,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 5
+    },
+    {
       "name": "lostinplacex",
       "balance": 4964,
       "totalEarned": 4964,
@@ -368,15 +377,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 4
-    },
-    {
-      "name": "twilighty",
-      "balance": 4955,
-      "totalEarned": 4955,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 5
     },
     {
       "name": "confusion",
@@ -389,8 +389,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 4913,
-      "totalEarned": 5014,
+      "balance": 4917,
+      "totalEarned": 5018,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -433,6 +433,15 @@
       "streak": 5
     },
     {
+      "name": "juggin247",
+      "balance": 4510,
+      "totalEarned": 4510,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 5
+    },
+    {
       "name": "m1lxnn",
       "balance": 4506,
       "totalEarned": 4546,
@@ -440,20 +449,11 @@
       "gamesPlayed": 2,
       "gamesWon": 1,
       "streak": 1
-    },
-    {
-      "name": "juggin247",
-      "balance": 4490,
-      "totalEarned": 4490,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 5
     }
   ],
   "stats": {
-    "totalPlayers": 1222,
-    "totalCirculating": 1207776,
+    "totalPlayers": 1224,
+    "totalCirculating": 1209290,
     "totalGames": 7902,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-05T00:49:55.887Z"
+  "lastUpdated": "2026-04-05T01:19:55.890Z"
 }
