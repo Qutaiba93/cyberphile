@@ -1,17 +1,17 @@
 {
   "totalSessions": 60,
   "totalDays": 49,
-  "totalSegments": 2306,
+  "totalSegments": 2309,
   "allTimePeak": 17991,
   "allTimeAvg": 639,
-  "totalMessages": 471231,
+  "totalMessages": 472358,
   "categories": [
     {
       "name": "Rust",
-      "avgViewers": 1420,
+      "avgViewers": 1343,
       "peakViewers": 17991,
-      "sampleCount": 24,
-      "totalMsgs": 5196
+      "sampleCount": 27,
+      "totalMsgs": 6323
     },
     {
       "name": "VALORANT",
@@ -315,8 +315,8 @@
     },
     "20": {
       "avgViewers": 690,
-      "sampleCount": 239,
-      "totalMsgs": 55853
+      "sampleCount": 242,
+      "totalMsgs": 56980
     },
     "21": {
       "avgViewers": 693,
@@ -505,9 +505,9 @@
     },
     {
       "date": "2026-04-05",
-      "avgViewers": 1471,
+      "avgViewers": 1420,
       "peakViewers": 17991,
-      "totalMsgs": 9246,
+      "totalMsgs": 10373,
       "categories": [
         "Just Chatting",
         "VALORANT",
@@ -516,5 +516,5 @@
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-05T20:19:55.999Z"
+  "lastUpdated": "2026-04-05T20:49:55.997Z"
 }
