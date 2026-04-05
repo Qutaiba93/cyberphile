@@ -1,10 +1,10 @@
 {
-  "totalSessions": 59,
-  "totalDays": 48,
-  "totalSegments": 2265,
+  "totalSessions": 60,
+  "totalDays": 49,
+  "totalSegments": 2267,
   "allTimePeak": 903,
   "allTimeAvg": 623,
-  "totalMessages": 461985,
+  "totalMessages": 462270,
   "categories": [
     {
       "name": "VRChat",
@@ -176,10 +176,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 598,
+      "avgViewers": 597,
       "peakViewers": 903,
-      "sampleCount": 926,
-      "totalMsgs": 200020
+      "sampleCount": 928,
+      "totalMsgs": 200305
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -272,9 +272,9 @@
       "totalMsgs": 502
     },
     "13": {
-      "avgViewers": 185,
-      "sampleCount": 25,
-      "totalMsgs": 2004
+      "avgViewers": 186,
+      "sampleCount": 27,
+      "totalMsgs": 2289
     },
     "14": {
       "avgViewers": 349,
@@ -328,19 +328,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-20",
-      "avgViewers": 570,
-      "peakViewers": 653,
-      "totalMsgs": 4704,
-      "categories": [
-        "Just Chatting",
-        "Counter-Strike 2",
-        "Creepy Shift: House for Sale",
-        "VALORANT",
-        "IRL"
-      ]
-    },
     {
       "date": "2026-03-21",
       "avgViewers": 606,
@@ -508,8 +495,17 @@
         "Minecraft",
         "Chat Roulette"
       ]
+    },
+    {
+      "date": "2026-04-05",
+      "avgViewers": 194,
+      "peakViewers": 236,
+      "totalMsgs": 285,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-05T13:19:55.957Z"
+  "lastUpdated": "2026-04-05T13:49:55.962Z"
 }
