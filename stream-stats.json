@@ -1,10 +1,10 @@
 {
-  "totalSessions": 60,
-  "totalDays": 49,
-  "totalSegments": 2342,
+  "totalSessions": 61,
+  "totalDays": 50,
+  "totalSegments": 2345,
   "allTimePeak": 17991,
-  "allTimeAvg": 639,
-  "totalMessages": 480101,
+  "allTimeAvg": 638,
+  "totalMessages": 480315,
   "categories": [
     {
       "name": "Rust",
@@ -183,10 +183,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 598,
+      "avgViewers": 596,
       "peakViewers": 903,
-      "sampleCount": 955,
-      "totalMsgs": 206774
+      "sampleCount": 958,
+      "totalMsgs": 206988
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -279,14 +279,14 @@
       "totalMsgs": 502
     },
     "13": {
-      "avgViewers": 190,
-      "sampleCount": 28,
+      "avgViewers": 186,
+      "sampleCount": 29,
       "totalMsgs": 2536
     },
     "14": {
-      "avgViewers": 355,
-      "sampleCount": 130,
-      "totalMsgs": 20289
+      "avgViewers": 353,
+      "sampleCount": 132,
+      "totalMsgs": 20503
     },
     "15": {
       "avgViewers": 516,
@@ -335,20 +335,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-21",
-      "avgViewers": 606,
-      "peakViewers": 762,
-      "totalMsgs": 12176,
-      "categories": [
-        "Movierooms",
-        "Just Chatting",
-        "Counter-Strike 2",
-        "VALORANT",
-        "Chat Roulette",
-        "Backrooms"
-      ]
-    },
     {
       "date": "2026-03-22",
       "avgViewers": 502,
@@ -514,8 +500,17 @@
         "Rust",
         "Counter-Strike 2"
       ]
+    },
+    {
+      "date": "2026-04-06",
+      "avgViewers": 177,
+      "peakViewers": 267,
+      "totalMsgs": 214,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-06T13:49:56.049Z"
+  "lastUpdated": "2026-04-06T14:19:56.052Z"
 }
