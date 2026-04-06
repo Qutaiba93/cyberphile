@@ -1,10 +1,10 @@
 {
   "totalSessions": 61,
   "totalDays": 50,
-  "totalSegments": 2390,
+  "totalSegments": 2393,
   "allTimePeak": 17991,
   "allTimeAvg": 638,
-  "totalMessages": 491892,
+  "totalMessages": 492640,
   "categories": [
     {
       "name": "Rust",
@@ -84,18 +84,18 @@
       "totalMsgs": 10155
     },
     {
-      "name": "League of Legends",
-      "avgViewers": 665,
-      "peakViewers": 732,
-      "sampleCount": 20,
-      "totalMsgs": 4979
-    },
-    {
       "name": "The Empty Eyes",
       "avgViewers": 663,
       "peakViewers": 677,
       "sampleCount": 3,
       "totalMsgs": 225
+    },
+    {
+      "name": "League of Legends",
+      "avgViewers": 662,
+      "peakViewers": 732,
+      "sampleCount": 22,
+      "totalMsgs": 5534
     },
     {
       "name": "Call of Duty: Black Ops II",
@@ -120,10 +120,10 @@
     },
     {
       "name": "Rocket League",
-      "avgViewers": 646,
+      "avgViewers": 645,
       "peakViewers": 756,
-      "sampleCount": 28,
-      "totalMsgs": 6872
+      "sampleCount": 29,
+      "totalMsgs": 7065
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -320,13 +320,13 @@
     },
     "21": {
       "avgViewers": 694,
-      "sampleCount": 243,
-      "totalMsgs": 52040
+      "sampleCount": 244,
+      "totalMsgs": 52351
     },
     "22": {
       "avgViewers": 685,
-      "sampleCount": 188,
-      "totalMsgs": 40495
+      "sampleCount": 190,
+      "totalMsgs": 40932
     },
     "23": {
       "avgViewers": 652,
@@ -503,9 +503,9 @@
     },
     {
       "date": "2026-04-06",
-      "avgViewers": 616,
+      "avgViewers": 617,
       "peakViewers": 739,
-      "totalMsgs": 11791,
+      "totalMsgs": 12539,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -515,5 +515,5 @@
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-06T21:49:56.062Z"
+  "lastUpdated": "2026-04-06T22:19:56.066Z"
 }
