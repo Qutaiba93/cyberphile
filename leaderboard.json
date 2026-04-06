@@ -82,6 +82,15 @@
       "streak": 5
     },
     {
+      "name": "drogan",
+      "balance": 10232,
+      "totalEarned": 10232,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 6
+    },
+    {
       "name": "furrreal",
       "balance": 10216,
       "totalEarned": 13716,
@@ -89,15 +98,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 6
-    },
-    {
-      "name": "drogan",
-      "balance": 10136,
-      "totalEarned": 10136,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 5
     },
     {
       "name": "5pray",
@@ -281,12 +281,12 @@
     },
     {
       "name": "bbalint320",
-      "balance": 5901,
-      "totalEarned": 6031,
+      "balance": 5993,
+      "totalEarned": 6123,
       "totalSpent": 130,
       "gamesPlayed": 13,
       "gamesWon": 1,
-      "streak": 5
+      "streak": 6
     },
     {
       "name": "neincs",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1362,
-    "totalCirculating": 1252118,
+    "totalCirculating": 1252378,
     "totalGames": 8085,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-06T06:19:56.037Z"
+  "lastUpdated": "2026-04-06T06:49:56.039Z"
 }
