@@ -83,8 +83,8 @@
     },
     {
       "name": "drogan",
-      "balance": 10232,
-      "totalEarned": 10232,
+      "balance": 10236,
+      "totalEarned": 10236,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -398,8 +398,8 @@
     },
     {
       "name": "kale96",
-      "balance": 4832,
-      "totalEarned": 11382,
+      "balance": 4834,
+      "totalEarned": 11384,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1364,
-    "totalCirculating": 1252751,
+    "totalCirculating": 1253034,
     "totalGames": 8085,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-06T13:19:56.057Z"
+  "lastUpdated": "2026-04-06T13:49:56.057Z"
 }
