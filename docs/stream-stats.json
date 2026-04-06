@@ -1,10 +1,10 @@
 {
   "totalSessions": 61,
   "totalDays": 50,
-  "totalSegments": 2366,
+  "totalSegments": 2369,
   "allTimePeak": 17991,
   "allTimeAvg": 638,
-  "totalMessages": 485593,
+  "totalMessages": 486070,
   "categories": [
     {
       "name": "Rust",
@@ -92,10 +92,10 @@
     },
     {
       "name": "League of Legends",
-      "avgViewers": 661,
+      "avgViewers": 662,
       "peakViewers": 732,
-      "sampleCount": 7,
-      "totalMsgs": 1619
+      "sampleCount": 8,
+      "totalMsgs": 1787
     },
     {
       "name": "Call of Duty: Black Ops II",
@@ -120,10 +120,10 @@
     },
     {
       "name": "Rocket League",
-      "avgViewers": 641,
+      "avgViewers": 643,
       "peakViewers": 756,
-      "sampleCount": 21,
-      "totalMsgs": 4842
+      "sampleCount": 23,
+      "totalMsgs": 5151
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -300,13 +300,13 @@
     },
     "17": {
       "avgViewers": 752,
-      "sampleCount": 235,
-      "totalMsgs": 51734
+      "sampleCount": 236,
+      "totalMsgs": 51902
     },
     "18": {
       "avgViewers": 699,
-      "sampleCount": 237,
-      "totalMsgs": 56905
+      "sampleCount": 239,
+      "totalMsgs": 57214
     },
     "19": {
       "avgViewers": 710,
@@ -503,9 +503,9 @@
     },
     {
       "date": "2026-04-06",
-      "avgViewers": 565,
+      "avgViewers": 576,
       "peakViewers": 739,
-      "totalMsgs": 5492,
+      "totalMsgs": 5969,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -515,5 +515,5 @@
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-06T17:49:56.059Z"
+  "lastUpdated": "2026-04-06T18:19:56.057Z"
 }
