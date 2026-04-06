@@ -11,8 +11,8 @@
     },
     {
       "name": "zuyu",
-      "balance": 24976,
-      "totalEarned": 89889,
+      "balance": 24992,
+      "totalEarned": 89905,
       "totalSpent": 64913,
       "gamesPlayed": 41,
       "gamesWon": 17,
@@ -20,8 +20,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 23841,
-      "totalEarned": 108337,
+      "balance": 23851,
+      "totalEarned": 108347,
       "totalSpent": 84496,
       "gamesPlayed": 286,
       "gamesWon": 103,
@@ -38,8 +38,8 @@
     },
     {
       "name": "poseidon_o7",
-      "balance": 12774,
-      "totalEarned": 12794,
+      "balance": 12784,
+      "totalEarned": 12804,
       "totalSpent": 20,
       "gamesPlayed": 2,
       "gamesWon": 0,
@@ -65,8 +65,8 @@
     },
     {
       "name": "uncommonletter",
-      "balance": 10595,
-      "totalEarned": 46171,
+      "balance": 10599,
+      "totalEarned": 46175,
       "totalSpent": 35576,
       "gamesPlayed": 143,
       "gamesWon": 61,
@@ -83,8 +83,8 @@
     },
     {
       "name": "drogan",
-      "balance": 10288,
-      "totalEarned": 10288,
+      "balance": 10344,
+      "totalEarned": 10344,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -101,8 +101,8 @@
     },
     {
       "name": "5pray",
-      "balance": 9401,
-      "totalEarned": 9401,
+      "balance": 9409,
+      "totalEarned": 9409,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 7555,
-      "totalEarned": 10620,
+      "balance": 7569,
+      "totalEarned": 10634,
       "totalSpent": 3065,
       "gamesPlayed": 24,
       "gamesWon": 5,
@@ -173,8 +173,8 @@
     },
     {
       "name": "schitt",
-      "balance": 7240,
-      "totalEarned": 7240,
+      "balance": 7252,
+      "totalEarned": 7252,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -191,8 +191,8 @@
     },
     {
       "name": "papaah",
-      "balance": 6895,
-      "totalEarned": 6895,
+      "balance": 6907,
+      "totalEarned": 6907,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -236,8 +236,8 @@
     },
     {
       "name": "nick6",
-      "balance": 6225,
-      "totalEarned": 6225,
+      "balance": 6229,
+      "totalEarned": 6229,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -308,8 +308,8 @@
     },
     {
       "name": "kooooool",
-      "balance": 5672,
-      "totalEarned": 31822,
+      "balance": 5674,
+      "totalEarned": 31824,
       "totalSpent": 26150,
       "gamesPlayed": 21,
       "gamesWon": 8,
@@ -335,8 +335,8 @@
     },
     {
       "name": "xx_i_garrem_deez_xx",
-      "balance": 5171,
-      "totalEarned": 5171,
+      "balance": 5177,
+      "totalEarned": 5177,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -389,8 +389,8 @@
     },
     {
       "name": "kale96",
-      "balance": 4908,
-      "totalEarned": 11458,
+      "balance": 4926,
+      "totalEarned": 11476,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -415,6 +415,15 @@
       "streak": 6
     },
     {
+      "name": "m1lxnn",
+      "balance": 4693,
+      "totalEarned": 4733,
+      "totalSpent": 40,
+      "gamesPlayed": 2,
+      "gamesWon": 1,
+      "streak": 3
+    },
+    {
       "name": "ferrousimpala32",
       "balance": 4654,
       "totalEarned": 4654,
@@ -422,15 +431,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 6
-    },
-    {
-      "name": "m1lxnn",
-      "balance": 4626,
-      "totalEarned": 4666,
-      "totalSpent": 40,
-      "gamesPlayed": 2,
-      "gamesWon": 1,
-      "streak": 2
     },
     {
       "name": "reformedbolvarmargret02",
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1367,
-    "totalCirculating": 1259069,
+    "totalPlayers": 1368,
+    "totalCirculating": 1260709,
     "totalGames": 8186,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-06T15:19:56.060Z"
+  "lastUpdated": "2026-04-06T15:49:56.060Z"
 }
