@@ -1,10 +1,10 @@
 {
   "totalSessions": 62,
   "totalDays": 51,
-  "totalSegments": 2437,
+  "totalSegments": 2440,
   "allTimePeak": 17991,
-  "allTimeAvg": 635,
-  "totalMessages": 503216,
+  "allTimeAvg": 636,
+  "totalMessages": 503956,
   "categories": [
     {
       "name": "Rust",
@@ -45,8 +45,8 @@
       "name": "Chat Roulette",
       "avgViewers": 732,
       "peakViewers": 902,
-      "sampleCount": 213,
-      "totalMsgs": 49919
+      "sampleCount": 216,
+      "totalMsgs": 50659
     },
     {
       "name": "Songbattle.io",
@@ -307,13 +307,13 @@
     },
     "16": {
       "avgViewers": 697,
-      "sampleCount": 234,
-      "totalMsgs": 52021
+      "sampleCount": 235,
+      "totalMsgs": 52185
     },
     "17": {
       "avgViewers": 752,
-      "sampleCount": 236,
-      "totalMsgs": 51902
+      "sampleCount": 238,
+      "totalMsgs": 52478
     },
     "18": {
       "avgViewers": 699,
@@ -515,9 +515,9 @@
     },
     {
       "date": "2026-04-07",
-      "avgViewers": 382,
-      "peakViewers": 647,
-      "totalMsgs": 5752,
+      "avgViewers": 420,
+      "peakViewers": 782,
+      "totalMsgs": 6492,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
@@ -527,5 +527,5 @@
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-07T16:49:56.117Z"
+  "lastUpdated": "2026-04-07T17:19:56.119Z"
 }
