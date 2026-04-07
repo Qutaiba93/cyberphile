@@ -56,8 +56,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 12231,
-      "totalEarned": 12241,
+      "balance": 12235,
+      "totalEarned": 12245,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -137,8 +137,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 7858,
-      "totalEarned": 10923,
+      "balance": 7876,
+      "totalEarned": 10941,
       "totalSpent": 3065,
       "gamesPlayed": 24,
       "gamesWon": 5,
@@ -245,8 +245,8 @@
     },
     {
       "name": "darth70",
-      "balance": 6332,
-      "totalEarned": 6332,
+      "balance": 6338,
+      "totalEarned": 6338,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -352,21 +352,21 @@
       "streak": 2
     },
     {
+      "name": "kale96",
+      "balance": 5113,
+      "totalEarned": 11663,
+      "totalSpent": 6550,
+      "gamesPlayed": 6,
+      "gamesWon": 0,
+      "streak": 7
+    },
+    {
       "name": "kingirnfist",
       "balance": 5107,
       "totalEarned": 20107,
       "totalSpent": 15000,
       "gamesPlayed": 2,
       "gamesWon": 1,
-      "streak": 7
-    },
-    {
-      "name": "kale96",
-      "balance": 5105,
-      "totalEarned": 11655,
-      "totalSpent": 6550,
-      "gamesPlayed": 6,
-      "gamesWon": 0,
       "streak": 7
     },
     {
@@ -425,8 +425,8 @@
     },
     {
       "name": "karmahit",
-      "balance": 4740,
-      "totalEarned": 4740,
+      "balance": 4744,
+      "totalEarned": 4744,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1388,
-    "totalCirculating": 1298553,
+    "totalCirculating": 1299086,
     "totalGames": 8226,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-07T01:19:56.077Z"
+  "lastUpdated": "2026-04-07T01:49:56.082Z"
 }
