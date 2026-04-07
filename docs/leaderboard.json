@@ -56,8 +56,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 12213,
-      "totalEarned": 12223,
+      "balance": 12231,
+      "totalEarned": 12241,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -190,6 +190,15 @@
       "streak": 6
     },
     {
+      "name": "nick6",
+      "balance": 7061,
+      "totalEarned": 7061,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 4
+    },
+    {
       "name": "intermediatewastakensadge",
       "balance": 7051,
       "totalEarned": 7051,
@@ -197,15 +206,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 7
-    },
-    {
-      "name": "nick6",
-      "balance": 7017,
-      "totalEarned": 7017,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 4
     },
     {
       "name": "nitro_st",
@@ -245,8 +245,8 @@
     },
     {
       "name": "darth70",
-      "balance": 6310,
-      "totalEarned": 6310,
+      "balance": 6332,
+      "totalEarned": 6332,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -361,6 +361,15 @@
       "streak": 7
     },
     {
+      "name": "kale96",
+      "balance": 5105,
+      "totalEarned": 11655,
+      "totalSpent": 6550,
+      "gamesPlayed": 6,
+      "gamesWon": 0,
+      "streak": 7
+    },
+    {
       "name": "twilighty",
       "balance": 5067,
       "totalEarned": 5067,
@@ -393,15 +402,6 @@
       "totalEarned": 5024,
       "totalSpent": 0,
       "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 6
-    },
-    {
-      "name": "kale96",
-      "balance": 5010,
-      "totalEarned": 11560,
-      "totalSpent": 6550,
-      "gamesPlayed": 6,
       "gamesWon": 0,
       "streak": 6
     },
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1387,
-    "totalCirculating": 1296873,
+    "totalPlayers": 1388,
+    "totalCirculating": 1298553,
     "totalGames": 8226,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-07T00:49:56.079Z"
+  "lastUpdated": "2026-04-07T01:19:56.077Z"
 }
