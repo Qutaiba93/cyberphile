@@ -1,10 +1,10 @@
 {
   "totalSessions": 62,
   "totalDays": 51,
-  "totalSegments": 2452,
+  "totalSegments": 2455,
   "allTimePeak": 17991,
   "allTimeAvg": 636,
-  "totalMessages": 506434,
+  "totalMessages": 506923,
   "categories": [
     {
       "name": "Rust",
@@ -77,13 +77,6 @@
       "totalMsgs": 27658
     },
     {
-      "name": "The Elder Scrolls V: Skyrim",
-      "avgViewers": 683,
-      "peakViewers": 744,
-      "sampleCount": 5,
-      "totalMsgs": 826
-    },
-    {
       "name": "Sea of Thieves",
       "avgViewers": 673,
       "peakViewers": 776,
@@ -103,6 +96,13 @@
       "peakViewers": 725,
       "sampleCount": 30,
       "totalMsgs": 4208
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim",
+      "avgViewers": 659,
+      "peakViewers": 744,
+      "sampleCount": 8,
+      "totalMsgs": 1315
     },
     {
       "name": "ARC Raiders",
@@ -328,9 +328,9 @@
       "totalMsgs": 59581
     },
     "19": {
-      "avgViewers": 708,
-      "sampleCount": 247,
-      "totalMsgs": 58061
+      "avgViewers": 707,
+      "sampleCount": 250,
+      "totalMsgs": 58550
     },
     "20": {
       "avgViewers": 690,
@@ -522,9 +522,9 @@
     },
     {
       "date": "2026-04-07",
-      "avgViewers": 507,
+      "avgViewers": 515,
       "peakViewers": 782,
-      "totalMsgs": 8970,
+      "totalMsgs": 9459,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
@@ -535,5 +535,5 @@
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-07T19:19:56.119Z"
+  "lastUpdated": "2026-04-07T19:49:56.124Z"
 }
