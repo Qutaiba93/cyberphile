@@ -1,10 +1,10 @@
 {
   "totalSessions": 62,
   "totalDays": 51,
-  "totalSegments": 2449,
+  "totalSegments": 2452,
   "allTimePeak": 17991,
   "allTimeAvg": 636,
-  "totalMessages": 506006,
+  "totalMessages": 506434,
   "categories": [
     {
       "name": "Rust",
@@ -56,13 +56,6 @@
       "totalMsgs": 1148
     },
     {
-      "name": "The Elder Scrolls V: Skyrim",
-      "avgViewers": 723,
-      "peakViewers": 744,
-      "sampleCount": 2,
-      "totalMsgs": 398
-    },
-    {
       "name": "Trash Horror Collection",
       "avgViewers": 701,
       "peakViewers": 737,
@@ -82,6 +75,13 @@
       "peakViewers": 811,
       "sampleCount": 145,
       "totalMsgs": 27658
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim",
+      "avgViewers": 683,
+      "peakViewers": 744,
+      "sampleCount": 5,
+      "totalMsgs": 826
     },
     {
       "name": "Sea of Thieves",
@@ -324,13 +324,13 @@
     },
     "18": {
       "avgViewers": 699,
-      "sampleCount": 248,
-      "totalMsgs": 59449
+      "sampleCount": 249,
+      "totalMsgs": 59581
     },
     "19": {
-      "avgViewers": 709,
-      "sampleCount": 245,
-      "totalMsgs": 57765
+      "avgViewers": 708,
+      "sampleCount": 247,
+      "totalMsgs": 58061
     },
     "20": {
       "avgViewers": 690,
@@ -522,9 +522,9 @@
     },
     {
       "date": "2026-04-07",
-      "avgViewers": 495,
+      "avgViewers": 507,
       "peakViewers": 782,
-      "totalMsgs": 8542,
+      "totalMsgs": 8970,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
@@ -535,5 +535,5 @@
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-07T18:49:56.120Z"
+  "lastUpdated": "2026-04-07T19:19:56.119Z"
 }
