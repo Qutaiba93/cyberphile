@@ -1,10 +1,10 @@
 {
   "totalSessions": 62,
   "totalDays": 51,
-  "totalSegments": 2455,
+  "totalSegments": 2458,
   "allTimePeak": 17991,
   "allTimeAvg": 636,
-  "totalMessages": 506923,
+  "totalMessages": 507668,
   "categories": [
     {
       "name": "Rust",
@@ -99,10 +99,10 @@
     },
     {
       "name": "The Elder Scrolls V: Skyrim",
-      "avgViewers": 659,
+      "avgViewers": 657,
       "peakViewers": 744,
-      "sampleCount": 8,
-      "totalMsgs": 1315
+      "sampleCount": 11,
+      "totalMsgs": 2060
     },
     {
       "name": "ARC Raiders",
@@ -329,13 +329,13 @@
     },
     "19": {
       "avgViewers": 707,
-      "sampleCount": 250,
-      "totalMsgs": 58550
+      "sampleCount": 251,
+      "totalMsgs": 58734
     },
     "20": {
       "avgViewers": 690,
-      "sampleCount": 249,
-      "totalMsgs": 59108
+      "sampleCount": 251,
+      "totalMsgs": 59669
     },
     "21": {
       "avgViewers": 694,
@@ -522,9 +522,9 @@
     },
     {
       "date": "2026-04-07",
-      "avgViewers": 515,
+      "avgViewers": 524,
       "peakViewers": 782,
-      "totalMsgs": 9459,
+      "totalMsgs": 10204,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
@@ -535,5 +535,5 @@
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-07T19:49:56.124Z"
+  "lastUpdated": "2026-04-07T20:19:56.121Z"
 }
