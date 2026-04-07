@@ -1,10 +1,10 @@
 {
   "totalSessions": 62,
   "totalDays": 51,
-  "totalSegments": 2467,
+  "totalSegments": 2470,
   "allTimePeak": 17991,
   "allTimeAvg": 636,
-  "totalMessages": 509717,
+  "totalMessages": 510172,
   "categories": [
     {
       "name": "Rust",
@@ -101,8 +101,8 @@
       "name": "The Elder Scrolls V: Skyrim",
       "avgViewers": 657,
       "peakViewers": 744,
-      "sampleCount": 20,
-      "totalMsgs": 4109
+      "sampleCount": 21,
+      "totalMsgs": 4238
     },
     {
       "name": "ARC Raiders",
@@ -192,8 +192,8 @@
       "name": "Just Chatting",
       "avgViewers": 593,
       "peakViewers": 903,
-      "sampleCount": 984,
-      "totalMsgs": 213151
+      "sampleCount": 986,
+      "totalMsgs": 213477
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -339,13 +339,13 @@
     },
     "21": {
       "avgViewers": 693,
-      "sampleCount": 249,
-      "totalMsgs": 53463
+      "sampleCount": 250,
+      "totalMsgs": 53592
     },
     "22": {
-      "avgViewers": 684,
-      "sampleCount": 194,
-      "totalMsgs": 41669
+      "avgViewers": 683,
+      "sampleCount": 196,
+      "totalMsgs": 41995
     },
     "23": {
       "avgViewers": 651,
@@ -522,9 +522,9 @@
     },
     {
       "date": "2026-04-07",
-      "avgViewers": 545,
+      "avgViewers": 550,
       "peakViewers": 782,
-      "totalMsgs": 12253,
+      "totalMsgs": 12708,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
@@ -535,5 +535,5 @@
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-07T21:49:56.127Z"
+  "lastUpdated": "2026-04-07T22:19:56.125Z"
 }
