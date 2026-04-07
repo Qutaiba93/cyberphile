@@ -1,10 +1,10 @@
 {
   "totalSessions": 62,
   "totalDays": 51,
-  "totalSegments": 2446,
+  "totalSegments": 2449,
   "allTimePeak": 17991,
   "allTimeAvg": 636,
-  "totalMessages": 505303,
+  "totalMessages": 506006,
   "categories": [
     {
       "name": "Rust",
@@ -54,6 +54,13 @@
       "peakViewers": 734,
       "sampleCount": 4,
       "totalMsgs": 1148
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim",
+      "avgViewers": 723,
+      "peakViewers": 744,
+      "sampleCount": 2,
+      "totalMsgs": 398
     },
     {
       "name": "Trash Horror Collection",
@@ -185,8 +192,8 @@
       "name": "Just Chatting",
       "avgViewers": 593,
       "peakViewers": 903,
-      "sampleCount": 983,
-      "totalMsgs": 212846
+      "sampleCount": 984,
+      "totalMsgs": 213151
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -317,8 +324,8 @@
     },
     "18": {
       "avgViewers": 699,
-      "sampleCount": 245,
-      "totalMsgs": 58746
+      "sampleCount": 248,
+      "totalMsgs": 59449
     },
     "19": {
       "avgViewers": 709,
@@ -515,17 +522,18 @@
     },
     {
       "date": "2026-04-07",
-      "avgViewers": 474,
+      "avgViewers": 495,
       "peakViewers": 782,
-      "totalMsgs": 7839,
+      "totalMsgs": 8542,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
         "Call of Duty: Warzone",
-        "Chat Roulette"
+        "Chat Roulette",
+        "The Elder Scrolls V: Skyrim"
       ]
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-07T18:19:56.122Z"
+  "lastUpdated": "2026-04-07T18:49:56.120Z"
 }
