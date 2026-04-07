@@ -20,11 +20,11 @@
     },
     {
       "name": "meliziana",
-      "balance": 17377,
-      "totalEarned": 115373,
-      "totalSpent": 97996,
-      "gamesPlayed": 320,
-      "gamesWon": 112,
+      "balance": 16815,
+      "totalEarned": 117011,
+      "totalSpent": 100196,
+      "gamesPlayed": 329,
+      "gamesWon": 115,
       "streak": 6
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "name": "plebcentral",
-      "balance": 14495,
-      "totalEarned": 31175,
+      "balance": 14610,
+      "totalEarned": 31290,
       "totalSpent": 16680,
       "gamesPlayed": 4,
       "gamesWon": 2,
-      "streak": 6
+      "streak": 7
     },
     {
       "name": "poseidon_o7",
@@ -56,8 +56,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 12235,
-      "totalEarned": 12245,
+      "balance": 12241,
+      "totalEarned": 12251,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -65,8 +65,8 @@
     },
     {
       "name": "weppss",
-      "balance": 11227,
-      "totalEarned": 17122,
+      "balance": 11231,
+      "totalEarned": 17126,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -191,8 +191,8 @@
     },
     {
       "name": "nick6",
-      "balance": 7063,
-      "totalEarned": 7063,
+      "balance": 7073,
+      "totalEarned": 7073,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,12 +299,12 @@
     },
     {
       "name": "kooooool",
-      "balance": 5756,
-      "totalEarned": 31906,
+      "balance": 5843,
+      "totalEarned": 31993,
       "totalSpent": 26150,
       "gamesPlayed": 21,
       "gamesWon": 8,
-      "streak": 6
+      "streak": 7
     },
     {
       "name": "lena_xc",
@@ -353,8 +353,8 @@
     },
     {
       "name": "kale96",
-      "balance": 5113,
-      "totalEarned": 11663,
+      "balance": 5119,
+      "totalEarned": 11669,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -433,6 +433,15 @@
       "streak": 7
     },
     {
+      "name": "pitapan",
+      "balance": 4732,
+      "totalEarned": 4732,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 7
+    },
+    {
       "name": "ferrousimpala32",
       "balance": 4718,
       "totalEarned": 4718,
@@ -440,21 +449,12 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 6
-    },
-    {
-      "name": "reggiekool",
-      "balance": 4676,
-      "totalEarned": 4676,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 3
     }
   ],
   "stats": {
-    "totalPlayers": 1388,
-    "totalCirculating": 1293640,
-    "totalGames": 8247,
+    "totalPlayers": 1389,
+    "totalCirculating": 1294427,
+    "totalGames": 8256,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-07T12:19:56.119Z"
+  "lastUpdated": "2026-04-07T12:49:56.120Z"
 }

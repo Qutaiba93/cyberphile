@@ -1,10 +1,10 @@
 {
-  "totalSessions": 61,
-  "totalDays": 50,
-  "totalSegments": 2412,
+  "totalSessions": 62,
+  "totalDays": 51,
+  "totalSegments": 2413,
   "allTimePeak": 17991,
   "allTimeAvg": 638,
-  "totalMessages": 497464,
+  "totalMessages": 497692,
   "categories": [
     {
       "name": "Rust",
@@ -120,10 +120,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 644,
+      "avgViewers": 642,
       "peakViewers": 841,
-      "sampleCount": 251,
-      "totalMsgs": 45372
+      "sampleCount": 252,
+      "totalMsgs": 45600
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -278,6 +278,11 @@
       "sampleCount": 7,
       "totalMsgs": 502
     },
+    "12": {
+      "avgViewers": 0,
+      "sampleCount": 1,
+      "totalMsgs": 228
+    },
     "13": {
       "avgViewers": 186,
       "sampleCount": 29,
@@ -335,18 +340,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-22",
-      "avgViewers": 502,
-      "peakViewers": 664,
-      "totalMsgs": 2486,
-      "categories": [
-        "Movierooms",
-        "Just Chatting",
-        "VALORANT",
-        "Sea of Thieves"
-      ]
-    },
     {
       "date": "2026-03-23",
       "avgViewers": 641,
@@ -512,8 +505,17 @@
         "Rocket League",
         "League of Legends"
       ]
+    },
+    {
+      "date": "2026-04-07",
+      "avgViewers": 0,
+      "peakViewers": 0,
+      "totalMsgs": 228,
+      "categories": [
+        "Counter-Strike 2"
+      ]
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-07T12:19:56.110Z"
+  "lastUpdated": "2026-04-07T12:49:56.112Z"
 }
