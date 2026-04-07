@@ -1,10 +1,10 @@
 {
   "totalSessions": 62,
   "totalDays": 51,
-  "totalSegments": 2434,
+  "totalSegments": 2437,
   "allTimePeak": 17991,
-  "allTimeAvg": 636,
-  "totalMessages": 502270,
+  "allTimeAvg": 635,
+  "totalMessages": 503216,
   "categories": [
     {
       "name": "Rust",
@@ -43,10 +43,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 733,
+      "avgViewers": 732,
       "peakViewers": 902,
-      "sampleCount": 211,
-      "totalMsgs": 49255
+      "sampleCount": 213,
+      "totalMsgs": 49919
     },
     {
       "name": "Songbattle.io",
@@ -185,8 +185,8 @@
       "name": "Just Chatting",
       "avgViewers": 592,
       "peakViewers": 903,
-      "sampleCount": 979,
-      "totalMsgs": 211725
+      "sampleCount": 980,
+      "totalMsgs": 212007
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -306,9 +306,9 @@
       "totalMsgs": 42262
     },
     "16": {
-      "avgViewers": 698,
-      "sampleCount": 231,
-      "totalMsgs": 51075
+      "avgViewers": 697,
+      "sampleCount": 234,
+      "totalMsgs": 52021
     },
     "17": {
       "avgViewers": 752,
@@ -515,16 +515,17 @@
     },
     {
       "date": "2026-04-07",
-      "avgViewers": 352,
-      "peakViewers": 545,
-      "totalMsgs": 4806,
+      "avgViewers": 382,
+      "peakViewers": 647,
+      "totalMsgs": 5752,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
-        "Call of Duty: Warzone"
+        "Call of Duty: Warzone",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-07T16:19:56.116Z"
+  "lastUpdated": "2026-04-07T16:49:56.117Z"
 }
