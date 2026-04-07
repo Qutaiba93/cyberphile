@@ -1,10 +1,10 @@
 {
   "totalSessions": 62,
   "totalDays": 51,
-  "totalSegments": 2419,
+  "totalSegments": 2422,
   "allTimePeak": 17991,
   "allTimeAvg": 637,
-  "totalMessages": 498632,
+  "totalMessages": 499421,
   "categories": [
     {
       "name": "Rust",
@@ -183,10 +183,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 594,
+      "avgViewers": 593,
       "peakViewers": 903,
-      "sampleCount": 970,
-      "totalMsgs": 209203
+      "sampleCount": 972,
+      "totalMsgs": 209710
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -238,6 +238,13 @@
       "totalMsgs": 9011
     },
     {
+      "name": "Call of Duty: Warzone",
+      "avgViewers": 489,
+      "peakViewers": 489,
+      "sampleCount": 1,
+      "totalMsgs": 282
+    },
+    {
       "name": "Too Well Hidden",
       "avgViewers": 404,
       "peakViewers": 421,
@@ -284,14 +291,14 @@
       "totalMsgs": 324
     },
     "13": {
-      "avgViewers": 203,
-      "sampleCount": 34,
-      "totalMsgs": 3380
+      "avgViewers": 210,
+      "sampleCount": 35,
+      "totalMsgs": 3614
     },
     "14": {
-      "avgViewers": 355,
-      "sampleCount": 136,
-      "totalMsgs": 21082
+      "avgViewers": 357,
+      "sampleCount": 138,
+      "totalMsgs": 21637
     },
     "15": {
       "avgViewers": 518,
@@ -508,15 +515,16 @@
     },
     {
       "date": "2026-04-07",
-      "avgViewers": 234,
-      "peakViewers": 378,
-      "totalMsgs": 1168,
+      "avgViewers": 305,
+      "peakViewers": 489,
+      "totalMsgs": 1957,
       "categories": [
         "Counter-Strike 2",
-        "Just Chatting"
+        "Just Chatting",
+        "Call of Duty: Warzone"
       ]
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-07T13:49:56.112Z"
+  "lastUpdated": "2026-04-07T14:19:56.116Z"
 }
