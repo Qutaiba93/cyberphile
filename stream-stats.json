@@ -1,10 +1,10 @@
 {
   "totalSessions": 64,
   "totalDays": 52,
-  "totalSegments": 2511,
+  "totalSegments": 2514,
   "allTimePeak": 17991,
   "allTimeAvg": 635,
-  "totalMessages": 520397,
+  "totalMessages": 520801,
   "categories": [
     {
       "name": "Rust",
@@ -43,10 +43,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 732,
+      "avgViewers": 727,
       "peakViewers": 902,
-      "sampleCount": 219,
-      "totalMsgs": 51167
+      "sampleCount": 222,
+      "totalMsgs": 51571
     },
     {
       "name": "Songbattle.io",
@@ -333,9 +333,9 @@
       "totalMsgs": 60662
     },
     "20": {
-      "avgViewers": 686,
-      "sampleCount": 257,
-      "totalMsgs": 61017
+      "avgViewers": 683,
+      "sampleCount": 260,
+      "totalMsgs": 61421
     },
     "21": {
       "avgViewers": 693,
@@ -521,16 +521,17 @@
     },
     {
       "date": "2026-04-08",
-      "avgViewers": 562,
+      "avgViewers": 549,
       "peakViewers": 708,
-      "totalMsgs": 9529,
+      "totalMsgs": 9933,
       "categories": [
         "Just Chatting",
         "VALORANT",
-        "IRL"
+        "IRL",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-08T20:19:56.227Z"
+  "lastUpdated": "2026-04-08T20:49:56.232Z"
 }
