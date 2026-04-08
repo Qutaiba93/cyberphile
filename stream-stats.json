@@ -1,10 +1,10 @@
 {
   "totalSessions": 64,
   "totalDays": 52,
-  "totalSegments": 2529,
+  "totalSegments": 2531,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 525559,
+  "totalMessages": 525966,
   "categories": [
     {
       "name": "Rust",
@@ -50,10 +50,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 709,
+      "avgViewers": 708,
       "peakViewers": 902,
-      "sampleCount": 237,
-      "totalMsgs": 56329
+      "sampleCount": 238,
+      "totalMsgs": 56570
     },
     {
       "name": "Trash Horror Collection",
@@ -98,13 +98,6 @@
       "totalMsgs": 4208
     },
     {
-      "name": "The Elder Scrolls V: Skyrim",
-      "avgViewers": 657,
-      "peakViewers": 744,
-      "sampleCount": 21,
-      "totalMsgs": 4238
-    },
-    {
       "name": "ARC Raiders",
       "avgViewers": 653,
       "peakViewers": 716,
@@ -117,6 +110,13 @@
       "peakViewers": 732,
       "sampleCount": 28,
       "totalMsgs": 7002
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim",
+      "avgViewers": 647,
+      "peakViewers": 744,
+      "sampleCount": 22,
+      "totalMsgs": 4404
     },
     {
       "name": "Rocket League",
@@ -348,9 +348,9 @@
       "totalMsgs": 44308
     },
     "23": {
-      "avgViewers": 648,
-      "sampleCount": 136,
-      "totalMsgs": 26426
+      "avgViewers": 645,
+      "sampleCount": 138,
+      "totalMsgs": 26833
     }
   },
   "dailyHistory": [
@@ -521,17 +521,18 @@
     },
     {
       "date": "2026-04-08",
-      "avgViewers": 522,
+      "avgViewers": 520,
       "peakViewers": 708,
-      "totalMsgs": 14691,
+      "totalMsgs": 15098,
       "categories": [
         "Just Chatting",
         "VALORANT",
         "IRL",
-        "Chat Roulette"
+        "Chat Roulette",
+        "The Elder Scrolls V: Skyrim"
       ]
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-08T23:19:56.235Z"
+  "lastUpdated": "2026-04-08T23:49:56.235Z"
 }
