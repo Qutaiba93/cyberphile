@@ -1,10 +1,10 @@
 {
   "totalSessions": 64,
   "totalDays": 52,
-  "totalSegments": 2514,
+  "totalSegments": 2517,
   "allTimePeak": 17991,
-  "allTimeAvg": 635,
-  "totalMessages": 520801,
+  "allTimeAvg": 634,
+  "totalMessages": 521577,
   "categories": [
     {
       "name": "Rust",
@@ -42,18 +42,18 @@
       "totalMsgs": 620
     },
     {
-      "name": "Chat Roulette",
-      "avgViewers": 727,
-      "peakViewers": 902,
-      "sampleCount": 222,
-      "totalMsgs": 51571
-    },
-    {
       "name": "Songbattle.io",
       "avgViewers": 727,
       "peakViewers": 734,
       "sampleCount": 4,
       "totalMsgs": 1148
+    },
+    {
+      "name": "Chat Roulette",
+      "avgViewers": 723,
+      "peakViewers": 902,
+      "sampleCount": 225,
+      "totalMsgs": 52347
     },
     {
       "name": "Trash Horror Collection",
@@ -333,14 +333,14 @@
       "totalMsgs": 60662
     },
     "20": {
-      "avgViewers": 683,
-      "sampleCount": 260,
-      "totalMsgs": 61421
+      "avgViewers": 682,
+      "sampleCount": 261,
+      "totalMsgs": 61747
     },
     "21": {
-      "avgViewers": 693,
-      "sampleCount": 250,
-      "totalMsgs": 53592
+      "avgViewers": 691,
+      "sampleCount": 252,
+      "totalMsgs": 54042
     },
     "22": {
       "avgViewers": 682,
@@ -521,9 +521,9 @@
     },
     {
       "date": "2026-04-08",
-      "avgViewers": 549,
+      "avgViewers": 540,
       "peakViewers": 708,
-      "totalMsgs": 9933,
+      "totalMsgs": 10709,
       "categories": [
         "Just Chatting",
         "VALORANT",
@@ -533,5 +533,5 @@
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-08T20:49:56.232Z"
+  "lastUpdated": "2026-04-08T21:19:56.228Z"
 }
