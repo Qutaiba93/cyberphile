@@ -1,10 +1,10 @@
 {
   "totalSessions": 63,
   "totalDays": 52,
-  "totalSegments": 2475,
+  "totalSegments": 2478,
   "allTimePeak": 17991,
-  "allTimeAvg": 636,
-  "totalMessages": 510920,
+  "allTimeAvg": 635,
+  "totalMessages": 511369,
   "categories": [
     {
       "name": "Rust",
@@ -190,10 +190,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 592,
+      "avgViewers": 591,
       "peakViewers": 903,
-      "sampleCount": 991,
-      "totalMsgs": 214225
+      "sampleCount": 994,
+      "totalMsgs": 214674
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -304,8 +304,8 @@
     },
     "14": {
       "avgViewers": 352,
-      "sampleCount": 144,
-      "totalMsgs": 22328
+      "sampleCount": 147,
+      "totalMsgs": 22777
     },
     "15": {
       "avgViewers": 515,
@@ -521,14 +521,14 @@
     },
     {
       "date": "2026-04-08",
-      "avgViewers": 130,
-      "peakViewers": 225,
-      "totalMsgs": 52,
+      "avgViewers": 251,
+      "peakViewers": 362,
+      "totalMsgs": 501,
       "categories": [
         "Just Chatting"
       ]
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-08T14:19:56.180Z"
+  "lastUpdated": "2026-04-08T14:49:56.182Z"
 }
