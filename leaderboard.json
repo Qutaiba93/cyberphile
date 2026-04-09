@@ -128,12 +128,12 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 8438,
-      "totalEarned": 11503,
+      "balance": 8535,
+      "totalEarned": 11600,
       "totalSpent": 3065,
       "gamesPlayed": 24,
       "gamesWon": 5,
-      "streak": 8
+      "streak": 9
     },
     {
       "name": "patwifi",
@@ -280,21 +280,21 @@
       "streak": 4
     },
     {
+      "name": "kooooool",
+      "balance": 6324,
+      "totalEarned": 32474,
+      "totalSpent": 26150,
+      "gamesPlayed": 21,
+      "gamesWon": 8,
+      "streak": 9
+    },
+    {
       "name": "lena_xc",
       "balance": 6234,
       "totalEarned": 6234,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 8
-    },
-    {
-      "name": "kooooool",
-      "balance": 6225,
-      "totalEarned": 32375,
-      "totalSpent": 26150,
-      "gamesPlayed": 21,
-      "gamesWon": 8,
       "streak": 8
     },
     {
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1439,
-    "totalCirculating": 1381742,
+    "totalCirculating": 1382296,
     "totalGames": 8356,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-09T14:49:56.259Z"
+  "lastUpdated": "2026-04-09T15:19:56.264Z"
 }
