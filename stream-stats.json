@@ -1,10 +1,10 @@
 {
   "totalSessions": 65,
   "totalDays": 53,
-  "totalSegments": 2566,
+  "totalSegments": 2569,
   "allTimePeak": 17991,
-  "allTimeAvg": 633,
-  "totalMessages": 533373,
+  "allTimeAvg": 634,
+  "totalMessages": 534062,
   "categories": [
     {
       "name": "Rust",
@@ -113,10 +113,10 @@
     },
     {
       "name": "The Elder Scrolls V: Skyrim",
-      "avgViewers": 647,
+      "avgViewers": 650,
       "peakViewers": 744,
-      "sampleCount": 22,
-      "totalMsgs": 4404
+      "sampleCount": 23,
+      "totalMsgs": 4594
     },
     {
       "name": "Rocket League",
@@ -197,10 +197,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 591,
+      "avgViewers": 592,
       "peakViewers": 903,
-      "sampleCount": 1022,
-      "totalMsgs": 220978
+      "sampleCount": 1024,
+      "totalMsgs": 221477
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -338,9 +338,9 @@
       "totalMsgs": 62790
     },
     "21": {
-      "avgViewers": 687,
-      "sampleCount": 258,
-      "totalMsgs": 56351
+      "avgViewers": 688,
+      "sampleCount": 261,
+      "totalMsgs": 57040
     },
     "22": {
       "avgViewers": 675,
@@ -521,16 +521,17 @@
     },
     {
       "date": "2026-04-09",
-      "avgViewers": 635,
-      "peakViewers": 784,
-      "totalMsgs": 7407,
+      "avgViewers": 646,
+      "peakViewers": 814,
+      "totalMsgs": 8096,
       "categories": [
         "Just Chatting",
         "Call of Duty: Black Ops",
-        "Chat Roulette"
+        "Chat Roulette",
+        "The Elder Scrolls V: Skyrim"
       ]
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-09T21:19:56.263Z"
+  "lastUpdated": "2026-04-09T21:49:56.261Z"
 }
