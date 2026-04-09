@@ -1,10 +1,10 @@
 {
   "totalSessions": 65,
   "totalDays": 53,
-  "totalSegments": 2572,
+  "totalSegments": 2575,
   "allTimePeak": 17991,
   "allTimeAvg": 634,
-  "totalMessages": 534356,
+  "totalMessages": 534918,
   "categories": [
     {
       "name": "Rust",
@@ -112,18 +112,18 @@
       "totalMsgs": 7002
     },
     {
-      "name": "The Elder Scrolls V: Skyrim",
-      "avgViewers": 649,
-      "peakViewers": 744,
-      "sampleCount": 26,
-      "totalMsgs": 4888
-    },
-    {
       "name": "Rocket League",
       "avgViewers": 645,
       "peakViewers": 756,
       "sampleCount": 29,
       "totalMsgs": 7065
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim",
+      "avgViewers": 645,
+      "peakViewers": 744,
+      "sampleCount": 29,
+      "totalMsgs": 5450
     },
     {
       "name": "Counter-Strike 2",
@@ -343,9 +343,9 @@
       "totalMsgs": 57118
     },
     "22": {
-      "avgViewers": 675,
-      "sampleCount": 207,
-      "totalMsgs": 44524
+      "avgViewers": 674,
+      "sampleCount": 210,
+      "totalMsgs": 45086
     },
     "23": {
       "avgViewers": 645,
@@ -521,9 +521,9 @@
     },
     {
       "date": "2026-04-09",
-      "avgViewers": 646,
+      "avgViewers": 643,
       "peakViewers": 814,
-      "totalMsgs": 8390,
+      "totalMsgs": 8952,
       "categories": [
         "Just Chatting",
         "Call of Duty: Black Ops",
@@ -533,5 +533,5 @@
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-09T22:19:56.261Z"
+  "lastUpdated": "2026-04-09T22:49:56.263Z"
 }
