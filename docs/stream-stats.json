@@ -1,10 +1,10 @@
 {
-  "totalSessions": 64,
-  "totalDays": 52,
-  "totalSegments": 2531,
+  "totalSessions": 65,
+  "totalDays": 53,
+  "totalSegments": 2533,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 525966,
+  "totalMessages": 526547,
   "categories": [
     {
       "name": "Rust",
@@ -190,10 +190,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 592,
+      "avgViewers": 591,
       "peakViewers": 903,
-      "sampleCount": 1004,
-      "totalMsgs": 216702
+      "sampleCount": 1006,
+      "totalMsgs": 217283
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -308,9 +308,9 @@
       "totalMsgs": 22936
     },
     "15": {
-      "avgViewers": 516,
-      "sampleCount": 224,
-      "totalMsgs": 43656
+      "avgViewers": 514,
+      "sampleCount": 226,
+      "totalMsgs": 44237
     },
     "16": {
       "avgViewers": 696,
@@ -354,19 +354,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-24",
-      "avgViewers": 601,
-      "peakViewers": 732,
-      "totalMsgs": 11551,
-      "categories": [
-        "Movierooms",
-        "Just Chatting",
-        "Counter-Strike 2",
-        "VALORANT",
-        "Sea of Thieves"
-      ]
-    },
     {
       "date": "2026-03-25",
       "avgViewers": 609,
@@ -531,8 +518,17 @@
         "Chat Roulette",
         "The Elder Scrolls V: Skyrim"
       ]
+    },
+    {
+      "date": "2026-04-09",
+      "avgViewers": 273,
+      "peakViewers": 326,
+      "totalMsgs": 581,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-04-04T20:19:41.496Z",
-  "lastUpdated": "2026-04-09T15:19:56.256Z"
+  "lastUpdated": "2026-04-09T15:49:56.252Z"
 }
