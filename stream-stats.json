@@ -1,10 +1,10 @@
 {
   "totalSessions": 66,
   "totalDays": 54,
-  "totalSegments": 2590,
+  "totalSegments": 2593,
   "allTimePeak": 17991,
   "allTimeAvg": 634,
-  "totalMessages": 538422,
+  "totalMessages": 538857,
   "categories": [
     {
       "name": "Rust",
@@ -224,6 +224,13 @@
       "totalMsgs": 678
     },
     {
+      "name": "Call of Duty: Black Ops Zombies",
+      "avgViewers": 561,
+      "peakViewers": 572,
+      "sampleCount": 3,
+      "totalMsgs": 435
+    },
+    {
       "name": "God of War Ragnarök",
       "avgViewers": 556,
       "peakViewers": 690,
@@ -348,9 +355,9 @@
       "totalMsgs": 46936
     },
     "23": {
-      "avgViewers": 645,
-      "sampleCount": 143,
-      "totalMsgs": 28009
+      "avgViewers": 644,
+      "sampleCount": 146,
+      "totalMsgs": 28444
     }
   },
   "dailyHistory": [
@@ -521,15 +528,16 @@
     },
     {
       "date": "2026-04-10",
-      "avgViewers": 683,
+      "avgViewers": 659,
       "peakViewers": 731,
-      "totalMsgs": 2862,
+      "totalMsgs": 3297,
       "categories": [
         "Just Chatting",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Call of Duty: Black Ops Zombies"
       ]
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-10T23:29:58.037Z"
+  "lastUpdated": "2026-04-10T23:59:58.039Z"
 }
