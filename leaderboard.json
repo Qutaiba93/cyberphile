@@ -83,12 +83,12 @@
     },
     {
       "name": "drogan",
-      "balance": 11348,
-      "totalEarned": 11348,
+      "balance": 11466,
+      "totalEarned": 11466,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 10
+      "streak": 11
     },
     {
       "name": "furrreal",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1470,
-    "totalCirculating": 1443663,
+    "totalCirculating": 1443781,
     "totalGames": 8379,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-11T11:59:58.092Z"
+  "lastUpdated": "2026-04-11T12:29:58.093Z"
 }
