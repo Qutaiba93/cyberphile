@@ -1,10 +1,10 @@
 {
   "totalSessions": 67,
   "totalDays": 55,
-  "totalSegments": 2617,
+  "totalSegments": 2620,
   "allTimePeak": 17991,
-  "allTimeAvg": 633,
-  "totalMessages": 544495,
+  "allTimeAvg": 632,
+  "totalMessages": 545263,
   "categories": [
     {
       "name": "Rust",
@@ -199,8 +199,8 @@
       "name": "Just Chatting",
       "avgViewers": 591,
       "peakViewers": 903,
-      "sampleCount": 1046,
-      "totalMsgs": 226781
+      "sampleCount": 1049,
+      "totalMsgs": 227549
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -325,9 +325,9 @@
       "totalMsgs": 56918
     },
     "17": {
-      "avgViewers": 744,
-      "sampleCount": 257,
-      "totalMsgs": 57006
+      "avgViewers": 741,
+      "sampleCount": 260,
+      "totalMsgs": 57774
     },
     "18": {
       "avgViewers": 697,
@@ -526,9 +526,9 @@
     },
     {
       "date": "2026-04-11",
-      "avgViewers": 518,
+      "avgViewers": 507,
       "peakViewers": 749,
-      "totalMsgs": 5046,
+      "totalMsgs": 5814,
       "categories": [
         "Call of Duty: Black Ops Zombies",
         "Just Chatting"
@@ -536,5 +536,5 @@
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-11T17:29:58.088Z"
+  "lastUpdated": "2026-04-11T17:59:58.089Z"
 }
