@@ -1,10 +1,10 @@
 {
-  "totalSessions": 66,
-  "totalDays": 54,
-  "totalSegments": 2596,
+  "totalSessions": 67,
+  "totalDays": 55,
+  "totalSegments": 2599,
   "allTimePeak": 17991,
-  "allTimeAvg": 634,
-  "totalMessages": 539449,
+  "allTimeAvg": 633,
+  "totalMessages": 539830,
   "categories": [
     {
       "name": "Rust",
@@ -199,8 +199,8 @@
       "name": "Just Chatting",
       "avgViewers": 592,
       "peakViewers": 903,
-      "sampleCount": 1027,
-      "totalMsgs": 221955
+      "sampleCount": 1028,
+      "totalMsgs": 222116
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -224,13 +224,6 @@
       "totalMsgs": 678
     },
     {
-      "name": "Call of Duty: Black Ops Zombies",
-      "avgViewers": 560,
-      "peakViewers": 572,
-      "sampleCount": 6,
-      "totalMsgs": 1027
-    },
-    {
       "name": "God of War Ragnarök",
       "avgViewers": 556,
       "peakViewers": 690,
@@ -250,6 +243,13 @@
       "peakViewers": 601,
       "sampleCount": 41,
       "totalMsgs": 9011
+    },
+    {
+      "name": "Call of Duty: Black Ops Zombies",
+      "avgViewers": 456,
+      "peakViewers": 572,
+      "sampleCount": 8,
+      "totalMsgs": 1247
     },
     {
       "name": "Too Well Hidden",
@@ -310,9 +310,9 @@
       "totalMsgs": 3614
     },
     "14": {
-      "avgViewers": 352,
-      "sampleCount": 148,
-      "totalMsgs": 22936
+      "avgViewers": 349,
+      "sampleCount": 151,
+      "totalMsgs": 23317
     },
     "15": {
       "avgViewers": 514,
@@ -361,19 +361,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-26",
-      "avgViewers": 562,
-      "peakViewers": 645,
-      "totalMsgs": 6895,
-      "categories": [
-        "Just Chatting",
-        "Chat Roulette",
-        "VALORANT",
-        "Call of Duty: Black Ops III",
-        "Sons of the Forest"
-      ]
-    },
     {
       "date": "2026-03-27",
       "avgViewers": 644,
@@ -536,8 +523,18 @@
         "Chat Roulette",
         "Call of Duty: Black Ops Zombies"
       ]
+    },
+    {
+      "date": "2026-04-11",
+      "avgViewers": 196,
+      "peakViewers": 299,
+      "totalMsgs": 381,
+      "categories": [
+        "Call of Duty: Black Ops Zombies",
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-11T13:59:58.086Z"
+  "lastUpdated": "2026-04-11T14:29:58.089Z"
 }
