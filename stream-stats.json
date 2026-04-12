@@ -1,10 +1,10 @@
 {
   "totalSessions": 68,
   "totalDays": 56,
-  "totalSegments": 2660,
+  "totalSegments": 2663,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 555631,
+  "totalMessages": 556298,
   "categories": [
     {
       "name": "Rust",
@@ -15,10 +15,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 788,
+      "avgViewers": 786,
       "peakViewers": 17935,
-      "sampleCount": 117,
-      "totalMsgs": 23465
+      "sampleCount": 119,
+      "totalMsgs": 23913
     },
     {
       "name": "VRChat",
@@ -199,8 +199,8 @@
       "name": "Just Chatting",
       "avgViewers": 589,
       "peakViewers": 903,
-      "sampleCount": 1079,
-      "totalMsgs": 235279
+      "sampleCount": 1080,
+      "totalMsgs": 235498
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -315,9 +315,9 @@
       "totalMsgs": 24783
     },
     "15": {
-      "avgViewers": 518,
-      "sampleCount": 233,
-      "totalMsgs": 46298
+      "avgViewers": 520,
+      "sampleCount": 236,
+      "totalMsgs": 46965
     },
     "16": {
       "avgViewers": 691,
@@ -524,14 +524,15 @@
     },
     {
       "date": "2026-04-12",
-      "avgViewers": 355,
-      "peakViewers": 566,
-      "totalMsgs": 873,
+      "avgViewers": 438,
+      "peakViewers": 670,
+      "totalMsgs": 1540,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "VALORANT"
       ]
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-12T14:59:58.226Z"
+  "lastUpdated": "2026-04-12T15:29:58.216Z"
 }
