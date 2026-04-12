@@ -1,10 +1,10 @@
 {
   "totalSessions": 68,
   "totalDays": 56,
-  "totalSegments": 2699,
+  "totalSegments": 2702,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 565478,
+  "totalMessages": 566412,
   "categories": [
     {
       "name": "Rust",
@@ -28,18 +28,18 @@
       "totalMsgs": 2696
     },
     {
-      "name": "VRChat",
-      "avgViewers": 755,
-      "peakViewers": 796,
-      "sampleCount": 7,
-      "totalMsgs": 1607
-    },
-    {
       "name": "Gartic Phone",
       "avgViewers": 752,
       "peakViewers": 769,
       "sampleCount": 5,
       "totalMsgs": 620
+    },
+    {
+      "name": "VRChat",
+      "avgViewers": 744,
+      "peakViewers": 796,
+      "sampleCount": 9,
+      "totalMsgs": 2115
     },
     {
       "name": "Songbattle.io",
@@ -52,8 +52,8 @@
       "name": "Chat Roulette",
       "avgViewers": 708,
       "peakViewers": 902,
-      "sampleCount": 275,
-      "totalMsgs": 65567
+      "sampleCount": 276,
+      "totalMsgs": 65993
     },
     {
       "name": "Trash Horror Collection",
@@ -346,8 +346,8 @@
     },
     "21": {
       "avgViewers": 686,
-      "sampleCount": 274,
-      "totalMsgs": 59808
+      "sampleCount": 277,
+      "totalMsgs": 60742
     },
     "22": {
       "avgViewers": 675,
@@ -524,9 +524,9 @@
     },
     {
       "date": "2026-04-12",
-      "avgViewers": 677,
+      "avgViewers": 678,
       "peakViewers": 825,
-      "totalMsgs": 10720,
+      "totalMsgs": 11654,
       "categories": [
         "Just Chatting",
         "VALORANT",
@@ -538,5 +538,5 @@
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-12T21:29:58.233Z"
+  "lastUpdated": "2026-04-12T21:59:58.233Z"
 }
