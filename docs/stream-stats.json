@@ -1,10 +1,10 @@
 {
   "totalSessions": 68,
   "totalDays": 56,
-  "totalSegments": 2696,
+  "totalSegments": 2699,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 564608,
+  "totalMessages": 565478,
   "categories": [
     {
       "name": "Rust",
@@ -21,18 +21,18 @@
       "totalMsgs": 23913
     },
     {
-      "name": "VRChat",
-      "avgViewers": 772,
-      "peakViewers": 796,
-      "sampleCount": 5,
-      "totalMsgs": 1057
-    },
-    {
       "name": "Games + Demos",
       "avgViewers": 766,
       "peakViewers": 876,
       "sampleCount": 7,
       "totalMsgs": 2696
+    },
+    {
+      "name": "VRChat",
+      "avgViewers": 755,
+      "peakViewers": 796,
+      "sampleCount": 7,
+      "totalMsgs": 1607
     },
     {
       "name": "Gartic Phone",
@@ -176,10 +176,10 @@
     },
     {
       "name": "PUBG: Battlegrounds",
-      "avgViewers": 606,
-      "peakViewers": 711,
-      "sampleCount": 25,
-      "totalMsgs": 4078
+      "avgViewers": 611,
+      "peakViewers": 714,
+      "sampleCount": 26,
+      "totalMsgs": 4398
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -346,8 +346,8 @@
     },
     "21": {
       "avgViewers": 686,
-      "sampleCount": 271,
-      "totalMsgs": 58938
+      "sampleCount": 274,
+      "totalMsgs": 59808
     },
     "22": {
       "avgViewers": 675,
@@ -524,18 +524,19 @@
     },
     {
       "date": "2026-04-12",
-      "avgViewers": 674,
+      "avgViewers": 677,
       "peakViewers": 825,
-      "totalMsgs": 9850,
+      "totalMsgs": 10720,
       "categories": [
         "Just Chatting",
         "VALORANT",
         "ARC Raiders",
         "Chat Roulette",
-        "PUBG: Battlegrounds"
+        "PUBG: Battlegrounds",
+        "VRChat"
       ]
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-12T20:59:58.229Z"
+  "lastUpdated": "2026-04-12T21:29:58.233Z"
 }
