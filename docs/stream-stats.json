@@ -1,10 +1,10 @@
 {
-  "totalSessions": 67,
-  "totalDays": 55,
-  "totalSegments": 2653,
+  "totalSessions": 68,
+  "totalDays": 56,
+  "totalSegments": 2654,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 554758,
+  "totalMessages": 554819,
   "categories": [
     {
       "name": "Rust",
@@ -197,10 +197,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 591,
+      "avgViewers": 590,
       "peakViewers": 903,
-      "sampleCount": 1072,
-      "totalMsgs": 234406
+      "sampleCount": 1073,
+      "totalMsgs": 234467
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -305,9 +305,9 @@
       "totalMsgs": 324
     },
     "13": {
-      "avgViewers": 210,
-      "sampleCount": 35,
-      "totalMsgs": 3614
+      "avgViewers": 205,
+      "sampleCount": 36,
+      "totalMsgs": 3675
     },
     "14": {
       "avgViewers": 351,
@@ -361,19 +361,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-27",
-      "avgViewers": 644,
-      "peakViewers": 755,
-      "totalMsgs": 14398,
-      "categories": [
-        "Just Chatting",
-        "Call of Duty: Black Ops III",
-        "Counter-Strike 2",
-        "Sons of the Forest",
-        "VALORANT"
-      ]
-    },
     {
       "date": "2026-03-28",
       "avgViewers": 560,
@@ -534,8 +521,17 @@
         "Just Chatting",
         "Chat Roulette"
       ]
+    },
+    {
+      "date": "2026-04-12",
+      "avgViewers": 45,
+      "peakViewers": 45,
+      "totalMsgs": 61,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-12T13:29:58.226Z"
+  "lastUpdated": "2026-04-12T13:59:58.226Z"
 }
