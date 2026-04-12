@@ -1,10 +1,10 @@
 {
   "totalSessions": 68,
   "totalDays": 56,
-  "totalSegments": 2711,
+  "totalSegments": 2714,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 568644,
+  "totalMessages": 569569,
   "categories": [
     {
       "name": "Rust",
@@ -129,8 +129,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 642,
       "peakViewers": 841,
-      "sampleCount": 252,
-      "totalMsgs": 45600
+      "sampleCount": 254,
+      "totalMsgs": 46133
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -169,10 +169,10 @@
     },
     {
       "name": "PUBG: Battlegrounds",
-      "avgViewers": 616,
+      "avgViewers": 617,
       "peakViewers": 714,
-      "sampleCount": 30,
-      "totalMsgs": 5147
+      "sampleCount": 31,
+      "totalMsgs": 5539
     },
     {
       "name": "Minecraft",
@@ -356,8 +356,8 @@
     },
     "23": {
       "avgViewers": 644,
-      "sampleCount": 152,
-      "totalMsgs": 29691
+      "sampleCount": 155,
+      "totalMsgs": 30616
     }
   },
   "dailyHistory": [
@@ -524,19 +524,20 @@
     },
     {
       "date": "2026-04-12",
-      "avgViewers": 682,
+      "avgViewers": 680,
       "peakViewers": 825,
-      "totalMsgs": 13886,
+      "totalMsgs": 14811,
       "categories": [
         "Just Chatting",
         "VALORANT",
         "ARC Raiders",
         "Chat Roulette",
         "PUBG: Battlegrounds",
-        "VRChat"
+        "VRChat",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-12T23:29:58.232Z"
+  "lastUpdated": "2026-04-12T23:59:58.233Z"
 }
