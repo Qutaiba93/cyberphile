@@ -1,10 +1,10 @@
 {
   "totalSessions": 69,
   "totalDays": 57,
-  "totalSegments": 2748,
+  "totalSegments": 2751,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 574269,
+  "totalMessages": 574771,
   "categories": [
     {
       "name": "Rust",
@@ -99,10 +99,10 @@
     },
     {
       "name": "ARC Raiders",
-      "avgViewers": 652,
+      "avgViewers": 654,
       "peakViewers": 751,
-      "sampleCount": 60,
-      "totalMsgs": 10851
+      "sampleCount": 63,
+      "totalMsgs": 11353
     },
     {
       "name": "League of Legends",
@@ -336,8 +336,8 @@
     },
     "19": {
       "avgViewers": 702,
-      "sampleCount": 275,
-      "totalMsgs": 65650
+      "sampleCount": 278,
+      "totalMsgs": 66152
     },
     "20": {
       "avgViewers": 682,
@@ -523,9 +523,9 @@
     },
     {
       "date": "2026-04-13",
-      "avgViewers": 560,
+      "avgViewers": 573,
       "peakViewers": 712,
-      "totalMsgs": 3777,
+      "totalMsgs": 4279,
       "categories": [
         "Just Chatting",
         "ARC Raiders"
@@ -533,5 +533,5 @@
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-13T18:59:58.287Z"
+  "lastUpdated": "2026-04-13T19:29:58.290Z"
 }
