@@ -1,10 +1,10 @@
 {
   "totalSessions": 69,
   "totalDays": 57,
-  "totalSegments": 2730,
+  "totalSegments": 2733,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 571353,
+  "totalMessages": 571728,
   "categories": [
     {
       "name": "Rust",
@@ -105,13 +105,6 @@
       "totalMsgs": 7002
     },
     {
-      "name": "ARC Raiders",
-      "avgViewers": 646,
-      "peakViewers": 751,
-      "sampleCount": 42,
-      "totalMsgs": 7935
-    },
-    {
       "name": "Rocket League",
       "avgViewers": 645,
       "peakViewers": 756,
@@ -124,6 +117,13 @@
       "peakViewers": 744,
       "sampleCount": 30,
       "totalMsgs": 5736
+    },
+    {
+      "name": "ARC Raiders",
+      "avgViewers": 644,
+      "peakViewers": 751,
+      "sampleCount": 45,
+      "totalMsgs": 8310
     },
     {
       "name": "Counter-Strike 2",
@@ -320,9 +320,9 @@
       "totalMsgs": 48186
     },
     "16": {
-      "avgViewers": 692,
-      "sampleCount": 259,
-      "totalMsgs": 58007
+      "avgViewers": 691,
+      "sampleCount": 262,
+      "totalMsgs": 58382
     },
     "17": {
       "avgViewers": 741,
@@ -523,9 +523,9 @@
     },
     {
       "date": "2026-04-13",
-      "avgViewers": 373,
-      "peakViewers": 539,
-      "totalMsgs": 861,
+      "avgViewers": 428,
+      "peakViewers": 616,
+      "totalMsgs": 1236,
       "categories": [
         "Just Chatting",
         "ARC Raiders"
@@ -533,5 +533,5 @@
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-13T15:59:58.272Z"
+  "lastUpdated": "2026-04-13T16:29:58.273Z"
 }
