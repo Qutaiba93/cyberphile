@@ -1,10 +1,10 @@
 {
   "totalSessions": 69,
   "totalDays": 57,
-  "totalSegments": 2766,
+  "totalSegments": 2769,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 577950,
+  "totalMessages": 579219,
   "categories": [
     {
       "name": "Rust",
@@ -175,13 +175,6 @@
       "totalMsgs": 12155
     },
     {
-      "name": "PUBG: Battlegrounds",
-      "avgViewers": 609,
-      "peakViewers": 714,
-      "sampleCount": 42,
-      "totalMsgs": 7699
-    },
-    {
       "name": "Creepy Shift: House for Sale",
       "avgViewers": 605,
       "peakViewers": 611,
@@ -194,6 +187,13 @@
       "peakViewers": 652,
       "sampleCount": 10,
       "totalMsgs": 1817
+    },
+    {
+      "name": "PUBG: Battlegrounds",
+      "avgViewers": 599,
+      "peakViewers": 714,
+      "sampleCount": 45,
+      "totalMsgs": 8968
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -350,9 +350,9 @@
       "totalMsgs": 62097
     },
     "22": {
-      "avgViewers": 677,
-      "sampleCount": 229,
-      "totalMsgs": 50559
+      "avgViewers": 674,
+      "sampleCount": 232,
+      "totalMsgs": 51828
     },
     "23": {
       "avgViewers": 644,
@@ -523,9 +523,9 @@
     },
     {
       "date": "2026-04-13",
-      "avgViewers": 599,
+      "avgViewers": 591,
       "peakViewers": 748,
-      "totalMsgs": 7458,
+      "totalMsgs": 8727,
       "categories": [
         "Just Chatting",
         "ARC Raiders",
@@ -535,5 +535,5 @@
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-13T21:59:58.288Z"
+  "lastUpdated": "2026-04-13T22:29:58.289Z"
 }
