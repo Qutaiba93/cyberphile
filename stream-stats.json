@@ -1,10 +1,10 @@
 {
   "totalSessions": 69,
   "totalDays": 57,
-  "totalSegments": 2751,
+  "totalSegments": 2754,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 574771,
+  "totalMessages": 575319,
   "categories": [
     {
       "name": "Rust",
@@ -99,10 +99,10 @@
     },
     {
       "name": "ARC Raiders",
-      "avgViewers": 654,
+      "avgViewers": 655,
       "peakViewers": 751,
-      "sampleCount": 63,
-      "totalMsgs": 11353
+      "sampleCount": 64,
+      "totalMsgs": 11524
     },
     {
       "name": "League of Legends",
@@ -246,10 +246,10 @@
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
-      "avgViewers": 456,
-      "peakViewers": 572,
-      "sampleCount": 8,
-      "totalMsgs": 1247
+      "avgViewers": 504,
+      "peakViewers": 701,
+      "sampleCount": 10,
+      "totalMsgs": 1624
     },
     {
       "name": "Too Well Hidden",
@@ -336,8 +336,8 @@
     },
     "19": {
       "avgViewers": 702,
-      "sampleCount": 278,
-      "totalMsgs": 66152
+      "sampleCount": 281,
+      "totalMsgs": 66700
     },
     "20": {
       "avgViewers": 682,
@@ -523,15 +523,16 @@
     },
     {
       "date": "2026-04-13",
-      "avgViewers": 573,
-      "peakViewers": 712,
-      "totalMsgs": 4279,
+      "avgViewers": 585,
+      "peakViewers": 714,
+      "totalMsgs": 4827,
       "categories": [
         "Just Chatting",
-        "ARC Raiders"
+        "ARC Raiders",
+        "Call of Duty: Black Ops Zombies"
       ]
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-13T19:29:58.290Z"
+  "lastUpdated": "2026-04-13T19:59:58.288Z"
 }
