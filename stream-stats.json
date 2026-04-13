@@ -1,10 +1,10 @@
 {
   "totalSessions": 69,
   "totalDays": 57,
-  "totalSegments": 2757,
+  "totalSegments": 2760,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 575923,
+  "totalMessages": 576595,
   "categories": [
     {
       "name": "Rust",
@@ -178,8 +178,8 @@
       "name": "PUBG: Battlegrounds",
       "avgViewers": 613,
       "peakViewers": 714,
-      "sampleCount": 34,
-      "totalMsgs": 5874
+      "sampleCount": 36,
+      "totalMsgs": 6344
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -210,6 +210,13 @@
       "totalMsgs": 239672
     },
     {
+      "name": "Call of Duty: Black Ops Zombies",
+      "avgViewers": 571,
+      "peakViewers": 748,
+      "sampleCount": 14,
+      "totalMsgs": 2430
+    },
+    {
       "name": "Backrooms",
       "avgViewers": 563,
       "peakViewers": 623,
@@ -222,13 +229,6 @@
       "peakViewers": 720,
       "sampleCount": 6,
       "totalMsgs": 678
-    },
-    {
-      "name": "Call of Duty: Black Ops Zombies",
-      "avgViewers": 559,
-      "peakViewers": 748,
-      "sampleCount": 13,
-      "totalMsgs": 2228
     },
     {
       "name": "God of War Ragnarök",
@@ -341,8 +341,8 @@
     },
     "20": {
       "avgViewers": 683,
-      "sampleCount": 282,
-      "totalMsgs": 66804
+      "sampleCount": 285,
+      "totalMsgs": 67476
     },
     "21": {
       "avgViewers": 686,
@@ -523,16 +523,17 @@
     },
     {
       "date": "2026-04-13",
-      "avgViewers": 598,
+      "avgViewers": 602,
       "peakViewers": 748,
-      "totalMsgs": 5431,
+      "totalMsgs": 6103,
       "categories": [
         "Just Chatting",
         "ARC Raiders",
-        "Call of Duty: Black Ops Zombies"
+        "Call of Duty: Black Ops Zombies",
+        "PUBG: Battlegrounds"
       ]
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-13T20:29:58.288Z"
+  "lastUpdated": "2026-04-13T20:59:58.291Z"
 }
