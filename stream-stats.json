@@ -1,10 +1,10 @@
 {
   "totalSessions": 69,
   "totalDays": 57,
-  "totalSegments": 2721,
+  "totalSegments": 2724,
   "allTimePeak": 17991,
-  "allTimeAvg": 633,
-  "totalMessages": 570495,
+  "allTimeAvg": 632,
+  "totalMessages": 570748,
   "categories": [
     {
       "name": "Rust",
@@ -206,8 +206,8 @@
       "name": "Just Chatting",
       "avgViewers": 590,
       "peakViewers": 903,
-      "sampleCount": 1097,
-      "totalMsgs": 239205
+      "sampleCount": 1100,
+      "totalMsgs": 239458
     },
     {
       "name": "Backrooms",
@@ -310,9 +310,9 @@
       "totalMsgs": 3675
     },
     "14": {
-      "avgViewers": 351,
-      "sampleCount": 161,
-      "totalMsgs": 24786
+      "avgViewers": 349,
+      "sampleCount": 164,
+      "totalMsgs": 25039
     },
     "15": {
       "avgViewers": 522,
@@ -523,14 +523,14 @@
     },
     {
       "date": "2026-04-13",
-      "avgViewers": 0,
-      "peakViewers": 0,
-      "totalMsgs": 3,
+      "avgViewers": 201,
+      "peakViewers": 349,
+      "totalMsgs": 256,
       "categories": [
         "Just Chatting"
       ]
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-13T14:29:58.268Z"
+  "lastUpdated": "2026-04-13T14:59:58.275Z"
 }
