@@ -1,10 +1,10 @@
 {
   "totalSessions": 69,
   "totalDays": 57,
-  "totalSegments": 2754,
+  "totalSegments": 2757,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 575319,
+  "totalMessages": 575923,
   "categories": [
     {
       "name": "Rust",
@@ -224,6 +224,13 @@
       "totalMsgs": 678
     },
     {
+      "name": "Call of Duty: Black Ops Zombies",
+      "avgViewers": 559,
+      "peakViewers": 748,
+      "sampleCount": 13,
+      "totalMsgs": 2228
+    },
+    {
       "name": "God of War Ragnarök",
       "avgViewers": 556,
       "peakViewers": 690,
@@ -243,13 +250,6 @@
       "peakViewers": 601,
       "sampleCount": 41,
       "totalMsgs": 9011
-    },
-    {
-      "name": "Call of Duty: Black Ops Zombies",
-      "avgViewers": 504,
-      "peakViewers": 701,
-      "sampleCount": 10,
-      "totalMsgs": 1624
     },
     {
       "name": "Too Well Hidden",
@@ -340,9 +340,9 @@
       "totalMsgs": 66700
     },
     "20": {
-      "avgViewers": 682,
-      "sampleCount": 279,
-      "totalMsgs": 66200
+      "avgViewers": 683,
+      "sampleCount": 282,
+      "totalMsgs": 66804
     },
     "21": {
       "avgViewers": 686,
@@ -523,9 +523,9 @@
     },
     {
       "date": "2026-04-13",
-      "avgViewers": 585,
-      "peakViewers": 714,
-      "totalMsgs": 4827,
+      "avgViewers": 598,
+      "peakViewers": 748,
+      "totalMsgs": 5431,
       "categories": [
         "Just Chatting",
         "ARC Raiders",
@@ -534,5 +534,5 @@
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-13T19:59:58.288Z"
+  "lastUpdated": "2026-04-13T20:29:58.288Z"
 }
