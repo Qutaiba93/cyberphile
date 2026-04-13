@@ -1,10 +1,10 @@
 {
-  "totalSessions": 68,
-  "totalDays": 56,
-  "totalSegments": 2720,
+  "totalSessions": 69,
+  "totalDays": 57,
+  "totalSegments": 2721,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 570492,
+  "totalMessages": 570495,
   "categories": [
     {
       "name": "Rust",
@@ -204,10 +204,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 591,
+      "avgViewers": 590,
       "peakViewers": 903,
-      "sampleCount": 1096,
-      "totalMsgs": 239202
+      "sampleCount": 1097,
+      "totalMsgs": 239205
     },
     {
       "name": "Backrooms",
@@ -310,9 +310,9 @@
       "totalMsgs": 3675
     },
     "14": {
-      "avgViewers": 353,
-      "sampleCount": 160,
-      "totalMsgs": 24783
+      "avgViewers": 351,
+      "sampleCount": 161,
+      "totalMsgs": 24786
     },
     "15": {
       "avgViewers": 522,
@@ -361,22 +361,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-28",
-      "avgViewers": 560,
-      "peakViewers": 793,
-      "totalMsgs": 14430,
-      "categories": [
-        "VALORANT",
-        "Movierooms",
-        "Just Chatting",
-        "IRL",
-        "Counter-Strike 2",
-        "Sea of Thieves",
-        "Sons of the Forest",
-        "Call of Duty: Black Ops"
-      ]
-    },
     {
       "date": "2026-03-29",
       "avgViewers": 141,
@@ -536,8 +520,17 @@
         "VRChat",
         "Counter-Strike 2"
       ]
+    },
+    {
+      "date": "2026-04-13",
+      "avgViewers": 0,
+      "peakViewers": 0,
+      "totalMsgs": 3,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-13T13:59:58.268Z"
+  "lastUpdated": "2026-04-13T14:29:58.268Z"
 }
