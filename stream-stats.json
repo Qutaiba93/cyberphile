@@ -1,10 +1,10 @@
 {
   "totalSessions": 69,
   "totalDays": 57,
-  "totalSegments": 2763,
+  "totalSegments": 2766,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 577053,
+  "totalMessages": 577950,
   "categories": [
     {
       "name": "Rust",
@@ -176,10 +176,10 @@
     },
     {
       "name": "PUBG: Battlegrounds",
-      "avgViewers": 611,
+      "avgViewers": 609,
       "peakViewers": 714,
-      "sampleCount": 39,
-      "totalMsgs": 6802
+      "sampleCount": 42,
+      "totalMsgs": 7699
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -345,9 +345,9 @@
       "totalMsgs": 67476
     },
     "21": {
-      "avgViewers": 685,
-      "sampleCount": 280,
-      "totalMsgs": 61200
+      "avgViewers": 684,
+      "sampleCount": 283,
+      "totalMsgs": 62097
     },
     "22": {
       "avgViewers": 677,
@@ -523,9 +523,9 @@
     },
     {
       "date": "2026-04-13",
-      "avgViewers": 600,
+      "avgViewers": 599,
       "peakViewers": 748,
-      "totalMsgs": 6561,
+      "totalMsgs": 7458,
       "categories": [
         "Just Chatting",
         "ARC Raiders",
@@ -535,5 +535,5 @@
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-13T21:29:58.290Z"
+  "lastUpdated": "2026-04-13T21:59:58.288Z"
 }
