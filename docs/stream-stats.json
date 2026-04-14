@@ -1,10 +1,10 @@
 {
   "totalSessions": 70,
   "totalDays": 58,
-  "totalSegments": 2792,
+  "totalSegments": 2795,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 583658,
+  "totalMessages": 584424,
   "categories": [
     {
       "name": "Rust",
@@ -127,10 +127,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 642,
+      "avgViewers": 641,
       "peakViewers": 841,
-      "sampleCount": 260,
-      "totalMsgs": 47270
+      "sampleCount": 261,
+      "totalMsgs": 47468
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -252,6 +252,13 @@
       "totalMsgs": 9011
     },
     {
+      "name": "Call of Duty Zombies",
+      "avgViewers": 455,
+      "peakViewers": 474,
+      "sampleCount": 2,
+      "totalMsgs": 568
+    },
+    {
       "name": "Too Well Hidden",
       "avgViewers": 404,
       "peakViewers": 421,
@@ -335,9 +342,9 @@
       "totalMsgs": 67565
     },
     "19": {
-      "avgViewers": 702,
-      "sampleCount": 281,
-      "totalMsgs": 66700
+      "avgViewers": 699,
+      "sampleCount": 284,
+      "totalMsgs": 67466
     },
     "20": {
       "avgViewers": 683,
@@ -526,17 +533,18 @@
     },
     {
       "date": "2026-04-14",
-      "avgViewers": 608,
+      "avgViewers": 593,
       "peakViewers": 819,
-      "totalMsgs": 4439,
+      "totalMsgs": 5205,
       "categories": [
         "PUBG: Battlegrounds",
         "Just Chatting",
         "Chat Roulette",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Call of Duty Zombies"
       ]
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-14T18:59:58.361Z"
+  "lastUpdated": "2026-04-14T19:29:58.357Z"
 }
