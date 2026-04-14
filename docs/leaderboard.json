@@ -190,6 +190,15 @@
       "streak": 13
     },
     {
+      "name": "kooooool",
+      "balance": 8166,
+      "totalEarned": 35476,
+      "totalSpent": 27310,
+      "gamesPlayed": 38,
+      "gamesWon": 12,
+      "streak": 4
+    },
+    {
       "name": "upkey",
       "balance": 8159,
       "totalEarned": 8159,
@@ -206,15 +215,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 13
-    },
-    {
-      "name": "kooooool",
-      "balance": 8101,
-      "totalEarned": 35401,
-      "totalSpent": 27300,
-      "gamesPlayed": 37,
-      "gamesWon": 12,
-      "streak": 3
     },
     {
       "name": "muzlamic",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1564,
-    "totalCirculating": 1565626,
-    "totalGames": 8699,
+    "totalCirculating": 1565691,
+    "totalGames": 8700,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-14T10:29:58.344Z"
+  "lastUpdated": "2026-04-14T10:59:58.346Z"
 }
