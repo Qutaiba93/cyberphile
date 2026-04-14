@@ -1,10 +1,10 @@
 {
   "totalSessions": 70,
   "totalDays": 58,
-  "totalSegments": 2786,
+  "totalSegments": 2789,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 582671,
+  "totalMessages": 583054,
   "categories": [
     {
       "name": "Rust",
@@ -52,8 +52,8 @@
       "name": "Chat Roulette",
       "avgViewers": 710,
       "peakViewers": 902,
-      "sampleCount": 288,
-      "totalMsgs": 68963
+      "sampleCount": 289,
+      "totalMsgs": 69054
     },
     {
       "name": "Trash Horror Collection",
@@ -127,10 +127,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 642,
+      "avgViewers": 643,
       "peakViewers": 841,
-      "sampleCount": 255,
-      "totalMsgs": 46374
+      "sampleCount": 257,
+      "totalMsgs": 46666
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -331,8 +331,8 @@
     },
     "18": {
       "avgViewers": 695,
-      "sampleCount": 279,
-      "totalMsgs": 66578
+      "sampleCount": 282,
+      "totalMsgs": 66961
     },
     "19": {
       "avgViewers": 702,
@@ -526,16 +526,17 @@
     },
     {
       "date": "2026-04-14",
-      "avgViewers": 590,
+      "avgViewers": 616,
       "peakViewers": 819,
-      "totalMsgs": 3452,
+      "totalMsgs": 3835,
       "categories": [
         "PUBG: Battlegrounds",
         "Just Chatting",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-14T17:59:58.371Z"
+  "lastUpdated": "2026-04-14T18:29:58.360Z"
 }
