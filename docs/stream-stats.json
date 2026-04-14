@@ -1,10 +1,10 @@
 {
-  "totalSessions": 69,
-  "totalDays": 57,
-  "totalSegments": 2769,
+  "totalSessions": 70,
+  "totalDays": 58,
+  "totalSegments": 2771,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 579219,
+  "totalMessages": 579281,
   "categories": [
     {
       "name": "Rust",
@@ -189,13 +189,6 @@
       "totalMsgs": 1817
     },
     {
-      "name": "PUBG: Battlegrounds",
-      "avgViewers": 599,
-      "peakViewers": 714,
-      "sampleCount": 45,
-      "totalMsgs": 8968
-    },
-    {
       "name": "Call of Duty: Black Ops",
       "avgViewers": 597,
       "peakViewers": 719,
@@ -208,6 +201,13 @@
       "peakViewers": 903,
       "sampleCount": 1102,
       "totalMsgs": 239672
+    },
+    {
+      "name": "PUBG: Battlegrounds",
+      "avgViewers": 582,
+      "peakViewers": 714,
+      "sampleCount": 47,
+      "totalMsgs": 9030
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -315,9 +315,9 @@
       "totalMsgs": 25039
     },
     "15": {
-      "avgViewers": 521,
-      "sampleCount": 245,
-      "totalMsgs": 48186
+      "avgViewers": 518,
+      "sampleCount": 247,
+      "totalMsgs": 48248
     },
     "16": {
       "avgViewers": 690,
@@ -361,15 +361,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-03-29",
-      "avgViewers": 141,
-      "peakViewers": 153,
-      "totalMsgs": 1297,
-      "categories": [
-        "Movierooms"
-      ]
-    },
     {
       "date": "2026-04-01",
       "avgViewers": 495,
@@ -532,8 +523,17 @@
         "Call of Duty: Black Ops Zombies",
         "PUBG: Battlegrounds"
       ]
+    },
+    {
+      "date": "2026-04-14",
+      "avgViewers": 187,
+      "peakViewers": 244,
+      "totalMsgs": 62,
+      "categories": [
+        "PUBG: Battlegrounds"
+      ]
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-14T14:59:58.355Z"
+  "lastUpdated": "2026-04-14T15:29:58.355Z"
 }
