@@ -1,10 +1,10 @@
 {
   "totalSessions": 70,
   "totalDays": 58,
-  "totalSegments": 2798,
+  "totalSegments": 2801,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 584916,
+  "totalMessages": 585638,
   "categories": [
     {
       "name": "Rust",
@@ -253,10 +253,10 @@
     },
     {
       "name": "Call of Duty Zombies",
-      "avgViewers": 454,
-      "peakViewers": 481,
-      "sampleCount": 5,
-      "totalMsgs": 1060
+      "avgViewers": 496,
+      "peakViewers": 587,
+      "sampleCount": 8,
+      "totalMsgs": 1782
     },
     {
       "name": "Too Well Hidden",
@@ -347,9 +347,9 @@
       "totalMsgs": 67958
     },
     "20": {
-      "avgViewers": 683,
-      "sampleCount": 285,
-      "totalMsgs": 67476
+      "avgViewers": 681,
+      "sampleCount": 288,
+      "totalMsgs": 68198
     },
     "21": {
       "avgViewers": 684,
@@ -533,9 +533,9 @@
     },
     {
       "date": "2026-04-14",
-      "avgViewers": 578,
+      "avgViewers": 577,
       "peakViewers": 819,
-      "totalMsgs": 5697,
+      "totalMsgs": 6419,
       "categories": [
         "PUBG: Battlegrounds",
         "Just Chatting",
@@ -546,5 +546,5 @@
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-14T19:59:58.362Z"
+  "lastUpdated": "2026-04-14T20:29:58.365Z"
 }
