@@ -1,10 +1,10 @@
 {
   "totalSessions": 72,
   "totalDays": 60,
-  "totalSegments": 2912,
+  "totalSegments": 2915,
   "allTimePeak": 17991,
-  "allTimeAvg": 632,
-  "totalMessages": 602975,
+  "allTimeAvg": 633,
+  "totalMessages": 603593,
   "categories": [
     {
       "name": "Rust",
@@ -50,10 +50,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 716,
-      "peakViewers": 902,
-      "sampleCount": 315,
-      "totalMsgs": 73769
+      "avgViewers": 717,
+      "peakViewers": 916,
+      "sampleCount": 317,
+      "totalMsgs": 74117
     },
     {
       "name": "Trash Horror Collection",
@@ -126,6 +126,13 @@
       "totalMsgs": 5736
     },
     {
+      "name": "Call of Duty: Black Ops III",
+      "avgViewers": 644,
+      "peakViewers": 861,
+      "sampleCount": 18,
+      "totalMsgs": 4111
+    },
+    {
       "name": "Counter-Strike 2",
       "avgViewers": 642,
       "peakViewers": 841,
@@ -138,13 +145,6 @@
       "peakViewers": 638,
       "sampleCount": 1,
       "totalMsgs": 262
-    },
-    {
-      "name": "Call of Duty: Black Ops III",
-      "avgViewers": 632,
-      "peakViewers": 720,
-      "sampleCount": 17,
-      "totalMsgs": 3841
     },
     {
       "name": "Sons of the Forest",
@@ -347,9 +347,9 @@
       "totalMsgs": 69686
     },
     "20": {
-      "avgViewers": 682,
-      "sampleCount": 297,
-      "totalMsgs": 70181
+      "avgViewers": 684,
+      "sampleCount": 300,
+      "totalMsgs": 70799
     },
     "21": {
       "avgViewers": 687,
@@ -532,16 +532,17 @@
     },
     {
       "date": "2026-04-16",
-      "avgViewers": 633,
-      "peakViewers": 860,
-      "totalMsgs": 5217,
+      "avgViewers": 653,
+      "peakViewers": 916,
+      "totalMsgs": 5835,
       "categories": [
         "Just Chatting",
         "PUBG: Battlegrounds",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Call of Duty: Black Ops III"
       ]
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-16T19:59:58.470Z"
+  "lastUpdated": "2026-04-16T20:29:58.473Z"
 }
