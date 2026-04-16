@@ -1,10 +1,10 @@
 {
   "totalSessions": 71,
   "totalDays": 59,
-  "totalSegments": 2869,
+  "totalSegments": 2872,
   "allTimePeak": 17991,
-  "allTimeAvg": 633,
-  "totalMessages": 596839,
+  "allTimeAvg": 632,
+  "totalMessages": 597224,
   "categories": [
     {
       "name": "Rust",
@@ -169,10 +169,10 @@
     },
     {
       "name": "Minecraft",
-      "avgViewers": 617,
+      "avgViewers": 616,
       "peakViewers": 729,
-      "sampleCount": 64,
-      "totalMsgs": 13089
+      "sampleCount": 66,
+      "totalMsgs": 13277
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -199,8 +199,8 @@
       "name": "Just Chatting",
       "avgViewers": 590,
       "peakViewers": 903,
-      "sampleCount": 1133,
-      "totalMsgs": 245069
+      "sampleCount": 1134,
+      "totalMsgs": 245266
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -283,8 +283,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 579,
-      "sampleCount": 109,
-      "totalMsgs": 17685
+      "sampleCount": 112,
+      "totalMsgs": 18070
     },
     "1": {
       "avgViewers": 500,
@@ -533,9 +533,9 @@
     },
     {
       "date": "2026-04-15",
-      "avgViewers": 675,
+      "avgViewers": 671,
       "peakViewers": 846,
-      "totalMsgs": 9203,
+      "totalMsgs": 9588,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -545,5 +545,5 @@
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-15T23:59:58.436Z"
+  "lastUpdated": "2026-04-16T00:29:58.438Z"
 }
