@@ -1,10 +1,10 @@
 {
   "totalSessions": 72,
   "totalDays": 60,
-  "totalSegments": 2909,
+  "totalSegments": 2912,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 602420,
+  "totalMessages": 602975,
   "categories": [
     {
       "name": "Rust",
@@ -50,10 +50,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 715,
+      "avgViewers": 716,
       "peakViewers": 902,
-      "sampleCount": 313,
-      "totalMsgs": 73383
+      "sampleCount": 315,
+      "totalMsgs": 73769
     },
     {
       "name": "Trash Horror Collection",
@@ -199,8 +199,8 @@
       "name": "Just Chatting",
       "avgViewers": 589,
       "peakViewers": 903,
-      "sampleCount": 1144,
-      "totalMsgs": 246686
+      "sampleCount": 1145,
+      "totalMsgs": 246855
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -342,9 +342,9 @@
       "totalMsgs": 69873
     },
     "19": {
-      "avgViewers": 698,
-      "sampleCount": 296,
-      "totalMsgs": 69131
+      "avgViewers": 699,
+      "sampleCount": 299,
+      "totalMsgs": 69686
     },
     "20": {
       "avgViewers": 682,
@@ -532,9 +532,9 @@
     },
     {
       "date": "2026-04-16",
-      "avgViewers": 614,
-      "peakViewers": 822,
-      "totalMsgs": 4662,
+      "avgViewers": 633,
+      "peakViewers": 860,
+      "totalMsgs": 5217,
       "categories": [
         "Just Chatting",
         "PUBG: Battlegrounds",
@@ -543,5 +543,5 @@
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-16T19:29:58.472Z"
+  "lastUpdated": "2026-04-16T19:59:58.470Z"
 }
