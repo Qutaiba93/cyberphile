@@ -1,10 +1,10 @@
 {
   "totalSessions": 72,
   "totalDays": 60,
-  "totalSegments": 2921,
+  "totalSegments": 2924,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 603995,
+  "totalMessages": 604716,
   "categories": [
     {
       "name": "Rust",
@@ -77,18 +77,18 @@
       "totalMsgs": 39527
     },
     {
+      "name": "Call of Duty: Black Ops III",
+      "avgViewers": 677,
+      "peakViewers": 861,
+      "sampleCount": 27,
+      "totalMsgs": 5234
+    },
+    {
       "name": "Sea of Thieves",
       "avgViewers": 673,
       "peakViewers": 776,
       "sampleCount": 59,
       "totalMsgs": 10155
-    },
-    {
-      "name": "Call of Duty: Black Ops III",
-      "avgViewers": 672,
-      "peakViewers": 861,
-      "sampleCount": 24,
-      "totalMsgs": 4513
     },
     {
       "name": "The Empty Eyes",
@@ -352,9 +352,9 @@
       "totalMsgs": 71054
     },
     "21": {
-      "avgViewers": 687,
-      "sampleCount": 298,
-      "totalMsgs": 64328
+      "avgViewers": 688,
+      "sampleCount": 301,
+      "totalMsgs": 65049
     },
     "22": {
       "avgViewers": 676,
@@ -532,9 +532,9 @@
     },
     {
       "date": "2026-04-16",
-      "avgViewers": 667,
+      "avgViewers": 671,
       "peakViewers": 916,
-      "totalMsgs": 6237,
+      "totalMsgs": 6958,
       "categories": [
         "Just Chatting",
         "PUBG: Battlegrounds",
@@ -544,5 +544,5 @@
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-16T21:29:58.471Z"
+  "lastUpdated": "2026-04-16T21:59:58.473Z"
 }
