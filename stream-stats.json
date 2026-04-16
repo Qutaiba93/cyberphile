@@ -1,10 +1,10 @@
 {
   "totalSessions": 72,
   "totalDays": 60,
-  "totalSegments": 2930,
+  "totalSegments": 2933,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 605398,
+  "totalMessages": 606130,
   "categories": [
     {
       "name": "Rust",
@@ -80,8 +80,8 @@
       "name": "Call of Duty: Black Ops III",
       "avgViewers": 677,
       "peakViewers": 861,
-      "sampleCount": 33,
-      "totalMsgs": 5916
+      "sampleCount": 36,
+      "totalMsgs": 6648
     },
     {
       "name": "Sea of Thieves",
@@ -362,9 +362,9 @@
       "totalMsgs": 54214
     },
     "23": {
-      "avgViewers": 645,
-      "sampleCount": 161,
-      "totalMsgs": 31276
+      "avgViewers": 646,
+      "sampleCount": 164,
+      "totalMsgs": 32008
     }
   },
   "dailyHistory": [
@@ -532,9 +532,9 @@
     },
     {
       "date": "2026-04-16",
-      "avgViewers": 671,
+      "avgViewers": 672,
       "peakViewers": 916,
-      "totalMsgs": 7640,
+      "totalMsgs": 8372,
       "categories": [
         "Just Chatting",
         "PUBG: Battlegrounds",
@@ -544,5 +544,5 @@
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-16T22:59:58.477Z"
+  "lastUpdated": "2026-04-16T23:29:58.474Z"
 }
