@@ -56,12 +56,12 @@
     },
     {
       "name": "taboxl",
-      "balance": 14713,
-      "totalEarned": 17081,
+      "balance": 14837,
+      "totalEarned": 17205,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
-      "streak": 15
+      "streak": 16
     },
     {
       "name": "meliziana",
@@ -181,6 +181,15 @@
       "streak": 1
     },
     {
+      "name": "kooooool",
+      "balance": 8575,
+      "totalEarned": 35925,
+      "totalSpent": 27350,
+      "gamesPlayed": 42,
+      "gamesWon": 12,
+      "streak": 6
+    },
+    {
       "name": "darth70",
       "balance": 8511,
       "totalEarned": 8511,
@@ -188,15 +197,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 15
-    },
-    {
-      "name": "kooooool",
-      "balance": 8491,
-      "totalEarned": 35841,
-      "totalSpent": 27350,
-      "gamesPlayed": 42,
-      "gamesWon": 12,
-      "streak": 5
     },
     {
       "name": "upkey",
@@ -254,8 +254,8 @@
     },
     {
       "name": "bbalint320",
-      "balance": 7584,
-      "totalEarned": 7714,
+      "balance": 7586,
+      "totalEarned": 7716,
       "totalSpent": 130,
       "gamesPlayed": 13,
       "gamesWon": 1,
@@ -281,8 +281,8 @@
     },
     {
       "name": "kale96",
-      "balance": 7129,
-      "totalEarned": 13679,
+      "balance": 7143,
+      "totalEarned": 13693,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -379,6 +379,15 @@
       "streak": 8
     },
     {
+      "name": "m1lxnn",
+      "balance": 6372,
+      "totalEarned": 6412,
+      "totalSpent": 40,
+      "gamesPlayed": 2,
+      "gamesWon": 1,
+      "streak": 13
+    },
+    {
       "name": "karmahit",
       "balance": 6297,
       "totalEarned": 6297,
@@ -386,15 +395,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 15
-    },
-    {
-      "name": "m1lxnn",
-      "balance": 6266,
-      "totalEarned": 6306,
-      "totalSpent": 40,
-      "gamesPlayed": 2,
-      "gamesWon": 1,
-      "streak": 12
     },
     {
       "name": "zahcy",
@@ -407,8 +407,8 @@
     },
     {
       "name": "quantik",
-      "balance": 5887,
-      "totalEarned": 5887,
+      "balance": 5889,
+      "totalEarned": 5889,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1599,
-    "totalCirculating": 1615486,
-    "totalGames": 9024,
+    "totalPlayers": 1601,
+    "totalCirculating": 1617690,
+    "totalGames": 9035,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-16T13:59:58.471Z"
+  "lastUpdated": "2026-04-16T14:29:58.504Z"
 }

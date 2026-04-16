@@ -1,10 +1,10 @@
 {
-  "totalSessions": 71,
-  "totalDays": 59,
-  "totalSegments": 2878,
+  "totalSessions": 72,
+  "totalDays": 60,
+  "totalSegments": 2879,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 597758,
+  "totalMessages": 597858,
   "categories": [
     {
       "name": "Rust",
@@ -199,8 +199,8 @@
       "name": "Just Chatting",
       "avgViewers": 590,
       "peakViewers": 903,
-      "sampleCount": 1134,
-      "totalMsgs": 245266
+      "sampleCount": 1135,
+      "totalMsgs": 245366
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -317,9 +317,9 @@
       "totalMsgs": 3675
     },
     "14": {
-      "avgViewers": 348,
-      "sampleCount": 168,
-      "totalMsgs": 25270
+      "avgViewers": 347,
+      "sampleCount": 169,
+      "totalMsgs": 25370
     },
     "15": {
       "avgViewers": 517,
@@ -368,19 +368,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-04-02",
-      "avgViewers": 515,
-      "peakViewers": 748,
-      "totalMsgs": 3798,
-      "categories": [
-        "Movierooms",
-        "Just Chatting",
-        "Call of Duty: Black Ops",
-        "VALORANT",
-        "Try to Drive"
-      ]
-    },
     {
       "date": "2026-04-03",
       "avgViewers": 645,
@@ -542,8 +529,17 @@
         "Minecraft",
         "Chat Roulette"
       ]
+    },
+    {
+      "date": "2026-04-16",
+      "avgViewers": 136,
+      "peakViewers": 136,
+      "totalMsgs": 100,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-16T13:59:58.464Z"
+  "lastUpdated": "2026-04-16T14:29:58.477Z"
 }
