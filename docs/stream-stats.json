@@ -1,10 +1,10 @@
 {
   "totalSessions": 73,
   "totalDays": 61,
-  "totalSegments": 2958,
+  "totalSegments": 2961,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 610579,
+  "totalMessages": 610935,
   "categories": [
     {
       "name": "Rust",
@@ -136,8 +136,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 642,
       "peakViewers": 841,
-      "sampleCount": 291,
-      "totalMsgs": 51875
+      "sampleCount": 294,
+      "totalMsgs": 52231
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -358,8 +358,8 @@
     },
     "22": {
       "avgViewers": 676,
-      "sampleCount": 248,
-      "totalMsgs": 54548
+      "sampleCount": 251,
+      "totalMsgs": 54904
     },
     "23": {
       "avgViewers": 646,
@@ -532,15 +532,15 @@
     },
     {
       "date": "2026-04-17",
-      "avgViewers": 555,
+      "avgViewers": 574,
       "peakViewers": 699,
-      "totalMsgs": 2716,
+      "totalMsgs": 3072,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2"
       ]
     }
   ],
-  "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-17T22:29:58.536Z"
+  "botStartedAt": "2026-04-17T22:42:48.008Z",
+  "lastUpdated": "2026-04-17T22:44:02.936Z"
 }
