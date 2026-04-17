@@ -1,10 +1,10 @@
 {
-  "totalSessions": 72,
-  "totalDays": 60,
-  "totalSegments": 2942,
+  "totalSessions": 73,
+  "totalDays": 61,
+  "totalSegments": 2943,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 607863,
+  "totalMessages": 607925,
   "categories": [
     {
       "name": "Rust",
@@ -197,10 +197,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 590,
+      "avgViewers": 589,
       "peakViewers": 903,
-      "sampleCount": 1154,
-      "totalMsgs": 248588
+      "sampleCount": 1155,
+      "totalMsgs": 248650
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -342,9 +342,9 @@
       "totalMsgs": 69873
     },
     "19": {
-      "avgViewers": 699,
-      "sampleCount": 299,
-      "totalMsgs": 69686
+      "avgViewers": 697,
+      "sampleCount": 300,
+      "totalMsgs": 69748
     },
     "20": {
       "avgViewers": 685,
@@ -368,18 +368,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-04-03",
-      "avgViewers": 645,
-      "peakViewers": 797,
-      "totalMsgs": 8181,
-      "categories": [
-        "Try to Drive",
-        "Chat Roulette",
-        "Counter-Strike 2",
-        "PUBG: Battlegrounds"
-      ]
-    },
     {
       "date": "2026-04-04",
       "avgViewers": 637,
@@ -541,8 +529,17 @@
         "Chat Roulette",
         "Call of Duty: Black Ops III"
       ]
+    },
+    {
+      "date": "2026-04-17",
+      "avgViewers": 180,
+      "peakViewers": 180,
+      "totalMsgs": 62,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-04-10T21:29:57.752Z",
-  "lastUpdated": "2026-04-17T19:29:58.531Z"
+  "lastUpdated": "2026-04-17T19:59:58.531Z"
 }
