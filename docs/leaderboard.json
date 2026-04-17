@@ -226,6 +226,15 @@
       "streak": 6
     },
     {
+      "name": "juggin247",
+      "balance": 8226,
+      "totalEarned": 8226,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 17
+    },
+    {
       "name": "muzlamic",
       "balance": 8216,
       "totalEarned": 9066,
@@ -233,15 +242,6 @@
       "gamesPlayed": 82,
       "gamesWon": 31,
       "streak": 1
-    },
-    {
-      "name": "juggin247",
-      "balance": 8208,
-      "totalEarned": 8208,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 17
     },
     {
       "name": "s1nc3",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1617,
-    "totalCirculating": 1676923,
+    "totalCirculating": 1676965,
     "totalGames": 9125,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-17T00:59:58.488Z"
+  "lastUpdated": "2026-04-17T01:29:58.486Z"
 }
