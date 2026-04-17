@@ -380,8 +380,8 @@
     },
     {
       "name": "khaledbusiness",
-      "balance": 6716,
-      "totalEarned": 11616,
+      "balance": 6720,
+      "totalEarned": 11620,
       "totalSpent": 4900,
       "gamesPlayed": 4,
       "gamesWon": 3,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1617,
-    "totalCirculating": 1678010,
+    "totalCirculating": 1678129,
     "totalGames": 9125,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-17T17:29:58.531Z"
+  "lastUpdated": "2026-04-17T17:59:58.535Z"
 }
