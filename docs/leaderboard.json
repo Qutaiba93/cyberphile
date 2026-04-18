@@ -11,8 +11,8 @@
     },
     {
       "name": "uncommonletter",
-      "balance": 39214,
-      "totalEarned": 165060,
+      "balance": 39228,
+      "totalEarned": 165074,
       "totalSpent": 125846,
       "gamesPlayed": 182,
       "gamesWon": 82,
@@ -29,8 +29,8 @@
     },
     {
       "name": "plebcentral",
-      "balance": 17427,
-      "totalEarned": 34107,
+      "balance": 17429,
+      "totalEarned": 34109,
       "totalSpent": 16680,
       "gamesPlayed": 4,
       "gamesWon": 2,
@@ -56,8 +56,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 15666,
-      "totalEarned": 15676,
+      "balance": 15728,
+      "totalEarned": 15738,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "nick6",
-      "balance": 9334,
-      "totalEarned": 9334,
+      "balance": 9374,
+      "totalEarned": 9374,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -182,8 +182,8 @@
     },
     {
       "name": "faisaluibi",
-      "balance": 8824,
-      "totalEarned": 11681,
+      "balance": 8828,
+      "totalEarned": 11685,
       "totalSpent": 2857,
       "gamesPlayed": 3,
       "gamesWon": 0,
@@ -209,8 +209,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 8554,
-      "totalEarned": 8554,
+      "balance": 8564,
+      "totalEarned": 8564,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -254,8 +254,8 @@
     },
     {
       "name": "neincs",
-      "balance": 7793,
-      "totalEarned": 7793,
+      "balance": 7825,
+      "totalEarned": 7825,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -272,8 +272,8 @@
     },
     {
       "name": "kale96",
-      "balance": 7720,
-      "totalEarned": 14270,
+      "balance": 7722,
+      "totalEarned": 14272,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -290,8 +290,8 @@
     },
     {
       "name": "nitro_st",
-      "balance": 7395,
-      "totalEarned": 7395,
+      "balance": 7437,
+      "totalEarned": 7437,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -316,6 +316,15 @@
       "streak": 2
     },
     {
+      "name": "kingirnfist",
+      "balance": 7132,
+      "totalEarned": 22132,
+      "totalSpent": 15000,
+      "gamesPlayed": 2,
+      "gamesWon": 1,
+      "streak": 8
+    },
+    {
       "name": "xx_i_garrem_deez_xx",
       "balance": 7115,
       "totalEarned": 7115,
@@ -323,15 +332,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 5
-    },
-    {
-      "name": "kingirnfist",
-      "balance": 7108,
-      "totalEarned": 22108,
-      "totalSpent": 15000,
-      "gamesPlayed": 2,
-      "gamesWon": 1,
-      "streak": 8
     },
     {
       "name": "the1chosen_one",
@@ -407,8 +407,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 6230,
-      "totalEarned": 6230,
+      "balance": 6258,
+      "totalEarned": 6258,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1626,
-    "totalCirculating": 1707498,
+    "totalPlayers": 1627,
+    "totalCirculating": 1709121,
     "totalGames": 9155,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-18T01:25:38.153Z"
+  "lastUpdated": "2026-04-18T01:55:38.155Z"
 }
