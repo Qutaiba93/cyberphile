@@ -1,10 +1,10 @@
 {
   "totalSessions": 73,
   "totalDays": 61,
-  "totalSegments": 2981,
+  "totalSegments": 2984,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 613619,
+  "totalMessages": 614298,
   "categories": [
     {
       "name": "Rust",
@@ -217,6 +217,13 @@
       "totalMsgs": 2430
     },
     {
+      "name": "Call of Duty: Black Ops 7",
+      "avgViewers": 564,
+      "peakViewers": 572,
+      "sampleCount": 3,
+      "totalMsgs": 679
+    },
+    {
       "name": "Backrooms",
       "avgViewers": 563,
       "peakViewers": 623,
@@ -287,14 +294,14 @@
       "totalMsgs": 20459
     },
     "1": {
-      "avgViewers": 508,
-      "sampleCount": 80,
-      "totalMsgs": 13343
+      "avgViewers": 509,
+      "sampleCount": 81,
+      "totalMsgs": 13478
     },
     "2": {
-      "avgViewers": 461,
-      "sampleCount": 43,
-      "totalMsgs": 5128
+      "avgViewers": 466,
+      "sampleCount": 45,
+      "totalMsgs": 5672
     },
     "3": {
       "avgViewers": 345,
@@ -532,16 +539,17 @@
     },
     {
       "date": "2026-04-17",
-      "avgViewers": 607,
+      "avgViewers": 604,
       "peakViewers": 704,
-      "totalMsgs": 5756,
+      "totalMsgs": 6435,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
-        "PUBG: Battlegrounds"
+        "PUBG: Battlegrounds",
+        "Call of Duty: Black Ops 7"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-18T01:55:38.147Z"
+  "lastUpdated": "2026-04-18T02:25:38.146Z"
 }

@@ -29,8 +29,8 @@
     },
     {
       "name": "plebcentral",
-      "balance": 17429,
-      "totalEarned": 34109,
+      "balance": 17431,
+      "totalEarned": 34111,
       "totalSpent": 16680,
       "gamesPlayed": 4,
       "gamesWon": 2,
@@ -47,8 +47,8 @@
     },
     {
       "name": "taboxl",
-      "balance": 15729,
-      "totalEarned": 18097,
+      "balance": 15733,
+      "totalEarned": 18101,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
@@ -182,8 +182,8 @@
     },
     {
       "name": "faisaluibi",
-      "balance": 8828,
-      "totalEarned": 11685,
+      "balance": 8838,
+      "totalEarned": 11695,
       "totalSpent": 2857,
       "gamesPlayed": 3,
       "gamesWon": 0,
@@ -209,8 +209,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 8564,
-      "totalEarned": 8564,
+      "balance": 8612,
+      "totalEarned": 8612,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -254,12 +254,21 @@
     },
     {
       "name": "neincs",
-      "balance": 7825,
-      "totalEarned": 7825,
+      "balance": 7835,
+      "totalEarned": 7835,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 18
+    },
+    {
+      "name": "kale96",
+      "balance": 7770,
+      "totalEarned": 14320,
+      "totalSpent": 6550,
+      "gamesPlayed": 6,
+      "gamesWon": 0,
+      "streak": 8
     },
     {
       "name": "bbalint320",
@@ -271,13 +280,13 @@
       "streak": 7
     },
     {
-      "name": "kale96",
-      "balance": 7722,
-      "totalEarned": 14272,
-      "totalSpent": 6550,
-      "gamesPlayed": 6,
+      "name": "nitro_st",
+      "balance": 7483,
+      "totalEarned": 7483,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 8
+      "streak": 6
     },
     {
       "name": "pitapan",
@@ -287,15 +296,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 17
-    },
-    {
-      "name": "nitro_st",
-      "balance": 7437,
-      "totalEarned": 7437,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 6
     },
     {
       "name": "lena_xc",
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1627,
-    "totalCirculating": 1709121,
+    "totalPlayers": 1628,
+    "totalCirculating": 1710341,
     "totalGames": 9155,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-18T01:55:38.155Z"
+  "lastUpdated": "2026-04-18T02:25:38.156Z"
 }
