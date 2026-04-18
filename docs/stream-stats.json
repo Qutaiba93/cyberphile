@@ -1,10 +1,10 @@
 {
   "totalSessions": 74,
   "totalDays": 62,
-  "totalSegments": 3019,
+  "totalSegments": 3022,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 620407,
+  "totalMessages": 621123,
   "categories": [
     {
       "name": "Rust",
@@ -71,10 +71,10 @@
     },
     {
       "name": "IRL",
-      "avgViewers": 684,
+      "avgViewers": 685,
       "peakViewers": 843,
-      "sampleCount": 114,
-      "totalMsgs": 39527
+      "sampleCount": 115,
+      "totalMsgs": 39608
     },
     {
       "name": "Call of Duty: Black Ops III",
@@ -199,8 +199,15 @@
       "name": "Just Chatting",
       "avgViewers": 590,
       "peakViewers": 903,
-      "sampleCount": 1191,
-      "totalMsgs": 255550
+      "sampleCount": 1192,
+      "totalMsgs": 255963
+    },
+    {
+      "name": "Call of Duty: Black Ops Zombies",
+      "avgViewers": 590,
+      "peakViewers": 748,
+      "sampleCount": 16,
+      "totalMsgs": 2802
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -208,13 +215,6 @@
       "peakViewers": 748,
       "sampleCount": 83,
       "totalMsgs": 14173
-    },
-    {
-      "name": "Call of Duty: Black Ops Zombies",
-      "avgViewers": 581,
-      "peakViewers": 748,
-      "sampleCount": 15,
-      "totalMsgs": 2580
     },
     {
       "name": "Backrooms",
@@ -345,13 +345,13 @@
     },
     "18": {
       "avgViewers": 697,
-      "sampleCount": 302,
-      "totalMsgs": 70925
+      "sampleCount": 303,
+      "totalMsgs": 71147
     },
     "19": {
       "avgViewers": 697,
-      "sampleCount": 300,
-      "totalMsgs": 69748
+      "sampleCount": 302,
+      "totalMsgs": 70242
     },
     "20": {
       "avgViewers": 680,
@@ -538,17 +538,18 @@
     },
     {
       "date": "2026-04-18",
-      "avgViewers": 635,
+      "avgViewers": 644,
       "peakViewers": 785,
-      "totalMsgs": 4680,
+      "totalMsgs": 5396,
       "categories": [
         "PUBG: Battlegrounds",
         "Just Chatting",
         "Counter-Strike 2",
-        "Call of Duty: Black Ops Zombies"
+        "Call of Duty: Black Ops Zombies",
+        "IRL"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-18T18:55:38.226Z"
+  "lastUpdated": "2026-04-18T19:25:38.214Z"
 }
