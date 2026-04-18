@@ -74,8 +74,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 13312,
-      "totalEarned": 245302,
+      "balance": 13316,
+      "totalEarned": 245306,
       "totalSpent": 231990,
       "gamesPlayed": 573,
       "gamesWon": 208,
@@ -146,8 +146,8 @@
     },
     {
       "name": "papaah",
-      "balance": 9981,
-      "totalEarned": 9981,
+      "balance": 9983,
+      "totalEarned": 9983,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "nick6",
-      "balance": 9406,
-      "totalEarned": 9406,
+      "balance": 9452,
+      "totalEarned": 9452,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -200,8 +200,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 8670,
-      "totalEarned": 8670,
+      "balance": 8686,
+      "totalEarned": 8686,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -263,8 +263,8 @@
     },
     {
       "name": "kale96",
-      "balance": 7812,
-      "totalEarned": 14362,
+      "balance": 7832,
+      "totalEarned": 14382,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -281,8 +281,8 @@
     },
     {
       "name": "nitro_st",
-      "balance": 7529,
-      "totalEarned": 7529,
+      "balance": 7541,
+      "totalEarned": 7541,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1630,
-    "totalCirculating": 1712117,
+    "totalCirculating": 1712653,
     "totalGames": 9159,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-18T03:25:38.157Z"
+  "lastUpdated": "2026-04-18T03:55:38.157Z"
 }
