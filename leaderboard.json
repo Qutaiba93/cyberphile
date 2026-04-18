@@ -29,8 +29,8 @@
     },
     {
       "name": "plebcentral",
-      "balance": 17431,
-      "totalEarned": 34111,
+      "balance": 17435,
+      "totalEarned": 34115,
       "totalSpent": 16680,
       "gamesPlayed": 4,
       "gamesWon": 2,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1630,
-    "totalCirculating": 1712769,
+    "totalCirculating": 1712773,
     "totalGames": 9159,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-18T12:55:38.220Z"
+  "lastUpdated": "2026-04-18T13:25:38.221Z"
 }
