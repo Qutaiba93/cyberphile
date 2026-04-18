@@ -47,8 +47,8 @@
     },
     {
       "name": "taboxl",
-      "balance": 15733,
-      "totalEarned": 18101,
+      "balance": 15735,
+      "totalEarned": 18103,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
@@ -74,8 +74,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 13236,
-      "totalEarned": 245226,
+      "balance": 13292,
+      "totalEarned": 245282,
       "totalSpent": 231990,
       "gamesPlayed": 573,
       "gamesWon": 208,
@@ -92,8 +92,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 11599,
-      "totalEarned": 14664,
+      "balance": 11603,
+      "totalEarned": 14668,
       "totalSpent": 3065,
       "gamesPlayed": 24,
       "gamesWon": 5,
@@ -146,8 +146,8 @@
     },
     {
       "name": "papaah",
-      "balance": 9977,
-      "totalEarned": 9977,
+      "balance": 9981,
+      "totalEarned": 9981,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "nick6",
-      "balance": 9374,
-      "totalEarned": 9374,
+      "balance": 9378,
+      "totalEarned": 9378,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -181,22 +181,22 @@
       "streak": 7
     },
     {
+      "name": "darth70",
+      "balance": 8935,
+      "totalEarned": 8935,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 18
+    },
+    {
       "name": "faisaluibi",
-      "balance": 8838,
-      "totalEarned": 11695,
+      "balance": 8848,
+      "totalEarned": 11705,
       "totalSpent": 2857,
       "gamesPlayed": 3,
       "gamesWon": 0,
       "streak": 15
-    },
-    {
-      "name": "darth70",
-      "balance": 8815,
-      "totalEarned": 8815,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 17
     },
     {
       "name": "upkey",
@@ -209,8 +209,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 8612,
-      "totalEarned": 8612,
+      "balance": 8642,
+      "totalEarned": 8642,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -263,8 +263,8 @@
     },
     {
       "name": "kale96",
-      "balance": 7770,
-      "totalEarned": 14320,
+      "balance": 7798,
+      "totalEarned": 14348,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -281,8 +281,8 @@
     },
     {
       "name": "nitro_st",
-      "balance": 7483,
-      "totalEarned": 7483,
+      "balance": 7529,
+      "totalEarned": 7529,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1628,
-    "totalCirculating": 1710341,
-    "totalGames": 9155,
+    "totalPlayers": 1630,
+    "totalCirculating": 1711248,
+    "totalGames": 9159,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-18T02:25:38.156Z"
+  "lastUpdated": "2026-04-18T02:55:38.169Z"
 }

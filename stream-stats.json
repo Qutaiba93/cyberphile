@@ -1,10 +1,10 @@
 {
   "totalSessions": 73,
   "totalDays": 61,
-  "totalSegments": 2984,
+  "totalSegments": 2987,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 614298,
+  "totalMessages": 614904,
   "categories": [
     {
       "name": "Rust",
@@ -206,8 +206,8 @@
       "name": "Just Chatting",
       "avgViewers": 589,
       "peakViewers": 903,
-      "sampleCount": 1170,
-      "totalMsgs": 251345
+      "sampleCount": 1171,
+      "totalMsgs": 251595
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -215,13 +215,6 @@
       "peakViewers": 748,
       "sampleCount": 14,
       "totalMsgs": 2430
-    },
-    {
-      "name": "Call of Duty: Black Ops 7",
-      "avgViewers": 564,
-      "peakViewers": 572,
-      "sampleCount": 3,
-      "totalMsgs": 679
     },
     {
       "name": "Backrooms",
@@ -243,6 +236,13 @@
       "peakViewers": 690,
       "sampleCount": 9,
       "totalMsgs": 1979
+    },
+    {
+      "name": "Call of Duty: Black Ops 7",
+      "avgViewers": 554,
+      "peakViewers": 572,
+      "sampleCount": 5,
+      "totalMsgs": 1035
     },
     {
       "name": "God of War",
@@ -299,9 +299,9 @@
       "totalMsgs": 13478
     },
     "2": {
-      "avgViewers": 466,
-      "sampleCount": 45,
-      "totalMsgs": 5672
+      "avgViewers": 470,
+      "sampleCount": 48,
+      "totalMsgs": 6278
     },
     "3": {
       "avgViewers": 345,
@@ -539,9 +539,9 @@
     },
     {
       "date": "2026-04-17",
-      "avgViewers": 604,
+      "avgViewers": 600,
       "peakViewers": 704,
-      "totalMsgs": 6435,
+      "totalMsgs": 7041,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -551,5 +551,5 @@
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-18T02:25:38.146Z"
+  "lastUpdated": "2026-04-18T02:55:38.157Z"
 }
