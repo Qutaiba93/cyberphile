@@ -254,12 +254,12 @@
     },
     {
       "name": "kale96",
-      "balance": 7976,
-      "totalEarned": 14526,
+      "balance": 8073,
+      "totalEarned": 14623,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
-      "streak": 8
+      "streak": 9
     },
     {
       "name": "neincs",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1642,
-    "totalCirculating": 1742642,
+    "totalCirculating": 1742739,
     "totalGames": 9197,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-19T02:25:38.232Z"
+  "lastUpdated": "2026-04-19T02:55:38.232Z"
 }
