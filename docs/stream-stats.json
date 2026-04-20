@@ -1,10 +1,10 @@
 {
   "totalSessions": 75,
   "totalDays": 63,
-  "totalSegments": 3060,
+  "totalSegments": 3063,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 629013,
+  "totalMessages": 629324,
   "categories": [
     {
       "name": "Rust",
@@ -85,10 +85,10 @@
     },
     {
       "name": "Call of Duty: Black Ops III",
-      "avgViewers": 676,
+      "avgViewers": 674,
       "peakViewers": 861,
-      "sampleCount": 40,
-      "totalMsgs": 7108
+      "sampleCount": 43,
+      "totalMsgs": 7419
     },
     {
       "name": "Sea of Thieves",
@@ -361,9 +361,9 @@
       "totalMsgs": 71999
     },
     "20": {
-      "avgViewers": 682,
-      "sampleCount": 317,
-      "totalMsgs": 75512
+      "avgViewers": 681,
+      "sampleCount": 320,
+      "totalMsgs": 75823
     },
     "21": {
       "avgViewers": 688,
@@ -546,9 +546,9 @@
     },
     {
       "date": "2026-04-20",
-      "avgViewers": 622,
+      "avgViewers": 625,
       "peakViewers": 744,
-      "totalMsgs": 3479,
+      "totalMsgs": 3790,
       "categories": [
         "Just Chatting",
         "Log Riders",
@@ -557,5 +557,5 @@
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-20T20:25:38.353Z"
+  "lastUpdated": "2026-04-20T20:55:38.358Z"
 }
