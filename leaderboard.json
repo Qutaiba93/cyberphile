@@ -92,8 +92,8 @@
     },
     {
       "name": "kooooool",
-      "balance": 12716,
-      "totalEarned": 68601,
+      "balance": 12718,
+      "totalEarned": 68603,
       "totalSpent": 55885,
       "gamesPlayed": 55,
       "gamesWon": 18,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1642,
-    "totalCirculating": 1747571,
+    "totalCirculating": 1747711,
     "totalGames": 9226,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-20T15:25:38.348Z"
+  "lastUpdated": "2026-04-20T15:55:38.357Z"
 }
