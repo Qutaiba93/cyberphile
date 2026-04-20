@@ -20,8 +20,8 @@
     },
     {
       "name": "zuyu",
-      "balance": 21538,
-      "totalEarned": 91451,
+      "balance": 21544,
+      "totalEarned": 91457,
       "totalSpent": 69913,
       "gamesPlayed": 41,
       "gamesWon": 17,
@@ -29,8 +29,8 @@
     },
     {
       "name": "plebcentral",
-      "balance": 17900,
-      "totalEarned": 34580,
+      "balance": 17918,
+      "totalEarned": 34598,
       "totalSpent": 16680,
       "gamesPlayed": 4,
       "gamesWon": 2,
@@ -65,8 +65,8 @@
     },
     {
       "name": "kooooool",
-      "balance": 14810,
-      "totalEarned": 74695,
+      "balance": 14814,
+      "totalEarned": 74699,
       "totalSpent": 59885,
       "gamesPlayed": 58,
       "gamesWon": 20,
@@ -101,8 +101,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 12191,
-      "totalEarned": 15256,
+      "balance": 12197,
+      "totalEarned": 15262,
       "totalSpent": 3065,
       "gamesPlayed": 24,
       "gamesWon": 5,
@@ -191,8 +191,8 @@
     },
     {
       "name": "upkey",
-      "balance": 9222,
-      "totalEarned": 9222,
+      "balance": 9240,
+      "totalEarned": 9240,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -200,8 +200,8 @@
     },
     {
       "name": "faisaluibi",
-      "balance": 9201,
-      "totalEarned": 12058,
+      "balance": 9219,
+      "totalEarned": 12076,
       "totalSpent": 2857,
       "gamesPlayed": 3,
       "gamesWon": 0,
@@ -263,8 +263,8 @@
     },
     {
       "name": "neincs",
-      "balance": 7958,
-      "totalEarned": 7958,
+      "balance": 7960,
+      "totalEarned": 7960,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -280,31 +280,31 @@
       "streak": 1
     },
     {
-      "name": "nitro_st",
-      "balance": 7724,
-      "totalEarned": 7724,
+      "name": "pitapan",
+      "balance": 7738,
+      "totalEarned": 7738,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
     },
     {
-      "name": "pitapan",
-      "balance": 7677,
-      "totalEarned": 7677,
+      "name": "nitro_st",
+      "balance": 7728,
+      "totalEarned": 7728,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 18
+      "streak": 1
     },
     {
       "name": "lena_xc",
-      "balance": 7541,
-      "totalEarned": 7541,
+      "balance": 7604,
+      "totalEarned": 7604,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 8
+      "streak": 1
     },
     {
       "name": "ahmet_uk",
@@ -380,8 +380,8 @@
     },
     {
       "name": "m1lxnn",
-      "balance": 6831,
-      "totalEarned": 6871,
+      "balance": 6833,
+      "totalEarned": 6873,
       "totalSpent": 40,
       "gamesPlayed": 2,
       "gamesWon": 1,
@@ -389,8 +389,8 @@
     },
     {
       "name": "karmahit",
-      "balance": 6760,
-      "totalEarned": 6760,
+      "balance": 6762,
+      "totalEarned": 6762,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -416,8 +416,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 6451,
-      "totalEarned": 6451,
+      "balance": 6463,
+      "totalEarned": 6463,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -425,8 +425,8 @@
     },
     {
       "name": "zherkafanboy",
-      "balance": 6363,
-      "totalEarned": 7362,
+      "balance": 6371,
+      "totalEarned": 7370,
       "totalSpent": 999,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -443,8 +443,8 @@
     },
     {
       "name": "quantik",
-      "balance": 6266,
-      "totalEarned": 6266,
+      "balance": 6268,
+      "totalEarned": 6268,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1647,
-    "totalCirculating": 1769143,
+    "totalCirculating": 1769976,
     "totalGames": 9250,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-20T20:55:38.367Z"
+  "lastUpdated": "2026-04-20T21:25:38.378Z"
 }
