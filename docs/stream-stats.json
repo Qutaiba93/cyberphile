@@ -1,10 +1,10 @@
 {
   "totalSessions": 75,
   "totalDays": 63,
-  "totalSegments": 3051,
+  "totalSegments": 3054,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 627910,
+  "totalMessages": 628127,
   "categories": [
     {
       "name": "Rust",
@@ -54,6 +54,13 @@
       "peakViewers": 916,
       "sampleCount": 317,
       "totalMsgs": 74117
+    },
+    {
+      "name": "Log Riders",
+      "avgViewers": 709,
+      "peakViewers": 713,
+      "sampleCount": 2,
+      "totalMsgs": 152
     },
     {
       "name": "Trash Horror Collection",
@@ -197,10 +204,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 590,
+      "avgViewers": 591,
       "peakViewers": 903,
-      "sampleCount": 1212,
-      "totalMsgs": 258917
+      "sampleCount": 1213,
+      "totalMsgs": 258982
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -345,13 +352,13 @@
     },
     "18": {
       "avgViewers": 698,
-      "sampleCount": 308,
-      "totalMsgs": 71497
+      "sampleCount": 309,
+      "totalMsgs": 71562
     },
     "19": {
       "avgViewers": 698,
-      "sampleCount": 306,
-      "totalMsgs": 71189
+      "sampleCount": 308,
+      "totalMsgs": 71341
     },
     "20": {
       "avgViewers": 682,
@@ -539,14 +546,15 @@
     },
     {
       "date": "2026-04-20",
-      "avgViewers": 586,
+      "avgViewers": 604,
       "peakViewers": 744,
-      "totalMsgs": 2376,
+      "totalMsgs": 2593,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Log Riders"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-20T18:55:38.353Z"
+  "lastUpdated": "2026-04-20T19:25:38.352Z"
 }
