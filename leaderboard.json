@@ -38,8 +38,8 @@
     },
     {
       "name": "poseidon_o7",
-      "balance": 17649,
-      "totalEarned": 17669,
+      "balance": 17659,
+      "totalEarned": 17679,
       "totalSpent": 20,
       "gamesPlayed": 2,
       "gamesWon": 0,
@@ -73,6 +73,15 @@
       "streak": 1
     },
     {
+      "name": "weppss",
+      "balance": 13945,
+      "totalEarned": 19840,
+      "totalSpent": 5895,
+      "gamesPlayed": 45,
+      "gamesWon": 12,
+      "streak": 1
+    },
+    {
       "name": "meliziana",
       "balance": 13932,
       "totalEarned": 246422,
@@ -80,15 +89,6 @@
       "gamesPlayed": 577,
       "gamesWon": 210,
       "streak": 19
-    },
-    {
-      "name": "weppss",
-      "balance": 13931,
-      "totalEarned": 19826,
-      "totalSpent": 5895,
-      "gamesPlayed": 45,
-      "gamesWon": 12,
-      "streak": 1
     },
     {
       "name": "drogan",
@@ -101,8 +101,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 12245,
-      "totalEarned": 15310,
+      "balance": 12291,
+      "totalEarned": 15356,
       "totalSpent": 3065,
       "gamesPlayed": 24,
       "gamesWon": 5,
@@ -191,8 +191,8 @@
     },
     {
       "name": "faisaluibi",
-      "balance": 9279,
-      "totalEarned": 12136,
+      "balance": 9297,
+      "totalEarned": 12154,
       "totalSpent": 2857,
       "gamesPlayed": 3,
       "gamesWon": 0,
@@ -254,8 +254,8 @@
     },
     {
       "name": "kale96",
-      "balance": 8221,
-      "totalEarned": 14771,
+      "balance": 8239,
+      "totalEarned": 14789,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -263,8 +263,8 @@
     },
     {
       "name": "neincs",
-      "balance": 8034,
-      "totalEarned": 8034,
+      "balance": 8044,
+      "totalEarned": 8044,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -317,12 +317,12 @@
     },
     {
       "name": "kingirnfist",
-      "balance": 7198,
-      "totalEarned": 22198,
+      "balance": 7263,
+      "totalEarned": 22263,
       "totalSpent": 15000,
       "gamesPlayed": 2,
       "gamesWon": 1,
-      "streak": 8
+      "streak": 1
     },
     {
       "name": "ayoub12h6",
@@ -425,8 +425,8 @@
     },
     {
       "name": "zherkafanboy",
-      "balance": 6401,
-      "totalEarned": 7400,
+      "balance": 6417,
+      "totalEarned": 7416,
       "totalSpent": 999,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1648,
-    "totalCirculating": 1774192,
+    "totalPlayers": 1650,
+    "totalCirculating": 1775290,
     "totalGames": 9250,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-20T23:25:38.373Z"
+  "lastUpdated": "2026-04-20T23:55:38.371Z"
 }
