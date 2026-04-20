@@ -1,10 +1,10 @@
 {
   "totalSessions": 75,
   "totalDays": 63,
-  "totalSegments": 3054,
+  "totalSegments": 3057,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 628127,
+  "totalMessages": 628686,
   "categories": [
     {
       "name": "Rust",
@@ -57,10 +57,10 @@
     },
     {
       "name": "Log Riders",
-      "avgViewers": 709,
+      "avgViewers": 710,
       "peakViewers": 713,
-      "sampleCount": 2,
-      "totalMsgs": 152
+      "sampleCount": 3,
+      "totalMsgs": 280
     },
     {
       "name": "Trash Horror Collection",
@@ -87,8 +87,8 @@
       "name": "Call of Duty: Black Ops III",
       "avgViewers": 677,
       "peakViewers": 861,
-      "sampleCount": 36,
-      "totalMsgs": 6648
+      "sampleCount": 37,
+      "totalMsgs": 6781
     },
     {
       "name": "Sea of Thieves",
@@ -206,8 +206,8 @@
       "name": "Just Chatting",
       "avgViewers": 591,
       "peakViewers": 903,
-      "sampleCount": 1213,
-      "totalMsgs": 258982
+      "sampleCount": 1214,
+      "totalMsgs": 259280
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -357,8 +357,8 @@
     },
     "19": {
       "avgViewers": 698,
-      "sampleCount": 308,
-      "totalMsgs": 71341
+      "sampleCount": 311,
+      "totalMsgs": 71900
     },
     "20": {
       "avgViewers": 682,
@@ -546,15 +546,16 @@
     },
     {
       "date": "2026-04-20",
-      "avgViewers": 604,
+      "avgViewers": 617,
       "peakViewers": 744,
-      "totalMsgs": 2593,
+      "totalMsgs": 3152,
       "categories": [
         "Just Chatting",
-        "Log Riders"
+        "Log Riders",
+        "Call of Duty: Black Ops III"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-20T19:25:38.352Z"
+  "lastUpdated": "2026-04-20T19:55:38.354Z"
 }
