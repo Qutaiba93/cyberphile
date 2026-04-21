@@ -1,10 +1,10 @@
 {
   "totalSessions": 75,
   "totalDays": 63,
-  "totalSegments": 3081,
+  "totalSegments": 3084,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 631343,
+  "totalMessages": 631507,
   "categories": [
     {
       "name": "Rust",
@@ -220,8 +220,8 @@
       "name": "PUBG: Battlegrounds",
       "avgViewers": 587,
       "peakViewers": 748,
-      "sampleCount": 91,
-      "totalMsgs": 15030
+      "sampleCount": 94,
+      "totalMsgs": 15194
     },
     {
       "name": "Backrooms",
@@ -297,8 +297,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 583,
-      "sampleCount": 127,
-      "totalMsgs": 20459
+      "sampleCount": 129,
+      "totalMsgs": 20543
     },
     "1": {
       "avgViewers": 509,
@@ -377,8 +377,8 @@
     },
     "23": {
       "avgViewers": 646,
-      "sampleCount": 179,
-      "totalMsgs": 33974
+      "sampleCount": 180,
+      "totalMsgs": 34054
     }
   },
   "dailyHistory": [
@@ -546,9 +546,9 @@
     },
     {
       "date": "2026-04-20",
-      "avgViewers": 634,
+      "avgViewers": 631,
       "peakViewers": 744,
-      "totalMsgs": 5809,
+      "totalMsgs": 5973,
       "categories": [
         "Just Chatting",
         "Log Riders",
@@ -558,5 +558,5 @@
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-20T23:55:38.362Z"
+  "lastUpdated": "2026-04-21T00:25:38.403Z"
 }
