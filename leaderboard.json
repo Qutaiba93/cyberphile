@@ -101,8 +101,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 12605,
-      "totalEarned": 15670,
+      "balance": 12613,
+      "totalEarned": 15678,
       "totalSpent": 3065,
       "gamesPlayed": 24,
       "gamesWon": 5,
@@ -110,8 +110,8 @@
     },
     {
       "name": "alexmesq",
-      "balance": 11534,
-      "totalEarned": 12534,
+      "balance": 11540,
+      "totalEarned": 12540,
       "totalSpent": 1000,
       "gamesPlayed": 2,
       "gamesWon": 0,
@@ -272,8 +272,8 @@
     },
     {
       "name": "neincs",
-      "balance": 8168,
-      "totalEarned": 8168,
+      "balance": 8188,
+      "totalEarned": 8188,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,8 +434,8 @@
     },
     {
       "name": "zherkafanboy",
-      "balance": 6481,
-      "totalEarned": 7480,
+      "balance": 6489,
+      "totalEarned": 7488,
       "totalSpent": 999,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1664,
-    "totalCirculating": 1816440,
+    "totalCirculating": 1816548,
     "totalGames": 9350,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-21T21:55:38.486Z"
+  "lastUpdated": "2026-04-21T22:25:38.487Z"
 }
