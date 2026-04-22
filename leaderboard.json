@@ -65,21 +65,30 @@
     },
     {
       "name": "taboxl",
-      "balance": 16330,
-      "totalEarned": 18698,
+      "balance": 16397,
+      "totalEarned": 18765,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "weppss",
-      "balance": 14207,
-      "totalEarned": 20102,
+      "balance": 14276,
+      "totalEarned": 20171,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
-      "streak": 2
+      "streak": 3
+    },
+    {
+      "name": "drogan",
+      "balance": 14049,
+      "totalEarned": 14049,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 3
     },
     {
       "name": "meliziana",
@@ -89,15 +98,6 @@
       "gamesPlayed": 577,
       "gamesWon": 210,
       "streak": 20
-    },
-    {
-      "name": "drogan",
-      "balance": 13978,
-      "totalEarned": 13978,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
     },
     {
       "name": "anansidagyuki",
@@ -110,12 +110,12 @@
     },
     {
       "name": "alexmesq",
-      "balance": 11544,
-      "totalEarned": 12544,
+      "balance": 11611,
+      "totalEarned": 12611,
       "totalSpent": 1000,
       "gamesPlayed": 2,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "furrreal",
@@ -316,6 +316,15 @@
       "streak": 2
     },
     {
+      "name": "kingirnfist",
+      "balance": 7442,
+      "totalEarned": 22442,
+      "totalSpent": 15000,
+      "gamesPlayed": 2,
+      "gamesWon": 1,
+      "streak": 3
+    },
+    {
       "name": "ahmet_uk",
       "balance": 7387,
       "totalEarned": 7387,
@@ -323,15 +332,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 3
-    },
-    {
-      "name": "kingirnfist",
-      "balance": 7365,
-      "totalEarned": 22365,
-      "totalSpent": 15000,
-      "gamesPlayed": 2,
-      "gamesWon": 1,
-      "streak": 2
     },
     {
       "name": "ayoub12h6",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1664,
-    "totalCirculating": 1821955,
+    "totalCirculating": 1823485,
     "totalGames": 9353,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-22T13:55:38.533Z"
+  "lastUpdated": "2026-04-22T14:25:38.538Z"
 }
