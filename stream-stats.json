@@ -1,10 +1,10 @@
 {
   "totalSessions": 78,
   "totalDays": 66,
-  "totalSegments": 3173,
+  "totalSegments": 3176,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 643121,
+  "totalMessages": 643607,
   "categories": [
     {
       "name": "Rust",
@@ -52,8 +52,8 @@
       "name": "Chat Roulette",
       "avgViewers": 717,
       "peakViewers": 916,
-      "sampleCount": 317,
-      "totalMsgs": 74117
+      "sampleCount": 318,
+      "totalMsgs": 74334
     },
     {
       "name": "Log Riders",
@@ -150,8 +150,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 637,
       "peakViewers": 841,
-      "sampleCount": 335,
-      "totalMsgs": 57862
+      "sampleCount": 336,
+      "totalMsgs": 58009
     },
     {
       "name": "Sons of the Forest",
@@ -206,8 +206,8 @@
       "name": "Just Chatting",
       "avgViewers": 593,
       "peakViewers": 903,
-      "sampleCount": 1266,
-      "totalMsgs": 265981
+      "sampleCount": 1267,
+      "totalMsgs": 266103
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -354,13 +354,13 @@
     },
     "17": {
       "avgViewers": 737,
-      "sampleCount": 314,
-      "totalMsgs": 67317
+      "sampleCount": 315,
+      "totalMsgs": 67464
     },
     "18": {
       "avgViewers": 700,
-      "sampleCount": 315,
-      "totalMsgs": 72484
+      "sampleCount": 317,
+      "totalMsgs": 72823
     },
     "19": {
       "avgViewers": 699,
@@ -549,14 +549,16 @@
     },
     {
       "date": "2026-04-23",
-      "avgViewers": 556,
-      "peakViewers": 689,
-      "totalMsgs": 3771,
+      "avgViewers": 571,
+      "peakViewers": 695,
+      "totalMsgs": 4257,
       "categories": [
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Just Chatting",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-23T17:55:38.630Z"
+  "lastUpdated": "2026-04-23T18:25:38.631Z"
 }
