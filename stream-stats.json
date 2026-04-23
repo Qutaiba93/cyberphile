@@ -1,10 +1,10 @@
 {
-  "totalSessions": 77,
-  "totalDays": 65,
-  "totalSegments": 3149,
+  "totalSessions": 78,
+  "totalDays": 66,
+  "totalSegments": 3152,
   "allTimePeak": 17991,
-  "allTimeAvg": 633,
-  "totalMessages": 639350,
+  "allTimeAvg": 632,
+  "totalMessages": 639818,
   "categories": [
     {
       "name": "Rust",
@@ -141,10 +141,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 643,
+      "avgViewers": 639,
       "peakViewers": 841,
-      "sampleCount": 311,
-      "totalMsgs": 54091
+      "sampleCount": 314,
+      "totalMsgs": 54559
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -333,14 +333,14 @@
       "totalMsgs": 324
     },
     "13": {
-      "avgViewers": 205,
-      "sampleCount": 36,
-      "totalMsgs": 3675
+      "avgViewers": 203,
+      "sampleCount": 37,
+      "totalMsgs": 3725
     },
     "14": {
-      "avgViewers": 341,
-      "sampleCount": 182,
-      "totalMsgs": 26635
+      "avgViewers": 340,
+      "sampleCount": 184,
+      "totalMsgs": 27053
     },
     "15": {
       "avgViewers": 517,
@@ -389,19 +389,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-04-08",
-      "avgViewers": 520,
-      "peakViewers": 708,
-      "totalMsgs": 15098,
-      "categories": [
-        "Just Chatting",
-        "VALORANT",
-        "IRL",
-        "Chat Roulette",
-        "The Elder Scrolls V: Skyrim"
-      ]
-    },
     {
       "date": "2026-04-09",
       "avgViewers": 643,
@@ -559,8 +546,17 @@
         "Scam Line",
         "Counter-Strike 2"
       ]
+    },
+    {
+      "date": "2026-04-23",
+      "avgViewers": 204,
+      "peakViewers": 282,
+      "totalMsgs": 468,
+      "categories": [
+        "Counter-Strike 2"
+      ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-23T13:55:38.618Z"
+  "lastUpdated": "2026-04-23T14:25:38.617Z"
 }
