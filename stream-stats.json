@@ -1,10 +1,10 @@
 {
   "totalSessions": 78,
   "totalDays": 66,
-  "totalSegments": 3185,
+  "totalSegments": 3188,
   "allTimePeak": 17991,
-  "allTimeAvg": 632,
-  "totalMessages": 645660,
+  "allTimeAvg": 633,
+  "totalMessages": 646070,
   "categories": [
     {
       "name": "Rust",
@@ -52,8 +52,8 @@
       "name": "Chat Roulette",
       "avgViewers": 718,
       "peakViewers": 916,
-      "sampleCount": 327,
-      "totalMsgs": 76387
+      "sampleCount": 328,
+      "totalMsgs": 76542
     },
     {
       "name": "Log Riders",
@@ -150,8 +150,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 637,
       "peakViewers": 841,
-      "sampleCount": 336,
-      "totalMsgs": 58009
+      "sampleCount": 338,
+      "totalMsgs": 58264
     },
     {
       "name": "Sons of the Forest",
@@ -364,13 +364,13 @@
     },
     "19": {
       "avgViewers": 700,
-      "sampleCount": 323,
-      "totalMsgs": 73924
+      "sampleCount": 324,
+      "totalMsgs": 74079
     },
     "20": {
       "avgViewers": 682,
-      "sampleCount": 327,
-      "totalMsgs": 76808
+      "sampleCount": 329,
+      "totalMsgs": 77063
     },
     "21": {
       "avgViewers": 687,
@@ -549,9 +549,9 @@
     },
     {
       "date": "2026-04-23",
-      "avgViewers": 614,
+      "avgViewers": 623,
       "peakViewers": 784,
-      "totalMsgs": 6310,
+      "totalMsgs": 6720,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
@@ -560,5 +560,5 @@
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-23T19:55:38.637Z"
+  "lastUpdated": "2026-04-23T20:25:38.638Z"
 }
