@@ -19,21 +19,21 @@
       "streak": 2
     },
     {
+      "name": "kooooool",
+      "balance": 22147,
+      "totalEarned": 93032,
+      "totalSpent": 70885,
+      "gamesPlayed": 62,
+      "gamesWon": 23,
+      "streak": 4
+    },
+    {
       "name": "zuyu",
       "balance": 21793,
       "totalEarned": 91706,
       "totalSpent": 69913,
       "gamesPlayed": 41,
       "gamesWon": 17,
-      "streak": 3
-    },
-    {
-      "name": "kooooool",
-      "balance": 20075,
-      "totalEarned": 88960,
-      "totalSpent": 68885,
-      "gamesPlayed": 61,
-      "gamesWon": 22,
       "streak": 3
     },
     {
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1671,
-    "totalCirculating": 1825034,
-    "totalGames": 9372,
+    "totalCirculating": 1827064,
+    "totalGames": 9377,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-23T12:55:38.621Z"
+  "lastUpdated": "2026-04-23T13:25:38.623Z"
 }
