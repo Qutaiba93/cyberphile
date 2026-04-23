@@ -1,10 +1,10 @@
 {
   "totalSessions": 78,
   "totalDays": 66,
-  "totalSegments": 3203,
+  "totalSegments": 3206,
   "allTimePeak": 17991,
   "allTimeAvg": 633,
-  "totalMessages": 647912,
+  "totalMessages": 648137,
   "categories": [
     {
       "name": "Rust",
@@ -50,10 +50,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 718,
+      "avgViewers": 717,
       "peakViewers": 916,
-      "sampleCount": 330,
-      "totalMsgs": 76814
+      "sampleCount": 331,
+      "totalMsgs": 76917
     },
     {
       "name": "Log Riders",
@@ -215,6 +215,13 @@
       "peakViewers": 748,
       "sampleCount": 16,
       "totalMsgs": 2802
+    },
+    {
+      "name": "Cuphead",
+      "avgViewers": 589,
+      "peakViewers": 593,
+      "sampleCount": 2,
+      "totalMsgs": 122
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -379,13 +386,13 @@
     },
     "22": {
       "avgViewers": 676,
-      "sampleCount": 264,
-      "totalMsgs": 56320
+      "sampleCount": 265,
+      "totalMsgs": 56423
     },
     "23": {
-      "avgViewers": 646,
-      "sampleCount": 180,
-      "totalMsgs": 34054
+      "avgViewers": 645,
+      "sampleCount": 182,
+      "totalMsgs": 34176
     }
   },
   "dailyHistory": [
@@ -549,16 +556,17 @@
     },
     {
       "date": "2026-04-23",
-      "avgViewers": 636,
+      "avgViewers": 634,
       "peakViewers": 784,
-      "totalMsgs": 8562,
+      "totalMsgs": 8787,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Cuphead"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-23T22:55:38.641Z"
+  "lastUpdated": "2026-04-23T23:25:38.644Z"
 }
