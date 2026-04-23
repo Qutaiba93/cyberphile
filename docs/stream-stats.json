@@ -1,10 +1,10 @@
 {
   "totalSessions": 78,
   "totalDays": 66,
-  "totalSegments": 3152,
+  "totalSegments": 3155,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 639818,
+  "totalMessages": 640279,
   "categories": [
     {
       "name": "Rust",
@@ -140,18 +140,18 @@
       "totalMsgs": 5736
     },
     {
-      "name": "Counter-Strike 2",
-      "avgViewers": 639,
-      "peakViewers": 841,
-      "sampleCount": 314,
-      "totalMsgs": 54559
-    },
-    {
       "name": "Counter-Strike: Global Offensive",
       "avgViewers": 638,
       "peakViewers": 638,
       "sampleCount": 1,
       "totalMsgs": 262
+    },
+    {
+      "name": "Counter-Strike 2",
+      "avgViewers": 637,
+      "peakViewers": 841,
+      "sampleCount": 317,
+      "totalMsgs": 55020
     },
     {
       "name": "Sons of the Forest",
@@ -338,9 +338,9 @@
       "totalMsgs": 3725
     },
     "14": {
-      "avgViewers": 340,
-      "sampleCount": 184,
-      "totalMsgs": 27053
+      "avgViewers": 341,
+      "sampleCount": 187,
+      "totalMsgs": 27514
     },
     "15": {
       "avgViewers": 517,
@@ -549,14 +549,14 @@
     },
     {
       "date": "2026-04-23",
-      "avgViewers": 204,
-      "peakViewers": 282,
-      "totalMsgs": 468,
+      "avgViewers": 311,
+      "peakViewers": 465,
+      "totalMsgs": 929,
       "categories": [
         "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-23T14:25:38.617Z"
+  "lastUpdated": "2026-04-23T14:55:38.616Z"
 }
