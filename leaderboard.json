@@ -56,17 +56,17 @@
     },
     {
       "name": "taboxl",
-      "balance": 17109,
-      "totalEarned": 19477,
+      "balance": 17186,
+      "totalEarned": 19554,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "tevb0t",
-      "balance": 16781,
-      "totalEarned": 16791,
+      "balance": 16785,
+      "totalEarned": 16795,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -137,12 +137,12 @@
     },
     {
       "name": "patwifi",
-      "balance": 10682,
-      "totalEarned": 10682,
+      "balance": 10768,
+      "totalEarned": 10768,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "cecee",
@@ -218,8 +218,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 9329,
-      "totalEarned": 9329,
+      "balance": 9337,
+      "totalEarned": 9337,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -397,6 +397,15 @@
       "streak": 1
     },
     {
+      "name": "guest567432",
+      "balance": 6862,
+      "totalEarned": 12943,
+      "totalSpent": 6081,
+      "gamesPlayed": 2,
+      "gamesWon": 0,
+      "streak": 5
+    },
+    {
       "name": "khaledbusiness",
       "balance": 6857,
       "totalEarned": 11757,
@@ -424,15 +433,6 @@
       "streak": 2
     },
     {
-      "name": "guest567432",
-      "balance": 6785,
-      "totalEarned": 12866,
-      "totalSpent": 6081,
-      "gamesPlayed": 2,
-      "gamesWon": 0,
-      "streak": 4
-    },
-    {
       "name": "zherkafanboy",
       "balance": 6740,
       "totalEarned": 7739,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1685,
-    "totalCirculating": 1863736,
-    "totalGames": 9388,
+    "totalCirculating": 1861183,
+    "totalGames": 9392,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-24T00:25:38.658Z"
+  "lastUpdated": "2026-04-24T00:55:38.659Z"
 }
