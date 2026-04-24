@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 71102,
-      "totalEarned": 952429,
+      "balance": 71179,
+      "totalEarned": 952506,
       "totalSpent": 962836,
       "gamesPlayed": 461,
       "gamesWon": 179,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "uncommonletter",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1685,
-    "totalCirculating": 1861531,
-    "totalGames": 9394,
+    "totalCirculating": 1860989,
+    "totalGames": 9397,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-24T14:55:38.732Z"
+  "lastUpdated": "2026-04-24T15:25:38.733Z"
 }
