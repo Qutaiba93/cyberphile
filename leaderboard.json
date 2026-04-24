@@ -163,15 +163,6 @@
       "streak": 14
     },
     {
-      "name": "kooooool",
-      "balance": 10348,
-      "totalEarned": 107233,
-      "totalSpent": 96885,
-      "gamesPlayed": 70,
-      "gamesWon": 26,
-      "streak": 5
-    },
-    {
       "name": "nick6",
       "balance": 10069,
       "totalEarned": 10069,
@@ -449,12 +440,21 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
+    },
+    {
+      "name": "reggiekool",
+      "balance": 6563,
+      "totalEarned": 6563,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 4
     }
   ],
   "stats": {
     "totalPlayers": 1685,
-    "totalCirculating": 1845291,
-    "totalGames": 9414,
+    "totalCirculating": 1835111,
+    "totalGames": 9416,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-24T18:25:38.741Z"
+  "lastUpdated": "2026-04-24T18:55:38.741Z"
 }
