@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 71179,
-      "totalEarned": 952506,
+      "balance": 71263,
+      "totalEarned": 952590,
       "totalSpent": 962836,
       "gamesPlayed": 461,
       "gamesWon": 179,
-      "streak": 5
+      "streak": 6
     },
     {
       "name": "uncommonletter",
@@ -47,12 +47,12 @@
     },
     {
       "name": "taboxl",
-      "balance": 17200,
-      "totalEarned": 19568,
+      "balance": 17300,
+      "totalEarned": 19668,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
-      "streak": 5
+      "streak": 6
     },
     {
       "name": "tevb0t",
@@ -65,12 +65,12 @@
     },
     {
       "name": "weppss",
-      "balance": 14458,
-      "totalEarned": 20353,
+      "balance": 14537,
+      "totalEarned": 20432,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
-      "streak": 4
+      "streak": 1
     },
     {
       "name": "drogan",
@@ -110,8 +110,8 @@
     },
     {
       "name": "furrreal",
-      "balance": 11301,
-      "totalEarned": 14801,
+      "balance": 11360,
+      "totalEarned": 14860,
       "totalSpent": 3500,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -164,8 +164,8 @@
     },
     {
       "name": "nick6",
-      "balance": 10244,
-      "totalEarned": 10244,
+      "balance": 10328,
+      "totalEarned": 10328,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -253,18 +253,18 @@
       "streak": 1
     },
     {
-      "name": "intermediatewastakensadge",
-      "balance": 8375,
-      "totalEarned": 8375,
+      "name": "neincs",
+      "balance": 8382,
+      "totalEarned": 8382,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
     },
     {
-      "name": "neincs",
-      "balance": 8299,
-      "totalEarned": 8299,
+      "name": "intermediatewastakensadge",
+      "balance": 8375,
+      "totalEarned": 8375,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -334,6 +334,15 @@
       "streak": 4
     },
     {
+      "name": "m1lxnn",
+      "balance": 7329,
+      "totalEarned": 7369,
+      "totalSpent": 40,
+      "gamesPlayed": 2,
+      "gamesWon": 1,
+      "streak": 6
+    },
+    {
       "name": "damiybe",
       "balance": 7240,
       "totalEarned": 7250,
@@ -341,15 +350,6 @@
       "gamesPlayed": 1,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "m1lxnn",
-      "balance": 7239,
-      "totalEarned": 7279,
-      "totalSpent": 40,
-      "gamesPlayed": 2,
-      "gamesWon": 1,
-      "streak": 5
     },
     {
       "name": "the1chosen_one",
@@ -434,8 +434,8 @@
     },
     {
       "name": "quantik",
-      "balance": 6622,
-      "totalEarned": 6622,
+      "balance": 6624,
+      "totalEarned": 6624,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1686,
-    "totalCirculating": 1839343,
+    "totalCirculating": 1842273,
     "totalGames": 9426,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-25T16:25:38.837Z"
+  "lastUpdated": "2026-04-25T16:55:38.826Z"
 }
