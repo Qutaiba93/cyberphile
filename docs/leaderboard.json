@@ -137,12 +137,12 @@
     },
     {
       "name": "papaah",
-      "balance": 10532,
-      "totalEarned": 10532,
+      "balance": 10616,
+      "totalEarned": 10616,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 5
+      "streak": 6
     },
     {
       "name": "cecee",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1686,
-    "totalCirculating": 1836607,
+    "totalCirculating": 1836691,
     "totalGames": 9424,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-25T00:25:38.774Z"
+  "lastUpdated": "2026-04-25T00:55:38.755Z"
 }
