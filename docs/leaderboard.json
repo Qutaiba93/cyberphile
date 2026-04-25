@@ -92,12 +92,12 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 13207,
-      "totalEarned": 16272,
+      "balance": 13311,
+      "totalEarned": 16376,
       "totalSpent": 3065,
       "gamesPlayed": 24,
       "gamesWon": 5,
-      "streak": 24
+      "streak": 25
     },
     {
       "name": "alexmesq",
@@ -145,6 +145,15 @@
       "streak": 6
     },
     {
+      "name": "machamp1",
+      "balance": 10490,
+      "totalEarned": 10715,
+      "totalSpent": 225,
+      "gamesPlayed": 5,
+      "gamesWon": 1,
+      "streak": 15
+    },
+    {
       "name": "cecee",
       "balance": 10472,
       "totalEarned": 30602,
@@ -154,22 +163,13 @@
       "streak": 2
     },
     {
-      "name": "machamp1",
-      "balance": 10388,
-      "totalEarned": 10613,
-      "totalSpent": 225,
-      "gamesPlayed": 5,
-      "gamesWon": 1,
-      "streak": 14
-    },
-    {
       "name": "nick6",
-      "balance": 10069,
-      "totalEarned": 10069,
+      "balance": 10126,
+      "totalEarned": 10126,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 6
+      "streak": 1
     },
     {
       "name": "schitt",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1686,
-    "totalCirculating": 1837682,
+    "totalCirculating": 1838055,
     "totalGames": 9426,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-25T13:55:38.820Z"
+  "lastUpdated": "2026-04-25T14:25:38.822Z"
 }
