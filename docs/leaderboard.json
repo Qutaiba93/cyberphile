@@ -379,6 +379,15 @@
       "streak": 4
     },
     {
+      "name": "guest567432",
+      "balance": 6950,
+      "totalEarned": 13031,
+      "totalSpent": 6081,
+      "gamesPlayed": 2,
+      "gamesWon": 0,
+      "streak": 6
+    },
+    {
       "name": "skullyontop",
       "balance": 6940,
       "totalEarned": 6950,
@@ -386,15 +395,6 @@
       "gamesPlayed": 1,
       "gamesWon": 1,
       "streak": 1
-    },
-    {
-      "name": "guest567432",
-      "balance": 6868,
-      "totalEarned": 12949,
-      "totalSpent": 6081,
-      "gamesPlayed": 2,
-      "gamesWon": 0,
-      "streak": 5
     },
     {
       "name": "khaledbusiness",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1686,
-    "totalCirculating": 1836775,
+    "totalCirculating": 1836857,
     "totalGames": 9424,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-25T02:55:38.773Z"
+  "lastUpdated": "2026-04-25T03:25:38.771Z"
 }
