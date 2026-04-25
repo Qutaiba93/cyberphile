@@ -1,10 +1,10 @@
 {
   "totalSessions": 79,
   "totalDays": 67,
-  "totalSegments": 3243,
+  "totalSegments": 3246,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 654683,
+  "totalMessages": 655713,
   "categories": [
     {
       "name": "Rust",
@@ -92,10 +92,10 @@
     },
     {
       "name": "Call of Duty: Black Ops III",
-      "avgViewers": 672,
+      "avgViewers": 671,
       "peakViewers": 861,
-      "sampleCount": 46,
-      "totalMsgs": 7678
+      "sampleCount": 48,
+      "totalMsgs": 8478
     },
     {
       "name": "The Empty Eyes",
@@ -206,8 +206,8 @@
       "name": "Just Chatting",
       "avgViewers": 594,
       "peakViewers": 903,
-      "sampleCount": 1306,
-      "totalMsgs": 273089
+      "sampleCount": 1307,
+      "totalMsgs": 273319
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -376,13 +376,13 @@
     },
     "20": {
       "avgViewers": 683,
-      "sampleCount": 338,
-      "totalMsgs": 80029
+      "sampleCount": 339,
+      "totalMsgs": 80613
     },
     "21": {
       "avgViewers": 687,
-      "sampleCount": 326,
-      "totalMsgs": 68574
+      "sampleCount": 328,
+      "totalMsgs": 69020
     },
     "22": {
       "avgViewers": 676,
@@ -555,15 +555,16 @@
     },
     {
       "date": "2026-04-25",
-      "avgViewers": 615,
+      "avgViewers": 619,
       "peakViewers": 753,
-      "totalMsgs": 5994,
+      "totalMsgs": 7024,
       "categories": [
         "Just Chatting",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Call of Duty: Black Ops III"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-25T20:55:38.822Z"
+  "lastUpdated": "2026-04-25T21:25:38.823Z"
 }
