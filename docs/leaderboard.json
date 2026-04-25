@@ -92,8 +92,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 13313,
-      "totalEarned": 16378,
+      "balance": 13319,
+      "totalEarned": 16384,
       "totalSpent": 3065,
       "gamesPlayed": 24,
       "gamesWon": 5,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1686,
-    "totalCirculating": 1839329,
+    "totalCirculating": 1839343,
     "totalGames": 9426,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-25T15:55:38.828Z"
+  "lastUpdated": "2026-04-25T16:25:38.837Z"
 }
