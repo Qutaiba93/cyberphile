@@ -29,8 +29,8 @@
     },
     {
       "name": "plebcentral",
-      "balance": 19161,
-      "totalEarned": 35841,
+      "balance": 19187,
+      "totalEarned": 35867,
       "totalSpent": 16680,
       "gamesPlayed": 4,
       "gamesWon": 2,
@@ -38,17 +38,17 @@
     },
     {
       "name": "poseidon_o7",
-      "balance": 18517,
-      "totalEarned": 18537,
+      "balance": 18581,
+      "totalEarned": 18601,
       "totalSpent": 20,
       "gamesPlayed": 2,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "taboxl",
-      "balance": 17835,
-      "totalEarned": 20203,
+      "balance": 17867,
+      "totalEarned": 20235,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
@@ -65,8 +65,8 @@
     },
     {
       "name": "weppss",
-      "balance": 14919,
-      "totalEarned": 20814,
+      "balance": 14931,
+      "totalEarned": 20826,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -74,8 +74,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 14729,
-      "totalEarned": 247219,
+      "balance": 14739,
+      "totalEarned": 247229,
       "totalSpent": 232490,
       "gamesPlayed": 577,
       "gamesWon": 210,
@@ -83,8 +83,8 @@
     },
     {
       "name": "drogan",
-      "balance": 14532,
-      "totalEarned": 14532,
+      "balance": 14610,
+      "totalEarned": 14610,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -92,8 +92,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 13737,
-      "totalEarned": 16802,
+      "balance": 13765,
+      "totalEarned": 16830,
       "totalSpent": 3065,
       "gamesPlayed": 24,
       "gamesWon": 5,
@@ -173,8 +173,8 @@
     },
     {
       "name": "upkey",
-      "balance": 10224,
-      "totalEarned": 10224,
+      "balance": 10228,
+      "totalEarned": 10228,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -191,8 +191,8 @@
     },
     {
       "name": "darth70",
-      "balance": 9884,
-      "totalEarned": 9884,
+      "balance": 9886,
+      "totalEarned": 9886,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -236,8 +236,8 @@
     },
     {
       "name": "s1nc3",
-      "balance": 8659,
-      "totalEarned": 53242,
+      "balance": 8675,
+      "totalEarned": 53258,
       "totalSpent": 44583,
       "gamesPlayed": 35,
       "gamesWon": 18,
@@ -281,12 +281,12 @@
     },
     {
       "name": "lena_xc",
-      "balance": 8098,
-      "totalEarned": 8098,
+      "balance": 8164,
+      "totalEarned": 8164,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "ahmet_uk",
@@ -335,8 +335,8 @@
     },
     {
       "name": "damiybe",
-      "balance": 7381,
-      "totalEarned": 7391,
+      "balance": 7385,
+      "totalEarned": 7395,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -353,8 +353,8 @@
     },
     {
       "name": "guest567432",
-      "balance": 7283,
-      "totalEarned": 13364,
+      "balance": 7295,
+      "totalEarned": 13376,
       "totalSpent": 6081,
       "gamesPlayed": 2,
       "gamesWon": 0,
@@ -416,12 +416,12 @@
     },
     {
       "name": "khaledbusiness",
-      "balance": 6857,
-      "totalEarned": 11757,
+      "balance": 6914,
+      "totalEarned": 11814,
       "totalSpent": 4900,
       "gamesPlayed": 4,
       "gamesWon": 3,
-      "streak": 3
+      "streak": 1
     },
     {
       "name": "zahcy",
@@ -434,8 +434,8 @@
     },
     {
       "name": "quantik",
-      "balance": 6708,
-      "totalEarned": 6708,
+      "balance": 6710,
+      "totalEarned": 6710,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1707,
-    "totalCirculating": 1881798,
+    "totalCirculating": 1884216,
     "totalGames": 9449,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-26T16:55:38.907Z"
+  "lastUpdated": "2026-04-26T17:25:38.918Z"
 }
