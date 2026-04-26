@@ -1,10 +1,10 @@
 {
   "totalSessions": 80,
   "totalDays": 68,
-  "totalSegments": 3272,
+  "totalSegments": 3275,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 659839,
+  "totalMessages": 660639,
   "categories": [
     {
       "name": "Rust",
@@ -206,8 +206,8 @@
       "name": "Just Chatting",
       "avgViewers": 593,
       "peakViewers": 903,
-      "sampleCount": 1308,
-      "totalMsgs": 273413
+      "sampleCount": 1311,
+      "totalMsgs": 274213
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -355,9 +355,9 @@
       "totalMsgs": 54292
     },
     "16": {
-      "avgViewers": 676,
-      "sampleCount": 317,
-      "totalMsgs": 67081
+      "avgViewers": 673,
+      "sampleCount": 320,
+      "totalMsgs": 67881
     },
     "17": {
       "avgViewers": 732,
@@ -556,14 +556,14 @@
     },
     {
       "date": "2026-04-26",
-      "avgViewers": 133,
-      "peakViewers": 133,
-      "totalMsgs": 94,
+      "avgViewers": 290,
+      "peakViewers": 412,
+      "totalMsgs": 894,
       "categories": [
         "Just Chatting"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-26T16:25:38.905Z"
+  "lastUpdated": "2026-04-26T16:55:38.901Z"
 }
