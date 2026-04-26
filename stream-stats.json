@@ -1,10 +1,10 @@
 {
   "totalSessions": 80,
   "totalDays": 68,
-  "totalSegments": 3305,
+  "totalSegments": 3308,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 667280,
+  "totalMessages": 667700,
   "categories": [
     {
       "name": "Rust",
@@ -119,6 +119,13 @@
       "totalMsgs": 11524
     },
     {
+      "name": "Elden Ring: Nightreign",
+      "avgViewers": 655,
+      "peakViewers": 676,
+      "sampleCount": 2,
+      "totalMsgs": 195
+    },
+    {
       "name": "League of Legends",
       "avgViewers": 650,
       "peakViewers": 732,
@@ -206,8 +213,8 @@
       "name": "Just Chatting",
       "avgViewers": 593,
       "peakViewers": 903,
-      "sampleCount": 1325,
-      "totalMsgs": 277429
+      "sampleCount": 1326,
+      "totalMsgs": 277654
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -381,13 +388,13 @@
     },
     "21": {
       "avgViewers": 687,
-      "sampleCount": 337,
-      "totalMsgs": 70684
+      "sampleCount": 338,
+      "totalMsgs": 70909
     },
     "22": {
       "avgViewers": 675,
-      "sampleCount": 271,
-      "totalMsgs": 57532
+      "sampleCount": 273,
+      "totalMsgs": 57727
     },
     "23": {
       "avgViewers": 643,
@@ -556,16 +563,17 @@
     },
     {
       "date": "2026-04-26",
-      "avgViewers": 645,
+      "avgViewers": 647,
       "peakViewers": 774,
-      "totalMsgs": 7535,
+      "totalMsgs": 7955,
       "categories": [
         "Just Chatting",
         "Minecraft",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Elden Ring: Nightreign"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-26T21:55:38.909Z"
+  "lastUpdated": "2026-04-26T22:25:38.917Z"
 }
