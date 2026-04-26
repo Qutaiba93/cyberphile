@@ -1,10 +1,10 @@
 {
   "totalSessions": 80,
   "totalDays": 68,
-  "totalSegments": 3296,
+  "totalSegments": 3299,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 665670,
+  "totalMessages": 666334,
   "categories": [
     {
       "name": "Rust",
@@ -52,8 +52,8 @@
       "name": "Chat Roulette",
       "avgViewers": 716,
       "peakViewers": 916,
-      "sampleCount": 342,
-      "totalMsgs": 78899
+      "sampleCount": 344,
+      "totalMsgs": 79462
     },
     {
       "name": "Log Riders",
@@ -169,10 +169,10 @@
     },
     {
       "name": "Minecraft",
-      "avgViewers": 623,
+      "avgViewers": 625,
       "peakViewers": 729,
-      "sampleCount": 74,
-      "totalMsgs": 15167
+      "sampleCount": 75,
+      "totalMsgs": 15268
     },
     {
       "name": "DayZ",
@@ -376,8 +376,8 @@
     },
     "20": {
       "avgViewers": 683,
-      "sampleCount": 341,
-      "totalMsgs": 81015
+      "sampleCount": 344,
+      "totalMsgs": 81679
     },
     "21": {
       "avgViewers": 686,
@@ -556,15 +556,16 @@
     },
     {
       "date": "2026-04-26",
-      "avgViewers": 608,
-      "peakViewers": 751,
-      "totalMsgs": 5925,
+      "avgViewers": 622,
+      "peakViewers": 757,
+      "totalMsgs": 6589,
       "categories": [
         "Just Chatting",
-        "Minecraft"
+        "Minecraft",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-26T20:25:38.911Z"
+  "lastUpdated": "2026-04-26T20:55:38.913Z"
 }
