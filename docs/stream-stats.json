@@ -1,10 +1,10 @@
 {
-  "totalSessions": 79,
-  "totalDays": 67,
-  "totalSegments": 3271,
+  "totalSessions": 80,
+  "totalDays": 68,
+  "totalSegments": 3272,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 659745,
+  "totalMessages": 659839,
   "categories": [
     {
       "name": "Rust",
@@ -204,10 +204,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 594,
+      "avgViewers": 593,
       "peakViewers": 903,
-      "sampleCount": 1307,
-      "totalMsgs": 273319
+      "sampleCount": 1308,
+      "totalMsgs": 273413
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -355,9 +355,9 @@
       "totalMsgs": 54292
     },
     "16": {
-      "avgViewers": 677,
-      "sampleCount": 316,
-      "totalMsgs": 66987
+      "avgViewers": 676,
+      "sampleCount": 317,
+      "totalMsgs": 67081
     },
     "17": {
       "avgViewers": 732,
@@ -396,17 +396,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-04-10",
-      "avgViewers": 642,
-      "peakViewers": 731,
-      "totalMsgs": 3889,
-      "categories": [
-        "Just Chatting",
-        "Chat Roulette",
-        "Call of Duty: Black Ops Zombies"
-      ]
-    },
     {
       "date": "2026-04-11",
       "avgViewers": 555,
@@ -564,8 +553,17 @@
         "Call of Duty: Black Ops III",
         "Grand Theft Auto V (GTA)"
       ]
+    },
+    {
+      "date": "2026-04-26",
+      "avgViewers": 133,
+      "peakViewers": 133,
+      "totalMsgs": 94,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-26T15:55:38.902Z"
+  "lastUpdated": "2026-04-26T16:25:38.905Z"
 }
