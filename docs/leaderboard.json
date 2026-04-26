@@ -65,8 +65,8 @@
     },
     {
       "name": "weppss",
-      "balance": 14891,
-      "totalEarned": 20786,
+      "balance": 14903,
+      "totalEarned": 20798,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -74,8 +74,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 14681,
-      "totalEarned": 247171,
+      "balance": 14691,
+      "totalEarned": 247181,
       "totalSpent": 232490,
       "gamesPlayed": 577,
       "gamesWon": 210,
@@ -92,8 +92,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 13649,
-      "totalEarned": 16714,
+      "balance": 13681,
+      "totalEarned": 16746,
       "totalSpent": 3065,
       "gamesPlayed": 24,
       "gamesWon": 5,
@@ -128,8 +128,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 11033,
-      "totalEarned": 11033,
+      "balance": 11061,
+      "totalEarned": 11061,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -137,8 +137,8 @@
     },
     {
       "name": "papaah",
-      "balance": 10961,
-      "totalEarned": 10961,
+      "balance": 10971,
+      "totalEarned": 10971,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,8 +146,8 @@
     },
     {
       "name": "nick6",
-      "balance": 10820,
-      "totalEarned": 10820,
+      "balance": 10900,
+      "totalEarned": 10900,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -200,12 +200,12 @@
     },
     {
       "name": "juggin247",
-      "balance": 9443,
-      "totalEarned": 9443,
+      "balance": 9548,
+      "totalEarned": 9548,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 6
+      "streak": 7
     },
     {
       "name": "faisaluibi",
@@ -388,20 +388,20 @@
       "streak": 6
     },
     {
+      "name": "zherkafanboy",
+      "balance": 7067,
+      "totalEarned": 8066,
+      "totalSpent": 999,
+      "gamesPlayed": 1,
+      "gamesWon": 0,
+      "streak": 2
+    },
+    {
       "name": "twilighty",
       "balance": 7041,
       "totalEarned": 7041,
       "totalSpent": 0,
       "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
-    },
-    {
-      "name": "zherkafanboy",
-      "balance": 7011,
-      "totalEarned": 8010,
-      "totalSpent": 999,
-      "gamesPlayed": 1,
       "gamesWon": 0,
       "streak": 2
     },
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1702,
-    "totalCirculating": 1872289,
+    "totalCirculating": 1874225,
     "totalGames": 9447,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-26T00:55:38.850Z"
+  "lastUpdated": "2026-04-26T01:25:38.850Z"
 }
