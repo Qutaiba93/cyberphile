@@ -1,10 +1,10 @@
 {
   "totalSessions": 80,
   "totalDays": 68,
-  "totalSegments": 3311,
+  "totalSegments": 3314,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 668060,
+  "totalMessages": 668385,
   "categories": [
     {
       "name": "Rust",
@@ -189,13 +189,6 @@
       "totalMsgs": 352
     },
     {
-      "name": "Elden Ring: Nightreign",
-      "avgViewers": 604,
-      "peakViewers": 676,
-      "sampleCount": 5,
-      "totalMsgs": 555
-    },
-    {
       "name": "Call of Duty: Modern Warfare 2",
       "avgViewers": 601,
       "peakViewers": 652,
@@ -222,6 +215,13 @@
       "peakViewers": 748,
       "sampleCount": 16,
       "totalMsgs": 2802
+    },
+    {
+      "name": "Elden Ring: Nightreign",
+      "avgViewers": 589,
+      "peakViewers": 676,
+      "sampleCount": 8,
+      "totalMsgs": 880
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -393,13 +393,13 @@
     },
     "22": {
       "avgViewers": 673,
-      "sampleCount": 276,
-      "totalMsgs": 58087
+      "sampleCount": 277,
+      "totalMsgs": 58196
     },
     "23": {
       "avgViewers": 643,
-      "sampleCount": 192,
-      "totalMsgs": 35279
+      "sampleCount": 194,
+      "totalMsgs": 35495
     }
   },
   "dailyHistory": [
@@ -563,9 +563,9 @@
     },
     {
       "date": "2026-04-26",
-      "avgViewers": 641,
+      "avgViewers": 636,
       "peakViewers": 774,
-      "totalMsgs": 8315,
+      "totalMsgs": 8640,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -575,5 +575,5 @@
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-26T22:55:38.915Z"
+  "lastUpdated": "2026-04-26T23:25:38.912Z"
 }
