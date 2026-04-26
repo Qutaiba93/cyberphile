@@ -1,10 +1,10 @@
 {
   "totalSessions": 80,
   "totalDays": 68,
-  "totalSegments": 3287,
+  "totalSegments": 3290,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 663496,
+  "totalMessages": 663980,
   "categories": [
     {
       "name": "Rust",
@@ -176,10 +176,10 @@
     },
     {
       "name": "Minecraft",
-      "avgViewers": 615,
+      "avgViewers": 616,
       "peakViewers": 729,
-      "sampleCount": 67,
-      "totalMsgs": 13352
+      "sampleCount": 68,
+      "totalMsgs": 13477
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -206,8 +206,8 @@
       "name": "Just Chatting",
       "avgViewers": 593,
       "peakViewers": 903,
-      "sampleCount": 1323,
-      "totalMsgs": 277070
+      "sampleCount": 1325,
+      "totalMsgs": 277429
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -366,13 +366,13 @@
     },
     "18": {
       "avgViewers": 700,
-      "sampleCount": 332,
-      "totalMsgs": 76047
+      "sampleCount": 333,
+      "totalMsgs": 76252
     },
     "19": {
       "avgViewers": 701,
-      "sampleCount": 330,
-      "totalMsgs": 75117
+      "sampleCount": 332,
+      "totalMsgs": 75396
     },
     "20": {
       "avgViewers": 683,
@@ -556,14 +556,15 @@
     },
     {
       "date": "2026-04-26",
-      "avgViewers": 551,
-      "peakViewers": 740,
-      "totalMsgs": 3751,
+      "avgViewers": 577,
+      "peakViewers": 751,
+      "totalMsgs": 4235,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-26T18:55:38.909Z"
+  "lastUpdated": "2026-04-26T19:25:38.909Z"
 }
