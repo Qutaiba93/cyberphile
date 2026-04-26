@@ -146,8 +146,8 @@
     },
     {
       "name": "nick6",
-      "balance": 10924,
-      "totalEarned": 10924,
+      "balance": 10966,
+      "totalEarned": 10966,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -370,6 +370,15 @@
       "streak": 2
     },
     {
+      "name": "guest567432",
+      "balance": 7199,
+      "totalEarned": 13280,
+      "totalSpent": 6081,
+      "gamesPlayed": 2,
+      "gamesWon": 0,
+      "streak": 7
+    },
+    {
       "name": "xx_i_garrem_deez_xx",
       "balance": 7115,
       "totalEarned": 7115,
@@ -377,15 +386,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 5
-    },
-    {
-      "name": "guest567432",
-      "balance": 7112,
-      "totalEarned": 13193,
-      "totalSpent": 6081,
-      "gamesPlayed": 2,
-      "gamesWon": 0,
-      "streak": 6
     },
     {
       "name": "zherkafanboy",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1702,
-    "totalCirculating": 1875202,
+    "totalCirculating": 1875423,
     "totalGames": 9447,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-26T13:55:38.922Z"
+  "lastUpdated": "2026-04-26T14:25:38.904Z"
 }
