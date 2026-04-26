@@ -1,10 +1,10 @@
 {
   "totalSessions": 80,
   "totalDays": 68,
-  "totalSegments": 3314,
+  "totalSegments": 3317,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 668385,
+  "totalMessages": 668619,
   "categories": [
     {
       "name": "Rust",
@@ -217,18 +217,18 @@
       "totalMsgs": 2802
     },
     {
-      "name": "Elden Ring: Nightreign",
-      "avgViewers": 589,
-      "peakViewers": 676,
-      "sampleCount": 8,
-      "totalMsgs": 880
-    },
-    {
       "name": "PUBG: Battlegrounds",
       "avgViewers": 580,
       "peakViewers": 748,
       "sampleCount": 103,
       "totalMsgs": 15915
+    },
+    {
+      "name": "Elden Ring: Nightreign",
+      "avgViewers": 578,
+      "peakViewers": 676,
+      "sampleCount": 11,
+      "totalMsgs": 1114
     },
     {
       "name": "Backrooms",
@@ -397,9 +397,9 @@
       "totalMsgs": 58196
     },
     "23": {
-      "avgViewers": 643,
-      "sampleCount": 194,
-      "totalMsgs": 35495
+      "avgViewers": 641,
+      "sampleCount": 197,
+      "totalMsgs": 35729
     }
   },
   "dailyHistory": [
@@ -563,9 +563,9 @@
     },
     {
       "date": "2026-04-26",
-      "avgViewers": 636,
+      "avgViewers": 630,
       "peakViewers": 774,
-      "totalMsgs": 8640,
+      "totalMsgs": 8874,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -575,5 +575,5 @@
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-26T23:25:38.912Z"
+  "lastUpdated": "2026-04-26T23:55:38.919Z"
 }
