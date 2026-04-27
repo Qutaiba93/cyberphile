@@ -65,8 +65,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 15682,
-      "totalEarned": 260072,
+      "balance": 15684,
+      "totalEarned": 260074,
       "totalSpent": 244390,
       "gamesPlayed": 598,
       "gamesWon": 219,
@@ -281,8 +281,8 @@
     },
     {
       "name": "seraj21",
-      "balance": 8612,
-      "totalEarned": 201505,
+      "balance": 8618,
+      "totalEarned": 201511,
       "totalSpent": 193841,
       "gamesPlayed": 1364,
       "gamesWon": 494,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1715,
-    "totalCirculating": 1913511,
+    "totalCirculating": 1913529,
     "totalGames": 9612,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-27T03:25:38.933Z"
+  "lastUpdated": "2026-04-27T03:55:38.940Z"
 }
