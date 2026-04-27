@@ -1,10 +1,10 @@
 {
   "totalSessions": 82,
   "totalDays": 69,
-  "totalSegments": 3383,
+  "totalSegments": 3386,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 677657,
+  "totalMessages": 677899,
   "categories": [
     {
       "name": "Rust",
@@ -140,18 +140,18 @@
       "totalMsgs": 5736
     },
     {
-      "name": "Counter-Strike 2",
-      "avgViewers": 638,
-      "peakViewers": 841,
-      "sampleCount": 339,
-      "totalMsgs": 58366
-    },
-    {
       "name": "Counter-Strike: Global Offensive",
       "avgViewers": 638,
       "peakViewers": 638,
       "sampleCount": 1,
       "totalMsgs": 262
+    },
+    {
+      "name": "Counter-Strike 2",
+      "avgViewers": 635,
+      "peakViewers": 841,
+      "sampleCount": 341,
+      "totalMsgs": 58543
     },
     {
       "name": "Sons of the Forest",
@@ -211,10 +211,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 591,
+      "avgViewers": 590,
       "peakViewers": 903,
-      "sampleCount": 1362,
-      "totalMsgs": 282341
+      "sampleCount": 1363,
+      "totalMsgs": 282406
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -399,9 +399,9 @@
       "totalMsgs": 71769
     },
     "22": {
-      "avgViewers": 671,
-      "sampleCount": 278,
-      "totalMsgs": 58211
+      "avgViewers": 666,
+      "sampleCount": 281,
+      "totalMsgs": 58453
     },
     "23": {
       "avgViewers": 641,
@@ -571,19 +571,20 @@
     },
     {
       "date": "2026-04-27",
-      "avgViewers": 563,
+      "avgViewers": 543,
       "peakViewers": 680,
-      "totalMsgs": 6646,
+      "totalMsgs": 6888,
       "categories": [
         "Just Chatting",
         "Trees Hate You",
         "Minecraft",
         "VALORANT",
         "Call of Duty: Black Ops III",
-        "Grand Theft Auto V (GTA)"
+        "Grand Theft Auto V (GTA)",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-27T22:25:39.019Z"
+  "lastUpdated": "2026-04-27T22:55:39.020Z"
 }
