@@ -1,10 +1,10 @@
 {
   "totalSessions": 81,
   "totalDays": 69,
-  "totalSegments": 3358,
+  "totalSegments": 3361,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 673942,
+  "totalMessages": 674365,
   "categories": [
     {
       "name": "Rust",
@@ -15,10 +15,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 786,
+      "avgViewers": 783,
       "peakViewers": 17935,
-      "sampleCount": 119,
-      "totalMsgs": 23913
+      "sampleCount": 121,
+      "totalMsgs": 24202
     },
     {
       "name": "Games + Demos",
@@ -213,8 +213,8 @@
       "name": "Just Chatting",
       "avgViewers": 591,
       "peakViewers": 903,
-      "sampleCount": 1357,
-      "totalMsgs": 281577
+      "sampleCount": 1358,
+      "totalMsgs": 281711
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -375,13 +375,13 @@
     },
     "17": {
       "avgViewers": 728,
-      "sampleCount": 332,
-      "totalMsgs": 70723
+      "sampleCount": 333,
+      "totalMsgs": 70857
     },
     "18": {
       "avgViewers": 700,
-      "sampleCount": 333,
-      "totalMsgs": 76252
+      "sampleCount": 335,
+      "totalMsgs": 76541
     },
     "19": {
       "avgViewers": 701,
@@ -571,16 +571,17 @@
     },
     {
       "date": "2026-04-27",
-      "avgViewers": 494,
-      "peakViewers": 628,
-      "totalMsgs": 2931,
+      "avgViewers": 515,
+      "peakViewers": 665,
+      "totalMsgs": 3354,
       "categories": [
         "Just Chatting",
         "Trees Hate You",
-        "Minecraft"
+        "Minecraft",
+        "VALORANT"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-27T17:55:38.960Z"
+  "lastUpdated": "2026-04-27T18:25:39.004Z"
 }

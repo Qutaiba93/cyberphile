@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 72592,
-      "totalEarned": 954919,
+      "balance": 72604,
+      "totalEarned": 954931,
       "totalSpent": 963836,
       "gamesPlayed": 462,
       "gamesWon": 180,
@@ -11,8 +11,8 @@
     },
     {
       "name": "uncommonletter",
-      "balance": 50896,
-      "totalEarned": 207792,
+      "balance": 50912,
+      "totalEarned": 207808,
       "totalSpent": 156896,
       "gamesPlayed": 194,
       "gamesWon": 91,
@@ -29,8 +29,8 @@
     },
     {
       "name": "plebcentral",
-      "balance": 19499,
-      "totalEarned": 36179,
+      "balance": 19557,
+      "totalEarned": 36237,
       "totalSpent": 16680,
       "gamesPlayed": 4,
       "gamesWon": 2,
@@ -47,8 +47,8 @@
     },
     {
       "name": "taboxl",
-      "balance": 18419,
-      "totalEarned": 20787,
+      "balance": 18489,
+      "totalEarned": 20857,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
@@ -74,8 +74,8 @@
     },
     {
       "name": "weppss",
-      "balance": 15256,
-      "totalEarned": 21151,
+      "balance": 15262,
+      "totalEarned": 21157,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -110,8 +110,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 11454,
-      "totalEarned": 11454,
+      "balance": 11462,
+      "totalEarned": 11462,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -182,8 +182,8 @@
     },
     {
       "name": "zherkafanboy",
-      "balance": 10366,
-      "totalEarned": 18365,
+      "balance": 10368,
+      "totalEarned": 18367,
       "totalSpent": 7999,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -191,8 +191,8 @@
     },
     {
       "name": "schitt",
-      "balance": 10346,
-      "totalEarned": 10346,
+      "balance": 10350,
+      "totalEarned": 10350,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -200,8 +200,8 @@
     },
     {
       "name": "darth70",
-      "balance": 10109,
-      "totalEarned": 10109,
+      "balance": 10119,
+      "totalEarned": 10119,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -290,17 +290,17 @@
     },
     {
       "name": "pitapan",
-      "balance": 8382,
-      "totalEarned": 8382,
+      "balance": 8449,
+      "totalEarned": 8449,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "lena_xc",
-      "balance": 8251,
-      "totalEarned": 8251,
+      "balance": 8309,
+      "totalEarned": 8309,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -398,8 +398,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 7198,
-      "totalEarned": 7198,
+      "balance": 7200,
+      "totalEarned": 7200,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -415,21 +415,21 @@
       "streak": 5
     },
     {
+      "name": "khaledbusiness",
+      "balance": 6986,
+      "totalEarned": 11886,
+      "totalSpent": 4900,
+      "gamesPlayed": 4,
+      "gamesWon": 3,
+      "streak": 2
+    },
+    {
       "name": "skullyontop",
       "balance": 6940,
       "totalEarned": 6950,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 1,
-      "streak": 1
-    },
-    {
-      "name": "khaledbusiness",
-      "balance": 6922,
-      "totalEarned": 11822,
-      "totalSpent": 4900,
-      "gamesPlayed": 4,
-      "gamesWon": 3,
       "streak": 1
     },
     {
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1718,
-    "totalCirculating": 1926504,
+    "totalCirculating": 1928401,
     "totalGames": 9639,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-27T17:55:38.970Z"
+  "lastUpdated": "2026-04-27T18:25:39.009Z"
 }
