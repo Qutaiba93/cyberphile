@@ -1,10 +1,10 @@
 {
   "totalSessions": 81,
   "totalDays": 69,
-  "totalSegments": 3367,
+  "totalSegments": 3370,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 675344,
+  "totalMessages": 675876,
   "categories": [
     {
       "name": "Rust",
@@ -91,18 +91,18 @@
       "totalMsgs": 10155
     },
     {
-      "name": "Call of Duty: Black Ops III",
-      "avgViewers": 664,
-      "peakViewers": 861,
-      "sampleCount": 60,
-      "totalMsgs": 10825
-    },
-    {
       "name": "The Empty Eyes",
       "avgViewers": 663,
       "peakViewers": 677,
       "sampleCount": 3,
       "totalMsgs": 225
+    },
+    {
+      "name": "Call of Duty: Black Ops III",
+      "avgViewers": 663,
+      "peakViewers": 861,
+      "sampleCount": 63,
+      "totalMsgs": 11357
     },
     {
       "name": "Call of Duty: Black Ops II",
@@ -385,8 +385,8 @@
     },
     "19": {
       "avgViewers": 700,
-      "sampleCount": 338,
-      "totalMsgs": 77051
+      "sampleCount": 341,
+      "totalMsgs": 77583
     },
     "20": {
       "avgViewers": 683,
@@ -571,9 +571,9 @@
     },
     {
       "date": "2026-04-27",
-      "avgViewers": 541,
+      "avgViewers": 552,
       "peakViewers": 671,
-      "totalMsgs": 4333,
+      "totalMsgs": 4865,
       "categories": [
         "Just Chatting",
         "Trees Hate You",
@@ -584,5 +584,5 @@
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-27T19:25:39.017Z"
+  "lastUpdated": "2026-04-27T19:55:39.015Z"
 }
