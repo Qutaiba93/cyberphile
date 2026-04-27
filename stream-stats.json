@@ -1,10 +1,10 @@
 {
   "totalSessions": 80,
   "totalDays": 68,
-  "totalSegments": 3320,
+  "totalSegments": 3323,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 668913,
+  "totalMessages": 669334,
   "categories": [
     {
       "name": "Rust",
@@ -206,8 +206,8 @@
       "name": "Just Chatting",
       "avgViewers": 593,
       "peakViewers": 903,
-      "sampleCount": 1326,
-      "totalMsgs": 277654
+      "sampleCount": 1327,
+      "totalMsgs": 277683
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -238,13 +238,6 @@
       "totalMsgs": 678
     },
     {
-      "name": "Elden Ring: Nightreign",
-      "avgViewers": 560,
-      "peakViewers": 676,
-      "sampleCount": 14,
-      "totalMsgs": 1408
-    },
-    {
       "name": "Cuphead",
       "avgViewers": 557,
       "peakViewers": 593,
@@ -264,6 +257,13 @@
       "peakViewers": 572,
       "sampleCount": 5,
       "totalMsgs": 1035
+    },
+    {
+      "name": "Elden Ring: Nightreign",
+      "avgViewers": 549,
+      "peakViewers": 676,
+      "sampleCount": 16,
+      "totalMsgs": 1800
     },
     {
       "name": "God of War",
@@ -317,9 +317,9 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 579,
-      "sampleCount": 145,
-      "totalMsgs": 21867
+      "avgViewers": 577,
+      "sampleCount": 148,
+      "totalMsgs": 22288
     },
     "1": {
       "avgViewers": 512,
@@ -563,9 +563,9 @@
     },
     {
       "date": "2026-04-26",
-      "avgViewers": 622,
+      "avgViewers": 614,
       "peakViewers": 774,
-      "totalMsgs": 9168,
+      "totalMsgs": 9589,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -575,5 +575,5 @@
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-27T00:25:38.918Z"
+  "lastUpdated": "2026-04-27T00:55:38.917Z"
 }
