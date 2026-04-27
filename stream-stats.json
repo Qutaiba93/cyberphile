@@ -1,10 +1,10 @@
 {
   "totalSessions": 81,
   "totalDays": 69,
-  "totalSegments": 3352,
+  "totalSegments": 3355,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 673043,
+  "totalMessages": 673399,
   "categories": [
     {
       "name": "Rust",
@@ -169,10 +169,10 @@
     },
     {
       "name": "Minecraft",
-      "avgViewers": 625,
+      "avgViewers": 623,
       "peakViewers": 729,
-      "sampleCount": 75,
-      "totalMsgs": 15268
+      "sampleCount": 78,
+      "totalMsgs": 15624
     },
     {
       "name": "DayZ",
@@ -370,13 +370,13 @@
     },
     "16": {
       "avgViewers": 671,
-      "sampleCount": 326,
-      "totalMsgs": 68872
+      "sampleCount": 327,
+      "totalMsgs": 69001
     },
     "17": {
-      "avgViewers": 730,
-      "sampleCount": 327,
-      "totalMsgs": 69953
+      "avgViewers": 729,
+      "sampleCount": 329,
+      "totalMsgs": 70180
     },
     "18": {
       "avgViewers": 700,
@@ -571,15 +571,16 @@
     },
     {
       "date": "2026-04-27",
-      "avgViewers": 446,
+      "avgViewers": 472,
       "peakViewers": 621,
-      "totalMsgs": 2032,
+      "totalMsgs": 2388,
       "categories": [
         "Just Chatting",
-        "Trees Hate You"
+        "Trees Hate You",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-27T16:55:38.962Z"
+  "lastUpdated": "2026-04-27T17:25:38.966Z"
 }
