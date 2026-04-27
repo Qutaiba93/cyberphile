@@ -1,10 +1,10 @@
 {
-  "totalSessions": 80,
-  "totalDays": 68,
-  "totalSegments": 3338,
+  "totalSessions": 81,
+  "totalDays": 69,
+  "totalSegments": 3340,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 671011,
+  "totalMessages": 671326,
   "categories": [
     {
       "name": "Rust",
@@ -204,10 +204,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 593,
+      "avgViewers": 592,
       "peakViewers": 903,
-      "sampleCount": 1342,
-      "totalMsgs": 279360
+      "sampleCount": 1344,
+      "totalMsgs": 279675
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -352,9 +352,9 @@
       "totalMsgs": 3725
     },
     "14": {
-      "avgViewers": 342,
-      "sampleCount": 188,
-      "totalMsgs": 27644
+      "avgViewers": 339,
+      "sampleCount": 190,
+      "totalMsgs": 27959
     },
     "15": {
       "avgViewers": 519,
@@ -403,17 +403,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-04-11",
-      "avgViewers": 555,
-      "peakViewers": 749,
-      "totalMsgs": 15309,
-      "categories": [
-        "Call of Duty: Black Ops Zombies",
-        "Just Chatting",
-        "Chat Roulette"
-      ]
-    },
     {
       "date": "2026-04-12",
       "avgViewers": 669,
@@ -572,8 +561,17 @@
         "Chat Roulette",
         "Elden Ring: Nightreign"
       ]
+    },
+    {
+      "date": "2026-04-27",
+      "avgViewers": 122,
+      "peakViewers": 217,
+      "totalMsgs": 315,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-27T14:25:38.958Z"
+  "lastUpdated": "2026-04-27T14:55:38.954Z"
 }

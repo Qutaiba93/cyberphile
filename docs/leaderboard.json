@@ -65,8 +65,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 15686,
-      "totalEarned": 260076,
+      "balance": 15710,
+      "totalEarned": 260100,
       "totalSpent": 244390,
       "gamesPlayed": 598,
       "gamesWon": 219,
@@ -245,12 +245,12 @@
     },
     {
       "name": "s1nc3",
-      "balance": 8723,
-      "totalEarned": 53306,
+      "balance": 8800,
+      "totalEarned": 53383,
       "totalSpent": 44583,
       "gamesPlayed": 35,
       "gamesWon": 18,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "intermediatewastakensadge",
@@ -344,8 +344,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 7605,
-      "totalEarned": 7706,
+      "balance": 7619,
+      "totalEarned": 7720,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1715,
-    "totalCirculating": 1913881,
+    "totalCirculating": 1915622,
     "totalGames": 9612,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-27T14:25:38.966Z"
+  "lastUpdated": "2026-04-27T14:55:38.964Z"
 }
