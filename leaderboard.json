@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 72544,
-      "totalEarned": 954871,
+      "balance": 72574,
+      "totalEarned": 954901,
       "totalSpent": 963836,
       "gamesPlayed": 462,
       "gamesWon": 180,
@@ -29,12 +29,12 @@
     },
     {
       "name": "plebcentral",
-      "balance": 19373,
-      "totalEarned": 36053,
+      "balance": 19471,
+      "totalEarned": 36151,
       "totalSpent": 16680,
       "gamesPlayed": 4,
       "gamesWon": 2,
-      "streak": 7
+      "streak": 8
     },
     {
       "name": "poseidon_o7",
@@ -47,8 +47,8 @@
     },
     {
       "name": "taboxl",
-      "balance": 18405,
-      "totalEarned": 20773,
+      "balance": 18407,
+      "totalEarned": 20775,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
@@ -65,8 +65,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 15854,
-      "totalEarned": 260244,
+      "balance": 15860,
+      "totalEarned": 260250,
       "totalSpent": 244390,
       "gamesPlayed": 598,
       "gamesWon": 219,
@@ -74,8 +74,8 @@
     },
     {
       "name": "weppss",
-      "balance": 15206,
-      "totalEarned": 21101,
+      "balance": 15224,
+      "totalEarned": 21119,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -119,12 +119,21 @@
     },
     {
       "name": "patwifi",
-      "balance": 11394,
-      "totalEarned": 11394,
+      "balance": 11400,
+      "totalEarned": 11400,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 7
+    },
+    {
+      "name": "cecee",
+      "balance": 11282,
+      "totalEarned": 32212,
+      "totalSpent": 20930,
+      "gamesPlayed": 239,
+      "gamesWon": 82,
+      "streak": 3
     },
     {
       "name": "5pray",
@@ -170,15 +179,6 @@
       "gamesPlayed": 5,
       "gamesWon": 1,
       "streak": 17
-    },
-    {
-      "name": "cecee",
-      "balance": 10676,
-      "totalEarned": 30806,
-      "totalSpent": 20130,
-      "gamesPlayed": 236,
-      "gamesWon": 80,
-      "streak": 3
     },
     {
       "name": "zherkafanboy",
@@ -353,8 +353,8 @@
     },
     {
       "name": "damiybe",
-      "balance": 7608,
-      "totalEarned": 7618,
+      "balance": 7628,
+      "totalEarned": 7638,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1717,
-    "totalCirculating": 1921767,
-    "totalGames": 9619,
+    "totalCirculating": 1923542,
+    "totalGames": 9624,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-27T16:25:38.966Z"
+  "lastUpdated": "2026-04-27T16:55:38.971Z"
 }

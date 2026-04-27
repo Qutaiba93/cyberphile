@@ -1,10 +1,10 @@
 {
   "totalSessions": 81,
   "totalDays": 69,
-  "totalSegments": 3349,
+  "totalSegments": 3352,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 672623,
+  "totalMessages": 673043,
   "categories": [
     {
       "name": "Rust",
@@ -182,6 +182,13 @@
       "totalMsgs": 3536
     },
     {
+      "name": "Trees Hate You",
+      "avgViewers": 614,
+      "peakViewers": 614,
+      "sampleCount": 1,
+      "totalMsgs": 107
+    },
+    {
       "name": "Creepy Shift: House for Sale",
       "avgViewers": 605,
       "peakViewers": 611,
@@ -206,8 +213,8 @@
       "name": "Just Chatting",
       "avgViewers": 591,
       "peakViewers": 903,
-      "sampleCount": 1353,
-      "totalMsgs": 280972
+      "sampleCount": 1355,
+      "totalMsgs": 281285
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -363,8 +370,8 @@
     },
     "16": {
       "avgViewers": 671,
-      "sampleCount": 323,
-      "totalMsgs": 68452
+      "sampleCount": 326,
+      "totalMsgs": 68872
     },
     "17": {
       "avgViewers": 730,
@@ -564,14 +571,15 @@
     },
     {
       "date": "2026-04-27",
-      "avgViewers": 400,
-      "peakViewers": 595,
-      "totalMsgs": 1612,
+      "avgViewers": 446,
+      "peakViewers": 621,
+      "totalMsgs": 2032,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Trees Hate You"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-27T16:25:38.958Z"
+  "lastUpdated": "2026-04-27T16:55:38.962Z"
 }
