@@ -1,10 +1,10 @@
 {
   "totalSessions": 81,
   "totalDays": 69,
-  "totalSegments": 3355,
+  "totalSegments": 3358,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 673399,
+  "totalMessages": 673942,
   "categories": [
     {
       "name": "Rust",
@@ -171,8 +171,8 @@
       "name": "Minecraft",
       "avgViewers": 623,
       "peakViewers": 729,
-      "sampleCount": 78,
-      "totalMsgs": 15624
+      "sampleCount": 79,
+      "totalMsgs": 15875
     },
     {
       "name": "DayZ",
@@ -213,8 +213,8 @@
       "name": "Just Chatting",
       "avgViewers": 591,
       "peakViewers": 903,
-      "sampleCount": 1355,
-      "totalMsgs": 281285
+      "sampleCount": 1357,
+      "totalMsgs": 281577
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -374,9 +374,9 @@
       "totalMsgs": 69001
     },
     "17": {
-      "avgViewers": 729,
-      "sampleCount": 329,
-      "totalMsgs": 70180
+      "avgViewers": 728,
+      "sampleCount": 332,
+      "totalMsgs": 70723
     },
     "18": {
       "avgViewers": 700,
@@ -571,9 +571,9 @@
     },
     {
       "date": "2026-04-27",
-      "avgViewers": 472,
-      "peakViewers": 621,
-      "totalMsgs": 2388,
+      "avgViewers": 494,
+      "peakViewers": 628,
+      "totalMsgs": 2931,
       "categories": [
         "Just Chatting",
         "Trees Hate You",
@@ -582,5 +582,5 @@
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-27T17:25:38.966Z"
+  "lastUpdated": "2026-04-27T17:55:38.960Z"
 }
