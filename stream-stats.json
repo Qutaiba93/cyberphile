@@ -1,10 +1,10 @@
 {
   "totalSessions": 81,
   "totalDays": 69,
-  "totalSegments": 3361,
+  "totalSegments": 3364,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 674365,
+  "totalMessages": 674816,
   "categories": [
     {
       "name": "Rust",
@@ -15,10 +15,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 783,
+      "avgViewers": 781,
       "peakViewers": 17935,
-      "sampleCount": 121,
-      "totalMsgs": 24202
+      "sampleCount": 123,
+      "totalMsgs": 24443
     },
     {
       "name": "Games + Demos",
@@ -94,8 +94,8 @@
       "name": "Call of Duty: Black Ops III",
       "avgViewers": 666,
       "peakViewers": 861,
-      "sampleCount": 56,
-      "totalMsgs": 10087
+      "sampleCount": 57,
+      "totalMsgs": 10297
     },
     {
       "name": "The Empty Eyes",
@@ -380,8 +380,8 @@
     },
     "18": {
       "avgViewers": 700,
-      "sampleCount": 335,
-      "totalMsgs": 76541
+      "sampleCount": 338,
+      "totalMsgs": 76992
     },
     "19": {
       "avgViewers": 701,
@@ -571,17 +571,18 @@
     },
     {
       "date": "2026-04-27",
-      "avgViewers": 515,
-      "peakViewers": 665,
-      "totalMsgs": 3354,
+      "avgViewers": 532,
+      "peakViewers": 671,
+      "totalMsgs": 3805,
       "categories": [
         "Just Chatting",
         "Trees Hate You",
         "Minecraft",
-        "VALORANT"
+        "VALORANT",
+        "Call of Duty: Black Ops III"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-27T18:25:39.004Z"
+  "lastUpdated": "2026-04-27T18:55:39.014Z"
 }
