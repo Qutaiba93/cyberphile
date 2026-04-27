@@ -29,8 +29,8 @@
     },
     {
       "name": "plebcentral",
-      "balance": 19775,
-      "totalEarned": 36455,
+      "balance": 19779,
+      "totalEarned": 36459,
       "totalSpent": 16680,
       "gamesPlayed": 4,
       "gamesWon": 2,
@@ -38,8 +38,8 @@
     },
     {
       "name": "poseidon_o7",
-      "balance": 18802,
-      "totalEarned": 18822,
+      "balance": 18822,
+      "totalEarned": 18842,
       "totalSpent": 20,
       "gamesPlayed": 2,
       "gamesWon": 0,
@@ -74,8 +74,8 @@
     },
     {
       "name": "weppss",
-      "balance": 15348,
-      "totalEarned": 21243,
+      "balance": 15352,
+      "totalEarned": 21247,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -110,8 +110,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 11536,
-      "totalEarned": 11536,
+      "balance": 11544,
+      "totalEarned": 11544,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -164,8 +164,8 @@
     },
     {
       "name": "chrisdonwest",
-      "balance": 10962,
-      "totalEarned": 77873,
+      "balance": 10964,
+      "totalEarned": 77875,
       "totalSpent": 66911,
       "gamesPlayed": 40,
       "gamesWon": 18,
@@ -371,8 +371,8 @@
     },
     {
       "name": "guest567432",
-      "balance": 7453,
-      "totalEarned": 13534,
+      "balance": 7455,
+      "totalEarned": 13536,
       "totalSpent": 6081,
       "gamesPlayed": 2,
       "gamesWon": 0,
@@ -398,8 +398,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 7254,
-      "totalEarned": 7254,
+      "balance": 7256,
+      "totalEarned": 7256,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1721,
-    "totalCirculating": 1913389,
+    "totalCirculating": 1913630,
     "totalGames": 9721,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-27T21:55:39.030Z"
+  "lastUpdated": "2026-04-27T22:25:39.030Z"
 }
