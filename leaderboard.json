@@ -119,8 +119,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 11250,
-      "totalEarned": 11250,
+      "balance": 11312,
+      "totalEarned": 11312,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -137,8 +137,8 @@
     },
     {
       "name": "papaah",
-      "balance": 11157,
-      "totalEarned": 11157,
+      "balance": 11159,
+      "totalEarned": 11159,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,8 +146,8 @@
     },
     {
       "name": "nick6",
-      "balance": 11095,
-      "totalEarned": 11095,
+      "balance": 11157,
+      "totalEarned": 11157,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -182,8 +182,8 @@
     },
     {
       "name": "zherkafanboy",
-      "balance": 10328,
-      "totalEarned": 18327,
+      "balance": 10340,
+      "totalEarned": 18339,
       "totalSpent": 7999,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -209,8 +209,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 9706,
-      "totalEarned": 9706,
+      "balance": 9720,
+      "totalEarned": 9720,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -253,6 +253,15 @@
       "streak": 2
     },
     {
+      "name": "intermediatewastakensadge",
+      "balance": 8653,
+      "totalEarned": 8653,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 3
+    },
+    {
       "name": "bbalint320",
       "balance": 8630,
       "totalEarned": 8760,
@@ -271,18 +280,9 @@
       "streak": 13
     },
     {
-      "name": "intermediatewastakensadge",
-      "balance": 8578,
-      "totalEarned": 8578,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
-    },
-    {
       "name": "seraj21",
-      "balance": 8418,
-      "totalEarned": 201311,
+      "balance": 8452,
+      "totalEarned": 201345,
       "totalSpent": 193841,
       "gamesPlayed": 1364,
       "gamesWon": 494,
@@ -344,8 +344,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 7553,
-      "totalEarned": 7654,
+      "balance": 7563,
+      "totalEarned": 7664,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -361,6 +361,15 @@
       "streak": 2
     },
     {
+      "name": "guest567432",
+      "balance": 7405,
+      "totalEarned": 13486,
+      "totalSpent": 6081,
+      "gamesPlayed": 2,
+      "gamesWon": 0,
+      "streak": 8
+    },
+    {
       "name": "m1lxnn",
       "balance": 7361,
       "totalEarned": 7401,
@@ -368,15 +377,6 @@
       "gamesPlayed": 2,
       "gamesWon": 1,
       "streak": 6
-    },
-    {
-      "name": "guest567432",
-      "balance": 7309,
-      "totalEarned": 13390,
-      "totalSpent": 6081,
-      "gamesPlayed": 2,
-      "gamesWon": 0,
-      "streak": 7
     },
     {
       "name": "karmahit",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1711,
-    "totalCirculating": 1913039,
-    "totalGames": 9601,
+    "totalCirculating": 1909595,
+    "totalGames": 9612,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-27T01:25:38.927Z"
+  "lastUpdated": "2026-04-27T01:55:38.933Z"
 }
