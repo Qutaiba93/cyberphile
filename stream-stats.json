@@ -1,10 +1,10 @@
 {
   "totalSessions": 81,
   "totalDays": 69,
-  "totalSegments": 3370,
+  "totalSegments": 3373,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 675876,
+  "totalMessages": 676349,
   "categories": [
     {
       "name": "Rust",
@@ -80,8 +80,8 @@
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 687,
       "peakViewers": 811,
-      "sampleCount": 155,
-      "totalMsgs": 28853
+      "sampleCount": 158,
+      "totalMsgs": 29326
     },
     {
       "name": "Sea of Thieves",
@@ -385,13 +385,13 @@
     },
     "19": {
       "avgViewers": 700,
-      "sampleCount": 341,
-      "totalMsgs": 77583
+      "sampleCount": 342,
+      "totalMsgs": 77871
     },
     "20": {
       "avgViewers": 683,
-      "sampleCount": 345,
-      "totalMsgs": 81903
+      "sampleCount": 347,
+      "totalMsgs": 82088
     },
     "21": {
       "avgViewers": 687,
@@ -571,18 +571,19 @@
     },
     {
       "date": "2026-04-27",
-      "avgViewers": 552,
-      "peakViewers": 671,
-      "totalMsgs": 4865,
+      "avgViewers": 562,
+      "peakViewers": 678,
+      "totalMsgs": 5338,
       "categories": [
         "Just Chatting",
         "Trees Hate You",
         "Minecraft",
         "VALORANT",
-        "Call of Duty: Black Ops III"
+        "Call of Duty: Black Ops III",
+        "Grand Theft Auto V (GTA)"
       ]
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-27T19:55:39.015Z"
+  "lastUpdated": "2026-04-27T20:25:39.017Z"
 }
