@@ -1,10 +1,10 @@
 {
   "totalSessions": 82,
   "totalDays": 69,
-  "totalSegments": 3392,
+  "totalSegments": 3395,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 678744,
+  "totalMessages": 679341,
   "categories": [
     {
       "name": "Rust",
@@ -225,10 +225,10 @@
     },
     {
       "name": "PUBG: Battlegrounds",
-      "avgViewers": 578,
+      "avgViewers": 576,
       "peakViewers": 748,
-      "sampleCount": 105,
-      "totalMsgs": 16422
+      "sampleCount": 108,
+      "totalMsgs": 17019
     },
     {
       "name": "Backrooms",
@@ -324,9 +324,9 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 577,
-      "sampleCount": 149,
-      "totalMsgs": 22370
+      "avgViewers": 576,
+      "sampleCount": 151,
+      "totalMsgs": 22737
     },
     "1": {
       "avgViewers": 513,
@@ -404,9 +404,9 @@
       "totalMsgs": 58533
     },
     "23": {
-      "avgViewers": 635,
-      "sampleCount": 203,
-      "totalMsgs": 36546
+      "avgViewers": 634,
+      "sampleCount": 204,
+      "totalMsgs": 36776
     }
   },
   "dailyHistory": [
@@ -573,7 +573,7 @@
       "date": "2026-04-27",
       "avgViewers": 528,
       "peakViewers": 680,
-      "totalMsgs": 7733,
+      "totalMsgs": 8330,
       "categories": [
         "Just Chatting",
         "Trees Hate You",
@@ -587,5 +587,5 @@
     }
   ],
   "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-27T23:55:39.022Z"
+  "lastUpdated": "2026-04-28T00:25:39.025Z"
 }
