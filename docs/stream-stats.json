@@ -1,10 +1,10 @@
 {
   "totalSessions": 83,
   "totalDays": 70,
-  "totalSegments": 3436,
+  "totalSegments": 3439,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 685740,
+  "totalMessages": 686187,
   "categories": [
     {
       "name": "Rust",
@@ -161,18 +161,18 @@
       "totalMsgs": 3485
     },
     {
+      "name": "Minecraft",
+      "avgViewers": 627,
+      "peakViewers": 746,
+      "sampleCount": 83,
+      "totalMsgs": 16443
+    },
+    {
       "name": "Slots & Casino",
       "avgViewers": 627,
       "peakViewers": 639,
       "sampleCount": 3,
       "totalMsgs": 602
-    },
-    {
-      "name": "Minecraft",
-      "avgViewers": 625,
-      "peakViewers": 746,
-      "sampleCount": 80,
-      "totalMsgs": 15996
     },
     {
       "name": "DayZ",
@@ -390,8 +390,8 @@
     },
     "20": {
       "avgViewers": 684,
-      "sampleCount": 354,
-      "totalMsgs": 82914
+      "sampleCount": 357,
+      "totalMsgs": 83361
     },
     "21": {
       "avgViewers": 686,
@@ -572,9 +572,9 @@
     },
     {
       "date": "2026-04-30",
-      "avgViewers": 763,
+      "avgViewers": 756,
       "peakViewers": 832,
-      "totalMsgs": 4556,
+      "totalMsgs": 5003,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -583,5 +583,5 @@
     }
   ],
   "botStartedAt": "2026-04-30T16:06:17.002Z",
-  "lastUpdated": "2026-04-30T20:36:17.311Z"
+  "lastUpdated": "2026-04-30T21:06:17.302Z"
 }
