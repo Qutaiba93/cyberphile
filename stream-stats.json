@@ -1,7 +1,7 @@
 {
-  "totalSessions": 82,
-  "totalDays": 69,
-  "totalSegments": 3409,
+  "totalSessions": 83,
+  "totalDays": 70,
+  "totalSegments": 3410,
   "allTimePeak": 17991,
   "allTimeAvg": 629,
   "totalMessages": 681184,
@@ -213,7 +213,7 @@
       "name": "Just Chatting",
       "avgViewers": 590,
       "peakViewers": 903,
-      "sampleCount": 1367,
+      "sampleCount": 1368,
       "totalMsgs": 283168
     },
     {
@@ -370,7 +370,7 @@
     },
     "16": {
       "avgViewers": 671,
-      "sampleCount": 327,
+      "sampleCount": 328,
       "totalMsgs": 69001
     },
     "17": {
@@ -410,21 +410,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-04-12",
-      "avgViewers": 669,
-      "peakViewers": 825,
-      "totalMsgs": 15734,
-      "categories": [
-        "Just Chatting",
-        "VALORANT",
-        "ARC Raiders",
-        "Chat Roulette",
-        "PUBG: Battlegrounds",
-        "VRChat",
-        "Counter-Strike 2"
-      ]
-    },
     {
       "date": "2026-04-13",
       "avgViewers": 591,
@@ -584,8 +569,17 @@
         "Counter-Strike 2",
         "PUBG: Battlegrounds"
       ]
+    },
+    {
+      "date": "2026-04-30",
+      "avgViewers": 674,
+      "peakViewers": 674,
+      "totalMsgs": 0,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
-  "botStartedAt": "2026-04-17T23:25:37.732Z",
-  "lastUpdated": "2026-04-30T15:25:39.183Z"
+  "botStartedAt": "2026-04-30T16:06:17.002Z",
+  "lastUpdated": "2026-04-30T16:07:17.347Z"
 }
