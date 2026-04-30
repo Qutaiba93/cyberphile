@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 44373,
-      "totalEarned": 982700,
+      "balance": 44385,
+      "totalEarned": 982712,
       "totalSpent": 1019836,
       "gamesPlayed": 480,
       "gamesWon": 185,
@@ -20,8 +20,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 22661,
-      "totalEarned": 269251,
+      "balance": 22667,
+      "totalEarned": 269257,
       "totalSpent": 246590,
       "gamesPlayed": 601,
       "gamesWon": 221,
@@ -74,8 +74,8 @@
     },
     {
       "name": "weppss",
-      "balance": 15611,
-      "totalEarned": 21506,
+      "balance": 15623,
+      "totalEarned": 21518,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -101,8 +101,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 11971,
-      "totalEarned": 11971,
+      "balance": 11981,
+      "totalEarned": 11981,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "upkey",
-      "balance": 11068,
-      "totalEarned": 11068,
+      "balance": 11070,
+      "totalEarned": 11070,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -172,27 +172,27 @@
       "streak": 1
     },
     {
-      "name": "zherkafanboy",
-      "balance": 10461,
-      "totalEarned": 18460,
-      "totalSpent": 7999,
-      "gamesPlayed": 3,
-      "gamesWon": 1,
-      "streak": 1
-    },
-    {
       "name": "schitt",
-      "balance": 10457,
-      "totalEarned": 10457,
+      "balance": 10477,
+      "totalEarned": 10477,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
     },
     {
+      "name": "zherkafanboy",
+      "balance": 10477,
+      "totalEarned": 18476,
+      "totalSpent": 7999,
+      "gamesPlayed": 3,
+      "gamesWon": 1,
+      "streak": 1
+    },
+    {
       "name": "darth70",
-      "balance": 10440,
-      "totalEarned": 10440,
+      "balance": 10456,
+      "totalEarned": 10456,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -217,6 +217,15 @@
       "streak": 2
     },
     {
+      "name": "neincs",
+      "balance": 9124,
+      "totalEarned": 9124,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "cecee",
       "balance": 9111,
       "totalEarned": 34871,
@@ -227,21 +236,12 @@
     },
     {
       "name": "seraj21",
-      "balance": 9075,
-      "totalEarned": 201968,
+      "balance": 9097,
+      "totalEarned": 201990,
       "totalSpent": 193841,
       "gamesPlayed": 1364,
       "gamesWon": 494,
       "streak": 1
-    },
-    {
-      "name": "neincs",
-      "balance": 9061,
-      "totalEarned": 9061,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 4
     },
     {
       "name": "muzlamic",
@@ -308,8 +308,8 @@
     },
     {
       "name": "kingirnfist",
-      "balance": 8271,
-      "totalEarned": 23271,
+      "balance": 8281,
+      "totalEarned": 23281,
       "totalSpent": 15000,
       "gamesPlayed": 2,
       "gamesWon": 1,
@@ -344,8 +344,8 @@
     },
     {
       "name": "nitro_st",
-      "balance": 7831,
-      "totalEarned": 7831,
+      "balance": 7833,
+      "totalEarned": 7833,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -389,12 +389,12 @@
     },
     {
       "name": "twilighty",
-      "balance": 7262,
-      "totalEarned": 7262,
+      "balance": 7321,
+      "totalEarned": 7321,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 3
+      "streak": 1
     },
     {
       "name": "the1chosen_one",
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1730,
-    "totalCirculating": 1940643,
-    "totalGames": 9811,
+    "totalPlayers": 1731,
+    "totalCirculating": 1941882,
+    "totalGames": 9816,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-04-30T18:06:17.303Z"
+  "lastUpdated": "2026-04-30T18:36:17.319Z"
 }
