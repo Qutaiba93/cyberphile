@@ -1,10 +1,10 @@
 {
   "totalSessions": 84,
   "totalDays": 71,
-  "totalSegments": 3480,
+  "totalSegments": 3483,
   "allTimePeak": 17991,
-  "allTimeAvg": 630,
-  "totalMessages": 691057,
+  "allTimeAvg": 629,
+  "totalMessages": 691569,
   "categories": [
     {
       "name": "Rust",
@@ -126,18 +126,18 @@
       "totalMsgs": 7002
     },
     {
-      "name": "Rocket League",
-      "avgViewers": 645,
-      "peakViewers": 756,
-      "sampleCount": 29,
-      "totalMsgs": 7065
-    },
-    {
       "name": "The Elder Scrolls V: Skyrim",
       "avgViewers": 645,
       "peakViewers": 744,
       "sampleCount": 30,
       "totalMsgs": 5736
+    },
+    {
+      "name": "Rocket League",
+      "avgViewers": 643,
+      "peakViewers": 756,
+      "sampleCount": 30,
+      "totalMsgs": 7230
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -147,18 +147,18 @@
       "totalMsgs": 262
     },
     {
-      "name": "Counter-Strike 2",
-      "avgViewers": 632,
-      "peakViewers": 841,
-      "sampleCount": 359,
-      "totalMsgs": 60150
-    },
-    {
       "name": "Minecraft",
       "avgViewers": 631,
       "peakViewers": 746,
       "sampleCount": 92,
       "totalMsgs": 17977
+    },
+    {
+      "name": "Counter-Strike 2",
+      "avgViewers": 631,
+      "peakViewers": 841,
+      "sampleCount": 361,
+      "totalMsgs": 60497
     },
     {
       "name": "Sons of the Forest",
@@ -400,13 +400,13 @@
     },
     "22": {
       "avgViewers": 664,
-      "sampleCount": 293,
-      "totalMsgs": 59637
+      "sampleCount": 295,
+      "totalMsgs": 59984
     },
     "23": {
       "avgViewers": 634,
-      "sampleCount": 210,
-      "totalMsgs": 37579
+      "sampleCount": 211,
+      "totalMsgs": 37744
     }
   },
   "dailyHistory": [
@@ -573,16 +573,17 @@
     },
     {
       "date": "2026-05-01",
-      "avgViewers": 446,
-      "peakViewers": 581,
-      "totalMsgs": 1692,
+      "avgViewers": 469,
+      "peakViewers": 590,
+      "totalMsgs": 2204,
       "categories": [
         "PUBG: Battlegrounds",
         "Just Chatting",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Rocket League"
       ]
     }
   ],
   "botStartedAt": "2026-05-01T21:44:59.086Z",
-  "lastUpdated": "2026-05-01T22:44:59.428Z"
+  "lastUpdated": "2026-05-01T23:14:59.429Z"
 }
