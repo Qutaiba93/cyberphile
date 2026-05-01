@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 44541,
-      "totalEarned": 982868,
+      "balance": 44543,
+      "totalEarned": 982870,
       "totalSpent": 1019836,
       "gamesPlayed": 480,
       "gamesWon": 185,
@@ -29,8 +29,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 21899,
-      "totalEarned": 269489,
+      "balance": 21953,
+      "totalEarned": 269543,
       "totalSpent": 247590,
       "gamesPlayed": 601,
       "gamesWon": 221,
@@ -38,8 +38,8 @@
     },
     {
       "name": "plebcentral",
-      "balance": 20422,
-      "totalEarned": 37102,
+      "balance": 20462,
+      "totalEarned": 37142,
       "totalSpent": 16680,
       "gamesPlayed": 4,
       "gamesWon": 2,
@@ -92,12 +92,12 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 14251,
-      "totalEarned": 17316,
+      "balance": 14320,
+      "totalEarned": 17385,
       "totalSpent": 3065,
       "gamesPlayed": 24,
       "gamesWon": 5,
-      "streak": 27
+      "streak": 1
     },
     {
       "name": "patwifi",
@@ -118,6 +118,15 @@
       "streak": 4
     },
     {
+      "name": "papaah",
+      "balance": 11567,
+      "totalEarned": 11567,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 2
+    },
+    {
       "name": "furrreal",
       "balance": 11554,
       "totalEarned": 15054,
@@ -125,15 +134,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "papaah",
-      "balance": 11549,
-      "totalEarned": 11549,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
     },
     {
       "name": "5pray",
@@ -182,8 +182,8 @@
     },
     {
       "name": "darth70",
-      "balance": 10642,
-      "totalEarned": 10642,
+      "balance": 10650,
+      "totalEarned": 10650,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -218,8 +218,8 @@
     },
     {
       "name": "neincs",
-      "balance": 9268,
-      "totalEarned": 9268,
+      "balance": 9280,
+      "totalEarned": 9280,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -227,8 +227,8 @@
     },
     {
       "name": "kale96",
-      "balance": 9193,
-      "totalEarned": 15743,
+      "balance": 9219,
+      "totalEarned": 15769,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -262,6 +262,15 @@
       "streak": 1
     },
     {
+      "name": "bbalint320",
+      "balance": 8920,
+      "totalEarned": 9050,
+      "totalSpent": 130,
+      "gamesPlayed": 13,
+      "gamesWon": 1,
+      "streak": 2
+    },
+    {
       "name": "s1nc3",
       "balance": 8899,
       "totalEarned": 53482,
@@ -271,22 +280,13 @@
       "streak": 1
     },
     {
-      "name": "bbalint320",
-      "balance": 8858,
-      "totalEarned": 8988,
-      "totalSpent": 130,
-      "gamesPlayed": 13,
-      "gamesWon": 1,
-      "streak": 1
-    },
-    {
       "name": "intermediatewastakensadge",
-      "balance": 8754,
-      "totalEarned": 8754,
+      "balance": 8818,
+      "totalEarned": 8818,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "pitapan",
@@ -317,8 +317,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 8202,
-      "totalEarned": 8202,
+      "balance": 8210,
+      "totalEarned": 8210,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -344,8 +344,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 7960,
-      "totalEarned": 8061,
+      "balance": 7978,
+      "totalEarned": 8079,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1747,
-    "totalCirculating": 1965833,
+    "totalCirculating": 1967220,
     "totalGames": 9840,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-01T20:57:54.877Z"
+  "lastUpdated": "2026-05-01T21:27:54.872Z"
 }
