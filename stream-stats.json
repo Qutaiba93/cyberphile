@@ -1,10 +1,10 @@
 {
-  "totalSessions": 83,
-  "totalDays": 70,
-  "totalSegments": 3465,
+  "totalSessions": 84,
+  "totalDays": 71,
+  "totalSegments": 3466,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 689365,
+  "totalMessages": 689434,
   "categories": [
     {
       "name": "Rust",
@@ -225,10 +225,10 @@
     },
     {
       "name": "PUBG: Battlegrounds",
-      "avgViewers": 572,
+      "avgViewers": 568,
       "peakViewers": 748,
-      "sampleCount": 129,
-      "totalMsgs": 19248
+      "sampleCount": 130,
+      "totalMsgs": 19317
     },
     {
       "name": "Backrooms",
@@ -389,9 +389,9 @@
       "totalMsgs": 79096
     },
     "20": {
-      "avgViewers": 684,
-      "sampleCount": 357,
-      "totalMsgs": 83361
+      "avgViewers": 682,
+      "sampleCount": 358,
+      "totalMsgs": 83430
     },
     "21": {
       "avgViewers": 686,
@@ -410,18 +410,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-04-13",
-      "avgViewers": 591,
-      "peakViewers": 748,
-      "totalMsgs": 8727,
-      "categories": [
-        "Just Chatting",
-        "ARC Raiders",
-        "Call of Duty: Black Ops Zombies",
-        "PUBG: Battlegrounds"
-      ]
-    },
     {
       "date": "2026-04-14",
       "avgViewers": 605,
@@ -582,8 +570,17 @@
         "Counter-Strike 2",
         "PUBG: Battlegrounds"
       ]
+    },
+    {
+      "date": "2026-05-01",
+      "avgViewers": 0,
+      "peakViewers": 0,
+      "totalMsgs": 69,
+      "categories": [
+        "PUBG: Battlegrounds"
+      ]
     }
   ],
   "botStartedAt": "2026-04-30T22:57:54.462Z",
-  "lastUpdated": "2026-05-01T19:57:54.866Z"
+  "lastUpdated": "2026-05-01T20:27:54.862Z"
 }
