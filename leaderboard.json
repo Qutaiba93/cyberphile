@@ -1,6 +1,15 @@
 {
   "leaderboard": [
     {
+      "name": "cheesee6969",
+      "balance": 53866,
+      "totalEarned": 297677,
+      "totalSpent": 243811,
+      "gamesPlayed": 52,
+      "gamesWon": 30,
+      "streak": 16
+    },
+    {
       "name": "uncommonletter",
       "balance": 51815,
       "totalEarned": 209611,
@@ -11,21 +20,12 @@
     },
     {
       "name": "shance",
-      "balance": 44545,
-      "totalEarned": 982872,
+      "balance": 44549,
+      "totalEarned": 982876,
       "totalSpent": 1019836,
       "gamesPlayed": 480,
       "gamesWon": 185,
       "streak": 2
-    },
-    {
-      "name": "cheesee6969",
-      "balance": 40798,
-      "totalEarned": 271609,
-      "totalSpent": 230811,
-      "gamesPlayed": 50,
-      "gamesWon": 28,
-      "streak": 16
     },
     {
       "name": "zuyu",
@@ -38,20 +38,11 @@
     },
     {
       "name": "plebcentral",
-      "balance": 20472,
-      "totalEarned": 37152,
+      "balance": 20480,
+      "totalEarned": 37160,
       "totalSpent": 16680,
       "gamesPlayed": 4,
       "gamesWon": 2,
-      "streak": 2
-    },
-    {
-      "name": "meliziana",
-      "balance": 19981,
-      "totalEarned": 269571,
-      "totalSpent": 249590,
-      "gamesPlayed": 602,
-      "gamesWon": 221,
       "streak": 2
     },
     {
@@ -64,6 +55,15 @@
       "streak": 1
     },
     {
+      "name": "meliziana",
+      "balance": 19295,
+      "totalEarned": 269585,
+      "totalSpent": 250290,
+      "gamesPlayed": 604,
+      "gamesWon": 221,
+      "streak": 2
+    },
+    {
       "name": "taboxl",
       "balance": 19005,
       "totalEarned": 21373,
@@ -74,8 +74,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 17836,
-      "totalEarned": 17846,
+      "balance": 17852,
+      "totalEarned": 17862,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -128,8 +128,8 @@
     },
     {
       "name": "papaah",
-      "balance": 11567,
-      "totalEarned": 11567,
+      "balance": 11571,
+      "totalEarned": 11571,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -182,8 +182,8 @@
     },
     {
       "name": "zherkafanboy",
-      "balance": 10813,
-      "totalEarned": 18812,
+      "balance": 10815,
+      "totalEarned": 18814,
       "totalSpent": 7999,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -191,8 +191,8 @@
     },
     {
       "name": "darth70",
-      "balance": 10650,
-      "totalEarned": 10650,
+      "balance": 10656,
+      "totalEarned": 10656,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -200,8 +200,8 @@
     },
     {
       "name": "schitt",
-      "balance": 10609,
-      "totalEarned": 10609,
+      "balance": 10613,
+      "totalEarned": 10613,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -227,8 +227,8 @@
     },
     {
       "name": "neincs",
-      "balance": 9280,
-      "totalEarned": 9280,
+      "balance": 9284,
+      "totalEarned": 9284,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -290,8 +290,8 @@
     },
     {
       "name": "intermediatewastakensadge",
-      "balance": 8818,
-      "totalEarned": 8818,
+      "balance": 8820,
+      "totalEarned": 8820,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -407,8 +407,8 @@
     },
     {
       "name": "skibidi_toiiet",
-      "balance": 7461,
-      "totalEarned": 33580,
+      "balance": 7491,
+      "totalEarned": 33610,
       "totalSpent": 26119,
       "gamesPlayed": 28,
       "gamesWon": 12,
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1747,
-    "totalCirculating": 2003336,
-    "totalGames": 9864,
+    "totalPlayers": 1748,
+    "totalCirculating": 2016403,
+    "totalGames": 9868,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-01T21:45:59.506Z"
+  "lastUpdated": "2026-05-01T22:14:59.433Z"
 }
