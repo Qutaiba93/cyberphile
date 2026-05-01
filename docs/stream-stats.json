@@ -1,10 +1,10 @@
 {
   "totalSessions": 84,
   "totalDays": 71,
-  "totalSegments": 3483,
+  "totalSegments": 3486,
   "allTimePeak": 17991,
   "allTimeAvg": 629,
-  "totalMessages": 691569,
+  "totalMessages": 692182,
   "categories": [
     {
       "name": "Rust",
@@ -134,17 +134,10 @@
     },
     {
       "name": "Rocket League",
-      "avgViewers": 643,
-      "peakViewers": 756,
-      "sampleCount": 30,
-      "totalMsgs": 7230
-    },
-    {
-      "name": "Counter-Strike: Global Offensive",
       "avgViewers": 638,
-      "peakViewers": 638,
-      "sampleCount": 1,
-      "totalMsgs": 262
+      "peakViewers": 756,
+      "sampleCount": 32,
+      "totalMsgs": 7649
     },
     {
       "name": "Minecraft",
@@ -208,6 +201,13 @@
       "peakViewers": 719,
       "sampleCount": 40,
       "totalMsgs": 6766
+    },
+    {
+      "name": "Counter-Strike: Global Offensive",
+      "avgViewers": 594,
+      "peakViewers": 638,
+      "sampleCount": 2,
+      "totalMsgs": 456
     },
     {
       "name": "Just Chatting",
@@ -404,9 +404,9 @@
       "totalMsgs": 59984
     },
     "23": {
-      "avgViewers": 634,
-      "sampleCount": 211,
-      "totalMsgs": 37744
+      "avgViewers": 633,
+      "sampleCount": 214,
+      "totalMsgs": 38357
     }
   },
   "dailyHistory": [
@@ -573,17 +573,18 @@
     },
     {
       "date": "2026-05-01",
-      "avgViewers": 469,
+      "avgViewers": 483,
       "peakViewers": 590,
-      "totalMsgs": 2204,
+      "totalMsgs": 2817,
       "categories": [
         "PUBG: Battlegrounds",
         "Just Chatting",
         "Counter-Strike 2",
-        "Rocket League"
+        "Rocket League",
+        "Counter-Strike: Global Offensive"
       ]
     }
   ],
   "botStartedAt": "2026-05-01T21:44:59.086Z",
-  "lastUpdated": "2026-05-01T23:14:59.429Z"
+  "lastUpdated": "2026-05-01T23:44:59.430Z"
 }
