@@ -1,10 +1,10 @@
 {
   "totalSessions": 84,
   "totalDays": 71,
-  "totalSegments": 3492,
+  "totalSegments": 3495,
   "allTimePeak": 17991,
   "allTimeAvg": 629,
-  "totalMessages": 692960,
+  "totalMessages": 693124,
   "categories": [
     {
       "name": "Rust",
@@ -281,10 +281,10 @@
     },
     {
       "name": "Counter-Strike: Global Offensive",
-      "avgViewers": 538,
+      "avgViewers": 530,
       "peakViewers": 638,
-      "sampleCount": 8,
-      "totalMsgs": 1234
+      "sampleCount": 11,
+      "totalMsgs": 1398
     },
     {
       "name": "Scam Line",
@@ -324,14 +324,14 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 574,
-      "sampleCount": 165,
-      "totalMsgs": 24215
+      "avgViewers": 573,
+      "sampleCount": 167,
+      "totalMsgs": 24321
     },
     "1": {
       "avgViewers": 512,
-      "sampleCount": 100,
-      "totalMsgs": 15381
+      "sampleCount": 101,
+      "totalMsgs": 15439
     },
     "2": {
       "avgViewers": 478,
@@ -573,9 +573,9 @@
     },
     {
       "date": "2026-05-01",
-      "avgViewers": 491,
+      "avgViewers": 492,
       "peakViewers": 590,
-      "totalMsgs": 3595,
+      "totalMsgs": 3759,
       "categories": [
         "PUBG: Battlegrounds",
         "Just Chatting",
@@ -586,5 +586,5 @@
     }
   ],
   "botStartedAt": "2026-05-01T21:44:59.086Z",
-  "lastUpdated": "2026-05-02T00:44:59.427Z"
+  "lastUpdated": "2026-05-02T01:14:59.428Z"
 }
