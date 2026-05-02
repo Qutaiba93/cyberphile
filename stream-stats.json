@@ -1,10 +1,10 @@
 {
   "totalSessions": 85,
   "totalDays": 72,
-  "totalSegments": 3498,
+  "totalSegments": 3501,
   "allTimePeak": 17991,
   "allTimeAvg": 629,
-  "totalMessages": 693731,
+  "totalMessages": 694304,
   "categories": [
     {
       "name": "Rust",
@@ -140,13 +140,6 @@
       "totalMsgs": 7649
     },
     {
-      "name": "Minecraft",
-      "avgViewers": 631,
-      "peakViewers": 746,
-      "sampleCount": 92,
-      "totalMsgs": 17977
-    },
-    {
       "name": "Counter-Strike 2",
       "avgViewers": 631,
       "peakViewers": 841,
@@ -159,6 +152,13 @@
       "peakViewers": 693,
       "sampleCount": 23,
       "totalMsgs": 3485
+    },
+    {
+      "name": "Minecraft",
+      "avgViewers": 627,
+      "peakViewers": 746,
+      "sampleCount": 94,
+      "totalMsgs": 18344
     },
     {
       "name": "Slots & Casino",
@@ -206,8 +206,8 @@
       "name": "Just Chatting",
       "avgViewers": 591,
       "peakViewers": 903,
-      "sampleCount": 1394,
-      "totalMsgs": 287512
+      "sampleCount": 1395,
+      "totalMsgs": 287718
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -360,13 +360,13 @@
     },
     "14": {
       "avgViewers": 338,
-      "sampleCount": 194,
-      "totalMsgs": 28714
+      "sampleCount": 196,
+      "totalMsgs": 29205
     },
     "15": {
       "avgViewers": 518,
-      "sampleCount": 292,
-      "totalMsgs": 55106
+      "sampleCount": 293,
+      "totalMsgs": 55188
     },
     "16": {
       "avgViewers": 671,
@@ -573,15 +573,16 @@
     },
     {
       "date": "2026-05-02",
-      "avgViewers": 238,
-      "peakViewers": 315,
-      "totalMsgs": 607,
+      "avgViewers": 330,
+      "peakViewers": 468,
+      "totalMsgs": 1180,
       "categories": [
         "Counter-Strike: Global Offensive",
-        "Just Chatting"
+        "Just Chatting",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-05-01T21:44:59.086Z",
-  "lastUpdated": "2026-05-02T14:44:59.526Z"
+  "lastUpdated": "2026-05-02T15:14:59.509Z"
 }
