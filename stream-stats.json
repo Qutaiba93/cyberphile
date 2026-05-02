@@ -1,10 +1,10 @@
 {
   "totalSessions": 85,
   "totalDays": 72,
-  "totalSegments": 3516,
+  "totalSegments": 3519,
   "allTimePeak": 17991,
   "allTimeAvg": 629,
-  "totalMessages": 697027,
+  "totalMessages": 697829,
   "categories": [
     {
       "name": "Rust",
@@ -52,8 +52,8 @@
       "name": "Chat Roulette",
       "avgViewers": 719,
       "peakViewers": 916,
-      "sampleCount": 357,
-      "totalMsgs": 81904
+      "sampleCount": 359,
+      "totalMsgs": 82519
     },
     {
       "name": "Log Riders",
@@ -206,8 +206,8 @@
       "name": "Just Chatting",
       "avgViewers": 591,
       "peakViewers": 903,
-      "sampleCount": 1399,
-      "totalMsgs": 288232
+      "sampleCount": 1400,
+      "totalMsgs": 288419
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -375,13 +375,13 @@
     },
     "17": {
       "avgViewers": 729,
-      "sampleCount": 343,
-      "totalMsgs": 72499
+      "sampleCount": 345,
+      "totalMsgs": 73031
     },
     "18": {
       "avgViewers": 701,
-      "sampleCount": 345,
-      "totalMsgs": 78309
+      "sampleCount": 346,
+      "totalMsgs": 78579
     },
     "19": {
       "avgViewers": 702,
@@ -573,18 +573,19 @@
     },
     {
       "date": "2026-05-02",
-      "avgViewers": 583,
-      "peakViewers": 780,
-      "totalMsgs": 3903,
+      "avgViewers": 608,
+      "peakViewers": 801,
+      "totalMsgs": 4705,
       "categories": [
         "Counter-Strike: Global Offensive",
         "Just Chatting",
         "Minecraft",
         "Counter-Strike 2",
-        "IRL"
+        "IRL",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-05-01T21:44:59.086Z",
-  "lastUpdated": "2026-05-02T17:44:59.503Z"
+  "lastUpdated": "2026-05-02T18:14:59.516Z"
 }
