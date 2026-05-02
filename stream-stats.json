@@ -1,10 +1,10 @@
 {
-  "totalSessions": 84,
-  "totalDays": 71,
-  "totalSegments": 3495,
+  "totalSessions": 85,
+  "totalDays": 72,
+  "totalSegments": 3498,
   "allTimePeak": 17991,
   "allTimeAvg": 629,
-  "totalMessages": 693124,
+  "totalMessages": 693731,
   "categories": [
     {
       "name": "Rust",
@@ -206,8 +206,8 @@
       "name": "Just Chatting",
       "avgViewers": 591,
       "peakViewers": 903,
-      "sampleCount": 1392,
-      "totalMsgs": 286957
+      "sampleCount": 1394,
+      "totalMsgs": 287512
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -280,18 +280,18 @@
       "totalMsgs": 9011
     },
     {
-      "name": "Counter-Strike: Global Offensive",
-      "avgViewers": 530,
-      "peakViewers": 638,
-      "sampleCount": 11,
-      "totalMsgs": 1398
-    },
-    {
       "name": "Scam Line",
       "avgViewers": 499,
       "peakViewers": 499,
       "sampleCount": 1,
       "totalMsgs": 100
+    },
+    {
+      "name": "Counter-Strike: Global Offensive",
+      "avgViewers": 498,
+      "peakViewers": 638,
+      "sampleCount": 12,
+      "totalMsgs": 1450
     },
     {
       "name": "Call of Duty Zombies",
@@ -359,9 +359,9 @@
       "totalMsgs": 3725
     },
     "14": {
-      "avgViewers": 339,
-      "sampleCount": 191,
-      "totalMsgs": 28107
+      "avgViewers": 338,
+      "sampleCount": 194,
+      "totalMsgs": 28714
     },
     "15": {
       "avgViewers": 518,
@@ -410,19 +410,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-04-14",
-      "avgViewers": 605,
-      "peakViewers": 819,
-      "totalMsgs": 8417,
-      "categories": [
-        "PUBG: Battlegrounds",
-        "Just Chatting",
-        "Chat Roulette",
-        "Counter-Strike 2",
-        "Call of Duty Zombies"
-      ]
-    },
     {
       "date": "2026-04-15",
       "avgViewers": 662,
@@ -583,8 +570,18 @@
         "Rocket League",
         "Counter-Strike: Global Offensive"
       ]
+    },
+    {
+      "date": "2026-05-02",
+      "avgViewers": 238,
+      "peakViewers": 315,
+      "totalMsgs": 607,
+      "categories": [
+        "Counter-Strike: Global Offensive",
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-05-01T21:44:59.086Z",
-  "lastUpdated": "2026-05-02T14:14:59.508Z"
+  "lastUpdated": "2026-05-02T14:44:59.526Z"
 }
