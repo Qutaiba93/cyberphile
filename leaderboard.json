@@ -110,8 +110,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 12197,
-      "totalEarned": 12197,
+      "balance": 12199,
+      "totalEarned": 12199,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -182,8 +182,8 @@
     },
     {
       "name": "zherkafanboy",
-      "balance": 10837,
-      "totalEarned": 18836,
+      "balance": 10845,
+      "totalEarned": 18844,
       "totalSpent": 7999,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -209,12 +209,12 @@
     },
     {
       "name": "juggin247",
-      "balance": 10188,
-      "totalEarned": 10188,
+      "balance": 10259,
+      "totalEarned": 10259,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "faisaluibi",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1748,
-    "totalCirculating": 1989808,
+    "totalCirculating": 1991218,
     "totalGames": 9954,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-01T23:44:59.440Z"
+  "lastUpdated": "2026-05-02T00:14:59.432Z"
 }

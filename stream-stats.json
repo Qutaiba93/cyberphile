@@ -1,10 +1,10 @@
 {
   "totalSessions": 84,
   "totalDays": 71,
-  "totalSegments": 3486,
+  "totalSegments": 3489,
   "allTimePeak": 17991,
   "allTimeAvg": 629,
-  "totalMessages": 692182,
+  "totalMessages": 692599,
   "categories": [
     {
       "name": "Rust",
@@ -203,13 +203,6 @@
       "totalMsgs": 6766
     },
     {
-      "name": "Counter-Strike: Global Offensive",
-      "avgViewers": 594,
-      "peakViewers": 638,
-      "sampleCount": 2,
-      "totalMsgs": 456
-    },
-    {
       "name": "Just Chatting",
       "avgViewers": 591,
       "peakViewers": 903,
@@ -257,6 +250,13 @@
       "peakViewers": 690,
       "sampleCount": 9,
       "totalMsgs": 1979
+    },
+    {
+      "name": "Counter-Strike: Global Offensive",
+      "avgViewers": 554,
+      "peakViewers": 638,
+      "sampleCount": 5,
+      "totalMsgs": 873
     },
     {
       "name": "Call of Duty: Black Ops 7",
@@ -325,8 +325,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 575,
-      "sampleCount": 161,
-      "totalMsgs": 23741
+      "sampleCount": 162,
+      "totalMsgs": 23854
     },
     "1": {
       "avgViewers": 512,
@@ -404,9 +404,9 @@
       "totalMsgs": 59984
     },
     "23": {
-      "avgViewers": 633,
-      "sampleCount": 214,
-      "totalMsgs": 38357
+      "avgViewers": 632,
+      "sampleCount": 216,
+      "totalMsgs": 38661
     }
   },
   "dailyHistory": [
@@ -573,9 +573,9 @@
     },
     {
       "date": "2026-05-01",
-      "avgViewers": 483,
+      "avgViewers": 488,
       "peakViewers": 590,
-      "totalMsgs": 2817,
+      "totalMsgs": 3234,
       "categories": [
         "PUBG: Battlegrounds",
         "Just Chatting",
@@ -586,5 +586,5 @@
     }
   ],
   "botStartedAt": "2026-05-01T21:44:59.086Z",
-  "lastUpdated": "2026-05-01T23:44:59.430Z"
+  "lastUpdated": "2026-05-02T00:14:59.423Z"
 }
