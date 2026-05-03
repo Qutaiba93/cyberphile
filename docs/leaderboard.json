@@ -164,12 +164,12 @@
     },
     {
       "name": "nick6",
-      "balance": 11334,
-      "totalEarned": 11334,
+      "balance": 11396,
+      "totalEarned": 11396,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "zherkafanboy",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1768,
-    "totalCirculating": 2037001,
+    "totalCirculating": 2037063,
     "totalGames": 10001,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-03T13:14:59.561Z"
+  "lastUpdated": "2026-05-03T13:44:59.562Z"
 }
