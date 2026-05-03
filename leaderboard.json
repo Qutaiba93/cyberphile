@@ -65,8 +65,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 18535,
-      "totalEarned": 18545,
+      "balance": 18537,
+      "totalEarned": 18547,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "darth70",
-      "balance": 11429,
-      "totalEarned": 11429,
+      "balance": 11433,
+      "totalEarned": 11433,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -235,6 +235,15 @@
       "streak": 4
     },
     {
+      "name": "faisaluibi",
+      "balance": 9470,
+      "totalEarned": 12327,
+      "totalSpent": 2857,
+      "gamesPlayed": 3,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "muzlamic",
       "balance": 9430,
       "totalEarned": 10280,
@@ -242,15 +251,6 @@
       "gamesPlayed": 82,
       "gamesWon": 31,
       "streak": 3
-    },
-    {
-      "name": "faisaluibi",
-      "balance": 9413,
-      "totalEarned": 12270,
-      "totalSpent": 2857,
-      "gamesPlayed": 3,
-      "gamesWon": 0,
-      "streak": 2
     },
     {
       "name": "cecee",
@@ -280,6 +280,15 @@
       "streak": 3
     },
     {
+      "name": "intermediatewastakensadge",
+      "balance": 8979,
+      "totalEarned": 8979,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 4
+    },
+    {
       "name": "s1nc3",
       "balance": 8960,
       "totalEarned": 53543,
@@ -287,15 +296,6 @@
       "gamesPlayed": 35,
       "gamesWon": 18,
       "streak": 1
-    },
-    {
-      "name": "intermediatewastakensadge",
-      "balance": 8907,
-      "totalEarned": 8907,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 3
     },
     {
       "name": "pitapan",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1768,
-    "totalCirculating": 2037065,
+    "totalCirculating": 2037562,
     "totalGames": 10001,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-03T14:14:59.562Z"
+  "lastUpdated": "2026-05-03T14:44:59.563Z"
 }
