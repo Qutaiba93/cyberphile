@@ -1,10 +1,10 @@
 {
-  "totalSessions": 85,
-  "totalDays": 72,
-  "totalSegments": 3566,
+  "totalSessions": 86,
+  "totalDays": 73,
+  "totalSegments": 3569,
   "allTimePeak": 17991,
-  "allTimeAvg": 630,
-  "totalMessages": 704805,
+  "allTimeAvg": 629,
+  "totalMessages": 705137,
   "categories": [
     {
       "name": "Rust",
@@ -140,18 +140,18 @@
       "totalMsgs": 7649
     },
     {
-      "name": "Counter-Strike 2",
-      "avgViewers": 631,
-      "peakViewers": 841,
-      "sampleCount": 374,
-      "totalMsgs": 61917
-    },
-    {
       "name": "Sons of the Forest",
       "avgViewers": 631,
       "peakViewers": 693,
       "sampleCount": 23,
       "totalMsgs": 3485
+    },
+    {
+      "name": "Counter-Strike 2",
+      "avgViewers": 627,
+      "peakViewers": 841,
+      "sampleCount": 377,
+      "totalMsgs": 62249
     },
     {
       "name": "Slots & Casino",
@@ -359,14 +359,14 @@
       "totalMsgs": 3725
     },
     "14": {
-      "avgViewers": 338,
-      "sampleCount": 196,
-      "totalMsgs": 29205
+      "avgViewers": 336,
+      "sampleCount": 198,
+      "totalMsgs": 29402
     },
     "15": {
-      "avgViewers": 519,
-      "sampleCount": 298,
-      "totalMsgs": 55894
+      "avgViewers": 518,
+      "sampleCount": 299,
+      "totalMsgs": 56029
     },
     "16": {
       "avgViewers": 672,
@@ -410,18 +410,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-04-15",
-      "avgViewers": 662,
-      "peakViewers": 846,
-      "totalMsgs": 10122,
-      "categories": [
-        "Just Chatting",
-        "Counter-Strike 2",
-        "Minecraft",
-        "Chat Roulette"
-      ]
-    },
     {
       "date": "2026-04-16",
       "avgViewers": 668,
@@ -585,8 +573,17 @@
         "Chat Roulette",
         "Grand Theft Auto V (GTA)"
       ]
+    },
+    {
+      "date": "2026-05-03",
+      "avgViewers": 194,
+      "peakViewers": 279,
+      "totalMsgs": 332,
+      "categories": [
+        "Counter-Strike 2"
+      ]
     }
   ],
   "botStartedAt": "2026-05-01T21:44:59.086Z",
-  "lastUpdated": "2026-05-03T14:44:59.553Z"
+  "lastUpdated": "2026-05-03T15:14:59.551Z"
 }
