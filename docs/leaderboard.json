@@ -110,8 +110,8 @@
     },
     {
       "name": "nick6",
-      "balance": 12587,
-      "totalEarned": 12587,
+      "balance": 12589,
+      "totalEarned": 12589,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -119,8 +119,8 @@
     },
     {
       "name": "darth70",
-      "balance": 11968,
-      "totalEarned": 11968,
+      "balance": 11972,
+      "totalEarned": 11972,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1781,
-    "totalCirculating": 2032808,
+    "totalCirculating": 2032878,
     "totalGames": 10162,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-04T02:48:15.356Z"
+  "lastUpdated": "2026-05-04T03:18:15.357Z"
 }
