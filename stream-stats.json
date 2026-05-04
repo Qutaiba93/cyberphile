@@ -1,10 +1,10 @@
 {
   "totalSessions": 86,
   "totalDays": 73,
-  "totalSegments": 3630,
+  "totalSegments": 3633,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 716865,
+  "totalMessages": 717355,
   "categories": [
     {
       "name": "Rust",
@@ -78,10 +78,10 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 690,
+      "avgViewers": 688,
       "peakViewers": 811,
-      "sampleCount": 191,
-      "totalMsgs": 33801
+      "sampleCount": 193,
+      "totalMsgs": 34060
     },
     {
       "name": "Sea of Thieves",
@@ -281,10 +281,10 @@
     },
     {
       "name": "Counter-Strike: Global Offensive",
-      "avgViewers": 533,
+      "avgViewers": 536,
       "peakViewers": 638,
-      "sampleCount": 19,
-      "totalMsgs": 2430
+      "sampleCount": 20,
+      "totalMsgs": 2661
     },
     {
       "name": "Scam Line",
@@ -329,9 +329,9 @@
       "totalMsgs": 26136
     },
     "1": {
-      "avgViewers": 516,
-      "sampleCount": 108,
-      "totalMsgs": 16076
+      "avgViewers": 518,
+      "sampleCount": 111,
+      "totalMsgs": 16566
     },
     "2": {
       "avgViewers": 478,
@@ -576,9 +576,9 @@
     },
     {
       "date": "2026-05-03",
-      "avgViewers": 650,
+      "avgViewers": 646,
       "peakViewers": 812,
-      "totalMsgs": 12060,
+      "totalMsgs": 12550,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
@@ -590,5 +590,5 @@
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-04T01:18:15.290Z"
+  "lastUpdated": "2026-05-04T01:48:15.293Z"
 }
