@@ -1,10 +1,10 @@
 {
   "totalSessions": 87,
   "totalDays": 74,
-  "totalSegments": 3688,
+  "totalSegments": 3691,
   "allTimePeak": 17991,
-  "allTimeAvg": 629,
-  "totalMessages": 725406,
+  "allTimeAvg": 628,
+  "totalMessages": 725828,
   "categories": [
     {
       "name": "Rust",
@@ -15,10 +15,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 779,
+      "avgViewers": 775,
       "peakViewers": 17935,
-      "sampleCount": 125,
-      "totalMsgs": 24688
+      "sampleCount": 127,
+      "totalMsgs": 24978
     },
     {
       "name": "Games + Demos",
@@ -78,10 +78,10 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 677,
+      "avgViewers": 676,
       "peakViewers": 811,
-      "sampleCount": 208,
-      "totalMsgs": 35965
+      "sampleCount": 209,
+      "totalMsgs": 36097
     },
     {
       "name": "Sea of Thieves",
@@ -406,14 +406,14 @@
       "totalMsgs": 75716
     },
     "22": {
-      "avgViewers": 661,
-      "sampleCount": 311,
-      "totalMsgs": 61922
+      "avgViewers": 660,
+      "sampleCount": 313,
+      "totalMsgs": 62178
     },
     "23": {
-      "avgViewers": 633,
-      "sampleCount": 228,
-      "totalMsgs": 41417
+      "avgViewers": 632,
+      "sampleCount": 229,
+      "totalMsgs": 41583
     }
   },
   "dailyHistory": [
@@ -585,17 +585,18 @@
     },
     {
       "date": "2026-05-04",
-      "avgViewers": 528,
+      "avgViewers": 527,
       "peakViewers": 636,
-      "totalMsgs": 7033,
+      "totalMsgs": 7455,
       "categories": [
         "Just Chatting",
         "Gamble With Your Friends",
         "Counter-Strike 2",
-        "Grand Theft Auto V (GTA)"
+        "Grand Theft Auto V (GTA)",
+        "VALORANT"
       ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-04T22:48:15.453Z"
+  "lastUpdated": "2026-05-04T23:18:15.454Z"
 }
