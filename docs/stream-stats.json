@@ -1,10 +1,10 @@
 {
-  "totalSessions": 86,
-  "totalDays": 73,
-  "totalSegments": 3640,
+  "totalSessions": 87,
+  "totalDays": 74,
+  "totalSegments": 3643,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 718373,
+  "totalMessages": 718996,
   "categories": [
     {
       "name": "Rust",
@@ -204,10 +204,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 593,
+      "avgViewers": 592,
       "peakViewers": 903,
-      "sampleCount": 1442,
-      "totalMsgs": 297625
+      "sampleCount": 1445,
+      "totalMsgs": 298248
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -359,14 +359,14 @@
       "totalMsgs": 3725
     },
     "14": {
-      "avgViewers": 336,
-      "sampleCount": 198,
-      "totalMsgs": 29402
+      "avgViewers": 335,
+      "sampleCount": 200,
+      "totalMsgs": 29725
     },
     "15": {
       "avgViewers": 517,
-      "sampleCount": 304,
-      "totalMsgs": 57168
+      "sampleCount": 305,
+      "totalMsgs": 57468
     },
     "16": {
       "avgViewers": 672,
@@ -410,18 +410,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-04-16",
-      "avgViewers": 668,
-      "peakViewers": 916,
-      "totalMsgs": 10105,
-      "categories": [
-        "Just Chatting",
-        "PUBG: Battlegrounds",
-        "Chat Roulette",
-        "Call of Duty: Black Ops III"
-      ]
-    },
     {
       "date": "2026-04-17",
       "avgViewers": 589,
@@ -587,8 +575,17 @@
         "Minecraft",
         "Counter-Strike: Global Offensive"
       ]
+    },
+    {
+      "date": "2026-05-04",
+      "avgViewers": 235,
+      "peakViewers": 293,
+      "totalMsgs": 623,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-04T14:48:15.450Z"
+  "lastUpdated": "2026-05-04T15:18:15.447Z"
 }
