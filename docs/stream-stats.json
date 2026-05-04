@@ -1,10 +1,10 @@
 {
   "totalSessions": 87,
   "totalDays": 74,
-  "totalSegments": 3691,
+  "totalSegments": 3694,
   "allTimePeak": 17991,
   "allTimeAvg": 628,
-  "totalMessages": 725828,
+  "totalMessages": 726224,
   "categories": [
     {
       "name": "Rust",
@@ -15,10 +15,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 775,
+      "avgViewers": 768,
       "peakViewers": 17935,
-      "sampleCount": 127,
-      "totalMsgs": 24978
+      "sampleCount": 130,
+      "totalMsgs": 25374
     },
     {
       "name": "Games + Demos",
@@ -411,9 +411,9 @@
       "totalMsgs": 62178
     },
     "23": {
-      "avgViewers": 632,
-      "sampleCount": 229,
-      "totalMsgs": 41583
+      "avgViewers": 630,
+      "sampleCount": 232,
+      "totalMsgs": 41979
     }
   },
   "dailyHistory": [
@@ -585,9 +585,9 @@
     },
     {
       "date": "2026-05-04",
-      "avgViewers": 527,
+      "avgViewers": 525,
       "peakViewers": 636,
-      "totalMsgs": 7455,
+      "totalMsgs": 7851,
       "categories": [
         "Just Chatting",
         "Gamble With Your Friends",
@@ -598,5 +598,5 @@
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-04T23:18:15.454Z"
+  "lastUpdated": "2026-05-04T23:48:15.459Z"
 }
