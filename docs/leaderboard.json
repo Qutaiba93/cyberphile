@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "uncommonletter",
-      "balance": 52142,
-      "totalEarned": 210108,
+      "balance": 52219,
+      "totalEarned": 210185,
       "totalSpent": 157966,
       "gamesPlayed": 209,
       "gamesWon": 98,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "shance",
@@ -26,6 +26,15 @@
       "gamesPlayed": 44,
       "gamesWon": 19,
       "streak": 1
+    },
+    {
+      "name": "meliziana",
+      "balance": 23929,
+      "totalEarned": 333919,
+      "totalSpent": 309990,
+      "gamesPlayed": 650,
+      "gamesWon": 242,
+      "streak": 5
     },
     {
       "name": "plebcentral",
@@ -47,12 +56,12 @@
     },
     {
       "name": "taboxl",
-      "balance": 19326,
-      "totalEarned": 21694,
+      "balance": 19415,
+      "totalEarned": 21783,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "tevb0t",
@@ -82,15 +91,6 @@
       "streak": 4
     },
     {
-      "name": "meliziana",
-      "balance": 15847,
-      "totalEarned": 321337,
-      "totalSpent": 305490,
-      "gamesPlayed": 645,
-      "gamesWon": 241,
-      "streak": 5
-    },
-    {
       "name": "anansidagyuki",
       "balance": 14691,
       "totalEarned": 17756,
@@ -109,15 +109,6 @@
       "streak": 15
     },
     {
-      "name": "patwifi",
-      "balance": 12811,
-      "totalEarned": 12811,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 5
-    },
-    {
       "name": "nick6",
       "balance": 12587,
       "totalEarned": 12587,
@@ -127,18 +118,9 @@
       "streak": 3
     },
     {
-      "name": "papaah",
-      "balance": 12049,
-      "totalEarned": 12049,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 5
-    },
-    {
       "name": "darth70",
-      "balance": 11942,
-      "totalEarned": 11942,
+      "balance": 11958,
+      "totalEarned": 11958,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -173,8 +155,8 @@
     },
     {
       "name": "zherkafanboy",
-      "balance": 11505,
-      "totalEarned": 19504,
+      "balance": 11509,
+      "totalEarned": 19508,
       "totalSpent": 7999,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -188,6 +170,15 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
+    },
+    {
+      "name": "papaah",
+      "balance": 11070,
+      "totalEarned": 12071,
+      "totalSpent": 1001,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 5
     },
     {
       "name": "machamp1",
@@ -209,9 +200,18 @@
     },
     {
       "name": "juggin247",
-      "balance": 10666,
-      "totalEarned": 10666,
+      "balance": 10672,
+      "totalEarned": 10672,
       "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 5
+    },
+    {
+      "name": "patwifi",
+      "balance": 10002,
+      "totalEarned": 12825,
+      "totalSpent": 2823,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 5
@@ -232,15 +232,6 @@
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
-    },
-    {
-      "name": "muzlamic",
-      "balance": 9596,
-      "totalEarned": 10446,
-      "totalSpent": 850,
-      "gamesPlayed": 82,
-      "gamesWon": 31,
       "streak": 4
     },
     {
@@ -449,12 +440,21 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 5
+    },
+    {
+      "name": "khaledbusiness",
+      "balance": 6988,
+      "totalEarned": 11888,
+      "totalSpent": 4900,
+      "gamesPlayed": 4,
+      "gamesWon": 3,
+      "streak": 2
     }
   ],
   "stats": {
     "totalPlayers": 1781,
-    "totalCirculating": 2043430,
-    "totalGames": 10078,
+    "totalCirculating": 2031827,
+    "totalGames": 10161,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-04T01:48:15.303Z"
+  "lastUpdated": "2026-05-04T02:18:15.297Z"
 }
