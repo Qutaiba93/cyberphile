@@ -1,10 +1,10 @@
 {
   "totalSessions": 86,
   "totalDays": 73,
-  "totalSegments": 3621,
+  "totalSegments": 3624,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 715422,
+  "totalMessages": 716121,
   "categories": [
     {
       "name": "Rust",
@@ -206,8 +206,8 @@
       "name": "Just Chatting",
       "avgViewers": 593,
       "peakViewers": 903,
-      "sampleCount": 1440,
-      "totalMsgs": 297162
+      "sampleCount": 1442,
+      "totalMsgs": 297625
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -280,18 +280,18 @@
       "totalMsgs": 9011
     },
     {
+      "name": "Counter-Strike: Global Offensive",
+      "avgViewers": 507,
+      "peakViewers": 638,
+      "sampleCount": 13,
+      "totalMsgs": 1686
+    },
+    {
       "name": "Scam Line",
       "avgViewers": 499,
       "peakViewers": 499,
       "sampleCount": 1,
       "totalMsgs": 100
-    },
-    {
-      "name": "Counter-Strike: Global Offensive",
-      "avgViewers": 498,
-      "peakViewers": 638,
-      "sampleCount": 12,
-      "totalMsgs": 1450
     },
     {
       "name": "Call of Duty Zombies",
@@ -325,8 +325,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 575,
-      "sampleCount": 173,
-      "totalMsgs": 25293
+      "sampleCount": 174,
+      "totalMsgs": 25529
     },
     "1": {
       "avgViewers": 515,
@@ -405,8 +405,8 @@
     },
     "23": {
       "avgViewers": 633,
-      "sampleCount": 226,
-      "totalMsgs": 40954
+      "sampleCount": 228,
+      "totalMsgs": 41417
     }
   },
   "dailyHistory": [
@@ -576,18 +576,19 @@
     },
     {
       "date": "2026-05-03",
-      "avgViewers": 658,
+      "avgViewers": 656,
       "peakViewers": 812,
-      "totalMsgs": 10617,
+      "totalMsgs": 11316,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
         "Chat Roulette",
         "Grand Theft Auto V (GTA)",
-        "Minecraft"
+        "Minecraft",
+        "Counter-Strike: Global Offensive"
       ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-03T23:48:15.280Z"
+  "lastUpdated": "2026-05-04T00:18:15.280Z"
 }
