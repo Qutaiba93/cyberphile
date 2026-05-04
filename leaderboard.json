@@ -38,8 +38,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 20153,
-      "totalEarned": 288143,
+      "balance": 20177,
+      "totalEarned": 288167,
       "totalSpent": 267990,
       "gamesPlayed": 620,
       "gamesWon": 231,
@@ -65,8 +65,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 19094,
-      "totalEarned": 19104,
+      "balance": 19122,
+      "totalEarned": 19132,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -110,8 +110,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 12785,
-      "totalEarned": 12785,
+      "balance": 12799,
+      "totalEarned": 12799,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -128,8 +128,17 @@
     },
     {
       "name": "papaah",
-      "balance": 12033,
-      "totalEarned": 12033,
+      "balance": 12041,
+      "totalEarned": 12041,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 5
+    },
+    {
+      "name": "darth70",
+      "balance": 11906,
+      "totalEarned": 11906,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -145,15 +154,6 @@
       "streak": 4
     },
     {
-      "name": "darth70",
-      "balance": 11803,
-      "totalEarned": 11803,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 4
-    },
-    {
       "name": "furrreal",
       "balance": 11681,
       "totalEarned": 15181,
@@ -164,8 +164,8 @@
     },
     {
       "name": "upkey",
-      "balance": 11602,
-      "totalEarned": 11602,
+      "balance": 11662,
+      "totalEarned": 11662,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -173,8 +173,8 @@
     },
     {
       "name": "zherkafanboy",
-      "balance": 11491,
-      "totalEarned": 19490,
+      "balance": 11499,
+      "totalEarned": 19498,
       "totalSpent": 7999,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -209,8 +209,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 10652,
-      "totalEarned": 10652,
+      "balance": 10666,
+      "totalEarned": 10666,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -218,8 +218,8 @@
     },
     {
       "name": "kale96",
-      "balance": 9891,
-      "totalEarned": 16441,
+      "balance": 9921,
+      "totalEarned": 16471,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -263,8 +263,8 @@
     },
     {
       "name": "intermediatewastakensadge",
-      "balance": 9174,
-      "totalEarned": 9174,
+      "balance": 9182,
+      "totalEarned": 9182,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -326,21 +326,21 @@
     },
     {
       "name": "nitro_st",
-      "balance": 8296,
-      "totalEarned": 8296,
+      "balance": 8373,
+      "totalEarned": 8373,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "faridlamm",
-      "balance": 8279,
-      "totalEarned": 8380,
+      "balance": 8356,
+      "totalEarned": 8457,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "guest567432",
@@ -380,8 +380,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 7833,
-      "totalEarned": 7833,
+      "balance": 7849,
+      "totalEarned": 7849,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -443,8 +443,8 @@
     },
     {
       "name": "bido_maggot",
-      "balance": 7021,
-      "totalEarned": 7021,
+      "balance": 7027,
+      "totalEarned": 7027,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1781,
-    "totalCirculating": 2047440,
+    "totalCirculating": 2048769,
     "totalGames": 10044,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-04T00:48:15.299Z"
+  "lastUpdated": "2026-05-04T01:18:15.300Z"
 }
