@@ -1,10 +1,10 @@
 {
   "totalSessions": 86,
   "totalDays": 73,
-  "totalSegments": 3624,
+  "totalSegments": 3627,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 716121,
+  "totalMessages": 716504,
   "categories": [
     {
       "name": "Rust",
@@ -281,10 +281,10 @@
     },
     {
       "name": "Counter-Strike: Global Offensive",
-      "avgViewers": 507,
+      "avgViewers": 522,
       "peakViewers": 638,
-      "sampleCount": 13,
-      "totalMsgs": 1686
+      "sampleCount": 16,
+      "totalMsgs": 2069
     },
     {
       "name": "Scam Line",
@@ -325,8 +325,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 575,
-      "sampleCount": 174,
-      "totalMsgs": 25529
+      "sampleCount": 177,
+      "totalMsgs": 25912
     },
     "1": {
       "avgViewers": 515,
@@ -576,9 +576,9 @@
     },
     {
       "date": "2026-05-03",
-      "avgViewers": 656,
+      "avgViewers": 652,
       "peakViewers": 812,
-      "totalMsgs": 11316,
+      "totalMsgs": 11699,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
@@ -590,5 +590,5 @@
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-04T00:18:15.280Z"
+  "lastUpdated": "2026-05-04T00:48:15.290Z"
 }
