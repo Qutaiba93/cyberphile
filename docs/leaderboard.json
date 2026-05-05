@@ -29,8 +29,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 24426,
-      "totalEarned": 393941,
+      "balance": 24432,
+      "totalEarned": 393947,
       "totalSpent": 369515,
       "gamesPlayed": 685,
       "gamesWon": 256,
@@ -38,12 +38,12 @@
     },
     {
       "name": "plebcentral",
-      "balance": 22086,
-      "totalEarned": 38766,
+      "balance": 22168,
+      "totalEarned": 38848,
       "totalSpent": 16680,
       "gamesPlayed": 4,
       "gamesWon": 2,
-      "streak": 5
+      "streak": 6
     },
     {
       "name": "poseidon_o7",
@@ -110,12 +110,12 @@
     },
     {
       "name": "darth70",
-      "balance": 12282,
-      "totalEarned": 12282,
+      "balance": 12378,
+      "totalEarned": 12378,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 5
+      "streak": 6
     },
     {
       "name": "alexmesq",
@@ -316,20 +316,20 @@
       "streak": 6
     },
     {
-      "name": "faridlamm",
-      "balance": 8472,
-      "totalEarned": 8573,
-      "totalSpent": 101,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 6
-    },
-    {
       "name": "guest567432",
-      "balance": 8410,
-      "totalEarned": 14491,
+      "balance": 8507,
+      "totalEarned": 14588,
       "totalSpent": 6081,
       "gamesPlayed": 2,
+      "gamesWon": 0,
+      "streak": 7
+    },
+    {
+      "name": "faridlamm",
+      "balance": 8482,
+      "totalEarned": 8583,
+      "totalSpent": 101,
+      "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 6
     },
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1806,
-    "totalCirculating": 2043412,
-    "totalGames": 10260,
+    "totalCirculating": 2043494,
+    "totalGames": 10263,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-05T13:18:15.552Z"
+  "lastUpdated": "2026-05-05T13:48:15.544Z"
 }
