@@ -1,10 +1,10 @@
 {
   "totalSessions": 88,
   "totalDays": 75,
-  "totalSegments": 3748,
+  "totalSegments": 3751,
   "allTimePeak": 17991,
   "allTimeAvg": 628,
-  "totalMessages": 734086,
+  "totalMessages": 734752,
   "categories": [
     {
       "name": "Rust",
@@ -80,8 +80,8 @@
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 676,
       "peakViewers": 811,
-      "sampleCount": 216,
-      "totalMsgs": 37052
+      "sampleCount": 218,
+      "totalMsgs": 37285
     },
     {
       "name": "Sea of Thieves",
@@ -150,8 +150,8 @@
       "name": "Minecraft",
       "avgViewers": 630,
       "peakViewers": 746,
-      "sampleCount": 103,
-      "totalMsgs": 19774
+      "sampleCount": 104,
+      "totalMsgs": 20207
     },
     {
       "name": "Slots & Casino",
@@ -402,13 +402,13 @@
     },
     "21": {
       "avgViewers": 681,
-      "sampleCount": 377,
-      "totalMsgs": 76393
+      "sampleCount": 379,
+      "totalMsgs": 76626
     },
     "22": {
       "avgViewers": 660,
-      "sampleCount": 313,
-      "totalMsgs": 62178
+      "sampleCount": 314,
+      "totalMsgs": 62611
     },
     "23": {
       "avgViewers": 629,
@@ -586,17 +586,18 @@
     },
     {
       "date": "2026-05-05",
-      "avgViewers": 594,
+      "avgViewers": 598,
       "peakViewers": 708,
-      "totalMsgs": 7061,
+      "totalMsgs": 7727,
       "categories": [
         "Just Chatting",
         "Gamble With Your Friends",
         "PUBG: Battlegrounds",
-        "Grand Theft Auto V (GTA)"
+        "Grand Theft Auto V (GTA)",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-05T21:48:15.553Z"
+  "lastUpdated": "2026-05-05T22:18:15.553Z"
 }
