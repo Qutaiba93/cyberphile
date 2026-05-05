@@ -1,10 +1,10 @@
 {
   "totalSessions": 87,
   "totalDays": 74,
-  "totalSegments": 3694,
+  "totalSegments": 3697,
   "allTimePeak": 17991,
   "allTimeAvg": 628,
-  "totalMessages": 726224,
+  "totalMessages": 726571,
   "categories": [
     {
       "name": "Rust",
@@ -14,18 +14,18 @@
       "totalMsgs": 6926
     },
     {
-      "name": "VALORANT",
-      "avgViewers": 768,
-      "peakViewers": 17935,
-      "sampleCount": 130,
-      "totalMsgs": 25374
-    },
-    {
       "name": "Games + Demos",
       "avgViewers": 766,
       "peakViewers": 876,
       "sampleCount": 7,
       "totalMsgs": 2696
+    },
+    {
+      "name": "VALORANT",
+      "avgViewers": 764,
+      "peakViewers": 17935,
+      "sampleCount": 132,
+      "totalMsgs": 25645
     },
     {
       "name": "Gartic Phone",
@@ -206,8 +206,8 @@
       "name": "Just Chatting",
       "avgViewers": 591,
       "peakViewers": 903,
-      "sampleCount": 1463,
-      "totalMsgs": 301865
+      "sampleCount": 1464,
+      "totalMsgs": 301941
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -331,9 +331,9 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 576,
-      "sampleCount": 179,
-      "totalMsgs": 26136
+      "avgViewers": 575,
+      "sampleCount": 180,
+      "totalMsgs": 26212
     },
     "1": {
       "avgViewers": 518,
@@ -411,9 +411,9 @@
       "totalMsgs": 62178
     },
     "23": {
-      "avgViewers": 630,
-      "sampleCount": 232,
-      "totalMsgs": 41979
+      "avgViewers": 629,
+      "sampleCount": 234,
+      "totalMsgs": 42250
     }
   },
   "dailyHistory": [
@@ -585,9 +585,9 @@
     },
     {
       "date": "2026-05-04",
-      "avgViewers": 525,
+      "avgViewers": 523,
       "peakViewers": 636,
-      "totalMsgs": 7851,
+      "totalMsgs": 8198,
       "categories": [
         "Just Chatting",
         "Gamble With Your Friends",
@@ -598,5 +598,5 @@
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-04T23:48:15.459Z"
+  "lastUpdated": "2026-05-05T00:18:15.454Z"
 }
