@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "uncommonletter",
-      "balance": 52227,
-      "totalEarned": 210193,
+      "balance": 52309,
+      "totalEarned": 210275,
       "totalSpent": 157966,
       "gamesPlayed": 209,
       "gamesWon": 98,
-      "streak": 5
+      "streak": 6
     },
     {
       "name": "shance",
@@ -29,8 +29,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 28256,
-      "totalEarned": 468343,
+      "balance": 28284,
+      "totalEarned": 468371,
       "totalSpent": 453515,
       "gamesPlayed": 712,
       "gamesWon": 268,
@@ -56,8 +56,8 @@
     },
     {
       "name": "taboxl",
-      "balance": 19587,
-      "totalEarned": 21955,
+      "balance": 19599,
+      "totalEarned": 21967,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
@@ -65,8 +65,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 19356,
-      "totalEarned": 19366,
+      "balance": 19362,
+      "totalEarned": 19372,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -110,8 +110,8 @@
     },
     {
       "name": "darth70",
-      "balance": 12520,
-      "totalEarned": 12520,
+      "balance": 12546,
+      "totalEarned": 12546,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -200,8 +200,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 10322,
-      "totalEarned": 13145,
+      "balance": 10326,
+      "totalEarned": 13149,
       "totalSpent": 2823,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -209,8 +209,8 @@
     },
     {
       "name": "kale96",
-      "balance": 10109,
-      "totalEarned": 16659,
+      "balance": 10111,
+      "totalEarned": 16661,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -245,8 +245,8 @@
     },
     {
       "name": "intermediatewastakensadge",
-      "balance": 9508,
-      "totalEarned": 9508,
+      "balance": 9558,
+      "totalEarned": 9558,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,8 +299,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 8910,
-      "totalEarned": 8910,
+      "balance": 8914,
+      "totalEarned": 8914,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1807,
-    "totalCirculating": 2051329,
-    "totalGames": 10402,
+    "totalCirculating": 2051881,
+    "totalGames": 10407,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-05T16:48:15.554Z"
+  "lastUpdated": "2026-05-05T17:18:15.557Z"
 }
