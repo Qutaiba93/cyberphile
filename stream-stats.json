@@ -1,10 +1,10 @@
 {
   "totalSessions": 88,
   "totalDays": 75,
-  "totalSegments": 3739,
+  "totalSegments": 3742,
   "allTimePeak": 17991,
   "allTimeAvg": 628,
-  "totalMessages": 732644,
+  "totalMessages": 733241,
   "categories": [
     {
       "name": "Rust",
@@ -80,8 +80,8 @@
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 676,
       "peakViewers": 811,
-      "sampleCount": 209,
-      "totalMsgs": 36097
+      "sampleCount": 210,
+      "totalMsgs": 36207
     },
     {
       "name": "Sea of Thieves",
@@ -206,8 +206,8 @@
       "name": "Just Chatting",
       "avgViewers": 590,
       "peakViewers": 903,
-      "sampleCount": 1479,
-      "totalMsgs": 304183
+      "sampleCount": 1481,
+      "totalMsgs": 304670
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -397,8 +397,8 @@
     },
     "20": {
       "avgViewers": 677,
-      "sampleCount": 382,
-      "totalMsgs": 86767
+      "sampleCount": 385,
+      "totalMsgs": 87364
     },
     "21": {
       "avgViewers": 681,
@@ -586,16 +586,17 @@
     },
     {
       "date": "2026-05-05",
-      "avgViewers": 574,
-      "peakViewers": 689,
-      "totalMsgs": 5619,
+      "avgViewers": 583,
+      "peakViewers": 708,
+      "totalMsgs": 6216,
       "categories": [
         "Just Chatting",
         "Gamble With Your Friends",
-        "PUBG: Battlegrounds"
+        "PUBG: Battlegrounds",
+        "Grand Theft Auto V (GTA)"
       ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-05T20:18:15.551Z"
+  "lastUpdated": "2026-05-05T20:48:15.561Z"
 }
