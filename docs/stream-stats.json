@@ -1,10 +1,10 @@
 {
-  "totalSessions": 87,
-  "totalDays": 74,
-  "totalSegments": 3700,
+  "totalSessions": 88,
+  "totalDays": 75,
+  "totalSegments": 3703,
   "allTimePeak": 17991,
   "allTimeAvg": 628,
-  "totalMessages": 727025,
+  "totalMessages": 727396,
   "categories": [
     {
       "name": "Rust",
@@ -204,10 +204,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 591,
+      "avgViewers": 590,
       "peakViewers": 903,
-      "sampleCount": 1467,
-      "totalMsgs": 302395
+      "sampleCount": 1470,
+      "totalMsgs": 302766
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -361,14 +361,14 @@
       "totalMsgs": 324
     },
     "13": {
-      "avgViewers": 203,
-      "sampleCount": 37,
-      "totalMsgs": 3725
+      "avgViewers": 201,
+      "sampleCount": 39,
+      "totalMsgs": 3896
     },
     "14": {
       "avgViewers": 335,
-      "sampleCount": 200,
-      "totalMsgs": 29725
+      "sampleCount": 201,
+      "totalMsgs": 29925
     },
     "15": {
       "avgViewers": 514,
@@ -417,18 +417,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-04-17",
-      "avgViewers": 589,
-      "peakViewers": 704,
-      "totalMsgs": 7864,
-      "categories": [
-        "Just Chatting",
-        "Counter-Strike 2",
-        "PUBG: Battlegrounds",
-        "Call of Duty: Black Ops 7"
-      ]
-    },
     {
       "date": "2026-04-18",
       "avgViewers": 677,
@@ -595,8 +583,17 @@
         "Grand Theft Auto V (GTA)",
         "VALORANT"
       ]
+    },
+    {
+      "date": "2026-05-05",
+      "avgViewers": 202,
+      "peakViewers": 287,
+      "totalMsgs": 371,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-05T13:48:15.535Z"
+  "lastUpdated": "2026-05-05T14:18:15.540Z"
 }
