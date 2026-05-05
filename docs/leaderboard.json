@@ -29,8 +29,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 28238,
-      "totalEarned": 468325,
+      "balance": 28256,
+      "totalEarned": 468343,
       "totalSpent": 453515,
       "gamesPlayed": 712,
       "gamesWon": 268,
@@ -56,8 +56,8 @@
     },
     {
       "name": "taboxl",
-      "balance": 19533,
-      "totalEarned": 21901,
+      "balance": 19587,
+      "totalEarned": 21955,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
@@ -110,8 +110,8 @@
     },
     {
       "name": "darth70",
-      "balance": 12480,
-      "totalEarned": 12480,
+      "balance": 12520,
+      "totalEarned": 12520,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -173,8 +173,8 @@
     },
     {
       "name": "schitt",
-      "balance": 11197,
-      "totalEarned": 11197,
+      "balance": 11205,
+      "totalEarned": 11205,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -191,8 +191,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 10896,
-      "totalEarned": 10896,
+      "balance": 10904,
+      "totalEarned": 10904,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -245,8 +245,8 @@
     },
     {
       "name": "intermediatewastakensadge",
-      "balance": 9480,
-      "totalEarned": 9480,
+      "balance": 9508,
+      "totalEarned": 9508,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,12 +299,12 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 8804,
-      "totalEarned": 8804,
+      "balance": 8910,
+      "totalEarned": 8910,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 5
+      "streak": 6
     },
     {
       "name": "guest567432",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1807,
-    "totalCirculating": 2050003,
+    "totalCirculating": 2051329,
     "totalGames": 10402,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-05T16:18:15.559Z"
+  "lastUpdated": "2026-05-05T16:48:15.554Z"
 }
