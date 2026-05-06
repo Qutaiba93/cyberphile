@@ -1,10 +1,10 @@
 {
   "totalSessions": 89,
   "totalDays": 76,
-  "totalSegments": 3781,
+  "totalSegments": 3784,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 739602,
+  "totalMessages": 739969,
   "categories": [
     {
       "name": "Rust",
@@ -164,8 +164,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 626,
       "peakViewers": 841,
-      "sampleCount": 381,
-      "totalMsgs": 62934
+      "sampleCount": 384,
+      "totalMsgs": 63301
     },
     {
       "name": "DayZ",
@@ -387,13 +387,13 @@
     },
     "18": {
       "avgViewers": 701,
-      "sampleCount": 373,
-      "totalMsgs": 82395
+      "sampleCount": 375,
+      "totalMsgs": 82744
     },
     "19": {
       "avgViewers": 701,
-      "sampleCount": 372,
-      "totalMsgs": 83620
+      "sampleCount": 373,
+      "totalMsgs": 83638
     },
     "20": {
       "avgViewers": 677,
@@ -586,16 +586,17 @@
     },
     {
       "date": "2026-05-06",
-      "avgViewers": 543,
+      "avgViewers": 554,
       "peakViewers": 672,
-      "totalMsgs": 3446,
+      "totalMsgs": 3813,
       "categories": [
         "Just Chatting",
         "Gamble With Your Friends",
-        "Minecraft"
+        "Minecraft",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-06T18:48:15.661Z"
+  "lastUpdated": "2026-05-06T19:18:15.654Z"
 }
