@@ -1,10 +1,10 @@
 {
   "totalSessions": 89,
   "totalDays": 76,
-  "totalSegments": 3802,
+  "totalSegments": 3805,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 742295,
+  "totalMessages": 742715,
   "categories": [
     {
       "name": "Rust",
@@ -52,8 +52,8 @@
       "name": "Chat Roulette",
       "avgViewers": 722,
       "peakViewers": 916,
-      "sampleCount": 373,
-      "totalMsgs": 84948
+      "sampleCount": 374,
+      "totalMsgs": 85112
     },
     {
       "name": "Log Riders",
@@ -206,8 +206,8 @@
       "name": "Just Chatting",
       "avgViewers": 590,
       "peakViewers": 903,
-      "sampleCount": 1495,
-      "totalMsgs": 306595
+      "sampleCount": 1497,
+      "totalMsgs": 306851
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -406,9 +406,9 @@
       "totalMsgs": 77643
     },
     "22": {
-      "avgViewers": 660,
-      "sampleCount": 320,
-      "totalMsgs": 64187
+      "avgViewers": 659,
+      "sampleCount": 323,
+      "totalMsgs": 64607
     },
     "23": {
       "avgViewers": 629,
@@ -588,16 +588,17 @@
       "date": "2026-05-06",
       "avgViewers": 585,
       "peakViewers": 672,
-      "totalMsgs": 6139,
+      "totalMsgs": 6559,
       "categories": [
         "Just Chatting",
         "Gamble With Your Friends",
         "Minecraft",
         "Counter-Strike 2",
-        "Grand Theft Auto V (GTA)"
+        "Grand Theft Auto V (GTA)",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-06T22:18:15.658Z"
+  "lastUpdated": "2026-05-06T22:48:15.666Z"
 }
