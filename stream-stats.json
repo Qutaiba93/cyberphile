@@ -1,10 +1,10 @@
 {
   "totalSessions": 89,
   "totalDays": 76,
-  "totalSegments": 3775,
+  "totalSegments": 3778,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 738941,
+  "totalMessages": 739265,
   "categories": [
     {
       "name": "Rust",
@@ -150,8 +150,8 @@
       "name": "Minecraft",
       "avgViewers": 630,
       "peakViewers": 746,
-      "sampleCount": 107,
-      "totalMsgs": 21028
+      "sampleCount": 110,
+      "totalMsgs": 21352
     },
     {
       "name": "Slots & Casino",
@@ -381,14 +381,14 @@
       "totalMsgs": 75514
     },
     "17": {
-      "avgViewers": 725,
-      "sampleCount": 367,
-      "totalMsgs": 76207
+      "avgViewers": 724,
+      "sampleCount": 369,
+      "totalMsgs": 76467
     },
     "18": {
       "avgViewers": 702,
-      "sampleCount": 369,
-      "totalMsgs": 81994
+      "sampleCount": 370,
+      "totalMsgs": 82058
     },
     "19": {
       "avgViewers": 701,
@@ -586,15 +586,16 @@
     },
     {
       "date": "2026-05-06",
-      "avgViewers": 512,
-      "peakViewers": 634,
-      "totalMsgs": 2785,
+      "avgViewers": 528,
+      "peakViewers": 635,
+      "totalMsgs": 3109,
       "categories": [
         "Just Chatting",
-        "Gamble With Your Friends"
+        "Gamble With Your Friends",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-06T17:48:15.657Z"
+  "lastUpdated": "2026-05-06T18:18:15.653Z"
 }
