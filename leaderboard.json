@@ -28,21 +28,21 @@
       "streak": 1
     },
     {
-      "name": "meliziana",
-      "balance": 22764,
-      "totalEarned": 536684,
-      "totalSpent": 556334,
-      "gamesPlayed": 773,
-      "gamesWon": 290,
-      "streak": 7
-    },
-    {
       "name": "plebcentral",
-      "balance": 22551,
-      "totalEarned": 39231,
+      "balance": 22579,
+      "totalEarned": 39259,
       "totalSpent": 16680,
       "gamesPlayed": 4,
       "gamesWon": 2,
+      "streak": 7
+    },
+    {
+      "name": "meliziana",
+      "balance": 21310,
+      "totalEarned": 538730,
+      "totalSpent": 559834,
+      "gamesPlayed": 776,
+      "gamesWon": 290,
       "streak": 7
     },
     {
@@ -56,8 +56,8 @@
     },
     {
       "name": "taboxl",
-      "balance": 20176,
-      "totalEarned": 22544,
+      "balance": 20196,
+      "totalEarned": 22564,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
@@ -83,8 +83,8 @@
     },
     {
       "name": "weppss",
-      "balance": 16676,
-      "totalEarned": 22571,
+      "balance": 16708,
+      "totalEarned": 22603,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -110,8 +110,8 @@
     },
     {
       "name": "darth70",
-      "balance": 13007,
-      "totalEarned": 13007,
+      "balance": 13025,
+      "totalEarned": 13025,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -200,8 +200,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 10551,
-      "totalEarned": 13374,
+      "balance": 10557,
+      "totalEarned": 13380,
       "totalSpent": 2823,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -209,8 +209,8 @@
     },
     {
       "name": "faisaluibi",
-      "balance": 10269,
-      "totalEarned": 13126,
+      "balance": 10271,
+      "totalEarned": 13128,
       "totalSpent": 2857,
       "gamesPlayed": 3,
       "gamesWon": 0,
@@ -227,8 +227,8 @@
     },
     {
       "name": "cecee",
-      "balance": 10179,
-      "totalEarned": 37654,
+      "balance": 10181,
+      "totalEarned": 37656,
       "totalSpent": 27475,
       "gamesPlayed": 273,
       "gamesWon": 90,
@@ -254,8 +254,8 @@
     },
     {
       "name": "pitapan",
-      "balance": 9609,
-      "totalEarned": 9609,
+      "balance": 9663,
+      "totalEarned": 9663,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,8 +299,8 @@
     },
     {
       "name": "guest567432",
-      "balance": 8873,
-      "totalEarned": 14954,
+      "balance": 8875,
+      "totalEarned": 14956,
       "totalSpent": 6081,
       "gamesPlayed": 2,
       "gamesWon": 0,
@@ -397,6 +397,15 @@
       "streak": 7
     },
     {
+      "name": "confusion",
+      "balance": 7264,
+      "totalEarned": 7779,
+      "totalSpent": 515,
+      "gamesPlayed": 11,
+      "gamesWon": 4,
+      "streak": 7
+    },
+    {
       "name": "skullyontop",
       "balance": 7243,
       "totalEarned": 7253,
@@ -406,18 +415,9 @@
       "streak": 2
     },
     {
-      "name": "confusion",
-      "balance": 7161,
-      "totalEarned": 7676,
-      "totalSpent": 515,
-      "gamesPlayed": 11,
-      "gamesWon": 4,
-      "streak": 6
-    },
-    {
       "name": "kazzcs2",
-      "balance": 7148,
-      "totalEarned": 7148,
+      "balance": 7158,
+      "totalEarned": 7158,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,8 +434,8 @@
     },
     {
       "name": "6ixzeven",
-      "balance": 7085,
-      "totalEarned": 7155,
+      "balance": 7097,
+      "totalEarned": 7167,
       "totalSpent": 70,
       "gamesPlayed": 8,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1819,
-    "totalCirculating": 2075668,
-    "totalGames": 10612,
+    "totalCirculating": 2075445,
+    "totalGames": 10615,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-06T21:48:15.669Z"
+  "lastUpdated": "2026-05-06T22:18:15.667Z"
 }
