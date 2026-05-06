@@ -433,6 +433,15 @@
       "streak": 5
     },
     {
+      "name": "6ixzeven",
+      "balance": 7043,
+      "totalEarned": 7113,
+      "totalSpent": 70,
+      "gamesPlayed": 8,
+      "gamesWon": 0,
+      "streak": 3
+    },
+    {
       "name": "kazzcs2",
       "balance": 7029,
       "totalEarned": 7029,
@@ -440,20 +449,11 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 6
-    },
-    {
-      "name": "khaledbusiness",
-      "balance": 6988,
-      "totalEarned": 11888,
-      "totalSpent": 4900,
-      "gamesPlayed": 4,
-      "gamesWon": 3,
-      "streak": 2
     }
   ],
   "stats": {
     "totalPlayers": 1815,
-    "totalCirculating": 2067582,
+    "totalCirculating": 2067657,
     "totalGames": 10413,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-06T07:48:15.644Z"
+  "lastUpdated": "2026-05-06T08:18:15.644Z"
 }
