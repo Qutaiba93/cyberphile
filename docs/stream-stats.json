@@ -1,10 +1,10 @@
 {
   "totalSessions": 89,
   "totalDays": 76,
-  "totalSegments": 3787,
+  "totalSegments": 3790,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 740227,
+  "totalMessages": 740540,
   "categories": [
     {
       "name": "Rust",
@@ -154,18 +154,18 @@
       "totalMsgs": 21689
     },
     {
+      "name": "Counter-Strike 2",
+      "avgViewers": 627,
+      "peakViewers": 841,
+      "sampleCount": 389,
+      "totalMsgs": 63775
+    },
+    {
       "name": "Slots & Casino",
       "avgViewers": 627,
       "peakViewers": 639,
       "sampleCount": 3,
       "totalMsgs": 602
-    },
-    {
-      "name": "Counter-Strike 2",
-      "avgViewers": 626,
-      "peakViewers": 841,
-      "sampleCount": 386,
-      "totalMsgs": 63462
     },
     {
       "name": "DayZ",
@@ -392,13 +392,13 @@
     },
     "19": {
       "avgViewers": 701,
-      "sampleCount": 376,
-      "totalMsgs": 83896
+      "sampleCount": 378,
+      "totalMsgs": 84139
     },
     "20": {
       "avgViewers": 677,
-      "sampleCount": 387,
-      "totalMsgs": 87532
+      "sampleCount": 388,
+      "totalMsgs": 87602
     },
     "21": {
       "avgViewers": 681,
@@ -586,9 +586,9 @@
     },
     {
       "date": "2026-05-06",
-      "avgViewers": 564,
+      "avgViewers": 570,
       "peakViewers": 672,
-      "totalMsgs": 4071,
+      "totalMsgs": 4384,
       "categories": [
         "Just Chatting",
         "Gamble With Your Friends",
@@ -598,5 +598,5 @@
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-06T19:48:15.659Z"
+  "lastUpdated": "2026-05-06T20:18:15.654Z"
 }
