@@ -1,10 +1,10 @@
 {
   "totalSessions": 90,
   "totalDays": 77,
-  "totalSegments": 3868,
+  "totalSegments": 3871,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 753016,
+  "totalMessages": 753343,
   "categories": [
     {
       "name": "Rust",
@@ -36,10 +36,10 @@
     },
     {
       "name": "VRChat",
-      "avgViewers": 744,
+      "avgViewers": 732,
       "peakViewers": 796,
-      "sampleCount": 9,
-      "totalMsgs": 2115
+      "sampleCount": 10,
+      "totalMsgs": 2216
     },
     {
       "name": "Songbattle.io",
@@ -203,18 +203,18 @@
       "totalMsgs": 6766
     },
     {
+      "name": "Just Chatting",
+      "avgViewers": 590,
+      "peakViewers": 903,
+      "sampleCount": 1530,
+      "totalMsgs": 312747
+    },
+    {
       "name": "Call of Duty: Black Ops Zombies",
       "avgViewers": 590,
       "peakViewers": 748,
       "sampleCount": 16,
       "totalMsgs": 2802
-    },
-    {
-      "name": "Just Chatting",
-      "avgViewers": 589,
-      "peakViewers": 903,
-      "sampleCount": 1528,
-      "totalMsgs": 312521
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -406,14 +406,14 @@
       "totalMsgs": 78676
     },
     "22": {
-      "avgViewers": 659,
-      "sampleCount": 329,
-      "totalMsgs": 65800
+      "avgViewers": 660,
+      "sampleCount": 331,
+      "totalMsgs": 66026
     },
     "23": {
       "avgViewers": 628,
-      "sampleCount": 240,
-      "totalMsgs": 43111
+      "sampleCount": 241,
+      "totalMsgs": 43212
     }
   },
   "dailyHistory": [
@@ -588,17 +588,18 @@
     },
     {
       "date": "2026-05-07",
-      "avgViewers": 621,
+      "avgViewers": 624,
       "peakViewers": 745,
-      "totalMsgs": 8659,
+      "totalMsgs": 8986,
       "categories": [
         "Just Chatting",
         "Minecraft",
         "Grand Theft Auto V (GTA)",
-        "Chat Roulette"
+        "Chat Roulette",
+        "VRChat"
       ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-07T22:48:15.755Z"
+  "lastUpdated": "2026-05-07T23:18:15.758Z"
 }
