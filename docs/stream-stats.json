@@ -1,10 +1,10 @@
 {
   "totalSessions": 90,
   "totalDays": 77,
-  "totalSegments": 3823,
+  "totalSegments": 3826,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 745398,
+  "totalMessages": 745744,
   "categories": [
     {
       "name": "Rust",
@@ -148,10 +148,10 @@
     },
     {
       "name": "Minecraft",
-      "avgViewers": 630,
+      "avgViewers": 629,
       "peakViewers": 746,
-      "sampleCount": 113,
-      "totalMsgs": 21689
+      "sampleCount": 115,
+      "totalMsgs": 21965
     },
     {
       "name": "Counter-Strike 2",
@@ -213,8 +213,8 @@
       "name": "Just Chatting",
       "avgViewers": 588,
       "peakViewers": 903,
-      "sampleCount": 1507,
-      "totalMsgs": 308256
+      "sampleCount": 1508,
+      "totalMsgs": 308326
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -372,8 +372,8 @@
     },
     "15": {
       "avgViewers": 515,
-      "sampleCount": 323,
-      "totalMsgs": 60616
+      "sampleCount": 326,
+      "totalMsgs": 60962
     },
     "16": {
       "avgViewers": 668,
@@ -588,14 +588,15 @@
     },
     {
       "date": "2026-05-07",
-      "avgViewers": 389,
-      "peakViewers": 568,
-      "totalMsgs": 1041,
+      "avgViewers": 439,
+      "peakViewers": 588,
+      "totalMsgs": 1387,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-07T15:18:15.741Z"
+  "lastUpdated": "2026-05-07T15:48:15.742Z"
 }
