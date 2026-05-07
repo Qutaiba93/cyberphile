@@ -1,10 +1,10 @@
 {
   "totalSessions": 90,
   "totalDays": 77,
-  "totalSegments": 3871,
+  "totalSegments": 3874,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 753343,
+  "totalMessages": 753550,
   "categories": [
     {
       "name": "Rust",
@@ -35,13 +35,6 @@
       "totalMsgs": 620
     },
     {
-      "name": "VRChat",
-      "avgViewers": 732,
-      "peakViewers": 796,
-      "sampleCount": 10,
-      "totalMsgs": 2216
-    },
-    {
       "name": "Songbattle.io",
       "avgViewers": 727,
       "peakViewers": 734,
@@ -54,6 +47,13 @@
       "peakViewers": 916,
       "sampleCount": 382,
       "totalMsgs": 86657
+    },
+    {
+      "name": "VRChat",
+      "avgViewers": 710,
+      "peakViewers": 796,
+      "sampleCount": 13,
+      "totalMsgs": 2423
     },
     {
       "name": "Log Riders",
@@ -411,9 +411,9 @@
       "totalMsgs": 66026
     },
     "23": {
-      "avgViewers": 628,
-      "sampleCount": 241,
-      "totalMsgs": 43212
+      "avgViewers": 629,
+      "sampleCount": 244,
+      "totalMsgs": 43419
     }
   },
   "dailyHistory": [
@@ -590,7 +590,7 @@
       "date": "2026-05-07",
       "avgViewers": 624,
       "peakViewers": 745,
-      "totalMsgs": 8986,
+      "totalMsgs": 9193,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -601,5 +601,5 @@
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-07T23:18:15.758Z"
+  "lastUpdated": "2026-05-07T23:48:15.753Z"
 }
