@@ -299,8 +299,8 @@
     },
     {
       "name": "guest567432",
-      "balance": 8972,
-      "totalEarned": 15053,
+      "balance": 8974,
+      "totalEarned": 15055,
       "totalSpent": 6081,
       "gamesPlayed": 2,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1821,
-    "totalCirculating": 2084783,
+    "totalCirculating": 2084785,
     "totalGames": 10626,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-07T12:18:15.739Z"
+  "lastUpdated": "2026-05-07T12:48:15.746Z"
 }
