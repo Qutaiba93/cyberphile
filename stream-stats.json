@@ -1,10 +1,10 @@
 {
   "totalSessions": 91,
   "totalDays": 78,
-  "totalSegments": 3901,
+  "totalSegments": 3904,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 757541,
+  "totalMessages": 757965,
   "categories": [
     {
       "name": "Rust",
@@ -45,8 +45,8 @@
       "name": "Chat Roulette",
       "avgViewers": 721,
       "peakViewers": 916,
-      "sampleCount": 385,
-      "totalMsgs": 87283
+      "sampleCount": 387,
+      "totalMsgs": 87601
     },
     {
       "name": "Log Riders",
@@ -77,18 +77,18 @@
       "totalMsgs": 2934
     },
     {
-      "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 673,
-      "peakViewers": 811,
-      "sampleCount": 254,
-      "totalMsgs": 42068
-    },
-    {
       "name": "Sea of Thieves",
       "avgViewers": 673,
       "peakViewers": 776,
       "sampleCount": 59,
       "totalMsgs": 10155
+    },
+    {
+      "name": "Grand Theft Auto V (GTA)",
+      "avgViewers": 672,
+      "peakViewers": 811,
+      "sampleCount": 255,
+      "totalMsgs": 42174
     },
     {
       "name": "The Empty Eyes",
@@ -412,8 +412,8 @@
     },
     "23": {
       "avgViewers": 628,
-      "sampleCount": 247,
-      "totalMsgs": 43772
+      "sampleCount": 250,
+      "totalMsgs": 44196
     }
   },
   "dailyHistory": [
@@ -591,9 +591,9 @@
     },
     {
       "date": "2026-05-08",
-      "avgViewers": 615,
+      "avgViewers": 614,
       "peakViewers": 755,
-      "totalMsgs": 2864,
+      "totalMsgs": 3288,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -602,5 +602,5 @@
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-08T23:18:15.851Z"
+  "lastUpdated": "2026-05-08T23:48:15.855Z"
 }
