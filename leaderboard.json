@@ -128,12 +128,12 @@
     },
     {
       "name": "zherkafanboy",
-      "balance": 12182,
-      "totalEarned": 20181,
+      "balance": 12249,
+      "totalEarned": 20248,
       "totalSpent": 7999,
       "gamesPlayed": 3,
       "gamesWon": 1,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "furrreal",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1836,
-    "totalCirculating": 2148008,
+    "totalCirculating": 2148075,
     "totalGames": 10697,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-09T01:18:15.871Z"
+  "lastUpdated": "2026-05-09T01:48:15.869Z"
 }
