@@ -1,10 +1,10 @@
 {
   "totalSessions": 91,
   "totalDays": 78,
-  "totalSegments": 3904,
+  "totalSegments": 3907,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 757965,
+  "totalMessages": 758366,
   "categories": [
     {
       "name": "Rust",
@@ -148,10 +148,10 @@
     },
     {
       "name": "Minecraft",
-      "avgViewers": 628,
+      "avgViewers": 627,
       "peakViewers": 746,
-      "sampleCount": 118,
-      "totalMsgs": 22367
+      "sampleCount": 120,
+      "totalMsgs": 22581
     },
     {
       "name": "Counter-Strike 2",
@@ -213,8 +213,8 @@
       "name": "Just Chatting",
       "avgViewers": 589,
       "peakViewers": 903,
-      "sampleCount": 1542,
-      "totalMsgs": 314641
+      "sampleCount": 1543,
+      "totalMsgs": 314828
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -332,8 +332,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 574,
-      "sampleCount": 191,
-      "totalMsgs": 27776
+      "sampleCount": 192,
+      "totalMsgs": 27854
     },
     "1": {
       "avgViewers": 518,
@@ -412,8 +412,8 @@
     },
     "23": {
       "avgViewers": 628,
-      "sampleCount": 250,
-      "totalMsgs": 44196
+      "sampleCount": 252,
+      "totalMsgs": 44519
     }
   },
   "dailyHistory": [
@@ -591,16 +591,17 @@
     },
     {
       "date": "2026-05-08",
-      "avgViewers": 614,
+      "avgViewers": 613,
       "peakViewers": 755,
-      "totalMsgs": 3288,
+      "totalMsgs": 3689,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
-        "Grand Theft Auto V (GTA)"
+        "Grand Theft Auto V (GTA)",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-08T23:48:15.855Z"
+  "lastUpdated": "2026-05-09T00:18:15.852Z"
 }
