@@ -1,10 +1,10 @@
 {
-  "totalSessions": 91,
-  "totalDays": 78,
-  "totalSegments": 3909,
+  "totalSessions": 92,
+  "totalDays": 79,
+  "totalSegments": 3910,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 758528,
+  "totalMessages": 758559,
   "categories": [
     {
       "name": "Rust",
@@ -213,8 +213,8 @@
       "name": "Just Chatting",
       "avgViewers": 589,
       "peakViewers": 903,
-      "sampleCount": 1544,
-      "totalMsgs": 314904
+      "sampleCount": 1545,
+      "totalMsgs": 314935
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -366,9 +366,9 @@
       "totalMsgs": 3898
     },
     "14": {
-      "avgViewers": 339,
-      "sampleCount": 215,
-      "totalMsgs": 32162
+      "avgViewers": 338,
+      "sampleCount": 216,
+      "totalMsgs": 32193
     },
     "15": {
       "avgViewers": 516,
@@ -417,18 +417,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-04-22",
-      "avgViewers": 488,
-      "peakViewers": 674,
-      "totalMsgs": 2049,
-      "categories": [
-        "PUBG: Battlegrounds",
-        "Just Chatting",
-        "Scam Line",
-        "Counter-Strike 2"
-      ]
-    },
     {
       "date": "2026-04-23",
       "avgViewers": 618,
@@ -600,8 +588,17 @@
         "Grand Theft Auto V (GTA)",
         "Minecraft"
       ]
+    },
+    {
+      "date": "2026-05-09",
+      "avgViewers": 126,
+      "peakViewers": 126,
+      "totalMsgs": 31,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-09T13:48:15.940Z"
+  "lastUpdated": "2026-05-09T14:18:15.941Z"
 }
