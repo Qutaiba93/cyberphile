@@ -11,11 +11,11 @@
     },
     {
       "name": "shance",
-      "balance": 44869,
-      "totalEarned": 1040896,
-      "totalSpent": 1077536,
-      "gamesPlayed": 539,
-      "gamesWon": 200,
+      "balance": 44919,
+      "totalEarned": 1041006,
+      "totalSpent": 1077596,
+      "gamesPlayed": 551,
+      "gamesWon": 204,
       "streak": 1
     },
     {
@@ -29,11 +29,11 @@
     },
     {
       "name": "meliziana",
-      "balance": 26155,
-      "totalEarned": 589075,
-      "totalSpent": 605334,
-      "gamesPlayed": 825,
-      "gamesWon": 313,
+      "balance": 29413,
+      "totalEarned": 622433,
+      "totalSpent": 635434,
+      "gamesPlayed": 845,
+      "gamesWon": 323,
       "streak": 10
     },
     {
@@ -47,8 +47,8 @@
     },
     {
       "name": "poseidon_o7",
-      "balance": 21359,
-      "totalEarned": 21379,
+      "balance": 21371,
+      "totalEarned": 21391,
       "totalSpent": 20,
       "gamesPlayed": 2,
       "gamesWon": 0,
@@ -65,8 +65,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 20564,
-      "totalEarned": 20574,
+      "balance": 20574,
+      "totalEarned": 20584,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -74,8 +74,8 @@
     },
     {
       "name": "weppss",
-      "balance": 17509,
-      "totalEarned": 23404,
+      "balance": 17525,
+      "totalEarned": 23420,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -101,8 +101,8 @@
     },
     {
       "name": "darth70",
-      "balance": 13798,
-      "totalEarned": 13798,
+      "balance": 13800,
+      "totalEarned": 13800,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -191,8 +191,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 11498,
-      "totalEarned": 14321,
+      "balance": 11512,
+      "totalEarned": 14335,
       "totalSpent": 2823,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -208,9 +208,18 @@
       "streak": 5
     },
     {
+      "name": "cecee",
+      "balance": 11062,
+      "totalEarned": 48743,
+      "totalSpent": 37681,
+      "gamesPlayed": 303,
+      "gamesWon": 102,
+      "streak": 6
+    },
+    {
       "name": "faisaluibi",
-      "balance": 11003,
-      "totalEarned": 13860,
+      "balance": 11007,
+      "totalEarned": 13864,
       "totalSpent": 2857,
       "gamesPlayed": 3,
       "gamesWon": 0,
@@ -218,8 +227,8 @@
     },
     {
       "name": "intermediatewastakensadge",
-      "balance": 10624,
-      "totalEarned": 10624,
+      "balance": 10626,
+      "totalEarned": 10626,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -253,15 +262,6 @@
       "streak": 10
     },
     {
-      "name": "cecee",
-      "balance": 10004,
-      "totalEarned": 38035,
-      "totalSpent": 28031,
-      "gamesPlayed": 277,
-      "gamesWon": 91,
-      "streak": 6
-    },
-    {
       "name": "bbalint320",
       "balance": 9908,
       "totalEarned": 10038,
@@ -281,8 +281,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 9694,
-      "totalEarned": 9694,
+      "balance": 9704,
+      "totalEarned": 9704,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -290,8 +290,8 @@
     },
     {
       "name": "lena_xc",
-      "balance": 9654,
-      "totalEarned": 9654,
+      "balance": 9668,
+      "totalEarned": 9668,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,8 +299,8 @@
     },
     {
       "name": "guest567432",
-      "balance": 9486,
-      "totalEarned": 15567,
+      "balance": 9488,
+      "totalEarned": 15569,
       "totalSpent": 6081,
       "gamesPlayed": 2,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1841,
-    "totalCirculating": 2166044,
-    "totalGames": 10743,
+    "totalCirculating": 2170833,
+    "totalGames": 10872,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-09T18:18:15.954Z"
+  "lastUpdated": "2026-05-09T18:48:15.974Z"
 }
