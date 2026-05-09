@@ -1,10 +1,10 @@
 {
   "totalSessions": 92,
   "totalDays": 79,
-  "totalSegments": 3964,
+  "totalSegments": 3967,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 770008,
+  "totalMessages": 770293,
   "categories": [
     {
       "name": "Rust",
@@ -182,6 +182,13 @@
       "totalMsgs": 107
     },
     {
+      "name": "Dread Neighbor",
+      "avgViewers": 607,
+      "peakViewers": 618,
+      "sampleCount": 2,
+      "totalMsgs": 169
+    },
+    {
       "name": "Creepy Shift: House for Sale",
       "avgViewers": 605,
       "peakViewers": 611,
@@ -213,8 +220,8 @@
       "name": "Just Chatting",
       "avgViewers": 589,
       "peakViewers": 903,
-      "sampleCount": 1564,
-      "totalMsgs": 317858
+      "sampleCount": 1565,
+      "totalMsgs": 317974
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -412,8 +419,8 @@
     },
     "23": {
       "avgViewers": 628,
-      "sampleCount": 253,
-      "totalMsgs": 44591
+      "sampleCount": 256,
+      "totalMsgs": 44876
     }
   },
   "dailyHistory": [
@@ -591,17 +598,18 @@
     },
     {
       "date": "2026-05-09",
-      "avgViewers": 658,
+      "avgViewers": 656,
       "peakViewers": 811,
-      "totalMsgs": 11480,
+      "totalMsgs": 11765,
       "categories": [
         "Just Chatting",
         "Minecraft",
         "IRL",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Dread Neighbor"
       ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-09T23:18:15.949Z"
+  "lastUpdated": "2026-05-09T23:48:15.950Z"
 }
