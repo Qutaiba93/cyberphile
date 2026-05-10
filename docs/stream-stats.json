@@ -1,10 +1,10 @@
 {
   "totalSessions": 93,
   "totalDays": 80,
-  "totalSegments": 4016,
+  "totalSegments": 4019,
   "allTimePeak": 17991,
-  "allTimeAvg": 627,
-  "totalMessages": 777783,
+  "allTimeAvg": 628,
+  "totalMessages": 778342,
   "categories": [
     {
       "name": "Rust",
@@ -45,8 +45,8 @@
       "name": "Chat Roulette",
       "avgViewers": 724,
       "peakViewers": 916,
-      "sampleCount": 407,
-      "totalMsgs": 91608
+      "sampleCount": 408,
+      "totalMsgs": 91807
     },
     {
       "name": "Log Riders",
@@ -157,8 +157,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 627,
       "peakViewers": 841,
-      "sampleCount": 391,
-      "totalMsgs": 63976
+      "sampleCount": 393,
+      "totalMsgs": 64336
     },
     {
       "name": "Slots & Casino",
@@ -398,14 +398,14 @@
       "totalMsgs": 86523
     },
     "19": {
-      "avgViewers": 702,
-      "sampleCount": 394,
-      "totalMsgs": 88511
+      "avgViewers": 703,
+      "sampleCount": 396,
+      "totalMsgs": 88914
     },
     "20": {
       "avgViewers": 674,
-      "sampleCount": 411,
-      "totalMsgs": 91109
+      "sampleCount": 412,
+      "totalMsgs": 91265
     },
     "21": {
       "avgViewers": 683,
@@ -599,16 +599,17 @@
     },
     {
       "date": "2026-05-10",
-      "avgViewers": 657,
+      "avgViewers": 666,
       "peakViewers": 856,
-      "totalMsgs": 5994,
+      "totalMsgs": 6553,
       "categories": [
         "Just Chatting",
         "Grand Theft Auto V (GTA)",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-10T19:48:16.023Z"
+  "lastUpdated": "2026-05-10T20:18:16.018Z"
 }
