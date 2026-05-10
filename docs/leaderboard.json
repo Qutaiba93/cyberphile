@@ -83,26 +83,26 @@
     },
     {
       "name": "drogan",
-      "balance": 17234,
-      "totalEarned": 17234,
+      "balance": 17304,
+      "totalEarned": 17304,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "anansidagyuki",
-      "balance": 15141,
-      "totalEarned": 18206,
+      "balance": 15217,
+      "totalEarned": 18282,
       "totalSpent": 3065,
       "gamesPlayed": 24,
       "gamesWon": 5,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "nick6",
-      "balance": 14149,
-      "totalEarned": 14149,
+      "balance": 14155,
+      "totalEarned": 14155,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,12 +146,12 @@
     },
     {
       "name": "furrreal",
-      "balance": 11955,
-      "totalEarned": 15455,
+      "balance": 12032,
+      "totalEarned": 15532,
       "totalSpent": 3500,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "schitt",
@@ -272,12 +272,12 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 9762,
-      "totalEarned": 9762,
+      "balance": 9874,
+      "totalEarned": 9874,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 10
+      "streak": 11
     },
     {
       "name": "neincs",
@@ -299,12 +299,12 @@
     },
     {
       "name": "guest567432",
-      "balance": 9568,
-      "totalEarned": 15649,
+      "balance": 9674,
+      "totalEarned": 15755,
       "totalSpent": 6081,
       "gamesPlayed": 2,
       "gamesWon": 0,
-      "streak": 11
+      "streak": 12
     },
     {
       "name": "faridlamm",
@@ -325,27 +325,27 @@
       "streak": 11
     },
     {
+      "name": "damiybe",
+      "balance": 8949,
+      "totalEarned": 8959,
+      "totalSpent": 10,
+      "gamesPlayed": 1,
+      "gamesWon": 0,
+      "streak": 11
+    },
+    {
       "name": "twilighty",
-      "balance": 8932,
-      "totalEarned": 8932,
+      "balance": 8938,
+      "totalEarned": 8938,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 9
     },
     {
-      "name": "damiybe",
-      "balance": 8839,
-      "totalEarned": 8849,
-      "totalSpent": 10,
-      "gamesPlayed": 1,
-      "gamesWon": 0,
-      "streak": 10
-    },
-    {
       "name": "karmahit",
-      "balance": 8704,
-      "totalEarned": 8704,
+      "balance": 8712,
+      "totalEarned": 8712,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1850,
-    "totalCirculating": 2191286,
+    "totalPlayers": 1851,
+    "totalCirculating": 2193234,
     "totalGames": 10910,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-10T13:18:16.030Z"
+  "lastUpdated": "2026-05-10T13:48:16.029Z"
 }
