@@ -1,10 +1,10 @@
 {
   "totalSessions": 93,
   "totalDays": 80,
-  "totalSegments": 4007,
+  "totalSegments": 4010,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 775947,
+  "totalMessages": 776495,
   "categories": [
     {
       "name": "Rust",
@@ -43,10 +43,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 722,
+      "avgViewers": 723,
       "peakViewers": 916,
-      "sampleCount": 398,
-      "totalMsgs": 89772
+      "sampleCount": 401,
+      "totalMsgs": 90320
     },
     {
       "name": "Log Riders",
@@ -393,9 +393,9 @@
       "totalMsgs": 79022
     },
     "18": {
-      "avgViewers": 700,
-      "sampleCount": 388,
-      "totalMsgs": 85593
+      "avgViewers": 701,
+      "sampleCount": 391,
+      "totalMsgs": 86141
     },
     "19": {
       "avgViewers": 701,
@@ -599,15 +599,16 @@
     },
     {
       "date": "2026-05-10",
-      "avgViewers": 611,
-      "peakViewers": 776,
-      "totalMsgs": 4158,
+      "avgViewers": 627,
+      "peakViewers": 782,
+      "totalMsgs": 4706,
       "categories": [
         "Just Chatting",
-        "Grand Theft Auto V (GTA)"
+        "Grand Theft Auto V (GTA)",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-10T18:18:16.021Z"
+  "lastUpdated": "2026-05-10T18:48:16.021Z"
 }
