@@ -1,10 +1,10 @@
 {
   "totalSessions": 92,
   "totalDays": 79,
-  "totalSegments": 3970,
+  "totalSegments": 3973,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 770502,
+  "totalMessages": 770759,
   "categories": [
     {
       "name": "Rust",
@@ -203,13 +203,6 @@
       "totalMsgs": 6766
     },
     {
-      "name": "Dread Neighbor",
-      "avgViewers": 591,
-      "peakViewers": 618,
-      "sampleCount": 5,
-      "totalMsgs": 378
-    },
-    {
       "name": "Call of Duty: Black Ops Zombies",
       "avgViewers": 590,
       "peakViewers": 748,
@@ -220,8 +213,15 @@
       "name": "Just Chatting",
       "avgViewers": 589,
       "peakViewers": 903,
-      "sampleCount": 1565,
-      "totalMsgs": 317974
+      "sampleCount": 1566,
+      "totalMsgs": 318122
+    },
+    {
+      "name": "Dread Neighbor",
+      "avgViewers": 585,
+      "peakViewers": 618,
+      "sampleCount": 7,
+      "totalMsgs": 487
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -339,8 +339,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 574,
-      "sampleCount": 195,
-      "totalMsgs": 28099
+      "sampleCount": 198,
+      "totalMsgs": 28356
     },
     "1": {
       "avgViewers": 518,
@@ -598,9 +598,9 @@
     },
     {
       "date": "2026-05-09",
-      "avgViewers": 652,
+      "avgViewers": 648,
       "peakViewers": 811,
-      "totalMsgs": 11974,
+      "totalMsgs": 12231,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -611,5 +611,5 @@
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-10T00:18:15.950Z"
+  "lastUpdated": "2026-05-10T00:48:15.951Z"
 }
