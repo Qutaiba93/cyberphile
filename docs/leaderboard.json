@@ -74,8 +74,8 @@
     },
     {
       "name": "weppss",
-      "balance": 17878,
-      "totalEarned": 23773,
+      "balance": 17884,
+      "totalEarned": 23779,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -101,8 +101,8 @@
     },
     {
       "name": "nick6",
-      "balance": 14259,
-      "totalEarned": 14259,
+      "balance": 14275,
+      "totalEarned": 14275,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -119,8 +119,8 @@
     },
     {
       "name": "zherkafanboy",
-      "balance": 12507,
-      "totalEarned": 20506,
+      "balance": 12517,
+      "totalEarned": 20516,
       "totalSpent": 7999,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -128,12 +128,12 @@
     },
     {
       "name": "upkey",
-      "balance": 12256,
-      "totalEarned": 12256,
+      "balance": 12327,
+      "totalEarned": 12327,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 7
+      "streak": 1
     },
     {
       "name": "papaah",
@@ -163,6 +163,15 @@
       "streak": 11
     },
     {
+      "name": "cecee",
+      "balance": 12015,
+      "totalEarned": 56146,
+      "totalSpent": 44131,
+      "gamesPlayed": 318,
+      "gamesWon": 108,
+      "streak": 7
+    },
+    {
       "name": "alexmesq",
       "balance": 11875,
       "totalEarned": 12875,
@@ -173,8 +182,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 11836,
-      "totalEarned": 11836,
+      "balance": 11850,
+      "totalEarned": 11850,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -200,21 +209,12 @@
     },
     {
       "name": "machamp1",
-      "balance": 11541,
-      "totalEarned": 11766,
+      "balance": 11555,
+      "totalEarned": 11780,
       "totalSpent": 225,
       "gamesPlayed": 5,
       "gamesWon": 1,
       "streak": 6
-    },
-    {
-      "name": "cecee",
-      "balance": 11503,
-      "totalEarned": 50084,
-      "totalSpent": 38581,
-      "gamesPlayed": 305,
-      "gamesWon": 103,
-      "streak": 7
     },
     {
       "name": "faisaluibi",
@@ -245,8 +245,8 @@
     },
     {
       "name": "kingirnfist",
-      "balance": 10518,
-      "totalEarned": 25518,
+      "balance": 10524,
+      "totalEarned": 25524,
       "totalSpent": 15000,
       "gamesPlayed": 2,
       "gamesWon": 1,
@@ -262,6 +262,15 @@
       "streak": 10
     },
     {
+      "name": "ryanize",
+      "balance": 10265,
+      "totalEarned": 39099,
+      "totalSpent": 28834,
+      "gamesPlayed": 21,
+      "gamesWon": 10,
+      "streak": 4
+    },
+    {
       "name": "bbalint320",
       "balance": 10092,
       "totalEarned": 10222,
@@ -272,8 +281,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 9892,
-      "totalEarned": 9892,
+      "balance": 9908,
+      "totalEarned": 9908,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -281,21 +290,12 @@
     },
     {
       "name": "lena_xc",
-      "balance": 9786,
-      "totalEarned": 9786,
+      "balance": 9812,
+      "totalEarned": 9812,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 11
-    },
-    {
-      "name": "ryanize",
-      "balance": 9747,
-      "totalEarned": 37081,
-      "totalSpent": 27334,
-      "gamesPlayed": 19,
-      "gamesWon": 9,
-      "streak": 4
     },
     {
       "name": "neincs",
@@ -371,8 +371,8 @@
     },
     {
       "name": "quantik",
-      "balance": 7964,
-      "totalEarned": 7964,
+      "balance": 7966,
+      "totalEarned": 7966,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1855,
-    "totalCirculating": 2205776,
-    "totalGames": 10926,
+    "totalPlayers": 1857,
+    "totalCirculating": 2205509,
+    "totalGames": 10946,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-10T15:48:16.030Z"
+  "lastUpdated": "2026-05-10T16:18:16.027Z"
 }
