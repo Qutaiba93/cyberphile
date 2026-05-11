@@ -1,10 +1,10 @@
 {
   "totalSessions": 94,
   "totalDays": 81,
-  "totalSegments": 4061,
+  "totalSegments": 4064,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 784524,
+  "totalMessages": 784788,
   "categories": [
     {
       "name": "Rust",
@@ -164,8 +164,8 @@
       "name": "Minecraft",
       "avgViewers": 626,
       "peakViewers": 746,
-      "sampleCount": 136,
-      "totalMsgs": 24444
+      "sampleCount": 138,
+      "totalMsgs": 24644
     },
     {
       "name": "DayZ",
@@ -224,18 +224,18 @@
       "totalMsgs": 487
     },
     {
+      "name": "Gamble With Your Friends",
+      "avgViewers": 579,
+      "peakViewers": 632,
+      "sampleCount": 38,
+      "totalMsgs": 4730
+    },
+    {
       "name": "PUBG: Battlegrounds",
       "avgViewers": 578,
       "peakViewers": 748,
       "sampleCount": 145,
       "totalMsgs": 21653
-    },
-    {
-      "name": "Gamble With Your Friends",
-      "avgViewers": 578,
-      "peakViewers": 632,
-      "sampleCount": 37,
-      "totalMsgs": 4666
     },
     {
       "name": "Backrooms",
@@ -383,14 +383,14 @@
       "totalMsgs": 63582
     },
     "16": {
-      "avgViewers": 665,
-      "sampleCount": 385,
-      "totalMsgs": 78938
+      "avgViewers": 664,
+      "sampleCount": 387,
+      "totalMsgs": 79138
     },
     "17": {
       "avgViewers": 722,
-      "sampleCount": 387,
-      "totalMsgs": 79022
+      "sampleCount": 388,
+      "totalMsgs": 79086
     },
     "18": {
       "avgViewers": 702,
@@ -600,15 +600,16 @@
     },
     {
       "date": "2026-05-11",
-      "avgViewers": 472,
-      "peakViewers": 601,
-      "totalMsgs": 1399,
+      "avgViewers": 492,
+      "peakViewers": 614,
+      "totalMsgs": 1663,
       "categories": [
         "Just Chatting",
-        "Minecraft"
+        "Minecraft",
+        "Gamble With Your Friends"
       ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-11T16:48:16.037Z"
+  "lastUpdated": "2026-05-11T17:18:16.019Z"
 }
