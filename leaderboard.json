@@ -101,12 +101,12 @@
     },
     {
       "name": "nick6",
-      "balance": 14531,
-      "totalEarned": 14531,
+      "balance": 14598,
+      "totalEarned": 14598,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "darth70",
@@ -226,20 +226,20 @@
       "streak": 9
     },
     {
+      "name": "kale96",
+      "balance": 10907,
+      "totalEarned": 17457,
+      "totalSpent": 6550,
+      "gamesPlayed": 6,
+      "gamesWon": 0,
+      "streak": 12
+    },
+    {
       "name": "intermediatewastakensadge",
       "balance": 10858,
       "totalEarned": 10858,
       "totalSpent": 0,
       "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 11
-    },
-    {
-      "name": "kale96",
-      "balance": 10805,
-      "totalEarned": 17355,
-      "totalSpent": 6550,
-      "gamesPlayed": 6,
       "gamesWon": 0,
       "streak": 11
     },
@@ -380,8 +380,8 @@
     },
     {
       "name": "bido_maggot",
-      "balance": 7939,
-      "totalEarned": 7939,
+      "balance": 7941,
+      "totalEarned": 7941,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1867,
-    "totalCirculating": 2233207,
+    "totalCirculating": 2233581,
     "totalGames": 10947,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-11T13:48:16.031Z"
+  "lastUpdated": "2026-05-11T14:18:16.032Z"
 }
