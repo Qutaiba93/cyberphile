@@ -1,10 +1,10 @@
 {
   "totalSessions": 94,
   "totalDays": 81,
-  "totalSegments": 4088,
+  "totalSegments": 4091,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 789537,
+  "totalMessages": 790097,
   "categories": [
     {
       "name": "Rust",
@@ -87,8 +87,8 @@
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 671,
       "peakViewers": 811,
-      "sampleCount": 285,
-      "totalMsgs": 47489
+      "sampleCount": 286,
+      "totalMsgs": 47701
     },
     {
       "name": "The Empty Eyes",
@@ -162,10 +162,10 @@
     },
     {
       "name": "Minecraft",
-      "avgViewers": 625,
+      "avgViewers": 624,
       "peakViewers": 746,
-      "sampleCount": 145,
-      "totalMsgs": 26013
+      "sampleCount": 147,
+      "totalMsgs": 26361
     },
     {
       "name": "DayZ",
@@ -408,9 +408,9 @@
       "totalMsgs": 93193
     },
     "21": {
-      "avgViewers": 683,
-      "sampleCount": 410,
-      "totalMsgs": 82753
+      "avgViewers": 682,
+      "sampleCount": 413,
+      "totalMsgs": 83313
     },
     "22": {
       "avgViewers": 662,
@@ -600,9 +600,9 @@
     },
     {
       "date": "2026-05-11",
-      "avgViewers": 574,
+      "avgViewers": 573,
       "peakViewers": 671,
-      "totalMsgs": 6412,
+      "totalMsgs": 6972,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -613,5 +613,5 @@
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-11T21:18:16.018Z"
+  "lastUpdated": "2026-05-11T21:48:16.023Z"
 }
