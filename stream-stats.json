@@ -1,10 +1,10 @@
 {
   "totalSessions": 94,
   "totalDays": 81,
-  "totalSegments": 4070,
+  "totalSegments": 4073,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 785396,
+  "totalMessages": 785862,
   "categories": [
     {
       "name": "Rust",
@@ -22,10 +22,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 764,
+      "avgViewers": 762,
       "peakViewers": 17935,
-      "sampleCount": 132,
-      "totalMsgs": 25645
+      "sampleCount": 135,
+      "totalMsgs": 26111
     },
     {
       "name": "Gartic Phone",
@@ -394,8 +394,8 @@
     },
     "18": {
       "avgViewers": 701,
-      "sampleCount": 394,
-      "totalMsgs": 86604
+      "sampleCount": 397,
+      "totalMsgs": 87070
     },
     "19": {
       "avgViewers": 703,
@@ -600,17 +600,18 @@
     },
     {
       "date": "2026-05-11",
-      "avgViewers": 527,
-      "peakViewers": 643,
-      "totalMsgs": 2271,
+      "avgViewers": 542,
+      "peakViewers": 671,
+      "totalMsgs": 2737,
       "categories": [
         "Just Chatting",
         "Minecraft",
         "Gamble With Your Friends",
-        "Grand Theft Auto V (GTA)"
+        "Grand Theft Auto V (GTA)",
+        "VALORANT"
       ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-11T18:18:16.019Z"
+  "lastUpdated": "2026-05-11T18:48:16.022Z"
 }
