@@ -110,12 +110,12 @@
     },
     {
       "name": "darth70",
-      "balance": 14094,
-      "totalEarned": 14094,
+      "balance": 14196,
+      "totalEarned": 14196,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 11
+      "streak": 12
     },
     {
       "name": "zherkafanboy",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1867,
-    "totalCirculating": 2233105,
+    "totalCirculating": 2233207,
     "totalGames": 10947,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-11T13:18:16.035Z"
+  "lastUpdated": "2026-05-11T13:48:16.031Z"
 }
