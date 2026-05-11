@@ -1,10 +1,10 @@
 {
   "totalSessions": 93,
   "totalDays": 80,
-  "totalSegments": 4042,
+  "totalSegments": 4045,
   "allTimePeak": 17991,
   "allTimeAvg": 628,
-  "totalMessages": 782812,
+  "totalMessages": 783060,
   "categories": [
     {
       "name": "Rust",
@@ -148,10 +148,10 @@
     },
     {
       "name": "Minecraft",
-      "avgViewers": 629,
+      "avgViewers": 628,
       "peakViewers": 746,
-      "sampleCount": 131,
-      "totalMsgs": 24067
+      "sampleCount": 133,
+      "totalMsgs": 24215
     },
     {
       "name": "Counter-Strike 2",
@@ -213,8 +213,8 @@
       "name": "Just Chatting",
       "avgViewers": 589,
       "peakViewers": 903,
-      "sampleCount": 1594,
-      "totalMsgs": 322723
+      "sampleCount": 1595,
+      "totalMsgs": 322823
     },
     {
       "name": "Dread Neighbor",
@@ -339,8 +339,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 574,
-      "sampleCount": 201,
-      "totalMsgs": 28891
+      "sampleCount": 204,
+      "totalMsgs": 29139
     },
     "1": {
       "avgViewers": 520,
@@ -599,17 +599,18 @@
     },
     {
       "date": "2026-05-10",
-      "avgViewers": 672,
+      "avgViewers": 668,
       "peakViewers": 856,
-      "totalMsgs": 11023,
+      "totalMsgs": 11271,
       "categories": [
         "Just Chatting",
         "Grand Theft Auto V (GTA)",
         "Chat Roulette",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-11T00:18:16.018Z"
+  "lastUpdated": "2026-05-11T00:48:16.024Z"
 }
