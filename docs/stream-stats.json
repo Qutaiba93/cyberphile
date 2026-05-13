@@ -1,10 +1,10 @@
 {
   "totalSessions": 95,
   "totalDays": 82,
-  "totalSegments": 4121,
+  "totalSegments": 4124,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 795094,
+  "totalMessages": 795591,
   "categories": [
     {
       "name": "Rust",
@@ -175,13 +175,6 @@
       "totalMsgs": 3536
     },
     {
-      "name": "Directive 8020",
-      "avgViewers": 617,
-      "peakViewers": 629,
-      "sampleCount": 3,
-      "totalMsgs": 582
-    },
-    {
       "name": "Trees Hate You",
       "avgViewers": 614,
       "peakViewers": 614,
@@ -208,6 +201,13 @@
       "peakViewers": 719,
       "sampleCount": 40,
       "totalMsgs": 6766
+    },
+    {
+      "name": "Directive 8020",
+      "avgViewers": 595,
+      "peakViewers": 629,
+      "sampleCount": 6,
+      "totalMsgs": 1079
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -421,13 +421,13 @@
     },
     "22": {
       "avgViewers": 659,
-      "sampleCount": 359,
-      "totalMsgs": 71518
+      "sampleCount": 361,
+      "totalMsgs": 71843
     },
     "23": {
       "avgViewers": 625,
-      "sampleCount": 270,
-      "totalMsgs": 47067
+      "sampleCount": 271,
+      "totalMsgs": 47239
     }
   },
   "dailyHistory": [
@@ -608,9 +608,9 @@
     },
     {
       "date": "2026-05-13",
-      "avgViewers": 659,
+      "avgViewers": 644,
       "peakViewers": 704,
-      "totalMsgs": 2202,
+      "totalMsgs": 2699,
       "categories": [
         "Grand Theft Auto V (GTA)",
         "Just Chatting",
@@ -619,5 +619,5 @@
     }
   ],
   "botStartedAt": "2026-05-13T20:13:11.075Z",
-  "lastUpdated": "2026-05-13T22:43:11.402Z"
+  "lastUpdated": "2026-05-13T23:13:11.390Z"
 }
