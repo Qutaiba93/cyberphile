@@ -1,7 +1,7 @@
 {
-  "totalSessions": 94,
-  "totalDays": 81,
-  "totalSegments": 4106,
+  "totalSessions": 95,
+  "totalDays": 82,
+  "totalSegments": 4107,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
   "totalMessages": 792892,
@@ -87,7 +87,7 @@
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 664,
       "peakViewers": 811,
-      "sampleCount": 300,
+      "sampleCount": 301,
       "totalMsgs": 50347
     },
     {
@@ -404,7 +404,7 @@
     },
     "20": {
       "avgViewers": 674,
-      "sampleCount": 422,
+      "sampleCount": 423,
       "totalMsgs": 93193
     },
     "21": {
@@ -424,18 +424,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-04-26",
-      "avgViewers": 593,
-      "peakViewers": 774,
-      "totalMsgs": 11266,
-      "categories": [
-        "Just Chatting",
-        "Minecraft",
-        "Chat Roulette",
-        "Elden Ring: Nightreign"
-      ]
-    },
     {
       "date": "2026-04-27",
       "avgViewers": 523,
@@ -610,8 +598,17 @@
         "Grand Theft Auto V (GTA)",
         "VALORANT"
       ]
+    },
+    {
+      "date": "2026-05-13",
+      "avgViewers": 639,
+      "peakViewers": 639,
+      "totalMsgs": 0,
+      "categories": [
+        "Grand Theft Auto V (GTA)"
+      ]
     }
   ],
-  "botStartedAt": "2026-05-03T20:48:00.979Z",
-  "lastUpdated": "2026-05-12T09:48:16.026Z"
+  "botStartedAt": "2026-05-13T20:13:11.075Z",
+  "lastUpdated": "2026-05-13T20:14:11.472Z"
 }
