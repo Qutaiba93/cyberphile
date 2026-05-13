@@ -1,10 +1,10 @@
 {
   "totalSessions": 95,
   "totalDays": 82,
-  "totalSegments": 4118,
+  "totalSegments": 4121,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 794512,
+  "totalMessages": 795094,
   "categories": [
     {
       "name": "Rust",
@@ -173,6 +173,13 @@
       "peakViewers": 709,
       "sampleCount": 26,
       "totalMsgs": 3536
+    },
+    {
+      "name": "Directive 8020",
+      "avgViewers": 617,
+      "peakViewers": 629,
+      "sampleCount": 3,
+      "totalMsgs": 582
     },
     {
       "name": "Trees Hate You",
@@ -413,9 +420,9 @@
       "totalMsgs": 84129
     },
     "22": {
-      "avgViewers": 660,
-      "sampleCount": 356,
-      "totalMsgs": 70936
+      "avgViewers": 659,
+      "sampleCount": 359,
+      "totalMsgs": 71518
     },
     "23": {
       "avgViewers": 625,
@@ -601,15 +608,16 @@
     },
     {
       "date": "2026-05-13",
-      "avgViewers": 669,
+      "avgViewers": 659,
       "peakViewers": 704,
-      "totalMsgs": 1620,
+      "totalMsgs": 2202,
       "categories": [
         "Grand Theft Auto V (GTA)",
-        "Just Chatting"
+        "Just Chatting",
+        "Directive 8020"
       ]
     }
   ],
   "botStartedAt": "2026-05-13T20:13:11.075Z",
-  "lastUpdated": "2026-05-13T22:13:11.389Z"
+  "lastUpdated": "2026-05-13T22:43:11.402Z"
 }
