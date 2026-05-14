@@ -38,12 +38,12 @@
     },
     {
       "name": "plebcentral",
-      "balance": 24449,
-      "totalEarned": 41129,
+      "balance": 24511,
+      "totalEarned": 41191,
       "totalSpent": 16680,
       "gamesPlayed": 4,
       "gamesWon": 2,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "poseidon_o7",
@@ -56,8 +56,8 @@
     },
     {
       "name": "taboxl",
-      "balance": 21728,
-      "totalEarned": 24096,
+      "balance": 21742,
+      "totalEarned": 24110,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
@@ -110,8 +110,8 @@
     },
     {
       "name": "darth70",
-      "balance": 14699,
-      "totalEarned": 14699,
+      "balance": 14705,
+      "totalEarned": 14705,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -172,9 +172,18 @@
       "streak": 15
     },
     {
+      "name": "rpcsgo",
+      "balance": 12432,
+      "totalEarned": 34186,
+      "totalSpent": 21754,
+      "gamesPlayed": 43,
+      "gamesWon": 19,
+      "streak": 15
+    },
+    {
       "name": "juggin247",
-      "balance": 12289,
-      "totalEarned": 12289,
+      "balance": 12317,
+      "totalEarned": 12317,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -197,15 +206,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 6
-    },
-    {
-      "name": "rpcsgo",
-      "balance": 11906,
-      "totalEarned": 32160,
-      "totalSpent": 20254,
-      "gamesPlayed": 41,
-      "gamesWon": 18,
-      "streak": 15
     },
     {
       "name": "5pray",
@@ -290,8 +290,8 @@
     },
     {
       "name": "guest567432",
-      "balance": 10265,
-      "totalEarned": 16346,
+      "balance": 10271,
+      "totalEarned": 16352,
       "totalSpent": 6081,
       "gamesPlayed": 2,
       "gamesWon": 0,
@@ -334,20 +334,20 @@
       "streak": 4
     },
     {
+      "name": "damiybe",
+      "balance": 9252,
+      "totalEarned": 9262,
+      "totalSpent": 10,
+      "gamesPlayed": 1,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "twilighty",
       "balance": 9249,
       "totalEarned": 9249,
       "totalSpent": 0,
       "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
-    },
-    {
-      "name": "damiybe",
-      "balance": 9248,
-      "totalEarned": 9258,
-      "totalSpent": 10,
-      "gamesPlayed": 1,
       "gamesWon": 0,
       "streak": 1
     },
@@ -425,12 +425,12 @@
     },
     {
       "name": "arabicoj",
-      "balance": 7721,
-      "totalEarned": 50519,
+      "balance": 7783,
+      "totalEarned": 50581,
       "totalSpent": 42798,
       "gamesPlayed": 41,
       "gamesWon": 15,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "iam_umii",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1878,
-    "totalCirculating": 2287427,
-    "totalGames": 11063,
+    "totalCirculating": 2289347,
+    "totalGames": 11112,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-14T16:13:11.484Z"
+  "lastUpdated": "2026-05-14T16:43:11.489Z"
 }
