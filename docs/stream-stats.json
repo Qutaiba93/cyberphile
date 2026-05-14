@@ -1,10 +1,10 @@
 {
-  "totalSessions": 95,
-  "totalDays": 82,
-  "totalSegments": 4139,
+  "totalSessions": 96,
+  "totalDays": 83,
+  "totalSegments": 4142,
   "allTimePeak": 17991,
   "allTimeAvg": 626,
-  "totalMessages": 798081,
+  "totalMessages": 798322,
   "categories": [
     {
       "name": "Rust",
@@ -211,10 +211,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 588,
+      "avgViewers": 587,
       "peakViewers": 903,
-      "sampleCount": 1613,
-      "totalMsgs": 324772
+      "sampleCount": 1616,
+      "totalMsgs": 325013
     },
     {
       "name": "Dread Neighbor",
@@ -380,9 +380,9 @@
       "totalMsgs": 4197
     },
     "14": {
-      "avgViewers": 344,
-      "sampleCount": 232,
-      "totalMsgs": 34942
+      "avgViewers": 343,
+      "sampleCount": 235,
+      "totalMsgs": 35183
     },
     "15": {
       "avgViewers": 521,
@@ -431,22 +431,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-04-27",
-      "avgViewers": 523,
-      "peakViewers": 680,
-      "totalMsgs": 10173,
-      "categories": [
-        "Just Chatting",
-        "Trees Hate You",
-        "Minecraft",
-        "VALORANT",
-        "Call of Duty: Black Ops III",
-        "Grand Theft Auto V (GTA)",
-        "Counter-Strike 2",
-        "PUBG: Battlegrounds"
-      ]
-    },
     {
       "date": "2026-04-30",
       "avgViewers": 701,
@@ -617,8 +601,17 @@
         "Directive 8020",
         "Chat Roulette"
       ]
+    },
+    {
+      "date": "2026-05-14",
+      "avgViewers": 264,
+      "peakViewers": 398,
+      "totalMsgs": 241,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-05-13T20:13:11.075Z",
-  "lastUpdated": "2026-05-14T14:13:11.473Z"
+  "lastUpdated": "2026-05-14T14:43:11.473Z"
 }
