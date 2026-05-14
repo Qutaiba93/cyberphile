@@ -11,12 +11,12 @@
     },
     {
       "name": "shance",
-      "balance": 45341,
-      "totalEarned": 1041428,
+      "balance": 45405,
+      "totalEarned": 1041492,
       "totalSpent": 1077596,
       "gamesPlayed": 551,
       "gamesWon": 204,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "zuyu",
@@ -29,8 +29,8 @@
     },
     {
       "name": "rpcsgo",
-      "balance": 28030,
-      "totalEarned": 75284,
+      "balance": 28064,
+      "totalEarned": 75318,
       "totalSpent": 47254,
       "gamesPlayed": 57,
       "gamesWon": 26,
@@ -56,8 +56,8 @@
     },
     {
       "name": "taboxl",
-      "balance": 21758,
-      "totalEarned": 24126,
+      "balance": 21764,
+      "totalEarned": 24132,
       "totalSpent": 2368,
       "gamesPlayed": 12,
       "gamesWon": 5,
@@ -74,8 +74,8 @@
     },
     {
       "name": "weppss",
-      "balance": 18527,
-      "totalEarned": 24422,
+      "balance": 18539,
+      "totalEarned": 24434,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -110,8 +110,8 @@
     },
     {
       "name": "darth70",
-      "balance": 14725,
-      "totalEarned": 14725,
+      "balance": 14777,
+      "totalEarned": 14777,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,8 +146,8 @@
     },
     {
       "name": "schitt",
-      "balance": 12554,
-      "totalEarned": 12554,
+      "balance": 12562,
+      "totalEarned": 12562,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "faisaluibi",
-      "balance": 12524,
-      "totalEarned": 15381,
+      "balance": 12540,
+      "totalEarned": 15397,
       "totalSpent": 2857,
       "gamesPlayed": 3,
       "gamesWon": 0,
@@ -173,8 +173,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 12349,
-      "totalEarned": 12349,
+      "balance": 12353,
+      "totalEarned": 12353,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -224,6 +224,15 @@
       "gamesPlayed": 5,
       "gamesWon": 1,
       "streak": 1
+    },
+    {
+      "name": "neinswein",
+      "balance": 11412,
+      "totalEarned": 388029,
+      "totalSpent": 379099,
+      "gamesPlayed": 133,
+      "gamesWon": 50,
+      "streak": 2
     },
     {
       "name": "kale96",
@@ -344,12 +353,12 @@
     },
     {
       "name": "quantik",
-      "balance": 8199,
-      "totalEarned": 8199,
+      "balance": 8261,
+      "totalEarned": 8261,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "chrisdonwest",
@@ -406,6 +415,15 @@
       "streak": 1
     },
     {
+      "name": "arabicoj",
+      "balance": 7785,
+      "totalEarned": 50583,
+      "totalSpent": 42798,
+      "gamesPlayed": 41,
+      "gamesWon": 15,
+      "streak": 2
+    },
+    {
       "name": "iam_umii",
       "balance": 7784,
       "totalEarned": 7784,
@@ -415,18 +433,9 @@
       "streak": 2
     },
     {
-      "name": "arabicoj",
-      "balance": 7783,
-      "totalEarned": 50581,
-      "totalSpent": 42798,
-      "gamesPlayed": 41,
-      "gamesWon": 15,
-      "streak": 2
-    },
-    {
       "name": "skullyontop",
-      "balance": 7600,
-      "totalEarned": 7610,
+      "balance": 7612,
+      "totalEarned": 7622,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 1,
@@ -440,21 +449,12 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "the1chosen_one",
-      "balance": 7403,
-      "totalEarned": 7403,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
     }
   ],
   "stats": {
     "totalPlayers": 1879,
-    "totalCirculating": 2271942,
-    "totalGames": 11257,
+    "totalCirculating": 2276879,
+    "totalGames": 11285,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-14T18:13:11.488Z"
+  "lastUpdated": "2026-05-14T18:43:11.485Z"
 }

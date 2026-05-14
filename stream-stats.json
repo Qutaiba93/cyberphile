@@ -1,10 +1,10 @@
 {
   "totalSessions": 96,
   "totalDays": 83,
-  "totalSegments": 4163,
+  "totalSegments": 4166,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 801238,
+  "totalMessages": 801572,
   "categories": [
     {
       "name": "Rust",
@@ -168,18 +168,18 @@
       "totalMsgs": 26361
     },
     {
+      "name": "Gamble With Your Friends",
+      "avgViewers": 623,
+      "peakViewers": 755,
+      "sampleCount": 56,
+      "totalMsgs": 7053
+    },
+    {
       "name": "DayZ",
       "avgViewers": 621,
       "peakViewers": 709,
       "sampleCount": 26,
       "totalMsgs": 3536
-    },
-    {
-      "name": "Gamble With Your Friends",
-      "avgViewers": 616,
-      "peakViewers": 738,
-      "sampleCount": 53,
-      "totalMsgs": 6719
     },
     {
       "name": "Trees Hate You",
@@ -401,8 +401,8 @@
     },
     "18": {
       "avgViewers": 701,
-      "sampleCount": 400,
-      "totalMsgs": 87373
+      "sampleCount": 403,
+      "totalMsgs": 87707
     },
     "19": {
       "avgViewers": 702,
@@ -604,9 +604,9 @@
     },
     {
       "date": "2026-05-14",
-      "avgViewers": 647,
-      "peakViewers": 738,
-      "totalMsgs": 3157,
+      "avgViewers": 657,
+      "peakViewers": 755,
+      "totalMsgs": 3491,
       "categories": [
         "Just Chatting",
         "Gamble With Your Friends"
@@ -614,5 +614,5 @@
     }
   ],
   "botStartedAt": "2026-05-13T20:13:11.075Z",
-  "lastUpdated": "2026-05-14T18:13:11.477Z"
+  "lastUpdated": "2026-05-14T18:43:11.477Z"
 }
