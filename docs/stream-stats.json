@@ -1,10 +1,10 @@
 {
   "totalSessions": 96,
   "totalDays": 83,
-  "totalSegments": 4148,
+  "totalSegments": 4151,
   "allTimePeak": 17991,
   "allTimeAvg": 626,
-  "totalMessages": 799255,
+  "totalMessages": 799642,
   "categories": [
     {
       "name": "Rust",
@@ -213,8 +213,15 @@
       "name": "Just Chatting",
       "avgViewers": 587,
       "peakViewers": 903,
-      "sampleCount": 1622,
-      "totalMsgs": 325946
+      "sampleCount": 1623,
+      "totalMsgs": 326079
+    },
+    {
+      "name": "Gamble With Your Friends",
+      "avgViewers": 587,
+      "peakViewers": 719,
+      "sampleCount": 41,
+      "totalMsgs": 5123
     },
     {
       "name": "Dread Neighbor",
@@ -222,13 +229,6 @@
       "peakViewers": 618,
       "sampleCount": 7,
       "totalMsgs": 487
-    },
-    {
-      "name": "Gamble With Your Friends",
-      "avgViewers": 581,
-      "peakViewers": 632,
-      "sampleCount": 39,
-      "totalMsgs": 4869
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -385,14 +385,14 @@
       "totalMsgs": 35477
     },
     "15": {
-      "avgViewers": 523,
-      "sampleCount": 350,
-      "totalMsgs": 64221
+      "avgViewers": 524,
+      "sampleCount": 352,
+      "totalMsgs": 64484
     },
     "16": {
-      "avgViewers": 664,
-      "sampleCount": 387,
-      "totalMsgs": 79138
+      "avgViewers": 665,
+      "sampleCount": 388,
+      "totalMsgs": 79262
     },
     "17": {
       "avgViewers": 721,
@@ -604,14 +604,15 @@
     },
     {
       "date": "2026-05-14",
-      "avgViewers": 530,
-      "peakViewers": 732,
-      "totalMsgs": 1174,
+      "avgViewers": 578,
+      "peakViewers": 734,
+      "totalMsgs": 1561,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Gamble With Your Friends"
       ]
     }
   ],
   "botStartedAt": "2026-05-13T20:13:11.075Z",
-  "lastUpdated": "2026-05-14T15:43:11.478Z"
+  "lastUpdated": "2026-05-14T16:13:11.475Z"
 }
