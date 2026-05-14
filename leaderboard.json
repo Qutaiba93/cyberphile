@@ -110,8 +110,8 @@
     },
     {
       "name": "darth70",
-      "balance": 14593,
-      "totalEarned": 14593,
+      "balance": 14605,
+      "totalEarned": 14605,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -254,12 +254,12 @@
     },
     {
       "name": "ryanize",
-      "balance": 10330,
-      "totalEarned": 39164,
+      "balance": 10394,
+      "totalEarned": 39228,
       "totalSpent": 28834,
       "gamesPlayed": 21,
       "gamesWon": 10,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "bbalint320",
@@ -290,8 +290,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 10098,
-      "totalEarned": 10199,
+      "balance": 10100,
+      "totalEarned": 10201,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -317,8 +317,8 @@
     },
     {
       "name": "rpcsgo",
-      "balance": 9777,
-      "totalEarned": 26302,
+      "balance": 9783,
+      "totalEarned": 26308,
       "totalSpent": 16525,
       "gamesPlayed": 35,
       "gamesWon": 14,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1878,
-    "totalCirculating": 2274535,
+    "totalCirculating": 2274797,
     "totalGames": 11033,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-14T13:43:11.441Z"
+  "lastUpdated": "2026-05-14T14:13:11.483Z"
 }
