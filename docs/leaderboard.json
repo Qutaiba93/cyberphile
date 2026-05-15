@@ -29,9 +29,9 @@
     },
     {
       "name": "meliziana",
-      "balance": 26030,
-      "totalEarned": 636450,
-      "totalSpent": 652834,
+      "balance": 22372,
+      "totalEarned": 636492,
+      "totalSpent": 656534,
       "gamesPlayed": 861,
       "gamesWon": 328,
       "streak": 2
@@ -101,8 +101,8 @@
     },
     {
       "name": "zherkafanboy",
-      "balance": 13356,
-      "totalEarned": 21355,
+      "balance": 13358,
+      "totalEarned": 21357,
       "totalSpent": 7999,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -110,8 +110,8 @@
     },
     {
       "name": "papaah",
-      "balance": 12930,
-      "totalEarned": 13931,
+      "balance": 12938,
+      "totalEarned": 13939,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -128,8 +128,8 @@
     },
     {
       "name": "faisaluibi",
-      "balance": 12802,
-      "totalEarned": 15659,
+      "balance": 12826,
+      "totalEarned": 15683,
       "totalSpent": 2857,
       "gamesPlayed": 3,
       "gamesWon": 0,
@@ -254,8 +254,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 10326,
-      "totalEarned": 10427,
+      "balance": 10334,
+      "totalEarned": 10435,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -334,6 +334,15 @@
       "streak": 2
     },
     {
+      "name": "6ixzeven",
+      "balance": 8184,
+      "totalEarned": 8254,
+      "totalSpent": 70,
+      "gamesPlayed": 8,
+      "gamesWon": 0,
+      "streak": 12
+    },
+    {
       "name": "chrisdonwest",
       "balance": 8175,
       "totalEarned": 104161,
@@ -344,12 +353,12 @@
     },
     {
       "name": "bido_maggot",
-      "balance": 8088,
-      "totalEarned": 8088,
+      "balance": 8152,
+      "totalEarned": 8152,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "xaqin",
@@ -359,15 +368,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "6ixzeven",
-      "balance": 8080,
-      "totalEarned": 8150,
-      "totalSpent": 70,
-      "gamesPlayed": 8,
-      "gamesWon": 0,
-      "streak": 11
     },
     {
       "name": "kazzcs2",
@@ -425,8 +425,8 @@
     },
     {
       "name": "barry01xd",
-      "balance": 7532,
-      "totalEarned": 7532,
+      "balance": 7534,
+      "totalEarned": 7534,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1881,
-    "totalCirculating": 2203290,
-    "totalGames": 11645,
+    "totalCirculating": 2193733,
+    "totalGames": 11656,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-15T01:13:11.503Z"
+  "lastUpdated": "2026-05-15T01:43:11.509Z"
 }
