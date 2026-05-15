@@ -1,10 +1,10 @@
 {
   "totalSessions": 96,
   "totalDays": 83,
-  "totalSegments": 4196,
+  "totalSegments": 4199,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 806211,
+  "totalMessages": 806596,
   "categories": [
     {
       "name": "Rust",
@@ -266,6 +266,13 @@
       "totalMsgs": 1979
     },
     {
+      "name": "Directive 8020",
+      "avgViewers": 556,
+      "peakViewers": 630,
+      "sampleCount": 18,
+      "totalMsgs": 2377
+    },
+    {
       "name": "Call of Duty: Black Ops 7",
       "avgViewers": 554,
       "peakViewers": 572,
@@ -285,13 +292,6 @@
       "peakViewers": 696,
       "sampleCount": 47,
       "totalMsgs": 4326
-    },
-    {
-      "name": "Directive 8020",
-      "avgViewers": 546,
-      "peakViewers": 629,
-      "sampleCount": 15,
-      "totalMsgs": 1992
     },
     {
       "name": "Resident Evil Requiem",
@@ -346,8 +346,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 571,
-      "sampleCount": 212,
-      "totalMsgs": 30106
+      "sampleCount": 213,
+      "totalMsgs": 30201
     },
     "1": {
       "avgViewers": 520,
@@ -426,8 +426,8 @@
     },
     "23": {
       "avgViewers": 625,
-      "sampleCount": 280,
-      "totalMsgs": 48791
+      "sampleCount": 282,
+      "totalMsgs": 49081
     }
   },
   "dailyHistory": [
@@ -604,17 +604,18 @@
     },
     {
       "date": "2026-05-14",
-      "avgViewers": 703,
+      "avgViewers": 698,
       "peakViewers": 779,
-      "totalMsgs": 8130,
+      "totalMsgs": 8515,
       "categories": [
         "Just Chatting",
         "Gamble With Your Friends",
         "Grand Theft Auto V (GTA)",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Directive 8020"
       ]
     }
   ],
   "botStartedAt": "2026-05-13T20:13:11.075Z",
-  "lastUpdated": "2026-05-14T23:43:11.495Z"
+  "lastUpdated": "2026-05-15T00:13:11.492Z"
 }
