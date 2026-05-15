@@ -29,8 +29,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 26000,
-      "totalEarned": 636420,
+      "balance": 26030,
+      "totalEarned": 636450,
       "totalSpent": 652834,
       "gamesPlayed": 861,
       "gamesWon": 328,
@@ -101,8 +101,8 @@
     },
     {
       "name": "zherkafanboy",
-      "balance": 13306,
-      "totalEarned": 21305,
+      "balance": 13354,
+      "totalEarned": 21353,
       "totalSpent": 7999,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -110,8 +110,8 @@
     },
     {
       "name": "papaah",
-      "balance": 12906,
-      "totalEarned": 13907,
+      "balance": 12916,
+      "totalEarned": 13917,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -128,12 +128,12 @@
     },
     {
       "name": "faisaluibi",
-      "balance": 12686,
-      "totalEarned": 15543,
+      "balance": 12792,
+      "totalEarned": 15649,
       "totalSpent": 2857,
       "gamesPlayed": 3,
       "gamesWon": 0,
-      "streak": 12
+      "streak": 13
     },
     {
       "name": "patwifi",
@@ -253,6 +253,15 @@
       "streak": 1
     },
     {
+      "name": "faridlamm",
+      "balance": 10304,
+      "totalEarned": 10405,
+      "totalSpent": 101,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 16
+    },
+    {
       "name": "ahmet_uk",
       "balance": 10283,
       "totalEarned": 10283,
@@ -260,15 +269,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "faridlamm",
-      "balance": 10264,
-      "totalEarned": 10365,
-      "totalSpent": 101,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 16
     },
     {
       "name": "lena_xc",
@@ -281,8 +281,8 @@
     },
     {
       "name": "nitro_st",
-      "balance": 9863,
-      "totalEarned": 9863,
+      "balance": 9869,
+      "totalEarned": 9869,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,8 +299,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 9436,
-      "totalEarned": 9436,
+      "balance": 9448,
+      "totalEarned": 9448,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -407,8 +407,8 @@
     },
     {
       "name": "ferrousimpala32",
-      "balance": 7715,
-      "totalEarned": 7715,
+      "balance": 7729,
+      "totalEarned": 7729,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -425,12 +425,12 @@
     },
     {
       "name": "barry01xd",
-      "balance": 7427,
-      "totalEarned": 7427,
+      "balance": 7532,
+      "totalEarned": 7532,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 8
+      "streak": 9
     },
     {
       "name": "the1chosen_one",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1881,
-    "totalCirculating": 2202077,
-    "totalGames": 11633,
+    "totalCirculating": 2202304,
+    "totalGames": 11645,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-15T00:13:11.504Z"
+  "lastUpdated": "2026-05-15T00:43:11.507Z"
 }

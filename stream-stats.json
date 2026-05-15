@@ -1,10 +1,10 @@
 {
   "totalSessions": 96,
   "totalDays": 83,
-  "totalSegments": 4199,
+  "totalSegments": 4202,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 806596,
+  "totalMessages": 806875,
   "categories": [
     {
       "name": "Rust",
@@ -259,18 +259,18 @@
       "totalMsgs": 396
     },
     {
+      "name": "Directive 8020",
+      "avgViewers": 557,
+      "peakViewers": 630,
+      "sampleCount": 21,
+      "totalMsgs": 2656
+    },
+    {
       "name": "God of War Ragnarök",
       "avgViewers": 556,
       "peakViewers": 690,
       "sampleCount": 9,
       "totalMsgs": 1979
-    },
-    {
-      "name": "Directive 8020",
-      "avgViewers": 556,
-      "peakViewers": 630,
-      "sampleCount": 18,
-      "totalMsgs": 2377
     },
     {
       "name": "Call of Duty: Black Ops 7",
@@ -346,8 +346,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 571,
-      "sampleCount": 213,
-      "totalMsgs": 30201
+      "sampleCount": 216,
+      "totalMsgs": 30480
     },
     "1": {
       "avgViewers": 520,
@@ -604,9 +604,9 @@
     },
     {
       "date": "2026-05-14",
-      "avgViewers": 698,
+      "avgViewers": 691,
       "peakViewers": 779,
-      "totalMsgs": 8515,
+      "totalMsgs": 8794,
       "categories": [
         "Just Chatting",
         "Gamble With Your Friends",
@@ -617,5 +617,5 @@
     }
   ],
   "botStartedAt": "2026-05-13T20:13:11.075Z",
-  "lastUpdated": "2026-05-15T00:13:11.492Z"
+  "lastUpdated": "2026-05-15T00:43:11.497Z"
 }
