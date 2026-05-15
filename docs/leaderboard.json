@@ -29,8 +29,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 22372,
-      "totalEarned": 636492,
+      "balance": 22376,
+      "totalEarned": 636496,
       "totalSpent": 656534,
       "gamesPlayed": 861,
       "gamesWon": 328,
@@ -110,12 +110,21 @@
     },
     {
       "name": "papaah",
-      "balance": 12938,
-      "totalEarned": 13939,
+      "balance": 12946,
+      "totalEarned": 13947,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 16
+    },
+    {
+      "name": "faisaluibi",
+      "balance": 12852,
+      "totalEarned": 15709,
+      "totalSpent": 2857,
+      "gamesPlayed": 3,
+      "gamesWon": 0,
+      "streak": 13
     },
     {
       "name": "upkey",
@@ -127,18 +136,9 @@
       "streak": 2
     },
     {
-      "name": "faisaluibi",
-      "balance": 12826,
-      "totalEarned": 15683,
-      "totalSpent": 2857,
-      "gamesPlayed": 3,
-      "gamesWon": 0,
-      "streak": 13
-    },
-    {
       "name": "patwifi",
-      "balance": 12708,
-      "totalEarned": 15531,
+      "balance": 12718,
+      "totalEarned": 15541,
       "totalSpent": 2823,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -281,8 +281,8 @@
     },
     {
       "name": "nitro_st",
-      "balance": 9887,
-      "totalEarned": 9887,
+      "balance": 9899,
+      "totalEarned": 9899,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1881,
-    "totalCirculating": 2193733,
+    "totalCirculating": 2194430,
     "totalGames": 11656,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-15T01:43:11.509Z"
+  "lastUpdated": "2026-05-15T02:13:11.522Z"
 }

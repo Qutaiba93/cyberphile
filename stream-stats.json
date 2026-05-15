@@ -1,10 +1,10 @@
 {
   "totalSessions": 96,
   "totalDays": 83,
-  "totalSegments": 4207,
+  "totalSegments": 4210,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 807313,
+  "totalMessages": 807634,
   "categories": [
     {
       "name": "Rust",
@@ -273,18 +273,18 @@
       "totalMsgs": 1035
     },
     {
-      "name": "Directive 8020",
-      "avgViewers": 553,
-      "peakViewers": 630,
-      "sampleCount": 26,
-      "totalMsgs": 3094
-    },
-    {
       "name": "Elden Ring: Nightreign",
       "avgViewers": 549,
       "peakViewers": 676,
       "sampleCount": 16,
       "totalMsgs": 1800
+    },
+    {
+      "name": "Directive 8020",
+      "avgViewers": 549,
+      "peakViewers": 630,
+      "sampleCount": 29,
+      "totalMsgs": 3415
     },
     {
       "name": "God of War",
@@ -351,13 +351,13 @@
     },
     "1": {
       "avgViewers": 520,
-      "sampleCount": 124,
-      "totalMsgs": 18959
+      "sampleCount": 126,
+      "totalMsgs": 19188
     },
     "2": {
-      "avgViewers": 482,
-      "sampleCount": 64,
-      "totalMsgs": 8680
+      "avgViewers": 483,
+      "sampleCount": 65,
+      "totalMsgs": 8772
     },
     "3": {
       "avgViewers": 386,
@@ -604,9 +604,9 @@
     },
     {
       "date": "2026-05-14",
-      "avgViewers": 680,
+      "avgViewers": 673,
       "peakViewers": 779,
-      "totalMsgs": 9232,
+      "totalMsgs": 9553,
       "categories": [
         "Just Chatting",
         "Gamble With Your Friends",
@@ -617,5 +617,5 @@
     }
   ],
   "botStartedAt": "2026-05-13T20:13:11.075Z",
-  "lastUpdated": "2026-05-15T01:43:11.499Z"
+  "lastUpdated": "2026-05-15T02:13:11.506Z"
 }
