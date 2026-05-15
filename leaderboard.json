@@ -28,15 +28,6 @@
       "streak": 1
     },
     {
-      "name": "meliziana",
-      "balance": 22376,
-      "totalEarned": 636496,
-      "totalSpent": 656534,
-      "gamesPlayed": 861,
-      "gamesWon": 328,
-      "streak": 2
-    },
-    {
       "name": "taboxl",
       "balance": 21810,
       "totalEarned": 24178,
@@ -53,6 +44,15 @@
       "gamesPlayed": 1,
       "gamesWon": 0,
       "streak": 15
+    },
+    {
+      "name": "meliziana",
+      "balance": 20408,
+      "totalEarned": 656528,
+      "totalSpent": 678534,
+      "gamesPlayed": 870,
+      "gamesWon": 331,
+      "streak": 2
     },
     {
       "name": "weppss",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1881,
-    "totalCirculating": 2194462,
-    "totalGames": 11662,
+    "totalCirculating": 2192482,
+    "totalGames": 11673,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-15T16:13:11.554Z"
+  "lastUpdated": "2026-05-15T16:43:11.555Z"
 }
