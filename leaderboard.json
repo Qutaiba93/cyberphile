@@ -83,8 +83,8 @@
     },
     {
       "name": "nick6",
-      "balance": 15322,
-      "totalEarned": 15322,
+      "balance": 15324,
+      "totalEarned": 15324,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -235,6 +235,15 @@
       "streak": 1
     },
     {
+      "name": "faridlamm",
+      "balance": 10440,
+      "totalEarned": 10541,
+      "totalSpent": 101,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 17
+    },
+    {
       "name": "ryanize",
       "balance": 10394,
       "totalEarned": 39228,
@@ -251,15 +260,6 @@
       "gamesPlayed": 13,
       "gamesWon": 1,
       "streak": 1
-    },
-    {
-      "name": "faridlamm",
-      "balance": 10334,
-      "totalEarned": 10435,
-      "totalSpent": 101,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 16
     },
     {
       "name": "ahmet_uk",
@@ -397,6 +397,15 @@
       "streak": 2
     },
     {
+      "name": "ferrousimpala32",
+      "balance": 7819,
+      "totalEarned": 7819,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 4
+    },
+    {
       "name": "iam_umii",
       "balance": 7804,
       "totalEarned": 7804,
@@ -404,15 +413,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
-    },
-    {
-      "name": "ferrousimpala32",
-      "balance": 7743,
-      "totalEarned": 7743,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 3
     },
     {
       "name": "skullyontop",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1883,
-    "totalCirculating": 2194173,
+    "totalCirculating": 2194550,
     "totalGames": 11700,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-16T19:13:11.668Z"
+  "lastUpdated": "2026-05-16T19:43:11.671Z"
 }
