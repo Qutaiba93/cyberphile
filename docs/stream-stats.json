@@ -1,10 +1,10 @@
 {
   "totalSessions": 97,
   "totalDays": 84,
-  "totalSegments": 4237,
+  "totalSegments": 4240,
   "allTimePeak": 17991,
   "allTimeAvg": 628,
-  "totalMessages": 813802,
+  "totalMessages": 814574,
   "categories": [
     {
       "name": "Rust",
@@ -64,10 +64,10 @@
     },
     {
       "name": "IRL",
-      "avgViewers": 695,
-      "peakViewers": 843,
-      "sampleCount": 142,
-      "totalMsgs": 49531
+      "avgViewers": 697,
+      "peakViewers": 861,
+      "sampleCount": 144,
+      "totalMsgs": 50073
     },
     {
       "name": "VRChat",
@@ -220,8 +220,8 @@
       "name": "Just Chatting",
       "avgViewers": 589,
       "peakViewers": 903,
-      "sampleCount": 1646,
-      "totalMsgs": 331145
+      "sampleCount": 1647,
+      "totalMsgs": 331375
     },
     {
       "name": "Dread Neighbor",
@@ -410,9 +410,9 @@
       "totalMsgs": 93355
     },
     "20": {
-      "avgViewers": 675,
-      "sampleCount": 434,
-      "totalMsgs": 94931
+      "avgViewers": 676,
+      "sampleCount": 437,
+      "totalMsgs": 95703
     },
     "21": {
       "avgViewers": 682,
@@ -604,16 +604,17 @@
     },
     {
       "date": "2026-05-17",
-      "avgViewers": 734,
+      "avgViewers": 745,
       "peakViewers": 874,
-      "totalMsgs": 6168,
+      "totalMsgs": 6940,
       "categories": [
         "Just Chatting",
         "VALORANT",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "IRL"
       ]
     }
   ],
   "botStartedAt": "2026-05-13T20:13:11.075Z",
-  "lastUpdated": "2026-05-17T20:13:11.753Z"
+  "lastUpdated": "2026-05-17T20:43:11.752Z"
 }
