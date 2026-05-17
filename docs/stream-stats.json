@@ -1,10 +1,10 @@
 {
-  "totalSessions": 96,
-  "totalDays": 83,
-  "totalSegments": 4210,
+  "totalSessions": 97,
+  "totalDays": 84,
+  "totalSegments": 4213,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 807634,
+  "totalMessages": 808088,
   "categories": [
     {
       "name": "Rust",
@@ -218,10 +218,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 588,
+      "avgViewers": 587,
       "peakViewers": 903,
-      "sampleCount": 1628,
-      "totalMsgs": 326963
+      "sampleCount": 1631,
+      "totalMsgs": 327417
     },
     {
       "name": "Dread Neighbor",
@@ -385,14 +385,14 @@
       "totalMsgs": 35477
     },
     "15": {
-      "avgViewers": 524,
-      "sampleCount": 352,
-      "totalMsgs": 64484
+      "avgViewers": 522,
+      "sampleCount": 354,
+      "totalMsgs": 64744
     },
     "16": {
-      "avgViewers": 665,
-      "sampleCount": 393,
-      "totalMsgs": 79946
+      "avgViewers": 664,
+      "sampleCount": 394,
+      "totalMsgs": 80140
     },
     "17": {
       "avgViewers": 721,
@@ -431,19 +431,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-04-30",
-      "avgViewers": 701,
-      "peakViewers": 832,
-      "totalMsgs": 8181,
-      "categories": [
-        "Just Chatting",
-        "Chat Roulette",
-        "Minecraft",
-        "Counter-Strike 2",
-        "PUBG: Battlegrounds"
-      ]
-    },
     {
       "date": "2026-05-01",
       "avgViewers": 492,
@@ -614,8 +601,17 @@
         "Chat Roulette",
         "Directive 8020"
       ]
+    },
+    {
+      "date": "2026-05-17",
+      "avgViewers": 243,
+      "peakViewers": 445,
+      "totalMsgs": 454,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-05-13T20:13:11.075Z",
-  "lastUpdated": "2026-05-17T15:43:11.742Z"
+  "lastUpdated": "2026-05-17T16:13:11.731Z"
 }
