@@ -92,8 +92,8 @@
     },
     {
       "name": "darth70",
-      "balance": 15014,
-      "totalEarned": 15014,
+      "balance": 15016,
+      "totalEarned": 15016,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1883,
-    "totalCirculating": 2195553,
+    "totalCirculating": 2195555,
     "totalGames": 11703,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-17T13:43:11.762Z"
+  "lastUpdated": "2026-05-17T14:13:11.755Z"
 }
