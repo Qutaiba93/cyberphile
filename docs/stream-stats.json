@@ -1,10 +1,10 @@
 {
   "totalSessions": 97,
   "totalDays": 84,
-  "totalSegments": 4231,
+  "totalSegments": 4234,
   "allTimePeak": 17991,
   "allTimeAvg": 628,
-  "totalMessages": 812350,
+  "totalMessages": 813260,
   "categories": [
     {
       "name": "Rust",
@@ -22,10 +22,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 758,
+      "avgViewers": 759,
       "peakViewers": 17935,
-      "sampleCount": 146,
-      "totalMsgs": 28829
+      "sampleCount": 148,
+      "totalMsgs": 29422
     },
     {
       "name": "Gartic Phone",
@@ -150,8 +150,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 628,
       "peakViewers": 841,
-      "sampleCount": 397,
-      "totalMsgs": 64840
+      "sampleCount": 398,
+      "totalMsgs": 65157
     },
     {
       "name": "Slots & Casino",
@@ -405,9 +405,9 @@
       "totalMsgs": 89242
     },
     "19": {
-      "avgViewers": 703,
-      "sampleCount": 409,
-      "totalMsgs": 92067
+      "avgViewers": 704,
+      "sampleCount": 412,
+      "totalMsgs": 92977
     },
     "20": {
       "avgViewers": 675,
@@ -604,15 +604,16 @@
     },
     {
       "date": "2026-05-17",
-      "avgViewers": 701,
+      "avgViewers": 720,
       "peakViewers": 874,
-      "totalMsgs": 4716,
+      "totalMsgs": 5626,
       "categories": [
         "Just Chatting",
-        "VALORANT"
+        "VALORANT",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-05-13T20:13:11.075Z",
-  "lastUpdated": "2026-05-17T19:13:11.750Z"
+  "lastUpdated": "2026-05-17T19:43:11.746Z"
 }
