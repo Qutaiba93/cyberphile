@@ -74,8 +74,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 15575,
-      "totalEarned": 18640,
+      "balance": 15634,
+      "totalEarned": 18699,
       "totalSpent": 3065,
       "gamesPlayed": 24,
       "gamesWon": 5,
@@ -83,12 +83,12 @@
     },
     {
       "name": "nick6",
-      "balance": 15328,
-      "totalEarned": 15328,
+      "balance": 15396,
+      "totalEarned": 15396,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "darth70",
@@ -181,21 +181,21 @@
       "streak": 1
     },
     {
+      "name": "5pray",
+      "balance": 12011,
+      "totalEarned": 12011,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "machamp1",
       "balance": 12004,
       "totalEarned": 12229,
       "totalSpent": 225,
       "gamesPlayed": 5,
       "gamesWon": 1,
-      "streak": 1
-    },
-    {
-      "name": "5pray",
-      "balance": 11954,
-      "totalEarned": 11954,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
       "streak": 1
     },
     {
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1883,
-    "totalCirculating": 2195691,
+    "totalCirculating": 2196234,
     "totalGames": 11718,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-17T15:13:11.749Z"
+  "lastUpdated": "2026-05-17T15:43:11.751Z"
 }
