@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 44486,
-      "totalEarned": 1041573,
+      "balance": 44488,
+      "totalEarned": 1041575,
       "totalSpent": 1078596,
       "gamesPlayed": 551,
       "gamesWon": 204,
@@ -38,8 +38,8 @@
     },
     {
       "name": "m1yaghi",
-      "balance": 21954,
-      "totalEarned": 46462,
+      "balance": 21956,
+      "totalEarned": 46464,
       "totalSpent": 24508,
       "gamesPlayed": 19,
       "gamesWon": 10,
@@ -74,8 +74,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 17999,
-      "totalEarned": 717688,
+      "balance": 18053,
+      "totalEarned": 717742,
       "totalSpent": 742103,
       "gamesPlayed": 928,
       "gamesWon": 356,
@@ -92,8 +92,8 @@
     },
     {
       "name": "darth70",
-      "balance": 15219,
-      "totalEarned": 15219,
+      "balance": 15237,
+      "totalEarned": 15237,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -119,8 +119,8 @@
     },
     {
       "name": "papaah",
-      "balance": 13190,
-      "totalEarned": 14191,
+      "balance": 13196,
+      "totalEarned": 14197,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -128,8 +128,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 13121,
-      "totalEarned": 13121,
+      "balance": 13123,
+      "totalEarned": 13123,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,8 +146,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 13028,
-      "totalEarned": 15851,
+      "balance": 13030,
+      "totalEarned": 15853,
       "totalSpent": 2823,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "schitt",
-      "balance": 12898,
-      "totalEarned": 12898,
+      "balance": 12914,
+      "totalEarned": 12914,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -262,21 +262,21 @@
       "streak": 1
     },
     {
+      "name": "osis",
+      "balance": 10629,
+      "totalEarned": 16729,
+      "totalSpent": 6100,
+      "gamesPlayed": 13,
+      "gamesWon": 8,
+      "streak": 1
+    },
+    {
       "name": "bbalint320",
       "balance": 10581,
       "totalEarned": 10711,
       "totalSpent": 130,
       "gamesPlayed": 13,
       "gamesWon": 1,
-      "streak": 1
-    },
-    {
-      "name": "osis",
-      "balance": 10491,
-      "totalEarned": 16591,
-      "totalSpent": 6100,
-      "gamesPlayed": 13,
-      "gamesWon": 8,
       "streak": 1
     },
     {
@@ -290,8 +290,8 @@
     },
     {
       "name": "lena_xc",
-      "balance": 10265,
-      "totalEarned": 10265,
+      "balance": 10267,
+      "totalEarned": 10267,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -326,8 +326,8 @@
     },
     {
       "name": "damiybe",
-      "balance": 9496,
-      "totalEarned": 9506,
+      "balance": 9498,
+      "totalEarned": 9508,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -335,8 +335,8 @@
     },
     {
       "name": "karmahit",
-      "balance": 9215,
-      "totalEarned": 9215,
+      "balance": 9217,
+      "totalEarned": 9217,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -371,8 +371,8 @@
     },
     {
       "name": "xaqin",
-      "balance": 8265,
-      "totalEarned": 8265,
+      "balance": 8267,
+      "totalEarned": 8267,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,8 +434,8 @@
     },
     {
       "name": "xbullet",
-      "balance": 7691,
-      "totalEarned": 30446,
+      "balance": 7699,
+      "totalEarned": 30454,
       "totalSpent": 22755,
       "gamesPlayed": 20,
       "gamesWon": 6,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1905,
-    "totalCirculating": 2274682,
-    "totalGames": 11954,
+    "totalCirculating": 2275784,
+    "totalGames": 11957,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-19T18:43:11.944Z"
+  "lastUpdated": "2026-05-19T19:13:11.956Z"
 }
