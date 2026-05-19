@@ -29,8 +29,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 27852,
-      "totalEarned": 731950,
+      "balance": 27856,
+      "totalEarned": 731954,
       "totalSpent": 746512,
       "gamesPlayed": 934,
       "gamesWon": 358,
@@ -38,8 +38,8 @@
     },
     {
       "name": "m1yaghi",
-      "balance": 22399,
-      "totalEarned": 48610,
+      "balance": 22465,
+      "totalEarned": 48676,
       "totalSpent": 26211,
       "gamesPlayed": 23,
       "gamesWon": 10,
@@ -56,8 +56,8 @@
     },
     {
       "name": "weppss",
-      "balance": 18735,
-      "totalEarned": 24630,
+      "balance": 18739,
+      "totalEarned": 24634,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -101,8 +101,8 @@
     },
     {
       "name": "zherkafanboy",
-      "balance": 13492,
-      "totalEarned": 21491,
+      "balance": 13504,
+      "totalEarned": 21503,
       "totalSpent": 7999,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -110,8 +110,8 @@
     },
     {
       "name": "papaah",
-      "balance": 13202,
-      "totalEarned": 14203,
+      "balance": 13204,
+      "totalEarned": 14205,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -119,8 +119,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 13129,
-      "totalEarned": 13129,
+      "balance": 13143,
+      "totalEarned": 13143,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -245,8 +245,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 10725,
-      "totalEarned": 10826,
+      "balance": 10859,
+      "totalEarned": 10960,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -325,6 +325,15 @@
       "streak": 1
     },
     {
+      "name": "eiflas",
+      "balance": 8465,
+      "totalEarned": 23316,
+      "totalSpent": 14851,
+      "gamesPlayed": 19,
+      "gamesWon": 14,
+      "streak": 1
+    },
+    {
       "name": "quantik",
       "balance": 8417,
       "totalEarned": 8417,
@@ -334,18 +343,9 @@
       "streak": 1
     },
     {
-      "name": "eiflas",
-      "balance": 8417,
-      "totalEarned": 23268,
-      "totalSpent": 14851,
-      "gamesPlayed": 19,
-      "gamesWon": 14,
-      "streak": 1
-    },
-    {
       "name": "kazzcs2",
-      "balance": 8381,
-      "totalEarned": 8381,
+      "balance": 8385,
+      "totalEarned": 8385,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -388,6 +388,15 @@
       "streak": 13
     },
     {
+      "name": "ferrousimpala32",
+      "balance": 8095,
+      "totalEarned": 8095,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "confusion",
       "balance": 8078,
       "totalEarned": 8593,
@@ -397,18 +406,9 @@
       "streak": 3
     },
     {
-      "name": "ferrousimpala32",
-      "balance": 8077,
-      "totalEarned": 8077,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
-    },
-    {
       "name": "arabicoj",
-      "balance": 8032,
-      "totalEarned": 50897,
+      "balance": 8036,
+      "totalEarned": 50901,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -416,8 +416,8 @@
     },
     {
       "name": "iam_umii",
-      "balance": 7986,
-      "totalEarned": 7986,
+      "balance": 7988,
+      "totalEarned": 7988,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -425,8 +425,8 @@
     },
     {
       "name": "xbullet",
-      "balance": 7729,
-      "totalEarned": 30484,
+      "balance": 7731,
+      "totalEarned": 30486,
       "totalSpent": 22755,
       "gamesPlayed": 20,
       "gamesWon": 6,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1906,
-    "totalCirculating": 2248520,
-    "totalGames": 12007,
+    "totalCirculating": 2251072,
+    "totalGames": 12014,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-19T20:13:11.960Z"
+  "lastUpdated": "2026-05-19T20:43:11.949Z"
 }
