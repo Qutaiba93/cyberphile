@@ -1,10 +1,10 @@
 {
-  "totalSessions": 97,
-  "totalDays": 84,
-  "totalSegments": 4251,
+  "totalSessions": 98,
+  "totalDays": 85,
+  "totalSegments": 4253,
   "allTimePeak": 17991,
-  "allTimeAvg": 629,
-  "totalMessages": 817447,
+  "allTimeAvg": 628,
+  "totalMessages": 817619,
   "categories": [
     {
       "name": "Rust",
@@ -220,8 +220,8 @@
       "name": "Just Chatting",
       "avgViewers": 589,
       "peakViewers": 903,
-      "sampleCount": 1649,
-      "totalMsgs": 331743
+      "sampleCount": 1651,
+      "totalMsgs": 331915
     },
     {
       "name": "Dread Neighbor",
@@ -376,13 +376,13 @@
     },
     "13": {
       "avgViewers": 200,
-      "sampleCount": 43,
-      "totalMsgs": 4197
+      "sampleCount": 44,
+      "totalMsgs": 4226
     },
     "14": {
       "avgViewers": 345,
-      "sampleCount": 237,
-      "totalMsgs": 35477
+      "sampleCount": 238,
+      "totalMsgs": 35620
     },
     "15": {
       "avgViewers": 522,
@@ -431,19 +431,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-01",
-      "avgViewers": 492,
-      "peakViewers": 590,
-      "totalMsgs": 3759,
-      "categories": [
-        "PUBG: Battlegrounds",
-        "Just Chatting",
-        "Counter-Strike 2",
-        "Rocket League",
-        "Counter-Strike: Global Offensive"
-      ]
-    },
     {
       "date": "2026-05-02",
       "avgViewers": 662,
@@ -614,8 +601,17 @@
         "IRL",
         "Chat Roulette"
       ]
+    },
+    {
+      "date": "2026-05-19",
+      "avgViewers": 229,
+      "peakViewers": 284,
+      "totalMsgs": 172,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-05-13T20:13:11.075Z",
-  "lastUpdated": "2026-05-19T13:43:11.924Z"
+  "lastUpdated": "2026-05-19T14:13:11.930Z"
 }
