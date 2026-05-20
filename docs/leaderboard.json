@@ -2,9 +2,9 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 59698,
-      "totalEarned": 771998,
-      "totalSpent": 754714,
+      "balance": 59606,
+      "totalEarned": 772006,
+      "totalSpent": 754814,
       "gamesPlayed": 938,
       "gamesWon": 359,
       "streak": 2
@@ -83,21 +83,21 @@
     },
     {
       "name": "nick6",
-      "balance": 15947,
-      "totalEarned": 15947,
+      "balance": 16009,
+      "totalEarned": 16009,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "darth70",
-      "balance": 15321,
-      "totalEarned": 15321,
+      "balance": 15385,
+      "totalEarned": 15385,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "anansidagyuki",
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1909,
-    "totalCirculating": 2272717,
+    "totalPlayers": 1910,
+    "totalCirculating": 2273647,
     "totalGames": 13631,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-20T15:13:12.033Z"
+  "lastUpdated": "2026-05-20T15:43:12.033Z"
 }
