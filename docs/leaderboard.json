@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 59624,
-      "totalEarned": 772024,
+      "balance": 59666,
+      "totalEarned": 772066,
       "totalSpent": 754814,
       "gamesPlayed": 938,
       "gamesWon": 359,
@@ -83,8 +83,8 @@
     },
     {
       "name": "nick6",
-      "balance": 16035,
-      "totalEarned": 16035,
+      "balance": 16103,
+      "totalEarned": 16103,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -92,8 +92,8 @@
     },
     {
       "name": "darth70",
-      "balance": 15415,
-      "totalEarned": 15415,
+      "balance": 15425,
+      "totalEarned": 15425,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -119,8 +119,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 13229,
-      "totalEarned": 13229,
+      "balance": 13249,
+      "totalEarned": 13249,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,17 +146,17 @@
     },
     {
       "name": "patwifi",
-      "balance": 13092,
-      "totalEarned": 15915,
+      "balance": 13160,
+      "totalEarned": 15983,
       "totalSpent": 2823,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "schitt",
-      "balance": 13010,
-      "totalEarned": 13010,
+      "balance": 13014,
+      "totalEarned": 13014,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -200,8 +200,8 @@
     },
     {
       "name": "5pray",
-      "balance": 12081,
-      "totalEarned": 12081,
+      "balance": 12138,
+      "totalEarned": 12138,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -407,8 +407,8 @@
     },
     {
       "name": "iam_umii",
-      "balance": 8056,
-      "totalEarned": 8056,
+      "balance": 8062,
+      "totalEarned": 8062,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -442,18 +442,18 @@
       "streak": 1
     },
     {
-      "name": "ganndz",
-      "balance": 7456,
-      "totalEarned": 7456,
+      "name": "parlaybuster",
+      "balance": 7491,
+      "totalEarned": 7491,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     }
   ],
   "stats": {
-    "totalPlayers": 1910,
-    "totalCirculating": 2276294,
+    "totalPlayers": 1911,
+    "totalCirculating": 2278758,
     "totalGames": 13631,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-20T16:13:12.041Z"
+  "lastUpdated": "2026-05-20T16:43:12.043Z"
 }
