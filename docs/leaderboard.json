@@ -82,15 +82,6 @@
       "streak": 1
     },
     {
-      "name": "6ixzeven",
-      "balance": 16685,
-      "totalEarned": 910895,
-      "totalSpent": 894210,
-      "gamesPlayed": 888,
-      "gamesWon": 401,
-      "streak": 2
-    },
-    {
       "name": "nick6",
       "balance": 15947,
       "totalEarned": 15947,
@@ -334,6 +325,15 @@
       "streak": 1
     },
     {
+      "name": "6ixzeven",
+      "balance": 9257,
+      "totalEarned": 924967,
+      "totalSpent": 915710,
+      "gamesPlayed": 909,
+      "gamesWon": 409,
+      "streak": 2
+    },
+    {
       "name": "karmahit",
       "balance": 9227,
       "totalEarned": 9227,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1908,
-    "totalCirculating": 2289989,
-    "totalGames": 13022,
+    "totalCirculating": 2282561,
+    "totalGames": 13043,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-20T08:43:12.019Z"
+  "lastUpdated": "2026-05-20T09:13:12.021Z"
 }
