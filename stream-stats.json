@@ -1,10 +1,10 @@
 {
-  "totalSessions": 99,
-  "totalDays": 85,
-  "totalSegments": 4293,
+  "totalSessions": 100,
+  "totalDays": 86,
+  "totalSegments": 4296,
   "allTimePeak": 17991,
   "allTimeAvg": 629,
-  "totalMessages": 825471,
+  "totalMessages": 825901,
   "categories": [
     {
       "name": "Rust",
@@ -210,18 +210,18 @@
       "totalMsgs": 6766
     },
     {
-      "name": "Just Chatting",
-      "avgViewers": 590,
-      "peakViewers": 903,
-      "sampleCount": 1668,
-      "totalMsgs": 335068
-    },
-    {
       "name": "Call of Duty: Black Ops Zombies",
       "avgViewers": 590,
       "peakViewers": 748,
       "sampleCount": 16,
       "totalMsgs": 2802
+    },
+    {
+      "name": "Just Chatting",
+      "avgViewers": 589,
+      "peakViewers": 903,
+      "sampleCount": 1671,
+      "totalMsgs": 335498
     },
     {
       "name": "Dread Neighbor",
@@ -385,14 +385,14 @@
       "totalMsgs": 35844
     },
     "15": {
-      "avgViewers": 522,
-      "sampleCount": 354,
-      "totalMsgs": 64744
+      "avgViewers": 520,
+      "sampleCount": 356,
+      "totalMsgs": 65077
     },
     "16": {
-      "avgViewers": 663,
-      "sampleCount": 401,
-      "totalMsgs": 81389
+      "avgViewers": 662,
+      "sampleCount": 402,
+      "totalMsgs": 81486
     },
     "17": {
       "avgViewers": 721,
@@ -431,21 +431,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-02",
-      "avgViewers": 662,
-      "peakViewers": 849,
-      "totalMsgs": 11681,
-      "categories": [
-        "Counter-Strike: Global Offensive",
-        "Just Chatting",
-        "Minecraft",
-        "Counter-Strike 2",
-        "IRL",
-        "Chat Roulette",
-        "Grand Theft Auto V (GTA)"
-      ]
-    },
     {
       "date": "2026-05-03",
       "avgViewers": 635,
@@ -612,8 +597,17 @@
         "Grand Theft Auto V (GTA)",
         "Chat Roulette"
       ]
+    },
+    {
+      "date": "2026-05-20",
+      "avgViewers": 294,
+      "peakViewers": 415,
+      "totalMsgs": 430,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-05-13T20:13:11.075Z",
-  "lastUpdated": "2026-05-20T15:43:12.024Z"
+  "lastUpdated": "2026-05-20T16:13:12.028Z"
 }
