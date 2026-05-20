@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 44511,
-      "totalEarned": 1041698,
+      "balance": 44517,
+      "totalEarned": 1041704,
       "totalSpent": 1078696,
       "gamesPlayed": 552,
       "gamesWon": 204,
@@ -353,12 +353,12 @@
     },
     {
       "name": "kazzcs2",
-      "balance": 8405,
-      "totalEarned": 8405,
+      "balance": 8467,
+      "totalEarned": 8467,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "bido_maggot",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1918,
-    "totalCirculating": 2285085,
+    "totalCirculating": 2285175,
     "totalGames": 13632,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-20T20:16:40.080Z"
+  "lastUpdated": "2026-05-20T20:19:43.119Z"
 }
