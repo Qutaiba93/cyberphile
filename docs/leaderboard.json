@@ -20,9 +20,9 @@
     },
     {
       "name": "shance",
-      "balance": 44545,
-      "totalEarned": 1041682,
-      "totalSpent": 1078646,
+      "balance": 44507,
+      "totalEarned": 1041694,
+      "totalSpent": 1078696,
       "gamesPlayed": 552,
       "gamesWon": 204,
       "streak": 2
@@ -236,8 +236,8 @@
     },
     {
       "name": "pitapan",
-      "balance": 11154,
-      "totalEarned": 11179,
+      "balance": 11156,
+      "totalEarned": 11181,
       "totalSpent": 25,
       "gamesPlayed": 1,
       "gamesWon": 1,
@@ -299,8 +299,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 9790,
-      "totalEarned": 9790,
+      "balance": 9792,
+      "totalEarned": 9792,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -389,8 +389,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 8164,
-      "totalEarned": 51029,
+      "balance": 8172,
+      "totalEarned": 51037,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1918,
-    "totalCirculating": 2285045,
+    "totalCirculating": 2285053,
     "totalGames": 13632,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-20T20:02:37.659Z"
+  "lastUpdated": "2026-05-20T20:09:31.472Z"
 }
