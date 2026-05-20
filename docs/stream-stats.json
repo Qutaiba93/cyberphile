@@ -1,7 +1,7 @@
 {
   "totalSessions": 100,
   "totalDays": 86,
-  "totalSegments": 4321,
+  "totalSegments": 4322,
   "allTimePeak": 17991,
   "allTimeAvg": 629,
   "totalMessages": 829442,
@@ -213,7 +213,7 @@
       "name": "Just Chatting",
       "avgViewers": 591,
       "peakViewers": 903,
-      "sampleCount": 1696,
+      "sampleCount": 1697,
       "totalMsgs": 339039
     },
     {
@@ -411,7 +411,7 @@
     },
     "20": {
       "avgViewers": 678,
-      "sampleCount": 447,
+      "sampleCount": 448,
       "totalMsgs": 98054
     },
     "21": {
@@ -600,7 +600,7 @@
     },
     {
       "date": "2026-05-20",
-      "avgViewers": 662,
+      "avgViewers": 664,
       "peakViewers": 776,
       "totalMsgs": 3971,
       "categories": [
@@ -608,6 +608,6 @@
       ]
     }
   ],
-  "botStartedAt": "2026-05-20T20:08:31.070Z",
-  "lastUpdated": "2026-05-20T20:09:31.466Z"
+  "botStartedAt": "2026-05-20T20:15:39.618Z",
+  "lastUpdated": "2026-05-20T20:16:40.073Z"
 }
