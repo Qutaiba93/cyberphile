@@ -1,15 +1,6 @@
 {
   "leaderboard": [
     {
-      "name": "6ixzeven",
-      "balance": 63088,
-      "totalEarned": 741798,
-      "totalSpent": 678710,
-      "gamesPlayed": 740,
-      "gamesWon": 345,
-      "streak": 2
-    },
-    {
       "name": "meliziana",
       "balance": 60636,
       "totalEarned": 771936,
@@ -89,6 +80,15 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
+    },
+    {
+      "name": "6ixzeven",
+      "balance": 16685,
+      "totalEarned": 910895,
+      "totalSpent": 894210,
+      "gamesPlayed": 888,
+      "gamesWon": 401,
+      "streak": 2
     },
     {
       "name": "nick6",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1908,
-    "totalCirculating": 2336392,
-    "totalGames": 12874,
+    "totalCirculating": 2289989,
+    "totalGames": 13022,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-20T08:13:12.023Z"
+  "lastUpdated": "2026-05-20T08:43:12.019Z"
 }
