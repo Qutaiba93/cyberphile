@@ -1,10 +1,10 @@
 {
   "totalSessions": 100,
   "totalDays": 86,
-  "totalSegments": 4361,
+  "totalSegments": 4362,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 835966,
+  "totalMessages": 836189,
   "categories": [
     {
       "name": "Rust",
@@ -176,10 +176,10 @@
     },
     {
       "name": "Minecraft",
-      "avgViewers": 622,
+      "avgViewers": 621,
       "peakViewers": 746,
-      "sampleCount": 150,
-      "totalMsgs": 27151
+      "sampleCount": 151,
+      "totalMsgs": 27374
     },
     {
       "name": "DayZ",
@@ -362,9 +362,9 @@
       "totalMsgs": 20207
     },
     "2": {
-      "avgViewers": 487,
-      "sampleCount": 70,
-      "totalMsgs": 9887
+      "avgViewers": 486,
+      "sampleCount": 71,
+      "totalMsgs": 10110
     },
     "3": {
       "avgViewers": 386,
@@ -607,9 +607,9 @@
     },
     {
       "date": "2026-05-20",
-      "avgViewers": 669,
+      "avgViewers": 665,
       "peakViewers": 783,
-      "totalMsgs": 10495,
+      "totalMsgs": 10718,
       "categories": [
         "Just Chatting",
         "Grand Theft Auto VI (GTA)",
@@ -620,5 +620,5 @@
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-21T02:50:43.435Z"
+  "lastUpdated": "2026-05-21T03:20:43.430Z"
 }
