@@ -56,8 +56,8 @@
     },
     {
       "name": "weppss",
-      "balance": 19092,
-      "totalEarned": 24987,
+      "balance": 19108,
+      "totalEarned": 25003,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -83,8 +83,8 @@
     },
     {
       "name": "darth70",
-      "balance": 15638,
-      "totalEarned": 15638,
+      "balance": 15660,
+      "totalEarned": 15660,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -227,8 +227,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 11146,
-      "totalEarned": 11247,
+      "balance": 11152,
+      "totalEarned": 11253,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -334,6 +334,15 @@
       "streak": 1
     },
     {
+      "name": "eiflas",
+      "balance": 8624,
+      "totalEarned": 23475,
+      "totalSpent": 14851,
+      "gamesPlayed": 19,
+      "gamesWon": 14,
+      "streak": 1
+    },
+    {
       "name": "kazzcs2",
       "balance": 8580,
       "totalEarned": 8580,
@@ -343,15 +352,6 @@
       "streak": 3
     },
     {
-      "name": "eiflas",
-      "balance": 8559,
-      "totalEarned": 23410,
-      "totalSpent": 14851,
-      "gamesPlayed": 19,
-      "gamesWon": 14,
-      "streak": 1
-    },
-    {
       "name": "quantik",
       "balance": 8485,
       "totalEarned": 8485,
@@ -359,6 +359,15 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
+    },
+    {
+      "name": "bido_maggot",
+      "balance": 8465,
+      "totalEarned": 8465,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 3
     },
     {
       "name": "ferrousimpala32",
@@ -373,15 +382,6 @@
       "name": "xaqin",
       "balance": 8411,
       "totalEarned": 8411,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
-    },
-    {
-      "name": "bido_maggot",
-      "balance": 8392,
-      "totalEarned": 8392,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -407,12 +407,12 @@
     },
     {
       "name": "iam_umii",
-      "balance": 8086,
-      "totalEarned": 8086,
+      "balance": 8163,
+      "totalEarned": 8163,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "confusion",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1922,
-    "totalCirculating": 2255149,
-    "totalGames": 15448,
+    "totalCirculating": 2255460,
+    "totalGames": 15507,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-21T13:20:43.507Z"
+  "lastUpdated": "2026-05-21T13:50:43.505Z"
 }
