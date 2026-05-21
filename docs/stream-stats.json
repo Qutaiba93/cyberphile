@@ -1,10 +1,10 @@
 {
   "totalSessions": 101,
   "totalDays": 87,
-  "totalSegments": 4384,
+  "totalSegments": 4387,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 840318,
+  "totalMessages": 840837,
   "categories": [
     {
       "name": "Rust",
@@ -168,18 +168,18 @@
       "totalMsgs": 602
     },
     {
+      "name": "Minecraft",
+      "avgViewers": 624,
+      "peakViewers": 788,
+      "sampleCount": 154,
+      "totalMsgs": 27893
+    },
+    {
       "name": "Gamble With Your Friends",
       "avgViewers": 623,
       "peakViewers": 755,
       "sampleCount": 56,
       "totalMsgs": 7053
-    },
-    {
-      "name": "Minecraft",
-      "avgViewers": 621,
-      "peakViewers": 746,
-      "sampleCount": 151,
-      "totalMsgs": 27374
     },
     {
       "name": "DayZ",
@@ -403,8 +403,8 @@
     },
     "17": {
       "avgViewers": 721,
-      "sampleCount": 419,
-      "totalMsgs": 84211
+      "sampleCount": 422,
+      "totalMsgs": 84730
     },
     "18": {
       "avgViewers": 706,
@@ -606,14 +606,15 @@
     },
     {
       "date": "2026-05-21",
-      "avgViewers": 629,
-      "peakViewers": 746,
-      "totalMsgs": 4129,
+      "avgViewers": 646,
+      "peakViewers": 788,
+      "totalMsgs": 4648,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-21T17:20:43.495Z"
+  "lastUpdated": "2026-05-21T17:50:43.496Z"
 }
