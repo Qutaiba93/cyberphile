@@ -1,10 +1,10 @@
 {
   "totalSessions": 101,
   "totalDays": 87,
-  "totalSegments": 4399,
+  "totalSegments": 4402,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 842712,
+  "totalMessages": 843049,
   "categories": [
     {
       "name": "Rust",
@@ -85,10 +85,10 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 675,
+      "avgViewers": 676,
       "peakViewers": 839,
-      "sampleCount": 362,
-      "totalMsgs": 59928
+      "sampleCount": 365,
+      "totalMsgs": 60265
     },
     {
       "name": "Sea of Thieves",
@@ -413,13 +413,13 @@
     },
     "19": {
       "avgViewers": 707,
-      "sampleCount": 431,
-      "totalMsgs": 95752
+      "sampleCount": 432,
+      "totalMsgs": 95809
     },
     "20": {
-      "avgViewers": 678,
-      "sampleCount": 453,
-      "totalMsgs": 98583
+      "avgViewers": 679,
+      "sampleCount": 455,
+      "totalMsgs": 98863
     },
     "21": {
       "avgViewers": 685,
@@ -606,9 +606,9 @@
     },
     {
       "date": "2026-05-21",
-      "avgViewers": 707,
+      "avgViewers": 713,
       "peakViewers": 872,
-      "totalMsgs": 6523,
+      "totalMsgs": 6860,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -618,5 +618,5 @@
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-21T19:50:43.496Z"
+  "lastUpdated": "2026-05-21T20:20:43.500Z"
 }
