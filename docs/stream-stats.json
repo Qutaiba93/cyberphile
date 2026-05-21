@@ -1,10 +1,10 @@
 {
   "totalSessions": 100,
   "totalDays": 86,
-  "totalSegments": 4358,
+  "totalSegments": 4361,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 835176,
+  "totalMessages": 835966,
   "categories": [
     {
       "name": "Rust",
@@ -168,18 +168,18 @@
       "totalMsgs": 602
     },
     {
-      "name": "Minecraft",
-      "avgViewers": 624,
-      "peakViewers": 746,
-      "sampleCount": 147,
-      "totalMsgs": 26361
-    },
-    {
       "name": "Gamble With Your Friends",
       "avgViewers": 623,
       "peakViewers": 755,
       "sampleCount": 56,
       "totalMsgs": 7053
+    },
+    {
+      "name": "Minecraft",
+      "avgViewers": 622,
+      "peakViewers": 746,
+      "sampleCount": 150,
+      "totalMsgs": 27151
     },
     {
       "name": "DayZ",
@@ -362,9 +362,9 @@
       "totalMsgs": 20207
     },
     "2": {
-      "avgViewers": 486,
-      "sampleCount": 67,
-      "totalMsgs": 9097
+      "avgViewers": 487,
+      "sampleCount": 70,
+      "totalMsgs": 9887
     },
     "3": {
       "avgViewers": 386,
@@ -607,17 +607,18 @@
     },
     {
       "date": "2026-05-20",
-      "avgViewers": 676,
+      "avgViewers": 669,
       "peakViewers": 783,
-      "totalMsgs": 9705,
+      "totalMsgs": 10495,
       "categories": [
         "Just Chatting",
         "Grand Theft Auto VI (GTA)",
         "Grand Theft Auto V (GTA)",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-21T02:20:43.437Z"
+  "lastUpdated": "2026-05-21T02:50:43.435Z"
 }
