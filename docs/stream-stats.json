@@ -1,10 +1,10 @@
 {
   "totalSessions": 102,
   "totalDays": 88,
-  "totalSegments": 4434,
+  "totalSegments": 4437,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 847689,
+  "totalMessages": 848092,
   "categories": [
     {
       "name": "Rust",
@@ -147,18 +147,18 @@
       "totalMsgs": 3485
     },
     {
+      "name": "Counter-Strike 2",
+      "avgViewers": 629,
+      "peakViewers": 841,
+      "sampleCount": 400,
+      "totalMsgs": 65456
+    },
+    {
       "name": "VRChat",
       "avgViewers": 629,
       "peakViewers": 796,
       "sampleCount": 26,
       "totalMsgs": 4480
-    },
-    {
-      "name": "Counter-Strike 2",
-      "avgViewers": 628,
-      "peakViewers": 841,
-      "sampleCount": 398,
-      "totalMsgs": 65157
     },
     {
       "name": "Slots & Casino",
@@ -220,8 +220,8 @@
       "name": "Just Chatting",
       "avgViewers": 593,
       "peakViewers": 903,
-      "sampleCount": 1749,
-      "totalMsgs": 347703
+      "sampleCount": 1750,
+      "totalMsgs": 347807
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -418,8 +418,8 @@
     },
     "20": {
       "avgViewers": 679,
-      "sampleCount": 461,
-      "totalMsgs": 99817
+      "sampleCount": 464,
+      "totalMsgs": 100220
     },
     "21": {
       "avgViewers": 686,
@@ -606,15 +606,16 @@
     },
     {
       "date": "2026-05-22",
-      "avgViewers": 329,
-      "peakViewers": 559,
-      "totalMsgs": 683,
+      "avgViewers": 455,
+      "peakViewers": 697,
+      "totalMsgs": 1086,
       "categories": [
         "VRChat",
-        "Just Chatting"
+        "Just Chatting",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-22T20:20:43.505Z"
+  "lastUpdated": "2026-05-22T20:50:43.506Z"
 }
