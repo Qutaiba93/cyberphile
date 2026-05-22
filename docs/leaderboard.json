@@ -2,17 +2,17 @@
   "leaderboard": [
     {
       "name": "uncommonletter",
-      "balance": 61986,
-      "totalEarned": 286537,
+      "balance": 62058,
+      "totalEarned": 286609,
       "totalSpent": 224551,
       "gamesPlayed": 236,
       "gamesWon": 110,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "meliziana",
-      "balance": 50007,
-      "totalEarned": 778907,
+      "balance": 50011,
+      "totalEarned": 778911,
       "totalSpent": 771314,
       "gamesPlayed": 943,
       "gamesWon": 360,
@@ -56,8 +56,8 @@
     },
     {
       "name": "weppss",
-      "balance": 19434,
-      "totalEarned": 25329,
+      "balance": 19440,
+      "totalEarned": 25335,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -92,17 +92,17 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 14977,
-      "totalEarned": 19176,
+      "balance": 15053,
+      "totalEarned": 19252,
       "totalSpent": 4199,
       "gamesPlayed": 24,
       "gamesWon": 5,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "patwifi",
-      "balance": 13852,
-      "totalEarned": 16700,
+      "balance": 13864,
+      "totalEarned": 16712,
       "totalSpent": 2848,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -200,8 +200,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 11392,
-      "totalEarned": 11493,
+      "balance": 11424,
+      "totalEarned": 11525,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -281,8 +281,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 10247,
-      "totalEarned": 10247,
+      "balance": 10283,
+      "totalEarned": 10283,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,12 +299,12 @@
     },
     {
       "name": "damiybe",
-      "balance": 9753,
-      "totalEarned": 9763,
+      "balance": 9851,
+      "totalEarned": 9861,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "neincs",
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1931,
-    "totalCirculating": 2258602,
-    "totalGames": 19490,
+    "totalPlayers": 1932,
+    "totalCirculating": 2261131,
+    "totalGames": 19492,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-22T19:50:43.504Z"
+  "lastUpdated": "2026-05-22T20:20:43.515Z"
 }
