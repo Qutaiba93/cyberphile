@@ -74,8 +74,8 @@
     },
     {
       "name": "nick6",
-      "balance": 17053,
-      "totalEarned": 17054,
+      "balance": 17057,
+      "totalEarned": 17058,
       "totalSpent": 1,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -352,18 +352,18 @@
       "streak": 4
     },
     {
-      "name": "quantik",
-      "balance": 8552,
-      "totalEarned": 8552,
+      "name": "xaqin",
+      "balance": 8598,
+      "totalEarned": 8598,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 3
+      "streak": 4
     },
     {
-      "name": "xaqin",
-      "balance": 8526,
-      "totalEarned": 8526,
+      "name": "quantik",
+      "balance": 8552,
+      "totalEarned": 8552,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1931,
-    "totalCirculating": 2261212,
-    "totalGames": 19232,
+    "totalCirculating": 2257659,
+    "totalGames": 19308,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-22T17:50:43.510Z"
+  "lastUpdated": "2026-05-22T18:20:43.510Z"
 }
