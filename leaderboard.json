@@ -38,12 +38,12 @@
     },
     {
       "name": "tevb0t",
-      "balance": 21391,
-      "totalEarned": 24401,
+      "balance": 21485,
+      "totalEarned": 24495,
       "totalSpent": 3010,
       "gamesPlayed": 1,
       "gamesWon": 0,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "m1yaghi",
@@ -56,12 +56,12 @@
     },
     {
       "name": "weppss",
-      "balance": 19350,
-      "totalEarned": 25245,
+      "balance": 19434,
+      "totalEarned": 25329,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "drogan",
@@ -101,8 +101,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 13834,
-      "totalEarned": 16682,
+      "balance": 13852,
+      "totalEarned": 16700,
       "totalSpent": 2848,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -200,8 +200,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 11372,
-      "totalEarned": 11473,
+      "balance": 11392,
+      "totalEarned": 11493,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -281,12 +281,12 @@
     },
     {
       "name": "twilighty",
-      "balance": 10133,
-      "totalEarned": 10133,
+      "balance": 10247,
+      "totalEarned": 10247,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "nitro_st",
@@ -361,6 +361,15 @@
       "streak": 4
     },
     {
+      "name": "bido_maggot",
+      "balance": 8557,
+      "totalEarned": 8557,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 4
+    },
+    {
       "name": "quantik",
       "balance": 8552,
       "totalEarned": 8552,
@@ -379,22 +388,13 @@
       "streak": 3
     },
     {
-      "name": "bido_maggot",
-      "balance": 8485,
-      "totalEarned": 8485,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 3
-    },
-    {
       "name": "iam_umii",
-      "balance": 8195,
-      "totalEarned": 8195,
+      "balance": 8267,
+      "totalEarned": 8267,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "chrisdonwest",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1931,
-    "totalCirculating": 2256576,
-    "totalGames": 19485,
+    "totalCirculating": 2258602,
+    "totalGames": 19490,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-22T19:20:43.511Z"
+  "lastUpdated": "2026-05-22T19:50:43.504Z"
 }

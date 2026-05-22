@@ -1,10 +1,10 @@
 {
-  "totalSessions": 101,
-  "totalDays": 87,
-  "totalSegments": 4429,
+  "totalSessions": 102,
+  "totalDays": 88,
+  "totalSegments": 4431,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 847006,
+  "totalMessages": 847144,
   "categories": [
     {
       "name": "Rust",
@@ -91,13 +91,6 @@
       "totalMsgs": 10155
     },
     {
-      "name": "VRChat",
-      "avgViewers": 671,
-      "peakViewers": 796,
-      "sampleCount": 24,
-      "totalMsgs": 4342
-    },
-    {
       "name": "The Empty Eyes",
       "avgViewers": 663,
       "peakViewers": 677,
@@ -152,6 +145,13 @@
       "peakViewers": 693,
       "sampleCount": 23,
       "totalMsgs": 3485
+    },
+    {
+      "name": "VRChat",
+      "avgViewers": 629,
+      "peakViewers": 796,
+      "sampleCount": 26,
+      "totalMsgs": 4480
     },
     {
       "name": "Counter-Strike 2",
@@ -412,9 +412,9 @@
       "totalMsgs": 92315
     },
     "19": {
-      "avgViewers": 707,
-      "sampleCount": 432,
-      "totalMsgs": 95809
+      "avgViewers": 704,
+      "sampleCount": 434,
+      "totalMsgs": 95947
     },
     "20": {
       "avgViewers": 680,
@@ -438,19 +438,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-04",
-      "avgViewers": 521,
-      "peakViewers": 636,
-      "totalMsgs": 8652,
-      "categories": [
-        "Just Chatting",
-        "Gamble With Your Friends",
-        "Counter-Strike 2",
-        "Grand Theft Auto V (GTA)",
-        "VALORANT"
-      ]
-    },
     {
       "date": "2026-05-05",
       "avgViewers": 601,
@@ -616,8 +603,17 @@
         "Grand Theft Auto V (GTA)",
         "VRChat"
       ]
+    },
+    {
+      "date": "2026-05-22",
+      "avgViewers": 123,
+      "peakViewers": 246,
+      "totalMsgs": 138,
+      "categories": [
+        "VRChat"
+      ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-22T19:20:43.501Z"
+  "lastUpdated": "2026-05-22T19:50:43.495Z"
 }
