@@ -1,10 +1,10 @@
 {
   "totalSessions": 102,
   "totalDays": 88,
-  "totalSegments": 4440,
+  "totalSegments": 4443,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 848798,
+  "totalMessages": 849500,
   "categories": [
     {
       "name": "Rust",
@@ -80,8 +80,8 @@
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 679,
       "peakViewers": 839,
-      "sampleCount": 383,
-      "totalMsgs": 62567
+      "sampleCount": 384,
+      "totalMsgs": 62810
     },
     {
       "name": "Sea of Thieves",
@@ -148,10 +148,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 629,
+      "avgViewers": 630,
       "peakViewers": 841,
-      "sampleCount": 403,
-      "totalMsgs": 66162
+      "sampleCount": 405,
+      "totalMsgs": 66621
     },
     {
       "name": "VRChat",
@@ -423,8 +423,8 @@
     },
     "21": {
       "avgViewers": 686,
-      "sampleCount": 453,
-      "totalMsgs": 89111
+      "sampleCount": 456,
+      "totalMsgs": 89813
     },
     "22": {
       "avgViewers": 664,
@@ -606,16 +606,17 @@
     },
     {
       "date": "2026-05-22",
-      "avgViewers": 528,
-      "peakViewers": 728,
-      "totalMsgs": 1792,
+      "avgViewers": 573,
+      "peakViewers": 759,
+      "totalMsgs": 2494,
       "categories": [
         "VRChat",
         "Just Chatting",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Grand Theft Auto V (GTA)"
       ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-22T21:20:43.501Z"
+  "lastUpdated": "2026-05-22T21:50:43.495Z"
 }
