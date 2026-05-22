@@ -1,10 +1,10 @@
 {
   "totalSessions": 102,
   "totalDays": 88,
-  "totalSegments": 4446,
+  "totalSegments": 4449,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 849974,
+  "totalMessages": 850350,
   "categories": [
     {
       "name": "Rust",
@@ -80,8 +80,8 @@
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 679,
       "peakViewers": 839,
-      "sampleCount": 387,
-      "totalMsgs": 63284
+      "sampleCount": 390,
+      "totalMsgs": 63660
     },
     {
       "name": "Sea of Thieves",
@@ -428,8 +428,8 @@
     },
     "22": {
       "avgViewers": 664,
-      "sampleCount": 389,
-      "totalMsgs": 77042
+      "sampleCount": 392,
+      "totalMsgs": 77418
     },
     "23": {
       "avgViewers": 629,
@@ -606,9 +606,9 @@
     },
     {
       "date": "2026-05-22",
-      "avgViewers": 596,
+      "avgViewers": 613,
       "peakViewers": 759,
-      "totalMsgs": 2968,
+      "totalMsgs": 3344,
       "categories": [
         "VRChat",
         "Just Chatting",
@@ -618,5 +618,5 @@
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-22T22:20:43.495Z"
+  "lastUpdated": "2026-05-22T22:50:43.496Z"
 }
