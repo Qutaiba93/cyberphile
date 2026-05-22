@@ -1,10 +1,10 @@
 {
   "totalSessions": 101,
   "totalDays": 87,
-  "totalSegments": 4423,
+  "totalSegments": 4426,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 845861,
+  "totalMessages": 846338,
   "categories": [
     {
       "name": "Rust",
@@ -80,8 +80,8 @@
       "name": "VRChat",
       "avgViewers": 684,
       "peakViewers": 796,
-      "sampleCount": 18,
-      "totalMsgs": 3197
+      "sampleCount": 21,
+      "totalMsgs": 3674
     },
     {
       "name": "Grand Theft Auto V (GTA)",
@@ -352,9 +352,9 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 573,
-      "sampleCount": 224,
-      "totalMsgs": 31416
+      "avgViewers": 574,
+      "sampleCount": 226,
+      "totalMsgs": 31685
     },
     "1": {
       "avgViewers": 525,
@@ -433,8 +433,8 @@
     },
     "23": {
       "avgViewers": 629,
-      "sampleCount": 293,
-      "totalMsgs": 51258
+      "sampleCount": 294,
+      "totalMsgs": 51466
     }
   },
   "dailyHistory": [
@@ -606,9 +606,9 @@
     },
     {
       "date": "2026-05-21",
-      "avgViewers": 718,
+      "avgViewers": 716,
       "peakViewers": 872,
-      "totalMsgs": 9672,
+      "totalMsgs": 10149,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -619,5 +619,5 @@
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-21T23:50:43.501Z"
+  "lastUpdated": "2026-05-22T00:20:43.495Z"
 }
