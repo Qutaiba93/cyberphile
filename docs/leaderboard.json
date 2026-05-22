@@ -388,15 +388,6 @@
       "streak": 3
     },
     {
-      "name": "6ixzeven",
-      "balance": 8474,
-      "totalEarned": 1387778,
-      "totalSpent": 1379304,
-      "gamesPlayed": 6408,
-      "gamesWon": 2752,
-      "streak": 4
-    },
-    {
       "name": "iam_umii",
       "balance": 8195,
       "totalEarned": 8195,
@@ -422,6 +413,15 @@
       "gamesPlayed": 11,
       "gamesWon": 4,
       "streak": 1
+    },
+    {
+      "name": "6ixzeven",
+      "balance": 7931,
+      "totalEarned": 1398067,
+      "totalSpent": 1390136,
+      "gamesPlayed": 6510,
+      "gamesWon": 2797,
+      "streak": 4
     },
     {
       "name": "tonynairobi",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1931,
-    "totalCirculating": 2260550,
-    "totalGames": 19006,
+    "totalCirculating": 2260300,
+    "totalGames": 19114,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-22T15:20:43.511Z"
+  "lastUpdated": "2026-05-22T15:50:43.516Z"
 }
