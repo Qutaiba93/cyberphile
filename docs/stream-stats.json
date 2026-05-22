@@ -1,10 +1,10 @@
 {
   "totalSessions": 102,
   "totalDays": 88,
-  "totalSegments": 4437,
+  "totalSegments": 4440,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 848092,
+  "totalMessages": 848798,
   "categories": [
     {
       "name": "Rust",
@@ -150,8 +150,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 629,
       "peakViewers": 841,
-      "sampleCount": 400,
-      "totalMsgs": 65456
+      "sampleCount": 403,
+      "totalMsgs": 66162
     },
     {
       "name": "VRChat",
@@ -418,13 +418,13 @@
     },
     "20": {
       "avgViewers": 679,
-      "sampleCount": 464,
-      "totalMsgs": 100220
+      "sampleCount": 465,
+      "totalMsgs": 100453
     },
     "21": {
       "avgViewers": 686,
-      "sampleCount": 451,
-      "totalMsgs": 88638
+      "sampleCount": 453,
+      "totalMsgs": 89111
     },
     "22": {
       "avgViewers": 664,
@@ -606,9 +606,9 @@
     },
     {
       "date": "2026-05-22",
-      "avgViewers": 455,
-      "peakViewers": 697,
-      "totalMsgs": 1086,
+      "avgViewers": 528,
+      "peakViewers": 728,
+      "totalMsgs": 1792,
       "categories": [
         "VRChat",
         "Just Chatting",
@@ -617,5 +617,5 @@
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-22T20:50:43.506Z"
+  "lastUpdated": "2026-05-22T21:20:43.501Z"
 }
