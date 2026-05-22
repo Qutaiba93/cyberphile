@@ -47,8 +47,8 @@
     },
     {
       "name": "m1yaghi",
-      "balance": 20040,
-      "totalEarned": 56428,
+      "balance": 20042,
+      "totalEarned": 56430,
       "totalSpent": 36388,
       "gamesPlayed": 34,
       "gamesWon": 15,
@@ -379,15 +379,6 @@
       "streak": 3
     },
     {
-      "name": "6ixzeven",
-      "balance": 8495,
-      "totalEarned": 1403522,
-      "totalSpent": 1395027,
-      "gamesPlayed": 6563,
-      "gamesWon": 2822,
-      "streak": 4
-    },
-    {
       "name": "bido_maggot",
       "balance": 8485,
       "totalEarned": 8485,
@@ -449,12 +440,21 @@
       "gamesPlayed": 1,
       "gamesWon": 1,
       "streak": 1
+    },
+    {
+      "name": "ganndz",
+      "balance": 7653,
+      "totalEarned": 7653,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 3
     }
   ],
   "stats": {
     "totalPlayers": 1931,
-    "totalCirculating": 2261170,
-    "totalGames": 19169,
+    "totalCirculating": 2261212,
+    "totalGames": 19232,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-22T17:20:43.512Z"
+  "lastUpdated": "2026-05-22T17:50:43.510Z"
 }
