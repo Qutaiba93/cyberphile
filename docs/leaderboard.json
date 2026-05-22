@@ -191,12 +191,12 @@
     },
     {
       "name": "kale96",
-      "balance": 11737,
-      "totalEarned": 18287,
+      "balance": 11809,
+      "totalEarned": 18359,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "faridlamm",
@@ -416,8 +416,8 @@
     },
     {
       "name": "6ixzeven",
-      "balance": 7931,
-      "totalEarned": 1398067,
+      "balance": 7933,
+      "totalEarned": 1398069,
       "totalSpent": 1390136,
       "gamesPlayed": 6510,
       "gamesWon": 2797,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1931,
-    "totalCirculating": 2260300,
+    "totalCirculating": 2260374,
     "totalGames": 19114,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-22T15:50:43.516Z"
+  "lastUpdated": "2026-05-22T16:20:43.512Z"
 }
