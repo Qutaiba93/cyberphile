@@ -379,6 +379,15 @@
       "streak": 3
     },
     {
+      "name": "6ixzeven",
+      "balance": 8495,
+      "totalEarned": 1403522,
+      "totalSpent": 1395027,
+      "gamesPlayed": 6563,
+      "gamesWon": 2822,
+      "streak": 4
+    },
+    {
       "name": "bido_maggot",
       "balance": 8485,
       "totalEarned": 8485,
@@ -415,15 +424,6 @@
       "streak": 1
     },
     {
-      "name": "6ixzeven",
-      "balance": 7806,
-      "totalEarned": 1400816,
-      "totalSpent": 1393010,
-      "gamesPlayed": 6543,
-      "gamesWon": 2811,
-      "streak": 4
-    },
-    {
       "name": "tonynairobi",
       "balance": 7799,
       "totalEarned": 7799,
@@ -433,6 +433,15 @@
       "streak": 3
     },
     {
+      "name": "parlaybuster",
+      "balance": 7742,
+      "totalEarned": 7742,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 4
+    },
+    {
       "name": "skullyontop",
       "balance": 7732,
       "totalEarned": 7742,
@@ -440,21 +449,12 @@
       "gamesPlayed": 1,
       "gamesWon": 1,
       "streak": 1
-    },
-    {
-      "name": "parlaybuster",
-      "balance": 7670,
-      "totalEarned": 7670,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 3
     }
   ],
   "stats": {
     "totalPlayers": 1931,
-    "totalCirculating": 2260393,
-    "totalGames": 19147,
+    "totalCirculating": 2261170,
+    "totalGames": 19169,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-22T16:50:43.512Z"
+  "lastUpdated": "2026-05-22T17:20:43.512Z"
 }
