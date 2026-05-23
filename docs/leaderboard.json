@@ -325,6 +325,15 @@
       "streak": 4
     },
     {
+      "name": "6ixzeven",
+      "balance": 9046,
+      "totalEarned": 1510409,
+      "totalSpent": 1501363,
+      "gamesPlayed": 7691,
+      "gamesWon": 3303,
+      "streak": 5
+    },
+    {
       "name": "arabicoj",
       "balance": 9034,
       "totalEarned": 51899,
@@ -440,21 +449,12 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 4
-    },
-    {
-      "name": "ganndz",
-      "balance": 7727,
-      "totalEarned": 7727,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 4
     }
   ],
   "stats": {
     "totalPlayers": 1936,
-    "totalCirculating": 2274736,
-    "totalGames": 20419,
+    "totalCirculating": 2270404,
+    "totalGames": 20508,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-23T11:50:43.526Z"
+  "lastUpdated": "2026-05-23T12:20:43.547Z"
 }
