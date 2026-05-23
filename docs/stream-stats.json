@@ -1,10 +1,10 @@
 {
   "totalSessions": 103,
   "totalDays": 89,
-  "totalSegments": 4499,
+  "totalSegments": 4502,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 858289,
+  "totalMessages": 858634,
   "categories": [
     {
       "name": "Rust",
@@ -45,8 +45,8 @@
       "name": "Chat Roulette",
       "avgViewers": 726,
       "peakViewers": 916,
-      "sampleCount": 442,
-      "totalMsgs": 99174
+      "sampleCount": 443,
+      "totalMsgs": 99337
     },
     {
       "name": "Grand Theft Auto VI (GTA)",
@@ -66,8 +66,8 @@
       "name": "IRL",
       "avgViewers": 701,
       "peakViewers": 886,
-      "sampleCount": 147,
-      "totalMsgs": 51426
+      "sampleCount": 149,
+      "totalMsgs": 51608
     },
     {
       "name": "Trash Horror Collection",
@@ -413,8 +413,8 @@
     },
     "19": {
       "avgViewers": 704,
-      "sampleCount": 437,
-      "totalMsgs": 96502
+      "sampleCount": 440,
+      "totalMsgs": 96847
     },
     "20": {
       "avgViewers": 679,
@@ -605,18 +605,19 @@
     },
     {
       "date": "2026-05-23",
-      "avgViewers": 561,
+      "avgViewers": 574,
       "peakViewers": 753,
-      "totalMsgs": 5748,
+      "totalMsgs": 6093,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
         "Minecraft",
         "Slots & Casino",
-        "Chat Roulette"
+        "Chat Roulette",
+        "IRL"
       ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-23T19:20:43.517Z"
+  "lastUpdated": "2026-05-23T19:50:43.531Z"
 }
