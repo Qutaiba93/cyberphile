@@ -2,17 +2,17 @@
   "leaderboard": [
     {
       "name": "uncommonletter",
-      "balance": 62058,
-      "totalEarned": 286609,
+      "balance": 62139,
+      "totalEarned": 286690,
       "totalSpent": 224551,
       "gamesPlayed": 236,
       "gamesWon": 110,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "meliziana",
-      "balance": 45748,
-      "totalEarned": 780248,
+      "balance": 45798,
+      "totalEarned": 780298,
       "totalSpent": 776914,
       "gamesPlayed": 945,
       "gamesWon": 361,
@@ -110,8 +110,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 13981,
-      "totalEarned": 16829,
+      "balance": 14011,
+      "totalEarned": 16859,
       "totalSpent": 2848,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -218,8 +218,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 11715,
-      "totalEarned": 11816,
+      "balance": 11721,
+      "totalEarned": 11822,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -272,12 +272,12 @@
     },
     {
       "name": "twilighty",
-      "balance": 10323,
-      "totalEarned": 10323,
+      "balance": 10402,
+      "totalEarned": 10402,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "muut",
@@ -298,6 +298,15 @@
       "streak": 1
     },
     {
+      "name": "karmahit",
+      "balance": 9855,
+      "totalEarned": 9855,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 5
+    },
+    {
       "name": "damiybe",
       "balance": 9851,
       "totalEarned": 9861,
@@ -305,15 +314,6 @@
       "gamesPlayed": 1,
       "gamesWon": 0,
       "streak": 4
-    },
-    {
-      "name": "karmahit",
-      "balance": 9841,
-      "totalEarned": 9841,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 5
     },
     {
       "name": "neincs",
@@ -326,8 +326,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 9010,
-      "totalEarned": 51875,
+      "balance": 9034,
+      "totalEarned": 51899,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -353,8 +353,8 @@
     },
     {
       "name": "bido_maggot",
-      "balance": 8638,
-      "totalEarned": 8638,
+      "balance": 8644,
+      "totalEarned": 8644,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1934,
-    "totalCirculating": 2271951,
-    "totalGames": 19548,
+    "totalCirculating": 2270873,
+    "totalGames": 19549,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-23T00:20:43.500Z"
+  "lastUpdated": "2026-05-23T00:50:43.518Z"
 }
