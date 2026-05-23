@@ -1,10 +1,10 @@
 {
   "totalSessions": 103,
   "totalDays": 89,
-  "totalSegments": 4496,
+  "totalSegments": 4499,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 857758,
+  "totalMessages": 858289,
   "categories": [
     {
       "name": "Rust",
@@ -45,8 +45,8 @@
       "name": "Chat Roulette",
       "avgViewers": 726,
       "peakViewers": 916,
-      "sampleCount": 439,
-      "totalMsgs": 98643
+      "sampleCount": 442,
+      "totalMsgs": 99174
     },
     {
       "name": "Grand Theft Auto VI (GTA)",
@@ -408,13 +408,13 @@
     },
     "18": {
       "avgViewers": 708,
-      "sampleCount": 434,
-      "totalMsgs": 93616
+      "sampleCount": 435,
+      "totalMsgs": 93842
     },
     "19": {
       "avgViewers": 704,
-      "sampleCount": 435,
-      "totalMsgs": 96197
+      "sampleCount": 437,
+      "totalMsgs": 96502
     },
     "20": {
       "avgViewers": 679,
@@ -605,9 +605,9 @@
     },
     {
       "date": "2026-05-23",
-      "avgViewers": 542,
-      "peakViewers": 742,
-      "totalMsgs": 5217,
+      "avgViewers": 561,
+      "peakViewers": 753,
+      "totalMsgs": 5748,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
@@ -618,5 +618,5 @@
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-23T18:50:43.521Z"
+  "lastUpdated": "2026-05-23T19:20:43.517Z"
 }
