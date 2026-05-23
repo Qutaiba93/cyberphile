@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "uncommonletter",
-      "balance": 62139,
-      "totalEarned": 286690,
+      "balance": 62143,
+      "totalEarned": 286694,
       "totalSpent": 224551,
       "gamesPlayed": 236,
       "gamesWon": 110,
@@ -11,8 +11,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 45798,
-      "totalEarned": 780298,
+      "balance": 45800,
+      "totalEarned": 780300,
       "totalSpent": 776914,
       "gamesPlayed": 945,
       "gamesWon": 361,
@@ -110,8 +110,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 14011,
-      "totalEarned": 16859,
+      "balance": 14019,
+      "totalEarned": 16867,
       "totalSpent": 2848,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -218,8 +218,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 11721,
-      "totalEarned": 11822,
+      "balance": 11729,
+      "totalEarned": 11830,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,8 +299,8 @@
     },
     {
       "name": "karmahit",
-      "balance": 9855,
-      "totalEarned": 9855,
+      "balance": 9857,
+      "totalEarned": 9857,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1934,
-    "totalCirculating": 2270873,
+    "totalPlayers": 1936,
+    "totalCirculating": 2272405,
     "totalGames": 19549,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-23T00:50:43.518Z"
+  "lastUpdated": "2026-05-23T01:20:43.510Z"
 }
