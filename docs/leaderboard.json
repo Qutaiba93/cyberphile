@@ -11,12 +11,12 @@
     },
     {
       "name": "meliziana",
-      "balance": 50621,
-      "totalEarned": 780121,
-      "totalSpent": 771914,
+      "balance": 45748,
+      "totalEarned": 780248,
+      "totalSpent": 776914,
       "gamesPlayed": 945,
       "gamesWon": 361,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "shance",
@@ -65,8 +65,8 @@
     },
     {
       "name": "drogan",
-      "balance": 18509,
-      "totalEarned": 18509,
+      "balance": 18527,
+      "totalEarned": 18527,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -110,12 +110,12 @@
     },
     {
       "name": "patwifi",
-      "balance": 13886,
-      "totalEarned": 16734,
+      "balance": 13981,
+      "totalEarned": 16829,
       "totalSpent": 2848,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "juggin247",
@@ -218,12 +218,12 @@
     },
     {
       "name": "faridlamm",
-      "balance": 11620,
-      "totalEarned": 11721,
+      "balance": 11715,
+      "totalEarned": 11816,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "pitapan",
@@ -272,8 +272,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 10321,
-      "totalEarned": 10321,
+      "balance": 10323,
+      "totalEarned": 10323,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -308,12 +308,12 @@
     },
     {
       "name": "karmahit",
-      "balance": 9756,
-      "totalEarned": 9756,
+      "balance": 9841,
+      "totalEarned": 9841,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "neincs",
@@ -325,6 +325,15 @@
       "streak": 4
     },
     {
+      "name": "arabicoj",
+      "balance": 9010,
+      "totalEarned": 51875,
+      "totalSpent": 42865,
+      "gamesPlayed": 41,
+      "gamesWon": 15,
+      "streak": 5
+    },
+    {
       "name": "eiflas",
       "balance": 8974,
       "totalEarned": 23825,
@@ -334,22 +343,22 @@
       "streak": 2
     },
     {
-      "name": "arabicoj",
-      "balance": 8929,
-      "totalEarned": 51794,
-      "totalSpent": 42865,
-      "gamesPlayed": 41,
-      "gamesWon": 15,
-      "streak": 4
-    },
-    {
       "name": "kazzcs2",
-      "balance": 8686,
-      "totalEarned": 8686,
+      "balance": 8763,
+      "totalEarned": 8763,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
+    },
+    {
+      "name": "bido_maggot",
+      "balance": 8638,
+      "totalEarned": 8638,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 5
     },
     {
       "name": "quantik",
@@ -373,15 +382,6 @@
       "name": "ferrousimpala32",
       "balance": 8578,
       "totalEarned": 8578,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 4
-    },
-    {
-      "name": "bido_maggot",
-      "balance": 8559,
-      "totalEarned": 8559,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,8 +434,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 7748,
-      "totalEarned": 7748,
+      "balance": 7750,
+      "totalEarned": 7750,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1934,
-    "totalCirculating": 2280607,
-    "totalGames": 19530,
+    "totalCirculating": 2271951,
+    "totalGames": 19548,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-22T23:50:43.524Z"
+  "lastUpdated": "2026-05-23T00:20:43.500Z"
 }
