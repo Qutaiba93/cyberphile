@@ -1,10 +1,10 @@
 {
   "totalSessions": 103,
   "totalDays": 89,
-  "totalSegments": 4490,
+  "totalSegments": 4493,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 856256,
+  "totalMessages": 857061,
   "categories": [
     {
       "name": "Rust",
@@ -91,6 +91,13 @@
       "totalMsgs": 10155
     },
     {
+      "name": "Slots & Casino",
+      "avgViewers": 664,
+      "peakViewers": 717,
+      "sampleCount": 6,
+      "totalMsgs": 1407
+    },
+    {
       "name": "The Empty Eyes",
       "avgViewers": 663,
       "peakViewers": 677,
@@ -152,13 +159,6 @@
       "peakViewers": 796,
       "sampleCount": 26,
       "totalMsgs": 4480
-    },
-    {
-      "name": "Slots & Casino",
-      "avgViewers": 627,
-      "peakViewers": 639,
-      "sampleCount": 3,
-      "totalMsgs": 602
     },
     {
       "name": "Counter-Strike 2",
@@ -403,13 +403,13 @@
     },
     "17": {
       "avgViewers": 721,
-      "sampleCount": 428,
-      "totalMsgs": 86044
+      "sampleCount": 429,
+      "totalMsgs": 86245
     },
     "18": {
       "avgViewers": 708,
-      "sampleCount": 429,
-      "totalMsgs": 92315
+      "sampleCount": 431,
+      "totalMsgs": 92919
     },
     "19": {
       "avgViewers": 704,
@@ -605,16 +605,17 @@
     },
     {
       "date": "2026-05-23",
-      "avgViewers": 498,
-      "peakViewers": 672,
-      "totalMsgs": 3715,
+      "avgViewers": 521,
+      "peakViewers": 717,
+      "totalMsgs": 4520,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
-        "Minecraft"
+        "Minecraft",
+        "Slots & Casino"
       ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-23T17:50:43.521Z"
+  "lastUpdated": "2026-05-23T18:20:43.517Z"
 }
