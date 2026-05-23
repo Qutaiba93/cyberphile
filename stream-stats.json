@@ -1,10 +1,10 @@
 {
   "totalSessions": 103,
   "totalDays": 89,
-  "totalSegments": 4514,
+  "totalSegments": 4517,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 863786,
+  "totalMessages": 864612,
   "categories": [
     {
       "name": "Rust",
@@ -24,8 +24,8 @@
       "name": "VALORANT",
       "avgViewers": 761,
       "peakViewers": 17935,
-      "sampleCount": 150,
-      "totalMsgs": 29712
+      "sampleCount": 151,
+      "totalMsgs": 30120
     },
     {
       "name": "Gartic Phone",
@@ -164,8 +164,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 626,
       "peakViewers": 841,
-      "sampleCount": 418,
-      "totalMsgs": 67930
+      "sampleCount": 419,
+      "totalMsgs": 68134
     },
     {
       "name": "Minecraft",
@@ -220,8 +220,8 @@
       "name": "Just Chatting",
       "avgViewers": 592,
       "peakViewers": 903,
-      "sampleCount": 1770,
-      "totalMsgs": 351748
+      "sampleCount": 1771,
+      "totalMsgs": 351962
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -422,14 +422,14 @@
       "totalMsgs": 103418
     },
     "21": {
-      "avgViewers": 687,
-      "sampleCount": 462,
-      "totalMsgs": 91742
+      "avgViewers": 688,
+      "sampleCount": 463,
+      "totalMsgs": 92150
     },
     "22": {
-      "avgViewers": 664,
-      "sampleCount": 393,
-      "totalMsgs": 77470
+      "avgViewers": 665,
+      "sampleCount": 395,
+      "totalMsgs": 77888
     },
     "23": {
       "avgViewers": 630,
@@ -605,19 +605,20 @@
     },
     {
       "date": "2026-05-23",
-      "avgViewers": 622,
+      "avgViewers": 629,
       "peakViewers": 832,
-      "totalMsgs": 11245,
+      "totalMsgs": 12071,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
         "Minecraft",
         "Slots & Casino",
         "Chat Roulette",
-        "IRL"
+        "IRL",
+        "VALORANT"
       ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-23T21:50:43.534Z"
+  "lastUpdated": "2026-05-23T22:20:43.531Z"
 }
