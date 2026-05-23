@@ -1,10 +1,10 @@
 {
-  "totalSessions": 102,
-  "totalDays": 88,
-  "totalSegments": 4466,
+  "totalSessions": 103,
+  "totalDays": 89,
+  "totalSegments": 4469,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 852541,
+  "totalMessages": 852746,
   "categories": [
     {
       "name": "Rust",
@@ -147,18 +147,18 @@
       "totalMsgs": 3485
     },
     {
-      "name": "Counter-Strike 2",
-      "avgViewers": 630,
-      "peakViewers": 841,
-      "sampleCount": 414,
-      "totalMsgs": 67591
-    },
-    {
       "name": "VRChat",
       "avgViewers": 629,
       "peakViewers": 796,
       "sampleCount": 26,
       "totalMsgs": 4480
+    },
+    {
+      "name": "Counter-Strike 2",
+      "avgViewers": 627,
+      "peakViewers": 841,
+      "sampleCount": 417,
+      "totalMsgs": 67796
     },
     {
       "name": "Slots & Casino",
@@ -382,14 +382,14 @@
       "totalMsgs": 324
     },
     "13": {
-      "avgViewers": 201,
-      "sampleCount": 46,
-      "totalMsgs": 4568
+      "avgViewers": 197,
+      "sampleCount": 47,
+      "totalMsgs": 4629
     },
     "14": {
-      "avgViewers": 350,
-      "sampleCount": 246,
-      "totalMsgs": 36944
+      "avgViewers": 349,
+      "sampleCount": 248,
+      "totalMsgs": 37088
     },
     "15": {
       "avgViewers": 523,
@@ -438,19 +438,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-05",
-      "avgViewers": 601,
-      "peakViewers": 708,
-      "totalMsgs": 9131,
-      "categories": [
-        "Just Chatting",
-        "Gamble With Your Friends",
-        "PUBG: Battlegrounds",
-        "Grand Theft Auto V (GTA)",
-        "Minecraft"
-      ]
-    },
     {
       "date": "2026-05-06",
       "avgViewers": 586,
@@ -615,8 +602,17 @@
         "Counter-Strike 2",
         "Grand Theft Auto V (GTA)"
       ]
+    },
+    {
+      "date": "2026-05-23",
+      "avgViewers": 132,
+      "peakViewers": 194,
+      "totalMsgs": 205,
+      "categories": [
+        "Counter-Strike 2"
+      ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-23T13:50:43.540Z"
+  "lastUpdated": "2026-05-23T14:20:43.514Z"
 }
