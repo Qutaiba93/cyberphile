@@ -11,17 +11,17 @@
     },
     {
       "name": "meliziana",
-      "balance": 48305,
-      "totalEarned": 964916,
-      "totalSpent": 959025,
-      "gamesPlayed": 1060,
-      "gamesWon": 412,
+      "balance": 48381,
+      "totalEarned": 971492,
+      "totalSpent": 965525,
+      "gamesPlayed": 1062,
+      "gamesWon": 413,
       "streak": 6
     },
     {
       "name": "shance",
-      "balance": 46923,
-      "totalEarned": 1046110,
+      "balance": 46925,
+      "totalEarned": 1046112,
       "totalSpent": 1080696,
       "gamesPlayed": 553,
       "gamesWon": 205,
@@ -37,21 +37,21 @@
       "streak": 1
     },
     {
-      "name": "m1yaghi",
-      "balance": 26242,
-      "totalEarned": 84649,
-      "totalSpent": 58407,
-      "gamesPlayed": 47,
-      "gamesWon": 20,
-      "streak": 6
-    },
-    {
       "name": "tevb0t",
-      "balance": 26195,
-      "totalEarned": 33535,
+      "balance": 26253,
+      "totalEarned": 33593,
       "totalSpent": 7340,
       "gamesPlayed": 13,
       "gamesWon": 9,
+      "streak": 6
+    },
+    {
+      "name": "m1yaghi",
+      "balance": 26246,
+      "totalEarned": 84653,
+      "totalSpent": 58407,
+      "gamesPlayed": 47,
+      "gamesWon": 20,
       "streak": 6
     },
     {
@@ -101,8 +101,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 14165,
-      "totalEarned": 14165,
+      "balance": 14169,
+      "totalEarned": 14169,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -110,8 +110,8 @@
     },
     {
       "name": "schitt",
-      "balance": 13902,
-      "totalEarned": 13902,
+      "balance": 13910,
+      "totalEarned": 13910,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -137,8 +137,8 @@
     },
     {
       "name": "upkey",
-      "balance": 13483,
-      "totalEarned": 13483,
+      "balance": 13497,
+      "totalEarned": 13497,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -172,20 +172,20 @@
       "streak": 1
     },
     {
+      "name": "kale96",
+      "balance": 12134,
+      "totalEarned": 18684,
+      "totalSpent": 6550,
+      "gamesPlayed": 6,
+      "gamesWon": 0,
+      "streak": 6
+    },
+    {
       "name": "faridlamm",
       "balance": 12131,
       "totalEarned": 12232,
       "totalSpent": 101,
       "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 6
-    },
-    {
-      "name": "kale96",
-      "balance": 12130,
-      "totalEarned": 18680,
-      "totalSpent": 6550,
-      "gamesPlayed": 6,
       "gamesWon": 0,
       "streak": 6
     },
@@ -217,6 +217,15 @@
       "streak": 6
     },
     {
+      "name": "6ixzeven",
+      "balance": 11238,
+      "totalEarned": 1667946,
+      "totalSpent": 1656708,
+      "gamesPlayed": 8925,
+      "gamesWon": 3880,
+      "streak": 6
+    },
+    {
       "name": "intermediatewastakensadge",
       "balance": 11200,
       "totalEarned": 11200,
@@ -227,8 +236,8 @@
     },
     {
       "name": "bbalint320",
-      "balance": 11013,
-      "totalEarned": 11143,
+      "balance": 11027,
+      "totalEarned": 11157,
       "totalSpent": 130,
       "gamesPlayed": 13,
       "gamesWon": 1,
@@ -398,8 +407,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 7926,
-      "totalEarned": 7926,
+      "balance": 7936,
+      "totalEarned": 7936,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -440,21 +449,12 @@
       "gamesPlayed": 3,
       "gamesWon": 1,
       "streak": 3
-    },
-    {
-      "name": "the1chosen_one",
-      "balance": 7403,
-      "totalEarned": 7403,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
     }
   ],
   "stats": {
     "totalPlayers": 1955,
-    "totalCirculating": 2244794,
-    "totalGames": 22347,
+    "totalCirculating": 2255481,
+    "totalGames": 22374,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-24T20:50:43.547Z"
+  "lastUpdated": "2026-05-24T21:20:43.526Z"
 }
