@@ -1,10 +1,10 @@
 {
   "totalSessions": 104,
   "totalDays": 90,
-  "totalSegments": 4559,
+  "totalSegments": 4562,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 874604,
+  "totalMessages": 875616,
   "categories": [
     {
       "name": "Rust",
@@ -64,10 +64,10 @@
     },
     {
       "name": "IRL",
-      "avgViewers": 706,
+      "avgViewers": 707,
       "peakViewers": 886,
-      "sampleCount": 161,
-      "totalMsgs": 56913
+      "sampleCount": 164,
+      "totalMsgs": 57925
     },
     {
       "name": "Trash Horror Collection",
@@ -407,9 +407,9 @@
       "totalMsgs": 87709
     },
     "18": {
-      "avgViewers": 708,
-      "sampleCount": 437,
-      "totalMsgs": 94704
+      "avgViewers": 709,
+      "sampleCount": 440,
+      "totalMsgs": 95716
     },
     "19": {
       "avgViewers": 704,
@@ -607,9 +607,9 @@
     },
     {
       "date": "2026-05-24",
-      "avgViewers": 590,
+      "avgViewers": 609,
       "peakViewers": 827,
-      "totalMsgs": 5889,
+      "totalMsgs": 6901,
       "categories": [
         "Grand Theft Auto V (GTA)",
         "Just Chatting",
@@ -621,5 +621,5 @@
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-24T18:20:43.531Z"
+  "lastUpdated": "2026-05-24T18:50:43.519Z"
 }
