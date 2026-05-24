@@ -1,10 +1,10 @@
 {
   "totalSessions": 103,
   "totalDays": 89,
-  "totalSegments": 4529,
+  "totalSegments": 4532,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 867881,
+  "totalMessages": 868440,
   "categories": [
     {
       "name": "Rust",
@@ -80,8 +80,8 @@
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 680,
       "peakViewers": 839,
-      "sampleCount": 407,
-      "totalMsgs": 67349
+      "sampleCount": 410,
+      "totalMsgs": 67908
     },
     {
       "name": "Sea of Thieves",
@@ -352,9 +352,9 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 577,
-      "sampleCount": 237,
-      "totalMsgs": 33589
+      "avgViewers": 578,
+      "sampleCount": 240,
+      "totalMsgs": 34148
     },
     "1": {
       "avgViewers": 528,
@@ -605,9 +605,9 @@
     },
     {
       "date": "2026-05-23",
-      "avgViewers": 648,
+      "avgViewers": 651,
       "peakViewers": 832,
-      "totalMsgs": 15340,
+      "totalMsgs": 15899,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
@@ -621,5 +621,5 @@
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-24T00:20:43.514Z"
+  "lastUpdated": "2026-05-24T00:50:43.530Z"
 }
