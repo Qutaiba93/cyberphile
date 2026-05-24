@@ -289,6 +289,15 @@
       "streak": 1
     },
     {
+      "name": "6ixzeven",
+      "balance": 9775,
+      "totalEarned": 1602226,
+      "totalSpent": 1592451,
+      "gamesPlayed": 8324,
+      "gamesWon": 3607,
+      "streak": 6
+    },
+    {
       "name": "neincs",
       "balance": 9745,
       "totalEarned": 9745,
@@ -440,21 +449,12 @@
       "gamesPlayed": 3,
       "gamesWon": 1,
       "streak": 2
-    },
-    {
-      "name": "the1chosen_one",
-      "balance": 7403,
-      "totalEarned": 7403,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
     }
   ],
   "stats": {
     "totalPlayers": 1946,
-    "totalCirculating": 2239851,
-    "totalGames": 21344,
+    "totalCirculating": 2243110,
+    "totalGames": 21424,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-24T06:20:43.528Z"
+  "lastUpdated": "2026-05-24T06:50:43.547Z"
 }
