@@ -280,6 +280,15 @@
       "streak": 6
     },
     {
+      "name": "6ixzeven",
+      "balance": 10061,
+      "totalEarned": 1602512,
+      "totalSpent": 1592451,
+      "gamesPlayed": 8324,
+      "gamesWon": 3607,
+      "streak": 6
+    },
+    {
       "name": "nitro_st",
       "balance": 10059,
       "totalEarned": 10059,
@@ -287,15 +296,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "6ixzeven",
-      "balance": 9775,
-      "totalEarned": 1602226,
-      "totalSpent": 1592451,
-      "gamesPlayed": 8324,
-      "gamesWon": 3607,
-      "streak": 6
     },
     {
       "name": "neincs",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1946,
-    "totalCirculating": 2243110,
+    "totalCirculating": 2243396,
     "totalGames": 21424,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-24T06:50:43.547Z"
+  "lastUpdated": "2026-05-24T07:20:43.542Z"
 }
