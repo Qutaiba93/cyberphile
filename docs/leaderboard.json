@@ -29,8 +29,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 31824,
-      "totalEarned": 873024,
+      "balance": 31838,
+      "totalEarned": 873038,
       "totalSpent": 883614,
       "gamesPlayed": 1009,
       "gamesWon": 387,
@@ -65,8 +65,8 @@
     },
     {
       "name": "drogan",
-      "balance": 19450,
-      "totalEarned": 19450,
+      "balance": 19452,
+      "totalEarned": 19452,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -74,12 +74,12 @@
     },
     {
       "name": "nick6",
-      "balance": 17184,
-      "totalEarned": 17185,
+      "balance": 17278,
+      "totalEarned": 17279,
       "totalSpent": 1,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 5
+      "streak": 6
     },
     {
       "name": "anansidagyuki",
@@ -110,8 +110,8 @@
     },
     {
       "name": "schitt",
-      "balance": 13784,
-      "totalEarned": 13784,
+      "balance": 13798,
+      "totalEarned": 13798,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -227,8 +227,8 @@
     },
     {
       "name": "bbalint320",
-      "balance": 10981,
-      "totalEarned": 11111,
+      "balance": 11001,
+      "totalEarned": 11131,
       "totalSpent": 130,
       "gamesPlayed": 13,
       "gamesWon": 1,
@@ -308,8 +308,8 @@
     },
     {
       "name": "quantik",
-      "balance": 8861,
-      "totalEarned": 8861,
+      "balance": 8863,
+      "totalEarned": 8863,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -389,8 +389,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 7920,
-      "totalEarned": 7920,
+      "balance": 7922,
+      "totalEarned": 7922,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1948,
-    "totalCirculating": 2222425,
+    "totalCirculating": 2223740,
     "totalGames": 22041,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-24T16:20:43.526Z"
+  "lastUpdated": "2026-05-24T16:50:43.550Z"
 }
