@@ -1,10 +1,10 @@
 {
   "totalSessions": 104,
   "totalDays": 90,
-  "totalSegments": 4550,
+  "totalSegments": 4553,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 872107,
+  "totalMessages": 872625,
   "categories": [
     {
       "name": "Rust",
@@ -92,10 +92,10 @@
     },
     {
       "name": "Slots & Casino",
-      "avgViewers": 664,
+      "avgViewers": 670,
       "peakViewers": 717,
-      "sampleCount": 6,
-      "totalMsgs": 1407
+      "sampleCount": 7,
+      "totalMsgs": 1578
     },
     {
       "name": "The Empty Eyes",
@@ -220,8 +220,8 @@
       "name": "Just Chatting",
       "avgViewers": 592,
       "peakViewers": 903,
-      "sampleCount": 1784,
-      "totalMsgs": 354636
+      "sampleCount": 1786,
+      "totalMsgs": 354983
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -398,13 +398,13 @@
     },
     "16": {
       "avgViewers": 662,
-      "sampleCount": 424,
-      "totalMsgs": 85467
+      "sampleCount": 425,
+      "totalMsgs": 85638
     },
     "17": {
       "avgViewers": 721,
-      "sampleCount": 429,
-      "totalMsgs": 86245
+      "sampleCount": 431,
+      "totalMsgs": 86592
     },
     "18": {
       "avgViewers": 708,
@@ -607,16 +607,17 @@
     },
     {
       "date": "2026-05-24",
-      "avgViewers": 502,
-      "peakViewers": 686,
-      "totalMsgs": 3392,
+      "avgViewers": 534,
+      "peakViewers": 728,
+      "totalMsgs": 3910,
       "categories": [
         "Grand Theft Auto V (GTA)",
         "Just Chatting",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Slots & Casino"
       ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-24T16:50:43.539Z"
+  "lastUpdated": "2026-05-24T17:20:43.517Z"
 }
