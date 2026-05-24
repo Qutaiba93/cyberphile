@@ -29,8 +29,8 @@
     },
     {
       "name": "zuyu",
-      "balance": 42816,
-      "totalEarned": 132829,
+      "balance": 42906,
+      "totalEarned": 132919,
       "totalSpent": 90013,
       "gamesPlayed": 44,
       "gamesWon": 19,
@@ -38,8 +38,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 26277,
-      "totalEarned": 33617,
+      "balance": 26295,
+      "totalEarned": 33635,
       "totalSpent": 7340,
       "gamesPlayed": 13,
       "gamesWon": 9,
@@ -92,17 +92,17 @@
     },
     {
       "name": "6ixzeven",
-      "balance": 14465,
-      "totalEarned": 1691324,
-      "totalSpent": 1676859,
-      "gamesPlayed": 9027,
-      "gamesWon": 3935,
+      "balance": 14799,
+      "totalEarned": 1692840,
+      "totalSpent": 1678041,
+      "gamesPlayed": 9034,
+      "gamesWon": 3939,
       "streak": 6
     },
     {
       "name": "patwifi",
-      "balance": 14261,
-      "totalEarned": 17109,
+      "balance": 14263,
+      "totalEarned": 17111,
       "totalSpent": 2848,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -110,8 +110,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 14197,
-      "totalEarned": 14197,
+      "balance": 14209,
+      "totalEarned": 14209,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -119,8 +119,8 @@
     },
     {
       "name": "schitt",
-      "balance": 13998,
-      "totalEarned": 13998,
+      "balance": 14050,
+      "totalEarned": 14050,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -181,20 +181,20 @@
       "streak": 1
     },
     {
+      "name": "faridlamm",
+      "balance": 12155,
+      "totalEarned": 12256,
+      "totalSpent": 101,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 6
+    },
+    {
       "name": "kale96",
       "balance": 12142,
       "totalEarned": 18692,
       "totalSpent": 6550,
       "gamesPlayed": 6,
-      "gamesWon": 0,
-      "streak": 6
-    },
-    {
-      "name": "faridlamm",
-      "balance": 12133,
-      "totalEarned": 12234,
-      "totalSpent": 101,
-      "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 6
     },
@@ -236,8 +236,8 @@
     },
     {
       "name": "bbalint320",
-      "balance": 11097,
-      "totalEarned": 11227,
+      "balance": 11101,
+      "totalEarned": 11231,
       "totalSpent": 130,
       "gamesPlayed": 13,
       "gamesWon": 1,
@@ -272,8 +272,8 @@
     },
     {
       "name": "karmahit",
-      "balance": 10165,
-      "totalEarned": 10165,
+      "balance": 10179,
+      "totalEarned": 10179,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -343,18 +343,18 @@
       "streak": 6
     },
     {
-      "name": "ferrousimpala32",
-      "balance": 8785,
-      "totalEarned": 8785,
+      "name": "bido_maggot",
+      "balance": 8788,
+      "totalEarned": 8788,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 6
     },
     {
-      "name": "bido_maggot",
-      "balance": 8784,
-      "totalEarned": 8784,
+      "name": "ferrousimpala32",
+      "balance": 8785,
+      "totalEarned": 8785,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -407,8 +407,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 7942,
-      "totalEarned": 7942,
+      "balance": 7948,
+      "totalEarned": 7948,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,8 +434,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 7755,
-      "totalEarned": 7755,
+      "balance": 7769,
+      "totalEarned": 7769,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 1960,
-    "totalCirculating": 2266505,
-    "totalGames": 22524,
+    "totalPlayers": 1961,
+    "totalCirculating": 2266044,
+    "totalGames": 22557,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-24T23:20:43.548Z"
+  "lastUpdated": "2026-05-24T23:50:43.544Z"
 }
