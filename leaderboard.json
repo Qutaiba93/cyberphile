@@ -82,15 +82,6 @@
       "streak": 5
     },
     {
-      "name": "darth70",
-      "balance": 16477,
-      "totalEarned": 16477,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 5
-    },
-    {
       "name": "anansidagyuki",
       "balance": 15302,
       "totalEarned": 19501,
@@ -262,15 +253,6 @@
       "streak": 2
     },
     {
-      "name": "6ixzeven",
-      "balance": 10522,
-      "totalEarned": 1529231,
-      "totalSpent": 1518709,
-      "gamesPlayed": 7810,
-      "gamesWon": 3356,
-      "streak": 6
-    },
-    {
       "name": "lena_xc",
       "balance": 10493,
       "totalEarned": 10493,
@@ -278,6 +260,15 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
+    },
+    {
+      "name": "6ixzeven",
+      "balance": 10310,
+      "totalEarned": 1538861,
+      "totalSpent": 1528551,
+      "gamesPlayed": 7819,
+      "gamesWon": 3360,
+      "streak": 6
     },
     {
       "name": "damiybe",
@@ -449,12 +440,21 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 6
+    },
+    {
+      "name": "politecatt",
+      "balance": 7501,
+      "totalEarned": 7551,
+      "totalSpent": 50,
+      "gamesPlayed": 3,
+      "gamesWon": 1,
+      "streak": 2
     }
   ],
   "stats": {
-    "totalPlayers": 1945,
-    "totalCirculating": 2257651,
-    "totalGames": 20895,
+    "totalPlayers": 1946,
+    "totalCirculating": 2243704,
+    "totalGames": 20910,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-24T01:50:43.547Z"
+  "lastUpdated": "2026-05-24T02:20:43.527Z"
 }
