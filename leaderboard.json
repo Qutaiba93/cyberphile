@@ -38,8 +38,8 @@
     },
     {
       "name": "m1yaghi",
-      "balance": 27910,
-      "totalEarned": 84317,
+      "balance": 27926,
+      "totalEarned": 84333,
       "totalSpent": 56407,
       "gamesPlayed": 43,
       "gamesWon": 20,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1946,
-    "totalCirculating": 2233650,
+    "totalCirculating": 2233850,
     "totalGames": 20929,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-24T02:50:43.530Z"
+  "lastUpdated": "2026-05-24T03:20:43.551Z"
 }
