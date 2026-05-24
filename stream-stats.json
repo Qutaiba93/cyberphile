@@ -1,10 +1,10 @@
 {
   "totalSessions": 104,
   "totalDays": 90,
-  "totalSegments": 4553,
+  "totalSegments": 4556,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 872625,
+  "totalMessages": 873481,
   "categories": [
     {
       "name": "Rust",
@@ -45,8 +45,8 @@
       "name": "Chat Roulette",
       "avgViewers": 726,
       "peakViewers": 916,
-      "sampleCount": 443,
-      "totalMsgs": 99337
+      "sampleCount": 446,
+      "totalMsgs": 100193
     },
     {
       "name": "Grand Theft Auto VI (GTA)",
@@ -403,8 +403,8 @@
     },
     "17": {
       "avgViewers": 721,
-      "sampleCount": 431,
-      "totalMsgs": 86592
+      "sampleCount": 434,
+      "totalMsgs": 87448
     },
     "18": {
       "avgViewers": 708,
@@ -607,17 +607,18 @@
     },
     {
       "date": "2026-05-24",
-      "avgViewers": 534,
-      "peakViewers": 728,
-      "totalMsgs": 3910,
+      "avgViewers": 569,
+      "peakViewers": 827,
+      "totalMsgs": 4766,
       "categories": [
         "Grand Theft Auto V (GTA)",
         "Just Chatting",
         "Counter-Strike 2",
-        "Slots & Casino"
+        "Slots & Casino",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-24T17:20:43.517Z"
+  "lastUpdated": "2026-05-24T17:50:43.539Z"
 }
