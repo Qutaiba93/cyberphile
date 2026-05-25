@@ -1,10 +1,10 @@
 {
   "totalSessions": 104,
   "totalDays": 90,
-  "totalSegments": 4598,
+  "totalSegments": 4600,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 885481,
+  "totalMessages": 886112,
   "categories": [
     {
       "name": "Rust",
@@ -57,10 +57,10 @@
     },
     {
       "name": "IRL",
-      "avgViewers": 711,
+      "avgViewers": 710,
       "peakViewers": 886,
-      "sampleCount": 176,
-      "totalMsgs": 62396
+      "sampleCount": 178,
+      "totalMsgs": 63027
     },
     {
       "name": "Log Riders",
@@ -352,14 +352,14 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 581,
-      "sampleCount": 246,
-      "totalMsgs": 35966
+      "avgViewers": 582,
+      "sampleCount": 247,
+      "totalMsgs": 36137
     },
     "1": {
-      "avgViewers": 528,
-      "sampleCount": 136,
-      "totalMsgs": 20537
+      "avgViewers": 529,
+      "sampleCount": 137,
+      "totalMsgs": 20997
     },
     "2": {
       "avgViewers": 486,
@@ -607,9 +607,9 @@
     },
     {
       "date": "2026-05-24",
-      "avgViewers": 693,
+      "avgViewers": 692,
       "peakViewers": 848,
-      "totalMsgs": 16766,
+      "totalMsgs": 17397,
       "categories": [
         "Grand Theft Auto V (GTA)",
         "Just Chatting",
@@ -621,5 +621,5 @@
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-25T00:50:43.522Z"
+  "lastUpdated": "2026-05-25T01:20:43.522Z"
 }
