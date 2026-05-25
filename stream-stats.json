@@ -1,10 +1,10 @@
 {
   "totalSessions": 105,
   "totalDays": 91,
-  "totalSegments": 4636,
+  "totalSegments": 4639,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 894426,
+  "totalMessages": 895307,
   "categories": [
     {
       "name": "Rust",
@@ -59,8 +59,8 @@
       "name": "IRL",
       "avgViewers": 713,
       "peakViewers": 886,
-      "sampleCount": 190,
-      "totalMsgs": 66905
+      "sampleCount": 191,
+      "totalMsgs": 67031
     },
     {
       "name": "Log Riders",
@@ -77,6 +77,13 @@
       "totalMsgs": 3389
     },
     {
+      "name": "Slots & Casino",
+      "avgViewers": 688,
+      "peakViewers": 754,
+      "sampleCount": 9,
+      "totalMsgs": 2333
+    },
+    {
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 678,
       "peakViewers": 839,
@@ -89,13 +96,6 @@
       "peakViewers": 776,
       "sampleCount": 59,
       "totalMsgs": 10155
-    },
-    {
-      "name": "Slots & Casino",
-      "avgViewers": 670,
-      "peakViewers": 717,
-      "sampleCount": 7,
-      "totalMsgs": 1578
     },
     {
       "name": "The Empty Eyes",
@@ -417,9 +417,9 @@
       "totalMsgs": 99771
     },
     "20": {
-      "avgViewers": 681,
-      "sampleCount": 479,
-      "totalMsgs": 105437
+      "avgViewers": 682,
+      "sampleCount": 482,
+      "totalMsgs": 106318
     },
     "21": {
       "avgViewers": 688,
@@ -608,16 +608,17 @@
     },
     {
       "date": "2026-05-25",
-      "avgViewers": 593,
+      "avgViewers": 604,
       "peakViewers": 804,
-      "totalMsgs": 8314,
+      "totalMsgs": 9195,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
-        "IRL"
+        "IRL",
+        "Slots & Casino"
       ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-25T20:20:43.533Z"
+  "lastUpdated": "2026-05-25T20:50:43.532Z"
 }
