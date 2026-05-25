@@ -1,10 +1,10 @@
 {
   "totalSessions": 105,
   "totalDays": 91,
-  "totalSegments": 4651,
+  "totalSegments": 4654,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 899466,
+  "totalMessages": 899960,
   "categories": [
     {
       "name": "Rust",
@@ -22,10 +22,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 761,
+      "avgViewers": 760,
       "peakViewers": 17935,
-      "sampleCount": 151,
-      "totalMsgs": 30120
+      "sampleCount": 152,
+      "totalMsgs": 30281
     },
     {
       "name": "Gartic Phone",
@@ -150,8 +150,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 631,
       "peakViewers": 841,
-      "sampleCount": 455,
-      "totalMsgs": 74539
+      "sampleCount": 457,
+      "totalMsgs": 74872
     },
     {
       "name": "Sons of the Forest",
@@ -428,13 +428,13 @@
     },
     "22": {
       "avgViewers": 667,
-      "sampleCount": 410,
-      "totalMsgs": 82725
+      "sampleCount": 411,
+      "totalMsgs": 82818
     },
     "23": {
       "avgViewers": 634,
-      "sampleCount": 312,
-      "totalMsgs": 56253
+      "sampleCount": 314,
+      "totalMsgs": 56654
     }
   },
   "dailyHistory": [
@@ -608,18 +608,19 @@
     },
     {
       "date": "2026-05-25",
-      "avgViewers": 628,
+      "avgViewers": 629,
       "peakViewers": 804,
-      "totalMsgs": 13354,
+      "totalMsgs": 13848,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
         "IRL",
         "Slots & Casino",
-        "Grand Theft Auto V (GTA)"
+        "Grand Theft Auto V (GTA)",
+        "VALORANT"
       ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-25T22:50:43.537Z"
+  "lastUpdated": "2026-05-25T23:20:43.531Z"
 }
