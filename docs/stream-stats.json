@@ -1,10 +1,10 @@
 {
-  "totalSessions": 104,
-  "totalDays": 90,
-  "totalSegments": 4600,
+  "totalSessions": 105,
+  "totalDays": 91,
+  "totalSegments": 4603,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 886112,
+  "totalMessages": 886772,
   "categories": [
     {
       "name": "Rust",
@@ -218,10 +218,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 593,
+      "avgViewers": 592,
       "peakViewers": 903,
-      "sampleCount": 1799,
-      "totalMsgs": 358682
+      "sampleCount": 1802,
+      "totalMsgs": 359342
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -387,9 +387,9 @@
       "totalMsgs": 4629
     },
     "14": {
-      "avgViewers": 347,
-      "sampleCount": 258,
-      "totalMsgs": 38788
+      "avgViewers": 345,
+      "sampleCount": 261,
+      "totalMsgs": 39448
     },
     "15": {
       "avgViewers": 524,
@@ -438,19 +438,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-07",
-      "avgViewers": 620,
-      "peakViewers": 745,
-      "totalMsgs": 10320,
-      "categories": [
-        "Just Chatting",
-        "Minecraft",
-        "Grand Theft Auto V (GTA)",
-        "Chat Roulette",
-        "VRChat"
-      ]
-    },
     {
       "date": "2026-05-08",
       "avgViewers": 611,
@@ -618,8 +605,17 @@
         "Chat Roulette",
         "IRL"
       ]
+    },
+    {
+      "date": "2026-05-25",
+      "avgViewers": 182,
+      "peakViewers": 253,
+      "totalMsgs": 660,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-25T14:20:43.535Z"
+  "lastUpdated": "2026-05-25T14:50:43.530Z"
 }
