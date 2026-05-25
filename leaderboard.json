@@ -29,11 +29,11 @@
     },
     {
       "name": "6ixzeven",
-      "balance": 27354,
-      "totalEarned": 1901706,
-      "totalSpent": 1874352,
-      "gamesPlayed": 9830,
-      "gamesWon": 4294,
+      "balance": 33030,
+      "totalEarned": 1908167,
+      "totalSpent": 1875137,
+      "gamesPlayed": 9833,
+      "gamesWon": 4295,
       "streak": 7
     },
     {
@@ -74,8 +74,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 19504,
-      "totalEarned": 1084915,
+      "balance": 19530,
+      "totalEarned": 1084941,
       "totalSpent": 1107825,
       "gamesPlayed": 1114,
       "gamesWon": 434,
@@ -245,8 +245,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 10737,
-      "totalEarned": 10737,
+      "balance": 10743,
+      "totalEarned": 10743,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -263,8 +263,8 @@
     },
     {
       "name": "karmahit",
-      "balance": 10284,
-      "totalEarned": 10284,
+      "balance": 10286,
+      "totalEarned": 10286,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -325,6 +325,15 @@
       "streak": 7
     },
     {
+      "name": "bido_maggot",
+      "balance": 8907,
+      "totalEarned": 8907,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 7
+    },
+    {
       "name": "xaqin",
       "balance": 8904,
       "totalEarned": 8904,
@@ -334,18 +343,9 @@
       "streak": 7
     },
     {
-      "name": "bido_maggot",
-      "balance": 8901,
-      "totalEarned": 8901,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 7
-    },
-    {
       "name": "iam_umii",
-      "balance": 8827,
-      "totalEarned": 8827,
+      "balance": 8837,
+      "totalEarned": 8837,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -389,8 +389,8 @@
     },
     {
       "name": "shahin",
-      "balance": 8110,
-      "totalEarned": 11310,
+      "balance": 8112,
+      "totalEarned": 11312,
       "totalSpent": 3200,
       "gamesPlayed": 3,
       "gamesWon": 3,
@@ -407,8 +407,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 8037,
-      "totalEarned": 8037,
+      "balance": 8039,
+      "totalEarned": 8039,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -416,8 +416,8 @@
     },
     {
       "name": "julius666",
-      "balance": 7991,
-      "totalEarned": 7991,
+      "balance": 7995,
+      "totalEarned": 7995,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1967,
-    "totalCirculating": 2248218,
-    "totalGames": 23504,
+    "totalCirculating": 2249743,
+    "totalGames": 23528,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-25T15:50:43.531Z"
+  "lastUpdated": "2026-05-25T16:20:43.541Z"
 }

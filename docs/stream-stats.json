@@ -1,10 +1,10 @@
 {
   "totalSessions": 105,
   "totalDays": 91,
-  "totalSegments": 4609,
+  "totalSegments": 4612,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 888143,
+  "totalMessages": 888531,
   "categories": [
     {
       "name": "Rust",
@@ -147,18 +147,18 @@
       "totalMsgs": 7649
     },
     {
-      "name": "Counter-Strike 2",
-      "avgViewers": 631,
-      "peakViewers": 841,
-      "sampleCount": 438,
-      "totalMsgs": 71599
-    },
-    {
       "name": "Sons of the Forest",
       "avgViewers": 631,
       "peakViewers": 693,
       "sampleCount": 23,
       "totalMsgs": 3485
+    },
+    {
+      "name": "Counter-Strike 2",
+      "avgViewers": 630,
+      "peakViewers": 841,
+      "sampleCount": 441,
+      "totalMsgs": 71987
     },
     {
       "name": "VRChat",
@@ -393,13 +393,13 @@
     },
     "15": {
       "avgViewers": 523,
-      "sampleCount": 379,
-      "totalMsgs": 69792
+      "sampleCount": 380,
+      "totalMsgs": 69933
     },
     "16": {
-      "avgViewers": 662,
-      "sampleCount": 425,
-      "totalMsgs": 85638
+      "avgViewers": 661,
+      "sampleCount": 427,
+      "totalMsgs": 85885
     },
     "17": {
       "avgViewers": 721,
@@ -608,9 +608,9 @@
     },
     {
       "date": "2026-05-25",
-      "avgViewers": 328,
-      "peakViewers": 477,
-      "totalMsgs": 2031,
+      "avgViewers": 380,
+      "peakViewers": 550,
+      "totalMsgs": 2419,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2"
@@ -618,5 +618,5 @@
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-25T15:50:43.524Z"
+  "lastUpdated": "2026-05-25T16:20:43.533Z"
 }
