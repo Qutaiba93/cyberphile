@@ -55,6 +55,15 @@
       "streak": 6
     },
     {
+      "name": "6ixzeven",
+      "balance": 23341,
+      "totalEarned": 1763449,
+      "totalSpent": 1740108,
+      "gamesPlayed": 9250,
+      "gamesWon": 4038,
+      "streak": 7
+    },
+    {
       "name": "weppss",
       "balance": 19705,
       "totalEarned": 25600,
@@ -80,15 +89,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 6
-    },
-    {
-      "name": "6ixzeven",
-      "balance": 16919,
-      "totalEarned": 1722737,
-      "totalSpent": 1705818,
-      "gamesPlayed": 9145,
-      "gamesWon": 3987,
-      "streak": 7
     },
     {
       "name": "anansidagyuki",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1963,
-    "totalCirculating": 2265107,
-    "totalGames": 22704,
+    "totalCirculating": 2271529,
+    "totalGames": 22809,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-25T07:20:43.540Z"
+  "lastUpdated": "2026-05-25T07:50:43.535Z"
 }
