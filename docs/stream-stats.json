@@ -1,10 +1,10 @@
 {
   "totalSessions": 105,
   "totalDays": 91,
-  "totalSegments": 4654,
+  "totalSegments": 4657,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 899960,
+  "totalMessages": 900519,
   "categories": [
     {
       "name": "Rust",
@@ -22,10 +22,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 760,
+      "avgViewers": 757,
       "peakViewers": 17935,
-      "sampleCount": 152,
-      "totalMsgs": 30281
+      "sampleCount": 155,
+      "totalMsgs": 30840
     },
     {
       "name": "Gartic Phone",
@@ -433,8 +433,8 @@
     },
     "23": {
       "avgViewers": 634,
-      "sampleCount": 314,
-      "totalMsgs": 56654
+      "sampleCount": 317,
+      "totalMsgs": 57213
     }
   },
   "dailyHistory": [
@@ -608,9 +608,9 @@
     },
     {
       "date": "2026-05-25",
-      "avgViewers": 629,
+      "avgViewers": 630,
       "peakViewers": 804,
-      "totalMsgs": 13848,
+      "totalMsgs": 14407,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -622,5 +622,5 @@
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-25T23:20:43.531Z"
+  "lastUpdated": "2026-05-25T23:50:43.534Z"
 }
