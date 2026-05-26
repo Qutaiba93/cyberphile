@@ -1,18 +1,18 @@
 {
   "leaderboard": [
     {
-      "name": "uncommonletter",
-      "balance": 62143,
-      "totalEarned": 286694,
-      "totalSpent": 224551,
-      "gamesPlayed": 236,
-      "gamesWon": 110,
-      "streak": 5
+      "name": "uncommonkey",
+      "balance": 62159,
+      "totalEarned": 2174,
+      "totalSpent": 2070,
+      "gamesPlayed": 16,
+      "gamesWon": 5,
+      "streak": 4
     },
     {
       "name": "shance",
-      "balance": 47186,
-      "totalEarned": 1046373,
+      "balance": 47212,
+      "totalEarned": 1046399,
       "totalSpent": 1080696,
       "gamesPlayed": 553,
       "gamesWon": 205,
@@ -92,8 +92,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 14554,
-      "totalEarned": 14554,
+      "balance": 14590,
+      "totalEarned": 14590,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -101,8 +101,8 @@
     },
     {
       "name": "schitt",
-      "balance": 14415,
-      "totalEarned": 14415,
+      "balance": 14419,
+      "totalEarned": 14419,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -119,8 +119,8 @@
     },
     {
       "name": "papaah",
-      "balance": 13755,
-      "totalEarned": 14756,
+      "balance": 13767,
+      "totalEarned": 14768,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,8 +146,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 12728,
-      "totalEarned": 12829,
+      "balance": 12730,
+      "totalEarned": 12831,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -308,8 +308,8 @@
     },
     {
       "name": "bido_maggot",
-      "balance": 9111,
-      "totalEarned": 9111,
+      "balance": 9115,
+      "totalEarned": 9115,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -353,8 +353,8 @@
     },
     {
       "name": "tonynairobi",
-      "balance": 8639,
-      "totalEarned": 8639,
+      "balance": 8663,
+      "totalEarned": 8663,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -362,8 +362,8 @@
     },
     {
       "name": "skullyontop",
-      "balance": 8428,
-      "totalEarned": 8438,
+      "balance": 8436,
+      "totalEarned": 8446,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 1,
@@ -389,8 +389,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 8173,
-      "totalEarned": 8173,
+      "balance": 8177,
+      "totalEarned": 8177,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1986,
-    "totalCirculating": 2270825,
+    "totalCirculating": 2272160,
     "totalGames": 24222,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-26T16:50:43.560Z"
+  "lastUpdated": "2026-05-26T17:20:43.560Z"
 }
