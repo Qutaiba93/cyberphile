@@ -1,10 +1,10 @@
 {
   "totalSessions": 106,
   "totalDays": 92,
-  "totalSegments": 4695,
+  "totalSegments": 4698,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 909228,
+  "totalMessages": 910022,
   "categories": [
     {
       "name": "Rust",
@@ -148,10 +148,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 631,
+      "avgViewers": 632,
       "peakViewers": 841,
-      "sampleCount": 459,
-      "totalMsgs": 75188
+      "sampleCount": 462,
+      "totalMsgs": 75982
     },
     {
       "name": "Sons of the Forest",
@@ -407,9 +407,9 @@
       "totalMsgs": 89404
     },
     "18": {
-      "avgViewers": 709,
-      "sampleCount": 449,
-      "totalMsgs": 98337
+      "avgViewers": 710,
+      "sampleCount": 452,
+      "totalMsgs": 99131
     },
     "19": {
       "avgViewers": 706,
@@ -610,9 +610,9 @@
     },
     {
       "date": "2026-05-26",
-      "avgViewers": 569,
-      "peakViewers": 747,
-      "totalMsgs": 4165,
+      "avgViewers": 590,
+      "peakViewers": 762,
+      "totalMsgs": 4959,
       "categories": [
         "IRL",
         "Just Chatting",
@@ -621,5 +621,5 @@
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-26T18:20:43.525Z"
+  "lastUpdated": "2026-05-26T18:50:43.541Z"
 }
