@@ -280,15 +280,6 @@
       "streak": 1
     },
     {
-      "name": "meliziana",
-      "balance": 10030,
-      "totalEarned": 1136941,
-      "totalSpent": 1169325,
-      "gamesPlayed": 1171,
-      "gamesWon": 464,
-      "streak": 8
-    },
-    {
       "name": "neincs",
       "balance": 9745,
       "totalEarned": 9745,
@@ -304,6 +295,15 @@
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
+      "streak": 8
+    },
+    {
+      "name": "meliziana",
+      "balance": 9148,
+      "totalEarned": 1137359,
+      "totalSpent": 1170625,
+      "gamesPlayed": 1173,
+      "gamesWon": 464,
       "streak": 8
     },
     {
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 1982,
-    "totalCirculating": 2266480,
-    "totalGames": 24157,
+    "totalCirculating": 2264660,
+    "totalGames": 24193,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-26T11:50:43.543Z"
+  "lastUpdated": "2026-05-26T12:20:43.561Z"
 }
