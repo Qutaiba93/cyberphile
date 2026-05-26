@@ -1,10 +1,10 @@
 {
-  "totalSessions": 105,
-  "totalDays": 91,
-  "totalSegments": 4672,
+  "totalSessions": 106,
+  "totalDays": 92,
+  "totalSegments": 4674,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 905063,
+  "totalMessages": 905453,
   "categories": [
     {
       "name": "Rust",
@@ -63,18 +63,18 @@
       "totalMsgs": 280
     },
     {
-      "name": "IRL",
-      "avgViewers": 708,
-      "peakViewers": 886,
-      "sampleCount": 201,
-      "totalMsgs": 70603
-    },
-    {
       "name": "Slots & Casino",
       "avgViewers": 708,
       "peakViewers": 786,
       "sampleCount": 12,
       "totalMsgs": 3933
+    },
+    {
+      "name": "IRL",
+      "avgViewers": 704,
+      "peakViewers": 886,
+      "sampleCount": 202,
+      "totalMsgs": 70752
     },
     {
       "name": "Trash Horror Collection",
@@ -220,8 +220,8 @@
       "name": "Just Chatting",
       "avgViewers": 592,
       "peakViewers": 903,
-      "sampleCount": 1811,
-      "totalMsgs": 361907
+      "sampleCount": 1812,
+      "totalMsgs": 362148
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -387,9 +387,9 @@
       "totalMsgs": 4629
     },
     "14": {
-      "avgViewers": 345,
-      "sampleCount": 262,
-      "totalMsgs": 39681
+      "avgViewers": 343,
+      "sampleCount": 264,
+      "totalMsgs": 40071
     },
     "15": {
       "avgViewers": 523,
@@ -438,18 +438,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-08",
-      "avgViewers": 611,
-      "peakViewers": 755,
-      "totalMsgs": 3851,
-      "categories": [
-        "Just Chatting",
-        "Chat Roulette",
-        "Grand Theft Auto V (GTA)",
-        "Minecraft"
-      ]
-    },
     {
       "date": "2026-05-09",
       "avgViewers": 642,
@@ -619,8 +607,18 @@
         "Grand Theft Auto V (GTA)",
         "VALORANT"
       ]
+    },
+    {
+      "date": "2026-05-26",
+      "avgViewers": 119,
+      "peakViewers": 194,
+      "totalMsgs": 390,
+      "categories": [
+        "IRL",
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-26T14:20:43.544Z"
+  "lastUpdated": "2026-05-26T14:50:43.528Z"
 }
