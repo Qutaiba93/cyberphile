@@ -47,9 +47,9 @@
     },
     {
       "name": "6ixzeven",
-      "balance": 25994,
-      "totalEarned": 1937463,
-      "totalSpent": 1911469,
+      "balance": 25931,
+      "totalEarned": 1937467,
+      "totalSpent": 1911536,
       "gamesPlayed": 9971,
       "gamesWon": 4345,
       "streak": 8
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1982,
-    "totalCirculating": 2281655,
+    "totalCirculating": 2281669,
     "totalGames": 23909,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-26T02:50:43.550Z"
+  "lastUpdated": "2026-05-26T03:20:43.555Z"
 }
