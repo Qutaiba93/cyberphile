@@ -74,12 +74,12 @@
     },
     {
       "name": "nick6",
-      "balance": 17835,
-      "totalEarned": 17836,
+      "balance": 17932,
+      "totalEarned": 17933,
       "totalSpent": 1,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 8
+      "streak": 9
     },
     {
       "name": "anansidagyuki",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 1996,
-    "totalCirculating": 2279100,
+    "totalCirculating": 2279256,
     "totalGames": 24320,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-27T18:50:43.540Z"
+  "lastUpdated": "2026-05-27T19:20:43.521Z"
 }
