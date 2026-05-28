@@ -1,10 +1,10 @@
 {
   "totalSessions": 107,
   "totalDays": 93,
-  "totalSegments": 4762,
+  "totalSegments": 4765,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 930244,
+  "totalMessages": 930670,
   "categories": [
     {
       "name": "Rust",
@@ -64,10 +64,10 @@
     },
     {
       "name": "IRL",
-      "avgViewers": 707,
+      "avgViewers": 706,
       "peakViewers": 886,
-      "sampleCount": 235,
-      "totalMsgs": 85914
+      "sampleCount": 238,
+      "totalMsgs": 86340
     },
     {
       "name": "Trash Horror Collection",
@@ -423,13 +423,13 @@
     },
     "21": {
       "avgViewers": 689,
-      "sampleCount": 486,
-      "totalMsgs": 98923
+      "sampleCount": 487,
+      "totalMsgs": 99010
     },
     "22": {
       "avgViewers": 667,
-      "sampleCount": 411,
-      "totalMsgs": 82818
+      "sampleCount": 413,
+      "totalMsgs": 83157
     },
     "23": {
       "avgViewers": 634,
@@ -608,9 +608,9 @@
     },
     {
       "date": "2026-05-28",
-      "avgViewers": 626,
+      "avgViewers": 625,
       "peakViewers": 775,
-      "totalMsgs": 16332,
+      "totalMsgs": 16758,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -620,5 +620,5 @@
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-28T21:50:43.614Z"
+  "lastUpdated": "2026-05-28T22:20:43.619Z"
 }
