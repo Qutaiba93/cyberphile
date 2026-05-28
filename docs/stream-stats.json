@@ -1,10 +1,10 @@
 {
   "totalSessions": 107,
   "totalDays": 93,
-  "totalSegments": 4723,
+  "totalSegments": 4726,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 914964,
+  "totalMessages": 915629,
   "categories": [
     {
       "name": "Rust",
@@ -63,13 +63,6 @@
       "totalMsgs": 280
     },
     {
-      "name": "Slots & Casino",
-      "avgViewers": 708,
-      "peakViewers": 786,
-      "sampleCount": 12,
-      "totalMsgs": 3933
-    },
-    {
       "name": "IRL",
       "avgViewers": 705,
       "peakViewers": 886,
@@ -89,6 +82,13 @@
       "peakViewers": 839,
       "sampleCount": 415,
       "totalMsgs": 69023
+    },
+    {
+      "name": "Slots & Casino",
+      "avgViewers": 677,
+      "peakViewers": 786,
+      "sampleCount": 14,
+      "totalMsgs": 4468
     },
     {
       "name": "Sea of Thieves",
@@ -220,8 +220,8 @@
       "name": "Just Chatting",
       "avgViewers": 591,
       "peakViewers": 903,
-      "sampleCount": 1837,
-      "totalMsgs": 366659
+      "sampleCount": 1838,
+      "totalMsgs": 366789
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -393,8 +393,8 @@
     },
     "15": {
       "avgViewers": 521,
-      "sampleCount": 388,
-      "totalMsgs": 71779
+      "sampleCount": 391,
+      "totalMsgs": 72444
     },
     "16": {
       "avgViewers": 661,
@@ -608,14 +608,15 @@
     },
     {
       "date": "2026-05-28",
-      "avgViewers": 299,
-      "peakViewers": 412,
-      "totalMsgs": 1052,
+      "avgViewers": 363,
+      "peakViewers": 522,
+      "totalMsgs": 1717,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Slots & Casino"
       ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-28T15:20:43.617Z"
+  "lastUpdated": "2026-05-28T15:50:43.615Z"
 }
