@@ -29,8 +29,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 34246,
-      "totalEarned": 55959,
+      "balance": 34286,
+      "totalEarned": 55999,
       "totalSpent": 21713,
       "gamesPlayed": 25,
       "gamesWon": 16,
@@ -47,8 +47,8 @@
     },
     {
       "name": "drogan",
-      "balance": 20932,
-      "totalEarned": 20932,
+      "balance": 20934,
+      "totalEarned": 20934,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -83,8 +83,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 16212,
-      "totalEarned": 20411,
+      "balance": 16228,
+      "totalEarned": 20427,
       "totalSpent": 4199,
       "gamesPlayed": 24,
       "gamesWon": 5,
@@ -92,8 +92,8 @@
     },
     {
       "name": "schitt",
-      "balance": 14950,
-      "totalEarned": 14950,
+      "balance": 14958,
+      "totalEarned": 14958,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,8 +146,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 13213,
-      "totalEarned": 13314,
+      "balance": 13217,
+      "totalEarned": 13318,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -173,12 +173,12 @@
     },
     {
       "name": "machamp1",
-      "balance": 12649,
-      "totalEarned": 12874,
+      "balance": 12713,
+      "totalEarned": 12938,
       "totalSpent": 225,
       "gamesPlayed": 5,
       "gamesWon": 1,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "furrreal",
@@ -344,8 +344,8 @@
     },
     {
       "name": "ferrousimpala32",
-      "balance": 9117,
-      "totalEarned": 9117,
+      "balance": 9155,
+      "totalEarned": 9155,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -362,8 +362,8 @@
     },
     {
       "name": "confusion",
-      "balance": 8744,
-      "totalEarned": 9259,
+      "balance": 8746,
+      "totalEarned": 9261,
       "totalSpent": 515,
       "gamesPlayed": 11,
       "gamesWon": 4,
@@ -434,8 +434,8 @@
     },
     {
       "name": "shahin",
-      "balance": 7535,
-      "totalEarned": 13235,
+      "balance": 7565,
+      "totalEarned": 13265,
       "totalSpent": 5700,
       "gamesPlayed": 28,
       "gamesWon": 3,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 2008,
-    "totalCirculating": 2378182,
-    "totalGames": 24431,
+    "totalCirculating": 2378752,
+    "totalGames": 24435,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-29T21:50:43.651Z"
+  "lastUpdated": "2026-05-29T22:20:43.652Z"
 }
