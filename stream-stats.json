@@ -1,10 +1,10 @@
 {
   "totalSessions": 108,
   "totalDays": 94,
-  "totalSegments": 4793,
+  "totalSegments": 4796,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 936197,
+  "totalMessages": 936616,
   "categories": [
     {
       "name": "Rust",
@@ -150,8 +150,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 633,
       "peakViewers": 841,
-      "sampleCount": 477,
-      "totalMsgs": 78142
+      "sampleCount": 478,
+      "totalMsgs": 78275
     },
     {
       "name": "Sons of the Forest",
@@ -208,6 +208,13 @@
       "peakViewers": 652,
       "sampleCount": 10,
       "totalMsgs": 1817
+    },
+    {
+      "name": "007 First Light",
+      "avgViewers": 600,
+      "peakViewers": 619,
+      "sampleCount": 2,
+      "totalMsgs": 286
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -418,8 +425,8 @@
     },
     "20": {
       "avgViewers": 683,
-      "sampleCount": 497,
-      "totalMsgs": 113656
+      "sampleCount": 500,
+      "totalMsgs": 114075
     },
     "21": {
       "avgViewers": 689,
@@ -607,14 +614,16 @@
     },
     {
       "date": "2026-05-29",
-      "avgViewers": 512,
+      "avgViewers": 523,
       "peakViewers": 680,
-      "totalMsgs": 4651,
+      "totalMsgs": 5070,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Counter-Strike 2",
+        "007 First Light"
       ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-29T20:20:43.641Z"
+  "lastUpdated": "2026-05-29T20:50:43.642Z"
 }
