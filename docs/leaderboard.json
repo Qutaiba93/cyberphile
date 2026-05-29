@@ -38,12 +38,12 @@
     },
     {
       "name": "m1yaghi",
-      "balance": 27412,
-      "totalEarned": 87119,
+      "balance": 27514,
+      "totalEarned": 87221,
       "totalSpent": 59707,
       "gamesPlayed": 51,
       "gamesWon": 21,
-      "streak": 10
+      "streak": 11
     },
     {
       "name": "drogan",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 2006,
-    "totalCirculating": 2356674,
-    "totalGames": 24395,
+    "totalCirculating": 2356844,
+    "totalGames": 24396,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-29T07:50:43.640Z"
+  "lastUpdated": "2026-05-29T08:20:43.665Z"
 }
