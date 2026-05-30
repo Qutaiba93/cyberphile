@@ -1,10 +1,10 @@
 {
   "totalSessions": 109,
   "totalDays": 95,
-  "totalSegments": 4858,
+  "totalSegments": 4861,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 946554,
+  "totalMessages": 947629,
   "categories": [
     {
       "name": "Rust",
@@ -64,10 +64,10 @@
     },
     {
       "name": "IRL",
-      "avgViewers": 707,
+      "avgViewers": 708,
       "peakViewers": 886,
-      "sampleCount": 244,
-      "totalMsgs": 87583
+      "sampleCount": 247,
+      "totalMsgs": 88658
     },
     {
       "name": "Trash Horror Collection",
@@ -425,8 +425,8 @@
     },
     "20": {
       "avgViewers": 683,
-      "sampleCount": 503,
-      "totalMsgs": 114664
+      "sampleCount": 506,
+      "totalMsgs": 115739
     },
     "21": {
       "avgViewers": 688,
@@ -612,9 +612,9 @@
     },
     {
       "date": "2026-05-30",
-      "avgViewers": 606,
-      "peakViewers": 798,
-      "totalMsgs": 5552,
+      "avgViewers": 623,
+      "peakViewers": 814,
+      "totalMsgs": 6627,
       "categories": [
         "Just Chatting",
         "IRL"
@@ -622,5 +622,5 @@
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-30T20:20:43.665Z"
+  "lastUpdated": "2026-05-30T20:50:43.661Z"
 }
