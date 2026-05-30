@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "uncommonkey",
-      "balance": 104700,
-      "totalEarned": 146668,
+      "balance": 104756,
+      "totalEarned": 146724,
       "totalSpent": 104023,
       "gamesPlayed": 28,
       "gamesWon": 13,
@@ -146,8 +146,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 13380,
-      "totalEarned": 13481,
+      "balance": 13424,
+      "totalEarned": 13525,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -226,6 +226,15 @@
       "streak": 2
     },
     {
+      "name": "karmahit",
+      "balance": 11212,
+      "totalEarned": 11212,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 3
+    },
+    {
       "name": "intermediatewastakensadge",
       "balance": 11200,
       "totalEarned": 11200,
@@ -233,15 +242,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 13
-    },
-    {
-      "name": "karmahit",
-      "balance": 11135,
-      "totalEarned": 11135,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
     },
     {
       "name": "ahmet_uk",
@@ -281,12 +281,12 @@
     },
     {
       "name": "arabicoj",
-      "balance": 10046,
-      "totalEarned": 52911,
+      "balance": 10117,
+      "totalEarned": 52982,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "neincs",
@@ -299,8 +299,17 @@
     },
     {
       "name": "bido_maggot",
-      "balance": 9461,
-      "totalEarned": 9461,
+      "balance": 9475,
+      "totalEarned": 9475,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 3
+    },
+    {
+      "name": "xaqin",
+      "balance": 9326,
+      "totalEarned": 9326,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -310,15 +319,6 @@
       "name": "kazzcs2",
       "balance": 9261,
       "totalEarned": 9261,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
-    },
-    {
-      "name": "xaqin",
-      "balance": 9259,
-      "totalEarned": 9259,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,8 +434,8 @@
     },
     {
       "name": "shahin",
-      "balance": 7820,
-      "totalEarned": 13520,
+      "balance": 7904,
+      "totalEarned": 13604,
       "totalSpent": 5700,
       "gamesPlayed": 28,
       "gamesWon": 3,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 2009,
-    "totalCirculating": 2386904,
+    "totalCirculating": 2387949,
     "totalGames": 24439,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-30T00:20:43.658Z"
+  "lastUpdated": "2026-05-30T00:50:43.653Z"
 }
