@@ -146,8 +146,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 13456,
-      "totalEarned": 13557,
+      "balance": 13462,
+      "totalEarned": 13563,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -227,8 +227,8 @@
     },
     {
       "name": "karmahit",
-      "balance": 11212,
-      "totalEarned": 11212,
+      "balance": 11216,
+      "totalEarned": 11216,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -271,6 +271,15 @@
       "streak": 2
     },
     {
+      "name": "arabicoj",
+      "balance": 10173,
+      "totalEarned": 53038,
+      "totalSpent": 42865,
+      "gamesPlayed": 41,
+      "gamesWon": 15,
+      "streak": 3
+    },
+    {
       "name": "nitro_st",
       "balance": 10136,
       "totalEarned": 10136,
@@ -278,15 +287,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "arabicoj",
-      "balance": 10135,
-      "totalEarned": 53000,
-      "totalSpent": 42865,
-      "gamesPlayed": 41,
-      "gamesWon": 15,
-      "streak": 3
     },
     {
       "name": "neincs",
@@ -299,8 +299,8 @@
     },
     {
       "name": "bido_maggot",
-      "balance": 9481,
-      "totalEarned": 9481,
+      "balance": 9497,
+      "totalEarned": 9497,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,8 +434,8 @@
     },
     {
       "name": "shahin",
-      "balance": 7976,
-      "totalEarned": 13676,
+      "balance": 8024,
+      "totalEarned": 13724,
       "totalSpent": 5700,
       "gamesPlayed": 28,
       "gamesWon": 3,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 2009,
-    "totalCirculating": 2388974,
+    "totalCirculating": 2389562,
     "totalGames": 24439,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-30T01:20:43.666Z"
+  "lastUpdated": "2026-05-30T01:50:43.665Z"
 }
