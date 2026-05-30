@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "uncommonkey",
-      "balance": 104756,
-      "totalEarned": 146724,
+      "balance": 104792,
+      "totalEarned": 146760,
       "totalSpent": 104023,
       "gamesPlayed": 28,
       "gamesWon": 13,
@@ -146,8 +146,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 13424,
-      "totalEarned": 13525,
+      "balance": 13456,
+      "totalEarned": 13557,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -281,8 +281,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 10117,
-      "totalEarned": 52982,
+      "balance": 10135,
+      "totalEarned": 53000,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -299,8 +299,8 @@
     },
     {
       "name": "bido_maggot",
-      "balance": 9475,
-      "totalEarned": 9475,
+      "balance": 9481,
+      "totalEarned": 9481,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,8 +434,8 @@
     },
     {
       "name": "shahin",
-      "balance": 7904,
-      "totalEarned": 13604,
+      "balance": 7976,
+      "totalEarned": 13676,
       "totalSpent": 5700,
       "gamesPlayed": 28,
       "gamesWon": 3,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 2009,
-    "totalCirculating": 2387949,
+    "totalCirculating": 2388974,
     "totalGames": 24439,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-30T00:50:43.653Z"
+  "lastUpdated": "2026-05-30T01:20:43.666Z"
 }
