@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "uncommonkey",
-      "balance": 104606,
-      "totalEarned": 146574,
+      "balance": 104700,
+      "totalEarned": 146668,
       "totalSpent": 104023,
       "gamesPlayed": 28,
       "gamesWon": 13,
-      "streak": 7
+      "streak": 8
     },
     {
       "name": "shance",
@@ -83,17 +83,17 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 16260,
-      "totalEarned": 20459,
+      "balance": 16327,
+      "totalEarned": 20526,
       "totalSpent": 4199,
       "gamesPlayed": 24,
       "gamesWon": 5,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "schitt",
-      "balance": 14974,
-      "totalEarned": 14974,
+      "balance": 14976,
+      "totalEarned": 14976,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,12 +146,12 @@
     },
     {
       "name": "faridlamm",
-      "balance": 13279,
-      "totalEarned": 13380,
+      "balance": 13380,
+      "totalEarned": 13481,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "kale96",
@@ -299,12 +299,12 @@
     },
     {
       "name": "bido_maggot",
-      "balance": 9380,
-      "totalEarned": 9380,
+      "balance": 9461,
+      "totalEarned": 9461,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "kazzcs2",
@@ -434,12 +434,12 @@
     },
     {
       "name": "shahin",
-      "balance": 7677,
-      "totalEarned": 13377,
+      "balance": 7820,
+      "totalEarned": 13520,
       "totalSpent": 5700,
       "gamesPlayed": 28,
       "gamesWon": 3,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "the1chosen_one",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 2009,
-    "totalCirculating": 2384406,
+    "totalCirculating": 2386904,
     "totalGames": 24439,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-29T23:50:43.650Z"
+  "lastUpdated": "2026-05-30T00:20:43.658Z"
 }
