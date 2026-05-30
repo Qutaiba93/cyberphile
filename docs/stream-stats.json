@@ -1,10 +1,10 @@
 {
-  "totalSessions": 108,
-  "totalDays": 94,
-  "totalSegments": 4826,
+  "totalSessions": 109,
+  "totalDays": 95,
+  "totalSegments": 4828,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 941002,
+  "totalMessages": 941199,
   "categories": [
     {
       "name": "Rust",
@@ -220,8 +220,8 @@
       "name": "Just Chatting",
       "avgViewers": 590,
       "peakViewers": 903,
-      "sampleCount": 1879,
-      "totalMsgs": 375056
+      "sampleCount": 1881,
+      "totalMsgs": 375253
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -399,9 +399,9 @@
       "totalMsgs": 41016
     },
     "15": {
-      "avgViewers": 521,
-      "sampleCount": 392,
-      "totalMsgs": 72609
+      "avgViewers": 519,
+      "sampleCount": 394,
+      "totalMsgs": 72806
     },
     "16": {
       "avgViewers": 658,
@@ -445,19 +445,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-11",
-      "avgViewers": 559,
-      "peakViewers": 671,
-      "totalMsgs": 9767,
-      "categories": [
-        "Just Chatting",
-        "Minecraft",
-        "Gamble With Your Friends",
-        "Grand Theft Auto V (GTA)",
-        "VALORANT"
-      ]
-    },
     {
       "date": "2026-05-13",
       "avgViewers": 586,
@@ -622,8 +609,17 @@
         "Counter-Strike 2",
         "007 First Light"
       ]
+    },
+    {
+      "date": "2026-05-30",
+      "avgViewers": 191,
+      "peakViewers": 230,
+      "totalMsgs": 197,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-05-20T20:20:43.046Z",
-  "lastUpdated": "2026-05-30T14:50:43.665Z"
+  "lastUpdated": "2026-05-30T15:20:43.655Z"
 }
