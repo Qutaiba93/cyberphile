@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "uncommonkey",
-      "balance": 104963,
-      "totalEarned": 146931,
+      "balance": 104965,
+      "totalEarned": 146933,
       "totalSpent": 104023,
       "gamesPlayed": 28,
       "gamesWon": 13,
@@ -146,8 +146,8 @@
     },
     {
       "name": "kale96",
-      "balance": 13247,
-      "totalEarned": 19797,
+      "balance": 13265,
+      "totalEarned": 19815,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -190,6 +190,15 @@
       "streak": 1
     },
     {
+      "name": "shahin",
+      "balance": 12126,
+      "totalEarned": 18026,
+      "totalSpent": 5900,
+      "gamesPlayed": 30,
+      "gamesWon": 4,
+      "streak": 4
+    },
+    {
       "name": "pitapan",
       "balance": 12112,
       "totalEarned": 12137,
@@ -197,15 +206,6 @@
       "gamesPlayed": 1,
       "gamesWon": 1,
       "streak": 1
-    },
-    {
-      "name": "shahin",
-      "balance": 12086,
-      "totalEarned": 17986,
-      "totalSpent": 5900,
-      "gamesPlayed": 30,
-      "gamesWon": 4,
-      "streak": 4
     },
     {
       "name": "alexmesq",
@@ -218,8 +218,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 11639,
-      "totalEarned": 20838,
+      "balance": 11655,
+      "totalEarned": 20854,
       "totalSpent": 9199,
       "gamesPlayed": 24,
       "gamesWon": 5,
@@ -308,8 +308,8 @@
     },
     {
       "name": "bido_maggot",
-      "balance": 9663,
-      "totalEarned": 9663,
+      "balance": 9675,
+      "totalEarned": 9675,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -335,8 +335,8 @@
     },
     {
       "name": "ferrousimpala32",
-      "balance": 9336,
-      "totalEarned": 9336,
+      "balance": 9340,
+      "totalEarned": 9340,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -389,12 +389,12 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 8827,
-      "totalEarned": 8827,
+      "balance": 8929,
+      "totalEarned": 8929,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 12
+      "streak": 13
     },
     {
       "name": "politecatt",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 2023,
-    "totalCirculating": 2410940,
+    "totalCirculating": 2411576,
     "totalGames": 24564,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-05-31T01:20:43.665Z"
+  "lastUpdated": "2026-05-31T01:50:43.669Z"
 }
