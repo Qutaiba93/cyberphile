@@ -343,7 +343,7 @@
         <span class="badge badge-green">✦ 11+ AI Models</span>
         <span class="badge badge-orange">🔍 Live Search</span>
         <span class="badge badge-cyan">🌍 Translate</span>
-        <span class="badge badge-purple">🎮 7 Games</span>
+        <span class="badge badge-purple">🎮 9 Games</span>
         <span class="badge badge-yellow" style="background:#fbbf2418;color:#fbbf24;border-color:#fbbf2433">💰 Points Economy</span>
         <span class="badge badge-blue">⚡ 50+ Commands</span>
         <span class="badge badge-red">📊 Stream Analytics</span>
@@ -574,7 +574,7 @@
         <div class="section-header">
           <div class="section-icon games">🎰</div>
           <span class="section-title">Game Commands<span class="cmd-tag tag-new">POINTS</span></span>
-          <span class="section-count">7 games + economy</span>
+          <span class="section-count">9 games + economy</span>
         </div>
         <div class="cmd-grid">
           <div class="cmd">
@@ -611,6 +611,15 @@
           <div class="cmd">
             <span class="cmd-name">!fight &lt;user&gt;<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">10 pts</span></span>
             <span class="cmd-desc">Fight another chatter! Winner gets <strong>+20 pts</strong>.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!roulette &lt;bet&gt; &lt;pick&gt;<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">5-5k pts</span></span>
+            <span class="cmd-desc">Bet on <strong>red/black</strong> (2x), <strong>green</strong> (14x), or an exact number 0-36 (<strong>35x</strong>)! Real roulette layout.</span>
+          </div>
+          <div class="cmd">
+            <span class="cmd-name">!crash &lt;amt&gt;<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">10-5k pts</span></span>
+            <span class="cmd-desc">Multiplier rises every 0.5s — type <strong>!cashout</strong> before it crashes! Higher risk = higher reward.</span>
+            <div class="cmd-aliases">In-game: <span>!cashout</span></div>
           </div>
           <div class="cmd">
             <span class="cmd-name">!duel &lt;user&gt; &lt;amount&gt;<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">custom</span></span>
@@ -932,7 +941,7 @@
       // Costs
       const costs = data.costs || {};
       const costsEl = document.getElementById('lb-costs');
-      const costNames = { slots: '!slots', coinflip: '!flip', dice: '!dice', rps: '!rps', blackjack: '!bj', fight: '!fight', '8ball': '!8ball', sr: '!sr skip' };
+      const costNames = { slots: '!slots', coinflip: '!flip', dice: '!dice', rps: '!rps', blackjack: '!bj', fight: '!fight', '8ball': '!8ball', sr: '!sr skip', roulette_min: '!roulette min', roulette_max: '!roulette max', crash_min: '!crash min', crash_max: '!crash max' };
       costsEl.innerHTML = Object.entries(costs)
         .filter(([k]) => !k.startsWith('duel'))
         .map(([k, v]) => `<div class="lb-cost-item"><span class="lb-cost-name">${costNames[k] || k}</span><span class="lb-cost-val">${v === 0 ? 'FREE' : v + ' pts'}</span></div>`)

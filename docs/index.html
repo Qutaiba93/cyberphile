@@ -131,21 +131,6 @@
       50% { opacity: 0.5; box-shadow: 0 0 16px var(--accent), 0 0 24px var(--accent-glow); }
     }
 
-    /* ---- Backup Status ---- */
-    .backup-status {
-      display: inline-flex; align-items: center; gap: 0.5rem;
-      margin-top: 0.6rem; padding: 0.45rem 1rem;
-      border-radius: 999px; font-size: 0.8rem; font-weight: 600;
-      border: 1px solid var(--border); background: var(--card);
-      transition: all 0.3s ease;
-    }
-    .backup-status .bk-icon { font-size: 0.9rem; }
-    .backup-status .bk-meta { font-size: 0.72rem; color: var(--text-dim); font-weight: 400; }
-    .backup-status.healthy { border-color: #4d9fff44; color: var(--blue); background: linear-gradient(135deg, var(--card), #4d9fff10); }
-    .backup-status.stale   { border-color: #fbbf2444; color: var(--yellow); background: linear-gradient(135deg, var(--card), #fbbf2410); }
-    .backup-status.failed  { border-color: #ff4d6a44; color: var(--red); background: linear-gradient(135deg, var(--card), #ff4d6a10); }
-    .backup-status.unknown { border-color: var(--border); color: var(--text-dim); }
-
     /* ---- Tab Navigation ---- */
     .tabs {
       display: flex; gap: 0.5rem; justify-content: center; margin-bottom: 2rem;
@@ -367,11 +352,6 @@
         <span class="status-dot"></span>
         <span class="status-text">Checking...</span>
       </div>
-      <div><div class="backup-status unknown" id="backup-status" title="Off-site backup health">
-        <span class="bk-icon">🛡</span>
-        <span class="bk-text">Backup: checking...</span>
-        <span class="bk-meta" id="bk-meta"></span>
-      </div></div>
     </header>
 
     <!-- Tabs -->
@@ -1126,7 +1106,7 @@
     }
 
     // Preload stats + bot status + leaderboard
-    document.addEventListener('DOMContentLoaded', () => { loadStats(); loadLeaderboard(); loadBackupStatus(); });
+    document.addEventListener('DOMContentLoaded', () => { loadStats(); loadLeaderboard(); });
     // Refresh bot status + leaderboard every 5 min
     setInterval(async () => {
       try {
@@ -1134,40 +1114,7 @@
         if (res.ok) { const d = await res.json(); updateBotStatus(d); }
       } catch(_) {}
       try { loadLeaderboard(); } catch(_) {}
-      try { loadBackupStatus(); } catch(_) {}
     }, 5 * 60 * 1000);
-
-    // ---- Backup Status ----
-    async function loadBackupStatus() {
-      const el = document.getElementById('backup-status');
-      const txt = el.querySelector('.bk-text');
-      const meta = document.getElementById('bk-meta');
-      try {
-        const res = await fetch('backup-status.json?t=' + Date.now());
-        if (!res.ok) throw new Error('no status');
-        const d = await res.json();
-        const last = new Date(d.lastBackupISO);
-        const ageH = (Date.now() - last) / 3600000;
-        const ago = timeSince(last);
-        let cls = 'healthy';
-        if (!d.success) cls = 'failed';
-        else if (ageH > 30) cls = 'stale';   // > 30h since last backup
-        else if (d.missingCriticalFiles > 0) cls = 'stale';
-
-        el.className = 'backup-status ' + cls;
-        const sizeMB = d.sizeMB || 0;
-        const snaps = d.snapshotCount || 0;
-        const label = !d.success ? 'Backup FAILED'
-                    : (cls === 'stale' ? 'Backup stale' : 'Backup healthy');
-        txt.textContent = `${label} · ${ago} ago`;
-        meta.textContent = `· ${sizeMB} MB · ${snaps} snap${snaps===1?'':'s'} kept`;
-        el.title = `Off-site backup on ${d.host || '?'}\nLast: ${last.toLocaleString()}\nSize: ${sizeMB} MB\nSnapshots kept: ${snaps}\nMissing critical files: ${d.missingCriticalFiles||0}\nDuration: ${d.durationSec||0}s`;
-      } catch (e) {
-        el.className = 'backup-status unknown';
-        txt.textContent = 'Backup: no data';
-        meta.textContent = '';
-      }
-    }
   </script>
 </body>
 </html>
