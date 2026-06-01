@@ -1,10 +1,10 @@
 {
   "totalSessions": 110,
   "totalDays": 96,
-  "totalSegments": 4921,
+  "totalSegments": 4924,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 961580,
+  "totalMessages": 962458,
   "categories": [
     {
       "name": "Rust",
@@ -45,8 +45,8 @@
       "name": "Chat Roulette",
       "avgViewers": 726,
       "peakViewers": 916,
-      "sampleCount": 446,
-      "totalMsgs": 100193
+      "sampleCount": 448,
+      "totalMsgs": 100760
     },
     {
       "name": "Grand Theft Auto VI (GTA)",
@@ -227,8 +227,8 @@
       "name": "Just Chatting",
       "avgViewers": 590,
       "peakViewers": 903,
-      "sampleCount": 1918,
-      "totalMsgs": 381499
+      "sampleCount": 1919,
+      "totalMsgs": 381810
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -417,13 +417,13 @@
     },
     "17": {
       "avgViewers": 715,
-      "sampleCount": 470,
-      "totalMsgs": 94149
+      "sampleCount": 471,
+      "totalMsgs": 94460
     },
     "18": {
-      "avgViewers": 707,
-      "sampleCount": 471,
-      "totalMsgs": 103235
+      "avgViewers": 708,
+      "sampleCount": 473,
+      "totalMsgs": 103802
     },
     "19": {
       "avgViewers": 706,
@@ -619,16 +619,17 @@
     },
     {
       "date": "2026-06-01",
-      "avgViewers": 589,
-      "peakViewers": 740,
-      "totalMsgs": 6602,
+      "avgViewers": 607,
+      "peakViewers": 769,
+      "totalMsgs": 7480,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
-        "Sports"
+        "Sports",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-06-01T10:51:12.206Z",
-  "lastUpdated": "2026-06-01T17:51:12.577Z"
+  "lastUpdated": "2026-06-01T18:21:12.578Z"
 }
