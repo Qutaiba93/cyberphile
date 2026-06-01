@@ -1,10 +1,10 @@
 {
   "totalSessions": 110,
   "totalDays": 96,
-  "totalSegments": 4912,
+  "totalSegments": 4915,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 959370,
+  "totalMessages": 959867,
   "categories": [
     {
       "name": "Rust",
@@ -75,6 +75,13 @@
       "peakViewers": 737,
       "sampleCount": 14,
       "totalMsgs": 3389
+    },
+    {
+      "name": "Sports",
+      "avgViewers": 684,
+      "peakViewers": 687,
+      "sampleCount": 2,
+      "totalMsgs": 370
     },
     {
       "name": "Grand Theft Auto V (GTA)",
@@ -148,10 +155,10 @@
     },
     {
       "name": "Slots & Casino",
-      "avgViewers": 631,
+      "avgViewers": 632,
       "peakViewers": 786,
-      "sampleCount": 23,
-      "totalMsgs": 7937
+      "sampleCount": 24,
+      "totalMsgs": 8064
     },
     {
       "name": "Sons of the Forest",
@@ -405,8 +412,8 @@
     },
     "16": {
       "avgViewers": 657,
-      "sampleCount": 453,
-      "totalMsgs": 90040
+      "sampleCount": 456,
+      "totalMsgs": 90537
     },
     "17": {
       "avgViewers": 715,
@@ -612,15 +619,16 @@
     },
     {
       "date": "2026-06-01",
-      "avgViewers": 522,
+      "avgViewers": 547,
       "peakViewers": 693,
-      "totalMsgs": 4392,
+      "totalMsgs": 4889,
       "categories": [
         "Just Chatting",
-        "Slots & Casino"
+        "Slots & Casino",
+        "Sports"
       ]
     }
   ],
   "botStartedAt": "2026-06-01T10:51:12.206Z",
-  "lastUpdated": "2026-06-01T16:21:12.567Z"
+  "lastUpdated": "2026-06-01T16:51:12.580Z"
 }
