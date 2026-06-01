@@ -1,10 +1,10 @@
 {
   "totalSessions": 110,
   "totalDays": 96,
-  "totalSegments": 4927,
+  "totalSegments": 4930,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 963620,
+  "totalMessages": 964286,
   "categories": [
     {
       "name": "Rust",
@@ -49,6 +49,13 @@
       "totalMsgs": 1148
     },
     {
+      "name": "Sports",
+      "avgViewers": 727,
+      "peakViewers": 769,
+      "sampleCount": 9,
+      "totalMsgs": 1952
+    },
+    {
       "name": "Grand Theft Auto VI (GTA)",
       "avgViewers": 725,
       "peakViewers": 725,
@@ -68,13 +75,6 @@
       "peakViewers": 713,
       "sampleCount": 3,
       "totalMsgs": 280
-    },
-    {
-      "name": "Sports",
-      "avgViewers": 707,
-      "peakViewers": 760,
-      "sampleCount": 6,
-      "totalMsgs": 1286
     },
     {
       "name": "Trash Horror Collection",
@@ -422,13 +422,13 @@
     },
     "18": {
       "avgViewers": 708,
-      "sampleCount": 476,
-      "totalMsgs": 104964
+      "sampleCount": 477,
+      "totalMsgs": 105256
     },
     "19": {
       "avgViewers": 706,
-      "sampleCount": 477,
-      "totalMsgs": 107600
+      "sampleCount": 479,
+      "totalMsgs": 107974
     },
     "20": {
       "avgViewers": 684,
@@ -619,9 +619,9 @@
     },
     {
       "date": "2026-06-01",
-      "avgViewers": 625,
+      "avgViewers": 638,
       "peakViewers": 818,
-      "totalMsgs": 8642,
+      "totalMsgs": 9308,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -631,5 +631,5 @@
     }
   ],
   "botStartedAt": "2026-06-01T10:51:12.206Z",
-  "lastUpdated": "2026-06-01T18:51:12.581Z"
+  "lastUpdated": "2026-06-01T19:21:12.577Z"
 }
