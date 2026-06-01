@@ -1,10 +1,10 @@
 {
-  "totalSessions": 109,
-  "totalDays": 95,
-  "totalSegments": 4897,
+  "totalSessions": 110,
+  "totalDays": 96,
+  "totalSegments": 4900,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 954978,
+  "totalMessages": 955235,
   "categories": [
     {
       "name": "Rust",
@@ -218,10 +218,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 591,
+      "avgViewers": 590,
       "peakViewers": 903,
-      "sampleCount": 1912,
-      "totalMsgs": 380576
+      "sampleCount": 1915,
+      "totalMsgs": 380833
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -390,13 +390,13 @@
     },
     "13": {
       "avgViewers": 197,
-      "sampleCount": 47,
+      "sampleCount": 48,
       "totalMsgs": 4629
     },
     "14": {
-      "avgViewers": 342,
-      "sampleCount": 269,
-      "totalMsgs": 41016
+      "avgViewers": 341,
+      "sampleCount": 271,
+      "totalMsgs": 41273
     },
     "15": {
       "avgViewers": 518,
@@ -445,18 +445,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-13",
-      "avgViewers": 586,
-      "peakViewers": 704,
-      "totalMsgs": 5189,
-      "categories": [
-        "Grand Theft Auto V (GTA)",
-        "Just Chatting",
-        "Directive 8020",
-        "Chat Roulette"
-      ]
-    },
     {
       "date": "2026-05-14",
       "avgViewers": 673,
@@ -621,8 +609,17 @@
         "VRChat",
         "Counter-Strike 2"
       ]
+    },
+    {
+      "date": "2026-06-01",
+      "avgViewers": 264,
+      "peakViewers": 354,
+      "totalMsgs": 257,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-01T10:51:12.206Z",
-  "lastUpdated": "2026-06-01T13:51:12.574Z"
+  "lastUpdated": "2026-06-01T14:21:12.569Z"
 }
