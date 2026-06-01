@@ -1,10 +1,10 @@
 {
   "totalSessions": 110,
   "totalDays": 96,
-  "totalSegments": 4933,
+  "totalSegments": 4936,
   "allTimePeak": 17991,
-  "allTimeAvg": 631,
-  "totalMessages": 964837,
+  "allTimeAvg": 632,
+  "totalMessages": 965224,
   "categories": [
     {
       "name": "Rust",
@@ -87,8 +87,8 @@
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 678,
       "peakViewers": 839,
-      "sampleCount": 415,
-      "totalMsgs": 69023
+      "sampleCount": 416,
+      "totalMsgs": 69145
     },
     {
       "name": "Sea of Thieves",
@@ -227,8 +227,8 @@
       "name": "Just Chatting",
       "avgViewers": 591,
       "peakViewers": 903,
-      "sampleCount": 1922,
-      "totalMsgs": 382361
+      "sampleCount": 1924,
+      "totalMsgs": 382626
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -427,13 +427,13 @@
     },
     "19": {
       "avgViewers": 706,
-      "sampleCount": 482,
-      "totalMsgs": 108525
+      "sampleCount": 483,
+      "totalMsgs": 108707
     },
     "20": {
       "avgViewers": 684,
-      "sampleCount": 507,
-      "totalMsgs": 116602
+      "sampleCount": 509,
+      "totalMsgs": 116807
     },
     "21": {
       "avgViewers": 689,
@@ -619,17 +619,18 @@
     },
     {
       "date": "2026-06-01",
-      "avgViewers": 648,
+      "avgViewers": 654,
       "peakViewers": 818,
-      "totalMsgs": 9859,
+      "totalMsgs": 10246,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
         "Sports",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Grand Theft Auto V (GTA)"
       ]
     }
   ],
   "botStartedAt": "2026-06-01T10:51:12.206Z",
-  "lastUpdated": "2026-06-01T19:51:12.577Z"
+  "lastUpdated": "2026-06-01T20:21:12.582Z"
 }
