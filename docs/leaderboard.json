@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "uncommonkey",
-      "balance": 100110,
-      "totalEarned": 147411,
+      "balance": 100118,
+      "totalEarned": 147419,
       "totalSpent": 109356,
       "gamesPlayed": 28,
       "gamesWon": 13,
@@ -83,8 +83,8 @@
     },
     {
       "name": "schitt",
-      "balance": 15510,
-      "totalEarned": 15510,
+      "balance": 15514,
+      "totalEarned": 15514,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -92,8 +92,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 15119,
-      "totalEarned": 15119,
+      "balance": 15155,
+      "totalEarned": 15155,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -110,8 +110,8 @@
     },
     {
       "name": "upkey",
-      "balance": 14132,
-      "totalEarned": 14132,
+      "balance": 14146,
+      "totalEarned": 14146,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,8 +146,8 @@
     },
     {
       "name": "kale96",
-      "balance": 13562,
-      "totalEarned": 20112,
+      "balance": 13570,
+      "totalEarned": 20120,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "5pray",
-      "balance": 13035,
-      "totalEarned": 13035,
+      "balance": 13085,
+      "totalEarned": 13085,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -164,8 +164,8 @@
     },
     {
       "name": "shahin",
-      "balance": 12857,
-      "totalEarned": 18757,
+      "balance": 12877,
+      "totalEarned": 18777,
       "totalSpent": 5900,
       "gamesPlayed": 30,
       "gamesWon": 4,
@@ -227,8 +227,8 @@
     },
     {
       "name": "karmahit",
-      "balance": 11533,
-      "totalEarned": 11533,
+      "balance": 11535,
+      "totalEarned": 11535,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -262,6 +262,15 @@
       "streak": 1
     },
     {
+      "name": "arabicoj",
+      "balance": 10416,
+      "totalEarned": 53281,
+      "totalSpent": 42865,
+      "gamesPlayed": 41,
+      "gamesWon": 15,
+      "streak": 1
+    },
+    {
       "name": "damiybe",
       "balance": 10400,
       "totalEarned": 10410,
@@ -269,15 +278,6 @@
       "gamesPlayed": 1,
       "gamesWon": 0,
       "streak": 2
-    },
-    {
-      "name": "arabicoj",
-      "balance": 10388,
-      "totalEarned": 53253,
-      "totalSpent": 42865,
-      "gamesPlayed": 41,
-      "gamesWon": 15,
-      "streak": 1
     },
     {
       "name": "nitro_st",
@@ -298,6 +298,15 @@
       "streak": 5
     },
     {
+      "name": "kazzcs2",
+      "balance": 9746,
+      "totalEarned": 9746,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "neincs",
       "balance": 9745,
       "totalEarned": 9745,
@@ -305,15 +314,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 4
-    },
-    {
-      "name": "kazzcs2",
-      "balance": 9740,
-      "totalEarned": 9740,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
     },
     {
       "name": "skullyontop",
@@ -344,8 +344,8 @@
     },
     {
       "name": "quantik",
-      "balance": 9411,
-      "totalEarned": 9411,
+      "balance": 9425,
+      "totalEarned": 9425,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -380,8 +380,8 @@
     },
     {
       "name": "confusion",
-      "balance": 9016,
-      "totalEarned": 9531,
+      "balance": 9018,
+      "totalEarned": 9533,
       "totalSpent": 515,
       "gamesPlayed": 11,
       "gamesWon": 4,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 2043,
-    "totalCirculating": 2442862,
+    "totalPlayers": 2044,
+    "totalCirculating": 2444114,
     "totalGames": 24712,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-01T22:51:12.599Z"
+  "lastUpdated": "2026-06-01T23:21:12.591Z"
 }
