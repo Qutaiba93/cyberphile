@@ -1,14 +1,14 @@
 {
-  "lastBackupISO": "2026-06-01T11:28:55Z",
+  "lastBackupISO": "2026-06-01T11:38:07Z",
   "success": true,
-  "error": "unexpected exit",
+  "error": "",
   "host": "qutaiba-X570-AORUS-ULTRA",
-  "snapshotName": "bot-snapshot-2026-06-01_1426.tar.gz",
+  "snapshotName": "bot-snapshot-2026-06-01_1435.tar.gz",
   "sizeMB": 286,
-  "fileCount": 58,
+  "fileCount": 59,
   "missingCriticalFiles": 0,
-  "snapshotCount": 2,
-  "totalSnapshotsMB": 572,
-  "durationSec": 138,
-  "nextRun": "Tue 2026-06-02 04:08:04 +03"
+  "snapshotCount": 3,
+  "totalSnapshotsMB": 858,
+  "durationSec": 135,
+  "nextRun": "Tue 2026-06-02 04:07:15 +03"
 }
