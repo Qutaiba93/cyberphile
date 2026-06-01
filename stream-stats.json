@@ -1,10 +1,10 @@
 {
   "totalSessions": 110,
   "totalDays": 96,
-  "totalSegments": 4900,
+  "totalSegments": 4903,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 955235,
+  "totalMessages": 956814,
   "categories": [
     {
       "name": "Rust",
@@ -84,13 +84,6 @@
       "totalMsgs": 69023
     },
     {
-      "name": "Slots & Casino",
-      "avgViewers": 677,
-      "peakViewers": 786,
-      "sampleCount": 14,
-      "totalMsgs": 4468
-    },
-    {
       "name": "Sea of Thieves",
       "avgViewers": 673,
       "peakViewers": 776,
@@ -152,6 +145,13 @@
       "peakViewers": 756,
       "sampleCount": 32,
       "totalMsgs": 7649
+    },
+    {
+      "name": "Slots & Casino",
+      "avgViewers": 632,
+      "peakViewers": 786,
+      "sampleCount": 17,
+      "totalMsgs": 6047
     },
     {
       "name": "Sons of the Forest",
@@ -394,9 +394,9 @@
       "totalMsgs": 4629
     },
     "14": {
-      "avgViewers": 341,
-      "sampleCount": 271,
-      "totalMsgs": 41273
+      "avgViewers": 342,
+      "sampleCount": 274,
+      "totalMsgs": 42852
     },
     "15": {
       "avgViewers": 518,
@@ -612,14 +612,15 @@
     },
     {
       "date": "2026-06-01",
-      "avgViewers": 264,
-      "peakViewers": 354,
-      "totalMsgs": 257,
+      "avgViewers": 343,
+      "peakViewers": 466,
+      "totalMsgs": 1836,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Slots & Casino"
       ]
     }
   ],
   "botStartedAt": "2026-06-01T10:51:12.206Z",
-  "lastUpdated": "2026-06-01T14:21:12.569Z"
+  "lastUpdated": "2026-06-01T14:51:12.573Z"
 }
