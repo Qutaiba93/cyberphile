@@ -1,10 +1,10 @@
 {
   "totalSessions": 110,
   "totalDays": 96,
-  "totalSegments": 4924,
+  "totalSegments": 4927,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 962458,
+  "totalMessages": 963620,
   "categories": [
     {
       "name": "Rust",
@@ -35,18 +35,18 @@
       "totalMsgs": 620
     },
     {
+      "name": "Chat Roulette",
+      "avgViewers": 727,
+      "peakViewers": 916,
+      "sampleCount": 450,
+      "totalMsgs": 101506
+    },
+    {
       "name": "Songbattle.io",
       "avgViewers": 727,
       "peakViewers": 734,
       "sampleCount": 4,
       "totalMsgs": 1148
-    },
-    {
-      "name": "Chat Roulette",
-      "avgViewers": 726,
-      "peakViewers": 916,
-      "sampleCount": 448,
-      "totalMsgs": 100760
     },
     {
       "name": "Grand Theft Auto VI (GTA)",
@@ -70,18 +70,18 @@
       "totalMsgs": 280
     },
     {
+      "name": "Sports",
+      "avgViewers": 707,
+      "peakViewers": 760,
+      "sampleCount": 6,
+      "totalMsgs": 1286
+    },
+    {
       "name": "Trash Horror Collection",
       "avgViewers": 701,
       "peakViewers": 737,
       "sampleCount": 14,
       "totalMsgs": 3389
-    },
-    {
-      "name": "Sports",
-      "avgViewers": 697,
-      "peakViewers": 718,
-      "sampleCount": 5,
-      "totalMsgs": 870
     },
     {
       "name": "Grand Theft Auto V (GTA)",
@@ -422,8 +422,8 @@
     },
     "18": {
       "avgViewers": 708,
-      "sampleCount": 473,
-      "totalMsgs": 103802
+      "sampleCount": 476,
+      "totalMsgs": 104964
     },
     "19": {
       "avgViewers": 706,
@@ -619,9 +619,9 @@
     },
     {
       "date": "2026-06-01",
-      "avgViewers": 607,
-      "peakViewers": 769,
-      "totalMsgs": 7480,
+      "avgViewers": 625,
+      "peakViewers": 818,
+      "totalMsgs": 8642,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -631,5 +631,5 @@
     }
   ],
   "botStartedAt": "2026-06-01T10:51:12.206Z",
-  "lastUpdated": "2026-06-01T18:21:12.578Z"
+  "lastUpdated": "2026-06-01T18:51:12.581Z"
 }
