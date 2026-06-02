@@ -182,12 +182,12 @@
     },
     {
       "name": "bbalint320",
-      "balance": 12400,
-      "totalEarned": 12540,
+      "balance": 12494,
+      "totalEarned": 12634,
       "totalSpent": 140,
       "gamesPlayed": 14,
       "gamesWon": 1,
-      "streak": 5
+      "streak": 6
     },
     {
       "name": "pitapan",
@@ -316,6 +316,15 @@
       "streak": 4
     },
     {
+      "name": "quantik",
+      "balance": 9487,
+      "totalEarned": 9487,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 2
+    },
+    {
       "name": "skullyontop",
       "balance": 9471,
       "totalEarned": 9481,
@@ -341,15 +350,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 5
-    },
-    {
-      "name": "quantik",
-      "balance": 9425,
-      "totalEarned": 9425,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
     },
     {
       "name": "iam_umii",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 2044,
-    "totalCirculating": 2450379,
+    "totalCirculating": 2451018,
     "totalGames": 24726,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-02T13:21:12.683Z"
+  "lastUpdated": "2026-06-02T13:44:28.580Z"
 }
