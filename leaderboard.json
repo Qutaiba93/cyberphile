@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 48492,
-      "totalEarned": 1067704,
+      "balance": 48502,
+      "totalEarned": 1067714,
       "totalSpent": 1100721,
       "gamesPlayed": 556,
       "gamesWon": 206,
@@ -38,12 +38,12 @@
     },
     {
       "name": "m1yaghi",
-      "balance": 27991,
-      "totalEarned": 87698,
+      "balance": 28053,
+      "totalEarned": 87760,
       "totalSpent": 59707,
       "gamesPlayed": 51,
       "gamesWon": 21,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "drogan",
@@ -92,8 +92,8 @@
     },
     {
       "name": "schitt",
-      "balance": 15604,
-      "totalEarned": 15604,
+      "balance": 15608,
+      "totalEarned": 15608,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -127,6 +127,15 @@
       "streak": 1
     },
     {
+      "name": "faridlamm",
+      "balance": 14003,
+      "totalEarned": 14104,
+      "totalSpent": 101,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 6
+    },
+    {
       "name": "cecee",
       "balance": 13980,
       "totalEarned": 67161,
@@ -134,15 +143,6 @@
       "gamesPlayed": 335,
       "gamesWon": 115,
       "streak": 1
-    },
-    {
-      "name": "faridlamm",
-      "balance": 13921,
-      "totalEarned": 14022,
-      "totalSpent": 101,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 5
     },
     {
       "name": "seraj",
@@ -316,18 +316,18 @@
       "streak": 4
     },
     {
-      "name": "quantik",
-      "balance": 9503,
-      "totalEarned": 9503,
+      "name": "iam_umii",
+      "balance": 9508,
+      "totalEarned": 9508,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
     },
     {
-      "name": "iam_umii",
-      "balance": 9502,
-      "totalEarned": 9502,
+      "name": "quantik",
+      "balance": 9503,
+      "totalEarned": 9503,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -407,8 +407,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 8683,
-      "totalEarned": 8683,
+      "balance": 8685,
+      "totalEarned": 8685,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,8 +434,8 @@
     },
     {
       "name": "chicitylol",
-      "balance": 7752,
-      "totalEarned": 7752,
+      "balance": 7758,
+      "totalEarned": 7758,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 2046,
-    "totalCirculating": 2459334,
+    "totalCirculating": 2460113,
     "totalGames": 24730,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-02T17:03:03.197Z"
+  "lastUpdated": "2026-06-02T17:12:28.409Z"
 }
