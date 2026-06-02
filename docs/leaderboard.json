@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 48542,
-      "totalEarned": 1067754,
+      "balance": 48544,
+      "totalEarned": 1067756,
       "totalSpent": 1100721,
       "gamesPlayed": 556,
       "gamesWon": 206,
@@ -299,8 +299,8 @@
     },
     {
       "name": "kazzcs2",
-      "balance": 9808,
-      "totalEarned": 9808,
+      "balance": 9810,
+      "totalEarned": 9810,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -398,8 +398,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 8742,
-      "totalEarned": 8742,
+      "balance": 8744,
+      "totalEarned": 8744,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 2049,
-    "totalCirculating": 2468301,
+    "totalCirculating": 2468335,
     "totalGames": 24731,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-02T19:03:37.015Z"
+  "lastUpdated": "2026-06-02T19:08:42.485Z"
 }
