@@ -1,7 +1,7 @@
 {
   "totalSessions": 111,
   "totalDays": 97,
-  "totalSegments": 4959,
+  "totalSegments": 4960,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
   "totalMessages": 968698,
@@ -64,9 +64,9 @@
     },
     {
       "name": "IRL",
-      "avgViewers": 711,
+      "avgViewers": 710,
       "peakViewers": 886,
-      "sampleCount": 257,
+      "sampleCount": 258,
       "totalMsgs": 93015
     },
     {
@@ -416,8 +416,8 @@
       "totalMsgs": 90638
     },
     "17": {
-      "avgViewers": 715,
-      "sampleCount": 471,
+      "avgViewers": 714,
+      "sampleCount": 472,
       "totalMsgs": 94460
     },
     "18": {
@@ -619,14 +619,15 @@
     },
     {
       "date": "2026-06-02",
-      "avgViewers": 161,
-      "peakViewers": 236,
+      "avgViewers": 202,
+      "peakViewers": 405,
       "totalMsgs": 149,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "IRL"
       ]
     }
   ],
-  "botStartedAt": "2026-06-02T17:21:51.940Z",
-  "lastUpdated": "2026-06-02T17:22:52.354Z"
+  "botStartedAt": "2026-06-02T17:33:11.447Z",
+  "lastUpdated": "2026-06-02T17:34:11.840Z"
 }
