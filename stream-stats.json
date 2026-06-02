@@ -1,10 +1,10 @@
 {
-  "totalSessions": 110,
-  "totalDays": 96,
-  "totalSegments": 4954,
+  "totalSessions": 111,
+  "totalDays": 97,
+  "totalSegments": 4956,
   "allTimePeak": 17991,
   "allTimeAvg": 632,
-  "totalMessages": 968549,
+  "totalMessages": 968652,
   "categories": [
     {
       "name": "Rust",
@@ -225,10 +225,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 591,
+      "avgViewers": 590,
       "peakViewers": 903,
-      "sampleCount": 1925,
-      "totalMsgs": 382970
+      "sampleCount": 1927,
+      "totalMsgs": 383073
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -396,9 +396,9 @@
       "totalMsgs": 324
     },
     "13": {
-      "avgViewers": 197,
-      "sampleCount": 48,
-      "totalMsgs": 4629
+      "avgViewers": 192,
+      "sampleCount": 50,
+      "totalMsgs": 4732
     },
     "14": {
       "avgViewers": 343,
@@ -452,19 +452,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-14",
-      "avgViewers": 673,
-      "peakViewers": 779,
-      "totalMsgs": 9553,
-      "categories": [
-        "Just Chatting",
-        "Gamble With Your Friends",
-        "Grand Theft Auto V (GTA)",
-        "Chat Roulette",
-        "Directive 8020"
-      ]
-    },
     {
       "date": "2026-05-17",
       "avgViewers": 775,
@@ -629,8 +616,17 @@
         "Chat Roulette",
         "Grand Theft Auto V (GTA)"
       ]
+    },
+    {
+      "date": "2026-06-02",
+      "avgViewers": 86,
+      "peakViewers": 116,
+      "totalMsgs": 103,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-01T10:51:12.206Z",
-  "lastUpdated": "2026-06-02T12:51:12.677Z"
+  "lastUpdated": "2026-06-02T13:21:12.672Z"
 }
