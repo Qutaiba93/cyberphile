@@ -1,10 +1,10 @@
 {
   "totalSessions": 112,
   "totalDays": 97,
-  "totalSegments": 4972,
+  "totalSegments": 4975,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 969416,
+  "totalMessages": 970242,
   "categories": [
     {
       "name": "Rust",
@@ -42,18 +42,18 @@
       "totalMsgs": 3809
     },
     {
-      "name": "Chat Roulette",
-      "avgViewers": 727,
-      "peakViewers": 916,
-      "sampleCount": 450,
-      "totalMsgs": 101506
-    },
-    {
       "name": "Songbattle.io",
       "avgViewers": 727,
       "peakViewers": 734,
       "sampleCount": 4,
       "totalMsgs": 1148
+    },
+    {
+      "name": "Chat Roulette",
+      "avgViewers": 726,
+      "peakViewers": 916,
+      "sampleCount": 451,
+      "totalMsgs": 101784
     },
     {
       "name": "Grand Theft Auto VI (GTA)",
@@ -224,18 +224,18 @@
       "totalMsgs": 6766
     },
     {
-      "name": "Just Chatting",
-      "avgViewers": 590,
-      "peakViewers": 903,
-      "sampleCount": 1931,
-      "totalMsgs": 383119
-    },
-    {
       "name": "Call of Duty: Black Ops Zombies",
       "avgViewers": 590,
       "peakViewers": 748,
       "sampleCount": 16,
       "totalMsgs": 2802
+    },
+    {
+      "name": "Just Chatting",
+      "avgViewers": 589,
+      "peakViewers": 903,
+      "sampleCount": 1933,
+      "totalMsgs": 383667
     },
     {
       "name": "Dread Neighbor",
@@ -426,9 +426,9 @@
       "totalMsgs": 105686
     },
     "19": {
-      "avgViewers": 705,
-      "sampleCount": 485,
-      "totalMsgs": 108741
+      "avgViewers": 703,
+      "sampleCount": 488,
+      "totalMsgs": 109567
     },
     "20": {
       "avgViewers": 684,
@@ -619,15 +619,16 @@
     },
     {
       "date": "2026-06-02",
-      "avgViewers": 350,
+      "avgViewers": 354,
       "peakViewers": 497,
-      "totalMsgs": 867,
+      "totalMsgs": 1693,
       "categories": [
         "Just Chatting",
-        "IRL"
+        "IRL",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-06-02T19:07:42.068Z",
-  "lastUpdated": "2026-06-02T19:37:42.402Z"
+  "lastUpdated": "2026-06-02T20:07:42.403Z"
 }
