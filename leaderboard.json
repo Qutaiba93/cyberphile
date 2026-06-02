@@ -29,8 +29,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 45256,
-      "totalEarned": 100969,
+      "balance": 45262,
+      "totalEarned": 100975,
       "totalSpent": 55713,
       "gamesPlayed": 57,
       "gamesWon": 30,
@@ -92,10 +92,10 @@
     },
     {
       "name": "shahin",
-      "balance": 19047,
-      "totalEarned": 47945,
-      "totalSpent": 28898,
-      "gamesPlayed": 39,
+      "balance": 18949,
+      "totalEarned": 47947,
+      "totalSpent": 28998,
+      "gamesPlayed": 40,
       "gamesWon": 9,
       "streak": 6
     },
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 2054,
-    "totalCirculating": 2525403,
-    "totalGames": 24743,
+    "totalCirculating": 2525311,
+    "totalGames": 24744,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-02T22:37:42.421Z"
+  "lastUpdated": "2026-06-02T23:07:42.423Z"
 }
