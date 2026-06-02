@@ -1,10 +1,10 @@
 {
   "totalSessions": 112,
   "totalDays": 97,
-  "totalSegments": 4987,
+  "totalSegments": 4989,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 975638,
+  "totalMessages": 976167,
   "categories": [
     {
       "name": "Rust",
@@ -344,10 +344,10 @@
     },
     {
       "name": "Special Events",
-      "avgViewers": 466,
+      "avgViewers": 455,
       "peakViewers": 509,
-      "sampleCount": 9,
-      "totalMsgs": 4551
+      "sampleCount": 11,
+      "totalMsgs": 5080
     },
     {
       "name": "Too Well Hidden",
@@ -448,9 +448,9 @@
       "totalMsgs": 105030
     },
     "22": {
-      "avgViewers": 667,
-      "sampleCount": 435,
-      "totalMsgs": 87969
+      "avgViewers": 666,
+      "sampleCount": 437,
+      "totalMsgs": 88498
     },
     "23": {
       "avgViewers": 637,
@@ -628,7 +628,7 @@
       "date": "2026-06-02",
       "avgViewers": 394,
       "peakViewers": 509,
-      "totalMsgs": 7089,
+      "totalMsgs": 7618,
       "categories": [
         "Just Chatting",
         "IRL",
@@ -638,5 +638,5 @@
     }
   ],
   "botStartedAt": "2026-06-02T19:07:42.068Z",
-  "lastUpdated": "2026-06-02T22:07:42.403Z"
+  "lastUpdated": "2026-06-02T22:37:42.409Z"
 }
