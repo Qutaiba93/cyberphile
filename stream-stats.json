@@ -1,10 +1,10 @@
 {
   "totalSessions": 113,
   "totalDays": 98,
-  "totalSegments": 4997,
+  "totalSegments": 4999,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 976873,
+  "totalMessages": 977378,
   "categories": [
     {
       "name": "Rust",
@@ -140,13 +140,6 @@
       "totalMsgs": 5736
     },
     {
-      "name": "Slots & Casino",
-      "avgViewers": 640,
-      "peakViewers": 786,
-      "sampleCount": 28,
-      "totalMsgs": 9278
-    },
-    {
       "name": "VRChat",
       "avgViewers": 639,
       "peakViewers": 796,
@@ -159,6 +152,13 @@
       "peakViewers": 756,
       "sampleCount": 32,
       "totalMsgs": 7649
+    },
+    {
+      "name": "Slots & Casino",
+      "avgViewers": 638,
+      "peakViewers": 786,
+      "sampleCount": 30,
+      "totalMsgs": 9783
     },
     {
       "name": "Sons of the Forest",
@@ -414,8 +414,8 @@
     },
     "15": {
       "avgViewers": 520,
-      "sampleCount": 404,
-      "totalMsgs": 75346
+      "sampleCount": 406,
+      "totalMsgs": 75851
     },
     "16": {
       "avgViewers": 657,
@@ -625,9 +625,9 @@
     },
     {
       "date": "2026-06-03",
-      "avgViewers": 442,
-      "peakViewers": 579,
-      "totalMsgs": 706,
+      "avgViewers": 475,
+      "peakViewers": 619,
+      "totalMsgs": 1211,
       "categories": [
         "Just Chatting",
         "Slots & Casino"
@@ -635,5 +635,5 @@
     }
   ],
   "botStartedAt": "2026-06-03T14:59:41.757Z",
-  "lastUpdated": "2026-06-03T15:00:42.223Z"
+  "lastUpdated": "2026-06-03T15:29:42.146Z"
 }

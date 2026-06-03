@@ -56,8 +56,8 @@
     },
     {
       "name": "drogan",
-      "balance": 22021,
-      "totalEarned": 22021,
+      "balance": 22041,
+      "totalEarned": 22041,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -65,8 +65,8 @@
     },
     {
       "name": "weppss",
-      "balance": 20907,
-      "totalEarned": 26802,
+      "balance": 20933,
+      "totalEarned": 26828,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -101,8 +101,8 @@
     },
     {
       "name": "schitt",
-      "balance": 15837,
-      "totalEarned": 15837,
+      "balance": 15875,
+      "totalEarned": 15875,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -110,8 +110,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 15606,
-      "totalEarned": 15606,
+      "balance": 15614,
+      "totalEarned": 15614,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "kale96",
-      "balance": 13779,
-      "totalEarned": 20329,
+      "balance": 13787,
+      "totalEarned": 20337,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -245,8 +245,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 11318,
-      "totalEarned": 11318,
+      "balance": 11330,
+      "totalEarned": 11330,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -262,6 +262,15 @@
       "streak": 13
     },
     {
+      "name": "arabicoj",
+      "balance": 10615,
+      "totalEarned": 53480,
+      "totalSpent": 42865,
+      "gamesPlayed": 41,
+      "gamesWon": 15,
+      "streak": 3
+    },
+    {
       "name": "lena_xc",
       "balance": 10554,
       "totalEarned": 10554,
@@ -269,15 +278,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "arabicoj",
-      "balance": 10548,
-      "totalEarned": 53413,
-      "totalSpent": 42865,
-      "gamesPlayed": 41,
-      "gamesWon": 15,
-      "streak": 2
     },
     {
       "name": "damiybe",
@@ -298,6 +298,15 @@
       "streak": 1
     },
     {
+      "name": "kazzcs2",
+      "balance": 9891,
+      "totalEarned": 9891,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 3
+    },
+    {
       "name": "bido_maggot",
       "balance": 9814,
       "totalEarned": 9814,
@@ -305,15 +314,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 5
-    },
-    {
-      "name": "kazzcs2",
-      "balance": 9810,
-      "totalEarned": 9810,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
     },
     {
       "name": "neincs",
@@ -334,6 +334,15 @@
       "streak": 2
     },
     {
+      "name": "iam_umii",
+      "balance": 9587,
+      "totalEarned": 9587,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 3
+    },
+    {
       "name": "xaqin",
       "balance": 9539,
       "totalEarned": 9539,
@@ -352,18 +361,9 @@
       "streak": 2
     },
     {
-      "name": "iam_umii",
-      "balance": 9516,
-      "totalEarned": 9516,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
-    },
-    {
       "name": "tonynairobi",
-      "balance": 9262,
-      "totalEarned": 9262,
+      "balance": 9264,
+      "totalEarned": 9264,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -398,8 +398,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 8849,
-      "totalEarned": 8849,
+      "balance": 8853,
+      "totalEarned": 8853,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 2057,
-    "totalCirculating": 2531569,
-    "totalGames": 24777,
+    "totalCirculating": 2534340,
+    "totalGames": 24780,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-03T15:00:42.230Z"
+  "lastUpdated": "2026-06-03T15:29:42.156Z"
 }
