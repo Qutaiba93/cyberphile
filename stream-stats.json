@@ -1,10 +1,10 @@
 {
   "totalSessions": 113,
   "totalDays": 98,
-  "totalSegments": 5015,
+  "totalSegments": 5018,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 979792,
+  "totalMessages": 980404,
   "categories": [
     {
       "name": "Rust",
@@ -176,10 +176,10 @@
     },
     {
       "name": "Minecraft",
-      "avgViewers": 623,
+      "avgViewers": 625,
       "peakViewers": 788,
-      "sampleCount": 157,
-      "totalMsgs": 28416
+      "sampleCount": 159,
+      "totalMsgs": 28836
     },
     {
       "name": "Gamble With Your Friends",
@@ -234,8 +234,8 @@
       "name": "Just Chatting",
       "avgViewers": 589,
       "peakViewers": 903,
-      "sampleCount": 1947,
-      "totalMsgs": 385492
+      "sampleCount": 1948,
+      "totalMsgs": 385684
     },
     {
       "name": "Dread Neighbor",
@@ -429,8 +429,8 @@
     },
     "18": {
       "avgViewers": 704,
-      "sampleCount": 484,
-      "totalMsgs": 105686
+      "sampleCount": 487,
+      "totalMsgs": 106298
     },
     "19": {
       "avgViewers": 703,
@@ -625,16 +625,17 @@
     },
     {
       "date": "2026-06-03",
-      "avgViewers": 598,
-      "peakViewers": 734,
-      "totalMsgs": 3625,
+      "avgViewers": 611,
+      "peakViewers": 758,
+      "totalMsgs": 4237,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
-        "Sports"
+        "Sports",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-06-03T16:33:47.392Z",
-  "lastUpdated": "2026-06-03T18:03:47.896Z"
+  "lastUpdated": "2026-06-03T18:33:47.903Z"
 }
