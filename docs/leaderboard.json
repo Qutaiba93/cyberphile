@@ -11,8 +11,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 61436,
-      "totalEarned": 1143540,
+      "balance": 61452,
+      "totalEarned": 1143556,
       "totalSpent": 1178025,
       "gamesPlayed": 1189,
       "gamesWon": 472,
@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 47369,
-      "totalEarned": 1070081,
+      "balance": 47375,
+      "totalEarned": 1070087,
       "totalSpent": 1104221,
       "gamesPlayed": 560,
       "gamesWon": 207,
@@ -101,8 +101,8 @@
     },
     {
       "name": "schitt",
-      "balance": 15971,
-      "totalEarned": 15971,
+      "balance": 15975,
+      "totalEarned": 15975,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -110,8 +110,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 15706,
-      "totalEarned": 15706,
+      "balance": 15714,
+      "totalEarned": 15714,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -173,8 +173,8 @@
     },
     {
       "name": "5pray",
-      "balance": 13320,
-      "totalEarned": 13320,
+      "balance": 13346,
+      "totalEarned": 13346,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -199,9 +199,18 @@
       "streak": 7
     },
     {
+      "name": "bido_maggot",
+      "balance": 12427,
+      "totalEarned": 12427,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "pitapan",
-      "balance": 12412,
-      "totalEarned": 12437,
+      "balance": 12424,
+      "totalEarned": 12449,
       "totalSpent": 25,
       "gamesPlayed": 1,
       "gamesWon": 1,
@@ -218,8 +227,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 11939,
-      "totalEarned": 11939,
+      "balance": 11967,
+      "totalEarned": 11967,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -245,8 +254,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 11378,
-      "totalEarned": 11378,
+      "balance": 11392,
+      "totalEarned": 11392,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -305,15 +314,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 3
-    },
-    {
-      "name": "bido_maggot",
-      "balance": 9919,
-      "totalEarned": 9919,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
     },
     {
       "name": "neincs",
@@ -407,8 +407,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 8820,
-      "totalEarned": 8820,
+      "balance": 8826,
+      "totalEarned": 8826,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 2065,
-    "totalCirculating": 2550976,
-    "totalGames": 24790,
+    "totalPlayers": 2067,
+    "totalCirculating": 2550158,
+    "totalGames": 24800,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-03T20:03:47.909Z"
+  "lastUpdated": "2026-06-03T20:33:47.914Z"
 }
