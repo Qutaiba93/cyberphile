@@ -11,8 +11,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 60104,
-      "totalEarned": 1141208,
+      "balance": 60116,
+      "totalEarned": 1141220,
       "totalSpent": 1177025,
       "gamesPlayed": 1188,
       "gamesWon": 471,
@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 48763,
-      "totalEarned": 1067975,
+      "balance": 48765,
+      "totalEarned": 1067977,
       "totalSpent": 1100721,
       "gamesPlayed": 556,
       "gamesWon": 206,
@@ -47,8 +47,8 @@
     },
     {
       "name": "m1yaghi",
-      "balance": 28452,
-      "totalEarned": 88159,
+      "balance": 28454,
+      "totalEarned": 88161,
       "totalSpent": 59707,
       "gamesPlayed": 51,
       "gamesWon": 21,
@@ -101,8 +101,8 @@
     },
     {
       "name": "schitt",
-      "balance": 15929,
-      "totalEarned": 15929,
+      "balance": 15941,
+      "totalEarned": 15941,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "kale96",
-      "balance": 13793,
-      "totalEarned": 20343,
+      "balance": 13799,
+      "totalEarned": 20349,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 2062,
-    "totalCirculating": 2539206,
+    "totalCirculating": 2539516,
     "totalGames": 24780,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-03T16:28:25.827Z"
+  "lastUpdated": "2026-06-03T16:34:48.054Z"
 }
