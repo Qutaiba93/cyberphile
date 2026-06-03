@@ -56,12 +56,12 @@
     },
     {
       "name": "drogan",
-      "balance": 21954,
-      "totalEarned": 21954,
+      "balance": 22021,
+      "totalEarned": 22021,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "weppss",
@@ -101,8 +101,8 @@
     },
     {
       "name": "schitt",
-      "balance": 15829,
-      "totalEarned": 15829,
+      "balance": 15837,
+      "totalEarned": 15837,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -110,8 +110,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 15598,
-      "totalEarned": 15598,
+      "balance": 15606,
+      "totalEarned": 15606,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "kale96",
-      "balance": 13777,
-      "totalEarned": 20327,
+      "balance": 13779,
+      "totalEarned": 20329,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -433,6 +433,15 @@
       "streak": 2
     },
     {
+      "name": "ericlamontjr",
+      "balance": 7866,
+      "totalEarned": 7981,
+      "totalSpent": 115,
+      "gamesPlayed": 6,
+      "gamesWon": 2,
+      "streak": 3
+    },
+    {
       "name": "chicitylol",
       "balance": 7794,
       "totalEarned": 7794,
@@ -440,20 +449,11 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
-    },
-    {
-      "name": "ericlamontjr",
-      "balance": 7791,
-      "totalEarned": 7906,
-      "totalSpent": 115,
-      "gamesPlayed": 6,
-      "gamesWon": 2,
-      "streak": 2
     }
   ],
   "stats": {
     "totalPlayers": 2057,
-    "totalCirculating": 2530831,
+    "totalCirculating": 2531569,
     "totalGames": 24777,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-03T14:51:36.082Z"
+  "lastUpdated": "2026-06-03T15:00:42.230Z"
 }

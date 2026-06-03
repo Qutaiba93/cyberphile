@@ -1,10 +1,10 @@
 {
   "totalSessions": 113,
   "totalDays": 98,
-  "totalSegments": 4996,
+  "totalSegments": 4997,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 976872,
+  "totalMessages": 976873,
   "categories": [
     {
       "name": "Rust",
@@ -141,10 +141,10 @@
     },
     {
       "name": "Slots & Casino",
-      "avgViewers": 643,
+      "avgViewers": 640,
       "peakViewers": 786,
-      "sampleCount": 27,
-      "totalMsgs": 9277
+      "sampleCount": 28,
+      "totalMsgs": 9278
     },
     {
       "name": "VRChat",
@@ -409,8 +409,8 @@
     },
     "14": {
       "avgViewers": 346,
-      "sampleCount": 281,
-      "totalMsgs": 43728
+      "sampleCount": 282,
+      "totalMsgs": 43729
     },
     "15": {
       "avgViewers": 520,
@@ -625,14 +625,15 @@
     },
     {
       "date": "2026-06-03",
-      "avgViewers": 424,
+      "avgViewers": 442,
       "peakViewers": 579,
-      "totalMsgs": 705,
+      "totalMsgs": 706,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Slots & Casino"
       ]
     }
   ],
-  "botStartedAt": "2026-06-03T14:50:35.448Z",
-  "lastUpdated": "2026-06-03T14:51:36.075Z"
+  "botStartedAt": "2026-06-03T14:59:41.757Z",
+  "lastUpdated": "2026-06-03T15:00:42.223Z"
 }
