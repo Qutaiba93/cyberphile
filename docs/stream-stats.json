@@ -1,10 +1,10 @@
 {
   "totalSessions": 113,
   "totalDays": 98,
-  "totalSegments": 5048,
+  "totalSegments": 5051,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 986397,
+  "totalMessages": 987237,
   "categories": [
     {
       "name": "Rust",
@@ -80,8 +80,8 @@
       "name": "IRL",
       "avgViewers": 698,
       "peakViewers": 886,
-      "sampleCount": 276,
-      "totalMsgs": 95205
+      "sampleCount": 279,
+      "totalMsgs": 96045
     },
     {
       "name": "Grand Theft Auto V (GTA)",
@@ -454,8 +454,8 @@
     },
     "23": {
       "avgViewers": 637,
-      "sampleCount": 337,
-      "totalMsgs": 61724
+      "sampleCount": 340,
+      "totalMsgs": 62564
     }
   },
   "dailyHistory": [
@@ -625,9 +625,9 @@
     },
     {
       "date": "2026-06-03",
-      "avgViewers": 651,
+      "avgViewers": 652,
       "peakViewers": 758,
-      "totalMsgs": 10230,
+      "totalMsgs": 11070,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -639,5 +639,5 @@
     }
   ],
   "botStartedAt": "2026-06-03T16:33:47.392Z",
-  "lastUpdated": "2026-06-03T23:33:47.957Z"
+  "lastUpdated": "2026-06-04T00:03:47.963Z"
 }
