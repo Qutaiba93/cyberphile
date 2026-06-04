@@ -56,12 +56,12 @@
     },
     {
       "name": "drogan",
-      "balance": 22061,
-      "totalEarned": 22061,
+      "balance": 22135,
+      "totalEarned": 22135,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "weppss",
@@ -254,12 +254,12 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 11420,
-      "totalEarned": 11420,
+      "balance": 11494,
+      "totalEarned": 11494,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "intermediatewastakensadge",
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3084,
-    "totalCirculating": 2773088,
-    "totalGames": 24824,
+    "totalPlayers": 3096,
+    "totalCirculating": 2775069,
+    "totalGames": 24825,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-04T12:55:14.678Z"
+  "lastUpdated": "2026-06-04T13:24:14.684Z"
 }
