@@ -1,10 +1,10 @@
 {
   "totalSessions": 114,
   "totalDays": 99,
-  "totalSegments": 5063,
+  "totalSegments": 5066,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 988813,
+  "totalMessages": 989264,
   "categories": [
     {
       "name": "Rust",
@@ -157,8 +157,8 @@
       "name": "Slots & Casino",
       "avgViewers": 635,
       "peakViewers": 786,
-      "sampleCount": 41,
-      "totalMsgs": 11452
+      "sampleCount": 44,
+      "totalMsgs": 11903
     },
     {
       "name": "Counter-Strike 2",
@@ -408,9 +408,9 @@
       "totalMsgs": 5242
     },
     "14": {
-      "avgViewers": 348,
-      "sampleCount": 284,
-      "totalMsgs": 44091
+      "avgViewers": 351,
+      "sampleCount": 287,
+      "totalMsgs": 44542
     },
     "15": {
       "avgViewers": 522,
@@ -629,9 +629,9 @@
     },
     {
       "date": "2026-06-04",
-      "avgViewers": 375,
-      "peakViewers": 564,
-      "totalMsgs": 689,
+      "avgViewers": 458,
+      "peakViewers": 638,
+      "totalMsgs": 1140,
       "categories": [
         "Just Chatting",
         "Slots & Casino"
@@ -639,5 +639,5 @@
     }
   ],
   "botStartedAt": "2026-06-04T12:54:14.259Z",
-  "lastUpdated": "2026-06-04T14:24:14.653Z"
+  "lastUpdated": "2026-06-04T14:54:14.670Z"
 }
