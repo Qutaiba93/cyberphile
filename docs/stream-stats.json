@@ -1,10 +1,10 @@
 {
   "totalSessions": 113,
   "totalDays": 98,
-  "totalSegments": 5051,
+  "totalSegments": 5054,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 987237,
+  "totalMessages": 987566,
   "categories": [
     {
       "name": "Rust",
@@ -59,8 +59,8 @@
       "name": "Chat Roulette",
       "avgViewers": 724,
       "peakViewers": 916,
-      "sampleCount": 454,
-      "totalMsgs": 102629
+      "sampleCount": 455,
+      "totalMsgs": 102738
     },
     {
       "name": "Log Riders",
@@ -234,8 +234,8 @@
       "name": "Just Chatting",
       "avgViewers": 589,
       "peakViewers": 903,
-      "sampleCount": 1952,
-      "totalMsgs": 386891
+      "sampleCount": 1954,
+      "totalMsgs": 387111
     },
     {
       "name": "Dread Neighbor",
@@ -374,8 +374,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 584,
-      "sampleCount": 265,
-      "totalMsgs": 38529
+      "sampleCount": 268,
+      "totalMsgs": 38858
     },
     "1": {
       "avgViewers": 534,
@@ -625,19 +625,20 @@
     },
     {
       "date": "2026-06-03",
-      "avgViewers": 652,
+      "avgViewers": 651,
       "peakViewers": 758,
-      "totalMsgs": 11070,
+      "totalMsgs": 11399,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
         "Sports",
         "Minecraft",
         "Counter-Strike 2",
-        "IRL"
+        "IRL",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-06-03T16:33:47.392Z",
-  "lastUpdated": "2026-06-04T00:03:47.963Z"
+  "lastUpdated": "2026-06-04T00:33:47.968Z"
 }
