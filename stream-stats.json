@@ -1,10 +1,10 @@
 {
   "totalSessions": 114,
   "totalDays": 99,
-  "totalSegments": 5096,
+  "totalSegments": 5099,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 994880,
+  "totalMessages": 995503,
   "categories": [
     {
       "name": "Rust",
@@ -164,8 +164,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 636,
       "peakViewers": 841,
-      "sampleCount": 541,
-      "totalMsgs": 87527
+      "sampleCount": 542,
+      "totalMsgs": 87607
     },
     {
       "name": "Sons of the Forest",
@@ -234,8 +234,8 @@
       "name": "Just Chatting",
       "avgViewers": 589,
       "peakViewers": 903,
-      "sampleCount": 1960,
-      "totalMsgs": 387702
+      "sampleCount": 1962,
+      "totalMsgs": 388245
     },
     {
       "name": "Dread Neighbor",
@@ -433,14 +433,14 @@
       "totalMsgs": 107865
     },
     "19": {
-      "avgViewers": 702,
-      "sampleCount": 499,
-      "totalMsgs": 110939
+      "avgViewers": 703,
+      "sampleCount": 500,
+      "totalMsgs": 111019
     },
     "20": {
       "avgViewers": 682,
-      "sampleCount": 525,
-      "totalMsgs": 121391
+      "sampleCount": 527,
+      "totalMsgs": 121934
     },
     "21": {
       "avgViewers": 687,
@@ -629,9 +629,9 @@
     },
     {
       "date": "2026-06-04",
-      "avgViewers": 649,
-      "peakViewers": 740,
-      "totalMsgs": 6756,
+      "avgViewers": 656,
+      "peakViewers": 755,
+      "totalMsgs": 7379,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -640,5 +640,5 @@
     }
   ],
   "botStartedAt": "2026-06-04T12:54:14.259Z",
-  "lastUpdated": "2026-06-04T19:54:14.666Z"
+  "lastUpdated": "2026-06-04T20:24:14.666Z"
 }
