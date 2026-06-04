@@ -1,10 +1,10 @@
 {
   "totalSessions": 114,
   "totalDays": 99,
-  "totalSegments": 5111,
+  "totalSegments": 5114,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 997702,
+  "totalMessages": 998053,
   "categories": [
     {
       "name": "Rust",
@@ -91,13 +91,6 @@
       "totalMsgs": 70269
     },
     {
-      "name": "Psalm 5:9-13",
-      "avgViewers": 674,
-      "peakViewers": 674,
-      "sampleCount": 1,
-      "totalMsgs": 189
-    },
-    {
       "name": "Sea of Thieves",
       "avgViewers": 673,
       "peakViewers": 776,
@@ -138,6 +131,13 @@
       "peakViewers": 732,
       "sampleCount": 28,
       "totalMsgs": 7002
+    },
+    {
+      "name": "Psalm 5:9-13",
+      "avgViewers": 647,
+      "peakViewers": 674,
+      "sampleCount": 4,
+      "totalMsgs": 540
     },
     {
       "name": "The Elder Scrolls V: Skyrim",
@@ -456,8 +456,8 @@
     },
     "22": {
       "avgViewers": 666,
-      "sampleCount": 445,
-      "totalMsgs": 90081
+      "sampleCount": 448,
+      "totalMsgs": 90432
     },
     "23": {
       "avgViewers": 637,
@@ -636,9 +636,9 @@
     },
     {
       "date": "2026-06-04",
-      "avgViewers": 668,
+      "avgViewers": 667,
       "peakViewers": 796,
-      "totalMsgs": 9578,
+      "totalMsgs": 9929,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -648,5 +648,5 @@
     }
   ],
   "botStartedAt": "2026-06-04T12:54:14.259Z",
-  "lastUpdated": "2026-06-04T22:24:14.669Z"
+  "lastUpdated": "2026-06-04T22:54:14.675Z"
 }
