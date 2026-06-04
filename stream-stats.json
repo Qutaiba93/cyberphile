@@ -1,10 +1,10 @@
 {
   "totalSessions": 114,
   "totalDays": 99,
-  "totalSegments": 5117,
+  "totalSegments": 5119,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 998397,
+  "totalMessages": 998616,
   "categories": [
     {
       "name": "Rust",
@@ -175,18 +175,18 @@
       "totalMsgs": 3485
     },
     {
-      "name": "Psalm 5:9-13",
-      "avgViewers": 631,
-      "peakViewers": 674,
-      "sampleCount": 7,
-      "totalMsgs": 884
-    },
-    {
       "name": "Minecraft",
       "avgViewers": 627,
       "peakViewers": 788,
       "sampleCount": 168,
       "totalMsgs": 30104
+    },
+    {
+      "name": "Psalm 5:9-13",
+      "avgViewers": 625,
+      "peakViewers": 674,
+      "sampleCount": 8,
+      "totalMsgs": 929
     },
     {
       "name": "Gamble With Your Friends",
@@ -234,8 +234,8 @@
       "name": "Just Chatting",
       "avgViewers": 590,
       "peakViewers": 903,
-      "sampleCount": 1966,
-      "totalMsgs": 389270
+      "sampleCount": 1967,
+      "totalMsgs": 389444
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -461,8 +461,8 @@
     },
     "23": {
       "avgViewers": 637,
-      "sampleCount": 342,
-      "totalMsgs": 62783
+      "sampleCount": 344,
+      "totalMsgs": 63002
     }
   },
   "dailyHistory": [
@@ -636,9 +636,9 @@
     },
     {
       "date": "2026-06-04",
-      "avgViewers": 664,
+      "avgViewers": 661,
       "peakViewers": 796,
-      "totalMsgs": 10273,
+      "totalMsgs": 10492,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -648,5 +648,5 @@
     }
   ],
   "botStartedAt": "2026-06-04T12:54:14.259Z",
-  "lastUpdated": "2026-06-04T23:24:14.678Z"
+  "lastUpdated": "2026-06-04T23:54:14.686Z"
 }
