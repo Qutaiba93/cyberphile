@@ -1,10 +1,10 @@
 {
   "totalSessions": 114,
   "totalDays": 99,
-  "totalSegments": 5060,
+  "totalSegments": 5063,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 988307,
+  "totalMessages": 988813,
   "categories": [
     {
       "name": "Rust",
@@ -140,13 +140,6 @@
       "totalMsgs": 5736
     },
     {
-      "name": "Slots & Casino",
-      "avgViewers": 644,
-      "peakViewers": 786,
-      "sampleCount": 38,
-      "totalMsgs": 10946
-    },
-    {
       "name": "VRChat",
       "avgViewers": 639,
       "peakViewers": 796,
@@ -159,6 +152,13 @@
       "peakViewers": 756,
       "sampleCount": 32,
       "totalMsgs": 7649
+    },
+    {
+      "name": "Slots & Casino",
+      "avgViewers": 635,
+      "peakViewers": 786,
+      "sampleCount": 41,
+      "totalMsgs": 11452
     },
     {
       "name": "Counter-Strike 2",
@@ -403,14 +403,14 @@
       "totalMsgs": 324
     },
     "13": {
-      "avgViewers": 194,
-      "sampleCount": 57,
-      "totalMsgs": 5098
+      "avgViewers": 198,
+      "sampleCount": 58,
+      "totalMsgs": 5242
     },
     "14": {
-      "avgViewers": 346,
-      "sampleCount": 282,
-      "totalMsgs": 43729
+      "avgViewers": 348,
+      "sampleCount": 284,
+      "totalMsgs": 44091
     },
     "15": {
       "avgViewers": 522,
@@ -629,14 +629,15 @@
     },
     {
       "date": "2026-06-04",
-      "avgViewers": 222,
-      "peakViewers": 412,
-      "totalMsgs": 183,
+      "avgViewers": 375,
+      "peakViewers": 564,
+      "totalMsgs": 689,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Slots & Casino"
       ]
     }
   ],
   "botStartedAt": "2026-06-04T12:54:14.259Z",
-  "lastUpdated": "2026-06-04T13:54:14.655Z"
+  "lastUpdated": "2026-06-04T14:24:14.653Z"
 }
