@@ -1,10 +1,10 @@
 {
   "totalSessions": 114,
   "totalDays": 99,
-  "totalSegments": 5084,
+  "totalSegments": 5087,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 993036,
+  "totalMessages": 993617,
   "categories": [
     {
       "name": "Rust",
@@ -164,8 +164,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 634,
       "peakViewers": 841,
-      "sampleCount": 529,
-      "totalMsgs": 85683
+      "sampleCount": 532,
+      "totalMsgs": 86264
     },
     {
       "name": "Sons of the Forest",
@@ -424,13 +424,13 @@
     },
     "17": {
       "avgViewers": 712,
-      "sampleCount": 486,
-      "totalMsgs": 96558
+      "sampleCount": 487,
+      "totalMsgs": 96731
     },
     "18": {
       "avgViewers": 704,
-      "sampleCount": 490,
-      "totalMsgs": 106826
+      "sampleCount": 492,
+      "totalMsgs": 107234
     },
     "19": {
       "avgViewers": 702,
@@ -629,9 +629,9 @@
     },
     {
       "date": "2026-06-04",
-      "avgViewers": 621,
+      "avgViewers": 630,
       "peakViewers": 740,
-      "totalMsgs": 4912,
+      "totalMsgs": 5493,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -640,5 +640,5 @@
     }
   ],
   "botStartedAt": "2026-06-04T12:54:14.259Z",
-  "lastUpdated": "2026-06-04T17:54:14.654Z"
+  "lastUpdated": "2026-06-04T18:24:14.663Z"
 }
