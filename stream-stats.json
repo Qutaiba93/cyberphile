@@ -1,10 +1,10 @@
 {
-  "totalSessions": 114,
-  "totalDays": 99,
-  "totalSegments": 5119,
+  "totalSessions": 115,
+  "totalDays": 100,
+  "totalSegments": 5121,
   "allTimePeak": 17991,
   "allTimeAvg": 631,
-  "totalMessages": 998616,
+  "totalMessages": 998928,
   "categories": [
     {
       "name": "Rust",
@@ -154,13 +154,6 @@
       "totalMsgs": 7649
     },
     {
-      "name": "Slots & Casino",
-      "avgViewers": 637,
-      "peakViewers": 786,
-      "sampleCount": 47,
-      "totalMsgs": 12664
-    },
-    {
       "name": "Counter-Strike 2",
       "avgViewers": 636,
       "peakViewers": 841,
@@ -180,6 +173,13 @@
       "peakViewers": 788,
       "sampleCount": 168,
       "totalMsgs": 30104
+    },
+    {
+      "name": "Slots & Casino",
+      "avgViewers": 627,
+      "peakViewers": 786,
+      "sampleCount": 48,
+      "totalMsgs": 12879
     },
     {
       "name": "Psalm 5:9-13",
@@ -231,18 +231,18 @@
       "totalMsgs": 6766
     },
     {
-      "name": "Just Chatting",
-      "avgViewers": 590,
-      "peakViewers": 903,
-      "sampleCount": 1967,
-      "totalMsgs": 389444
-    },
-    {
       "name": "Call of Duty: Black Ops Zombies",
       "avgViewers": 590,
       "peakViewers": 748,
       "sampleCount": 16,
       "totalMsgs": 2802
+    },
+    {
+      "name": "Just Chatting",
+      "avgViewers": 589,
+      "peakViewers": 903,
+      "sampleCount": 1968,
+      "totalMsgs": 389541
     },
     {
       "name": "Dread Neighbor",
@@ -425,9 +425,9 @@
       "totalMsgs": 77913
     },
     "16": {
-      "avgViewers": 658,
-      "sampleCount": 469,
-      "totalMsgs": 92688
+      "avgViewers": 656,
+      "sampleCount": 471,
+      "totalMsgs": 93000
     },
     "17": {
       "avgViewers": 712,
@@ -466,19 +466,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-20",
-      "avgViewers": 665,
-      "peakViewers": 783,
-      "totalMsgs": 10718,
-      "categories": [
-        "Just Chatting",
-        "Grand Theft Auto VI (GTA)",
-        "Grand Theft Auto V (GTA)",
-        "Chat Roulette",
-        "Minecraft"
-      ]
-    },
     {
       "date": "2026-05-21",
       "avgViewers": 710,
@@ -645,8 +632,18 @@
         "Counter-Strike 2",
         "Psalm 5:9-13"
       ]
+    },
+    {
+      "date": "2026-06-05",
+      "avgViewers": 148,
+      "peakViewers": 188,
+      "totalMsgs": 312,
+      "categories": [
+        "Just Chatting",
+        "Slots & Casino"
+      ]
     }
   ],
   "botStartedAt": "2026-06-04T12:54:14.259Z",
-  "lastUpdated": "2026-06-05T15:54:14.815Z"
+  "lastUpdated": "2026-06-05T16:24:14.817Z"
 }
