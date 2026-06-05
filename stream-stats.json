@@ -1,10 +1,10 @@
 {
   "totalSessions": 115,
   "totalDays": 100,
-  "totalSegments": 5142,
+  "totalSegments": 5145,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 1002668,
+  "totalMessages": 1003030,
   "categories": [
     {
       "name": "Rust",
@@ -87,8 +87,8 @@
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 677,
       "peakViewers": 839,
-      "sampleCount": 428,
-      "totalMsgs": 70569
+      "sampleCount": 431,
+      "totalMsgs": 70931
     },
     {
       "name": "Sea of Thieves",
@@ -441,13 +441,13 @@
     },
     "19": {
       "avgViewers": 700,
-      "sampleCount": 504,
-      "totalMsgs": 111442
+      "sampleCount": 506,
+      "totalMsgs": 111630
     },
     "20": {
       "avgViewers": 683,
-      "sampleCount": 531,
-      "totalMsgs": 122959
+      "sampleCount": 532,
+      "totalMsgs": 123133
     },
     "21": {
       "avgViewers": 687,
@@ -635,9 +635,9 @@
     },
     {
       "date": "2026-06-05",
-      "avgViewers": 335,
-      "peakViewers": 530,
-      "totalMsgs": 4052,
+      "avgViewers": 368,
+      "peakViewers": 636,
+      "totalMsgs": 4414,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -646,5 +646,5 @@
     }
   ],
   "botStartedAt": "2026-06-05T18:14:00.904Z",
-  "lastUpdated": "2026-06-05T19:44:01.299Z"
+  "lastUpdated": "2026-06-05T20:14:01.302Z"
 }
