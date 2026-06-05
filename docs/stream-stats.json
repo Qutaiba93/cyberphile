@@ -1,10 +1,10 @@
 {
   "totalSessions": 115,
   "totalDays": 100,
-  "totalSegments": 5148,
+  "totalSegments": 5151,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 1003619,
+  "totalMessages": 1004400,
   "categories": [
     {
       "name": "Rust",
@@ -59,8 +59,8 @@
       "name": "Chat Roulette",
       "avgViewers": 723,
       "peakViewers": 916,
-      "sampleCount": 458,
-      "totalMsgs": 103296
+      "sampleCount": 460,
+      "totalMsgs": 103723
     },
     {
       "name": "Log Riders",
@@ -351,10 +351,10 @@
     },
     {
       "name": "Special Events",
-      "avgViewers": 455,
-      "peakViewers": 509,
-      "sampleCount": 11,
-      "totalMsgs": 5080
+      "avgViewers": 474,
+      "peakViewers": 680,
+      "sampleCount": 12,
+      "totalMsgs": 5434
     },
     {
       "name": "Too Well Hidden",
@@ -446,13 +446,13 @@
     },
     "20": {
       "avgViewers": 682,
-      "sampleCount": 535,
-      "totalMsgs": 123722
+      "sampleCount": 537,
+      "totalMsgs": 124149
     },
     "21": {
       "avgViewers": 687,
-      "sampleCount": 523,
-      "totalMsgs": 107429
+      "sampleCount": 524,
+      "totalMsgs": 107783
     },
     "22": {
       "avgViewers": 666,
@@ -635,16 +635,18 @@
     },
     {
       "date": "2026-06-05",
-      "avgViewers": 397,
-      "peakViewers": 661,
-      "totalMsgs": 5003,
+      "avgViewers": 423,
+      "peakViewers": 699,
+      "totalMsgs": 5784,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
-        "Grand Theft Auto V (GTA)"
+        "Grand Theft Auto V (GTA)",
+        "Chat Roulette",
+        "Special Events"
       ]
     }
   ],
   "botStartedAt": "2026-06-05T18:14:00.904Z",
-  "lastUpdated": "2026-06-05T20:44:01.306Z"
+  "lastUpdated": "2026-06-05T21:14:01.297Z"
 }
