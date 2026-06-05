@@ -1,10 +1,10 @@
 {
   "totalSessions": 115,
   "totalDays": 100,
-  "totalSegments": 5151,
+  "totalSegments": 5154,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 1004400,
+  "totalMessages": 1005786,
   "categories": [
     {
       "name": "Rust",
@@ -47,6 +47,13 @@
       "peakViewers": 734,
       "sampleCount": 4,
       "totalMsgs": 1148
+    },
+    {
+      "name": "Summer Game Fest 2026",
+      "avgViewers": 727,
+      "peakViewers": 727,
+      "sampleCount": 1,
+      "totalMsgs": 549
     },
     {
       "name": "Grand Theft Auto VI (GTA)",
@@ -336,6 +343,13 @@
       "totalMsgs": 2661
     },
     {
+      "name": "Special Events",
+      "avgViewers": 509,
+      "peakViewers": 753,
+      "sampleCount": 14,
+      "totalMsgs": 6271
+    },
+    {
       "name": "Scam Line",
       "avgViewers": 499,
       "peakViewers": 499,
@@ -348,13 +362,6 @@
       "peakViewers": 587,
       "sampleCount": 8,
       "totalMsgs": 1782
-    },
-    {
-      "name": "Special Events",
-      "avgViewers": 474,
-      "peakViewers": 680,
-      "sampleCount": 12,
-      "totalMsgs": 5434
     },
     {
       "name": "Too Well Hidden",
@@ -451,8 +458,8 @@
     },
     "21": {
       "avgViewers": 687,
-      "sampleCount": 524,
-      "totalMsgs": 107783
+      "sampleCount": 527,
+      "totalMsgs": 109169
     },
     "22": {
       "avgViewers": 666,
@@ -635,18 +642,19 @@
     },
     {
       "date": "2026-06-05",
-      "avgViewers": 423,
-      "peakViewers": 699,
-      "totalMsgs": 5784,
+      "avgViewers": 449,
+      "peakViewers": 753,
+      "totalMsgs": 7170,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
         "Grand Theft Auto V (GTA)",
         "Chat Roulette",
-        "Special Events"
+        "Special Events",
+        "Summer Game Fest 2026"
       ]
     }
   ],
   "botStartedAt": "2026-06-05T18:14:00.904Z",
-  "lastUpdated": "2026-06-05T21:14:01.297Z"
+  "lastUpdated": "2026-06-05T21:44:01.300Z"
 }
