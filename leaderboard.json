@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "uncommonkey",
-      "balance": 100267,
-      "totalEarned": 380583,
+      "balance": 100337,
+      "totalEarned": 380653,
       "totalSpent": 342371,
       "gamesPlayed": 53,
       "gamesWon": 27,
@@ -11,10 +11,10 @@
     },
     {
       "name": "meliziana",
-      "balance": 58813,
-      "totalEarned": 1181537,
-      "totalSpent": 1218645,
-      "gamesPlayed": 1210,
+      "balance": 57861,
+      "totalEarned": 1181585,
+      "totalSpent": 1219645,
+      "gamesPlayed": 1211,
       "gamesWon": 479,
       "streak": 4
     },
@@ -29,11 +29,11 @@
     },
     {
       "name": "shance",
-      "balance": 46425,
-      "totalEarned": 1093162,
-      "totalSpent": 1128246,
-      "gamesPlayed": 564,
-      "gamesWon": 208,
+      "balance": 47466,
+      "totalEarned": 1095228,
+      "totalSpent": 1129271,
+      "gamesPlayed": 566,
+      "gamesWon": 210,
       "streak": 9
     },
     {
@@ -65,8 +65,8 @@
     },
     {
       "name": "drogan",
-      "balance": 22924,
-      "totalEarned": 22924,
+      "balance": 23006,
+      "totalEarned": 23006,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -101,8 +101,8 @@
     },
     {
       "name": "schitt",
-      "balance": 16406,
-      "totalEarned": 16406,
+      "balance": 16452,
+      "totalEarned": 16452,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -119,12 +119,21 @@
     },
     {
       "name": "faridlamm",
-      "balance": 14753,
-      "totalEarned": 14854,
+      "balance": 14767,
+      "totalEarned": 14868,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 9
+    },
+    {
+      "name": "papaah",
+      "balance": 14471,
+      "totalEarned": 15472,
+      "totalSpent": 1001,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 2
     },
     {
       "name": "upkey",
@@ -134,15 +143,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 5
-    },
-    {
-      "name": "papaah",
-      "balance": 14465,
-      "totalEarned": 15466,
-      "totalSpent": 1001,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
     },
     {
       "name": "kale96",
@@ -173,8 +173,8 @@
     },
     {
       "name": "5pray",
-      "balance": 13579,
-      "totalEarned": 13579,
+      "balance": 13625,
+      "totalEarned": 13625,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -272,8 +272,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 10968,
-      "totalEarned": 53833,
+      "balance": 10988,
+      "totalEarned": 53853,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -281,8 +281,8 @@
     },
     {
       "name": "kazzcs2",
-      "balance": 10876,
-      "totalEarned": 10876,
+      "balance": 10918,
+      "totalEarned": 10918,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -335,8 +335,8 @@
     },
     {
       "name": "xaqin",
-      "balance": 9805,
-      "totalEarned": 9805,
+      "balance": 9817,
+      "totalEarned": 9817,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -398,8 +398,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 9143,
-      "totalEarned": 9143,
+      "balance": 9165,
+      "totalEarned": 9165,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -443,8 +443,8 @@
     },
     {
       "name": "t3mm",
-      "balance": 8141,
-      "totalEarned": 87221,
+      "balance": 8143,
+      "totalEarned": 87223,
       "totalSpent": 79080,
       "gamesPlayed": 95,
       "gamesWon": 39,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3126,
-    "totalCirculating": 2837884,
-    "totalGames": 24955,
+    "totalCirculating": 2841043,
+    "totalGames": 24960,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-05T22:44:01.319Z"
+  "lastUpdated": "2026-06-05T23:14:01.321Z"
 }
