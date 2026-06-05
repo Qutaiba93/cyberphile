@@ -1,10 +1,10 @@
 {
   "totalSessions": 115,
   "totalDays": 100,
-  "totalSegments": 5121,
+  "totalSegments": 5124,
   "allTimePeak": 17991,
-  "allTimeAvg": 631,
-  "totalMessages": 998928,
+  "allTimeAvg": 630,
+  "totalMessages": 999436,
   "categories": [
     {
       "name": "Rust",
@@ -175,13 +175,6 @@
       "totalMsgs": 30104
     },
     {
-      "name": "Slots & Casino",
-      "avgViewers": 627,
-      "peakViewers": 786,
-      "sampleCount": 48,
-      "totalMsgs": 12879
-    },
-    {
       "name": "Psalm 5:9-13",
       "avgViewers": 625,
       "peakViewers": 674,
@@ -208,6 +201,13 @@
       "peakViewers": 614,
       "sampleCount": 1,
       "totalMsgs": 107
+    },
+    {
+      "name": "Slots & Casino",
+      "avgViewers": 606,
+      "peakViewers": 786,
+      "sampleCount": 51,
+      "totalMsgs": 13387
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -425,9 +425,9 @@
       "totalMsgs": 77913
     },
     "16": {
-      "avgViewers": 656,
-      "sampleCount": 471,
-      "totalMsgs": 93000
+      "avgViewers": 653,
+      "sampleCount": 474,
+      "totalMsgs": 93508
     },
     "17": {
       "avgViewers": 712,
@@ -635,9 +635,9 @@
     },
     {
       "date": "2026-06-05",
-      "avgViewers": 148,
-      "peakViewers": 188,
-      "totalMsgs": 312,
+      "avgViewers": 214,
+      "peakViewers": 273,
+      "totalMsgs": 820,
       "categories": [
         "Just Chatting",
         "Slots & Casino"
@@ -645,5 +645,5 @@
     }
   ],
   "botStartedAt": "2026-06-04T12:54:14.259Z",
-  "lastUpdated": "2026-06-05T16:24:14.817Z"
+  "lastUpdated": "2026-06-05T16:54:14.828Z"
 }
