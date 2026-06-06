@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "uncommonkey",
-      "balance": 100531,
-      "totalEarned": 380847,
+      "balance": 100553,
+      "totalEarned": 380869,
       "totalSpent": 342371,
       "gamesPlayed": 53,
       "gamesWon": 27,
@@ -11,8 +11,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 55061,
-      "totalEarned": 1181838,
+      "balance": 55117,
+      "totalEarned": 1181894,
       "totalSpent": 1222698,
       "gamesPlayed": 1213,
       "gamesWon": 480,
@@ -29,11 +29,11 @@
     },
     {
       "name": "shance",
-      "balance": 47631,
-      "totalEarned": 1095418,
-      "totalSpent": 1129296,
-      "gamesPlayed": 567,
-      "gamesWon": 210,
+      "balance": 47682,
+      "totalEarned": 1095494,
+      "totalSpent": 1129321,
+      "gamesPlayed": 568,
+      "gamesWon": 211,
       "streak": 10
     },
     {
@@ -56,12 +56,12 @@
     },
     {
       "name": "shahin",
-      "balance": 24905,
-      "totalEarned": 59203,
+      "balance": 25009,
+      "totalEarned": 59307,
       "totalSpent": 34298,
       "gamesPlayed": 45,
       "gamesWon": 11,
-      "streak": 9
+      "streak": 10
     },
     {
       "name": "drogan",
@@ -101,8 +101,8 @@
     },
     {
       "name": "schitt",
-      "balance": 16560,
-      "totalEarned": 16560,
+      "balance": 16574,
+      "totalEarned": 16574,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -155,12 +155,12 @@
     },
     {
       "name": "cecee",
-      "balance": 14110,
-      "totalEarned": 67291,
+      "balance": 14180,
+      "totalEarned": 67361,
       "totalSpent": 53181,
       "gamesPlayed": 335,
       "gamesWon": 115,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "seraj",
@@ -173,12 +173,12 @@
     },
     {
       "name": "5pray",
-      "balance": 13625,
-      "totalEarned": 13625,
+      "balance": 13693,
+      "totalEarned": 13693,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "machamp1",
@@ -245,8 +245,8 @@
     },
     {
       "name": "karmahit",
-      "balance": 12145,
-      "totalEarned": 12145,
+      "balance": 12149,
+      "totalEarned": 12149,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -272,8 +272,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 11090,
-      "totalEarned": 53955,
+      "balance": 11108,
+      "totalEarned": 53973,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -307,6 +307,15 @@
       "streak": 1
     },
     {
+      "name": "zeepzeep",
+      "balance": 10296,
+      "totalEarned": 50949,
+      "totalSpent": 40653,
+      "gamesPlayed": 76,
+      "gamesWon": 29,
+      "streak": 6
+    },
+    {
       "name": "nitro_st",
       "balance": 10195,
       "totalEarned": 10195,
@@ -314,15 +323,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "zeepzeep",
-      "balance": 10188,
-      "totalEarned": 50841,
-      "totalSpent": 40653,
-      "gamesPlayed": 76,
-      "gamesWon": 29,
-      "streak": 5
     },
     {
       "name": "quantik",
@@ -389,8 +389,8 @@
     },
     {
       "name": "politecatt",
-      "balance": 9368,
-      "totalEarned": 9418,
+      "balance": 9384,
+      "totalEarned": 9434,
       "totalSpent": 50,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -398,8 +398,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 9275,
-      "totalEarned": 9275,
+      "balance": 9277,
+      "totalEarned": 9277,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3130,
-    "totalCirculating": 2843602,
-    "totalGames": 24995,
+    "totalCirculating": 2845517,
+    "totalGames": 24996,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-06T15:40:30.331Z"
+  "lastUpdated": "2026-06-06T16:10:30.341Z"
 }

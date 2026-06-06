@@ -1,10 +1,10 @@
 {
   "totalSessions": 116,
   "totalDays": 101,
-  "totalSegments": 5172,
+  "totalSegments": 5175,
   "allTimePeak": 17991,
   "allTimeAvg": 629,
-  "totalMessages": 1011010,
+  "totalMessages": 1011530,
   "categories": [
     {
       "name": "Rust",
@@ -260,10 +260,10 @@
     },
     {
       "name": "Slots & Casino",
-      "avgViewers": 574,
+      "avgViewers": 576,
       "peakViewers": 786,
-      "sampleCount": 62,
-      "totalMsgs": 15568
+      "sampleCount": 65,
+      "totalMsgs": 16088
     },
     {
       "name": "007 First Light",
@@ -428,13 +428,13 @@
     },
     "15": {
       "avgViewers": 525,
-      "sampleCount": 420,
-      "totalMsgs": 78646
+      "sampleCount": 422,
+      "totalMsgs": 78983
     },
     "16": {
       "avgViewers": 653,
-      "sampleCount": 475,
-      "totalMsgs": 93747
+      "sampleCount": 476,
+      "totalMsgs": 93930
     },
     "17": {
       "avgViewers": 708,
@@ -643,9 +643,9 @@
     },
     {
       "date": "2026-06-06",
-      "avgViewers": 479,
-      "peakViewers": 591,
-      "totalMsgs": 1054,
+      "avgViewers": 519,
+      "peakViewers": 637,
+      "totalMsgs": 1574,
       "categories": [
         "Just Chatting",
         "Slots & Casino"
@@ -653,5 +653,5 @@
     }
   ],
   "botStartedAt": "2026-06-06T01:40:29.767Z",
-  "lastUpdated": "2026-06-06T15:40:30.317Z"
+  "lastUpdated": "2026-06-06T16:10:30.324Z"
 }
