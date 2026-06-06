@@ -29,12 +29,12 @@
     },
     {
       "name": "shance",
-      "balance": 47466,
-      "totalEarned": 1095228,
+      "balance": 47570,
+      "totalEarned": 1095332,
       "totalSpent": 1129271,
       "gamesPlayed": 566,
       "gamesWon": 210,
-      "streak": 9
+      "streak": 10
     },
     {
       "name": "zuyu",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3126,
-    "totalCirculating": 2842249,
+    "totalCirculating": 2842353,
     "totalGames": 24974,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-06T00:59:45.000Z"
+  "lastUpdated": "2026-06-06T01:04:43.923Z"
 }
