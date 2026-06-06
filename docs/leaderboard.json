@@ -380,12 +380,12 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 9458,
-      "totalEarned": 9458,
+      "balance": 9522,
+      "totalEarned": 9522,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "politecatt",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3126,
-    "totalCirculating": 2842185,
+    "totalCirculating": 2842249,
     "totalGames": 24974,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-06T00:14:01.402Z"
+  "lastUpdated": "2026-06-06T00:44:01.385Z"
 }
