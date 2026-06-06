@@ -1,10 +1,10 @@
 {
   "totalSessions": 116,
   "totalDays": 101,
-  "totalSegments": 5166,
+  "totalSegments": 5169,
   "allTimePeak": 17991,
-  "allTimeAvg": 630,
-  "totalMessages": 1010064,
+  "allTimeAvg": 629,
+  "totalMessages": 1010464,
   "categories": [
     {
       "name": "Rust",
@@ -241,8 +241,8 @@
       "name": "Just Chatting",
       "avgViewers": 588,
       "peakViewers": 903,
-      "sampleCount": 1981,
-      "totalMsgs": 391859
+      "sampleCount": 1983,
+      "totalMsgs": 392072
     },
     {
       "name": "Dread Neighbor",
@@ -260,10 +260,10 @@
     },
     {
       "name": "Slots & Casino",
-      "avgViewers": 574,
+      "avgViewers": 573,
       "peakViewers": 786,
-      "sampleCount": 58,
-      "totalMsgs": 14835
+      "sampleCount": 59,
+      "totalMsgs": 15022
     },
     {
       "name": "007 First Light",
@@ -422,14 +422,14 @@
       "totalMsgs": 5242
     },
     "14": {
-      "avgViewers": 351,
-      "sampleCount": 290,
-      "totalMsgs": 44880
+      "avgViewers": 352,
+      "sampleCount": 292,
+      "totalMsgs": 45093
     },
     "15": {
       "avgViewers": 524,
-      "sampleCount": 416,
-      "totalMsgs": 77913
+      "sampleCount": 417,
+      "totalMsgs": 78100
     },
     "16": {
       "avgViewers": 653,
@@ -643,14 +643,15 @@
     },
     {
       "date": "2026-06-06",
-      "avgViewers": 265,
-      "peakViewers": 360,
-      "totalMsgs": 108,
+      "avgViewers": 417,
+      "peakViewers": 551,
+      "totalMsgs": 508,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Slots & Casino"
       ]
     }
   ],
   "botStartedAt": "2026-06-06T01:40:29.767Z",
-  "lastUpdated": "2026-06-06T14:40:30.314Z"
+  "lastUpdated": "2026-06-06T15:10:30.322Z"
 }
