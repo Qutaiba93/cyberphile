@@ -2,26 +2,26 @@
   "leaderboard": [
     {
       "name": "uncommonkey",
-      "balance": 100601,
-      "totalEarned": 380917,
-      "totalSpent": 342371,
-      "gamesPlayed": 53,
-      "gamesWon": 27,
+      "balance": 100657,
+      "totalEarned": 400973,
+      "totalSpent": 362371,
+      "gamesPlayed": 54,
+      "gamesWon": 28,
       "streak": 15
     },
     {
       "name": "meliziana",
-      "balance": 55751,
-      "totalEarned": 1183028,
-      "totalSpent": 1223198,
-      "gamesPlayed": 1214,
+      "balance": 64317,
+      "totalEarned": 1193094,
+      "totalSpent": 1224698,
+      "gamesPlayed": 1216,
       "gamesWon": 481,
       "streak": 5
     },
     {
       "name": "tevb0t",
-      "balance": 49027,
-      "totalEarned": 112862,
+      "balance": 49055,
+      "totalEarned": 112890,
       "totalSpent": 63835,
       "gamesPlayed": 66,
       "gamesWon": 35,
@@ -29,8 +29,8 @@
     },
     {
       "name": "shance",
-      "balance": 47698,
-      "totalEarned": 1095510,
+      "balance": 47710,
+      "totalEarned": 1095522,
       "totalSpent": 1129321,
       "gamesPlayed": 568,
       "gamesWon": 211,
@@ -101,8 +101,8 @@
     },
     {
       "name": "schitt",
-      "balance": 16578,
-      "totalEarned": 16578,
+      "balance": 16582,
+      "totalEarned": 16582,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -164,8 +164,8 @@
     },
     {
       "name": "5pray",
-      "balance": 13899,
-      "totalEarned": 13899,
+      "balance": 13935,
+      "totalEarned": 13935,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -281,8 +281,8 @@
     },
     {
       "name": "kazzcs2",
-      "balance": 11042,
-      "totalEarned": 11042,
+      "balance": 11060,
+      "totalEarned": 11060,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,8 +299,8 @@
     },
     {
       "name": "damiybe",
-      "balance": 10590,
-      "totalEarned": 10600,
+      "balance": 10592,
+      "totalEarned": 10602,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -308,8 +308,8 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 10396,
-      "totalEarned": 51049,
+      "balance": 10438,
+      "totalEarned": 51091,
       "totalSpent": 40653,
       "gamesPlayed": 76,
       "gamesWon": 29,
@@ -380,8 +380,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 9522,
-      "totalEarned": 9522,
+      "balance": 9526,
+      "totalEarned": 9526,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -389,8 +389,8 @@
     },
     {
       "name": "politecatt",
-      "balance": 9386,
-      "totalEarned": 9436,
+      "balance": 9390,
+      "totalEarned": 9440,
       "totalSpent": 50,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -398,8 +398,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 9289,
-      "totalEarned": 9289,
+      "balance": 9301,
+      "totalEarned": 9301,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -416,8 +416,8 @@
     },
     {
       "name": "confusion",
-      "balance": 9146,
-      "totalEarned": 9661,
+      "balance": 9148,
+      "totalEarned": 9663,
       "totalSpent": 515,
       "gamesPlayed": 11,
       "gamesWon": 4,
@@ -442,19 +442,19 @@
       "streak": 2
     },
     {
-      "name": "ericlamontjr",
-      "balance": 8209,
-      "totalEarned": 8324,
-      "totalSpent": 115,
-      "gamesPlayed": 6,
-      "gamesWon": 2,
-      "streak": 6
+      "name": "anansidagyuki",
+      "balance": 8218,
+      "totalEarned": 22417,
+      "totalSpent": 14199,
+      "gamesPlayed": 24,
+      "gamesWon": 5,
+      "streak": 10
     }
   ],
   "stats": {
-    "totalPlayers": 3130,
-    "totalCirculating": 2849070,
-    "totalGames": 25010,
+    "totalPlayers": 3131,
+    "totalCirculating": 2859888,
+    "totalGames": 25013,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-06T17:40:30.334Z"
+  "lastUpdated": "2026-06-06T18:10:30.345Z"
 }
