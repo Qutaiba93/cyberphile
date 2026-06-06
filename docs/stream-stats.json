@@ -1,10 +1,10 @@
 {
-  "totalSessions": 115,
-  "totalDays": 100,
-  "totalSegments": 5164,
+  "totalSessions": 116,
+  "totalDays": 101,
+  "totalSegments": 5166,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 1009956,
+  "totalMessages": 1010064,
   "categories": [
     {
       "name": "Rust",
@@ -239,10 +239,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 589,
+      "avgViewers": 588,
       "peakViewers": 903,
-      "sampleCount": 1979,
-      "totalMsgs": 391751
+      "sampleCount": 1981,
+      "totalMsgs": 391859
     },
     {
       "name": "Dread Neighbor",
@@ -422,9 +422,9 @@
       "totalMsgs": 5242
     },
     "14": {
-      "avgViewers": 352,
-      "sampleCount": 288,
-      "totalMsgs": 44772
+      "avgViewers": 351,
+      "sampleCount": 290,
+      "totalMsgs": 44880
     },
     "15": {
       "avgViewers": 524,
@@ -473,19 +473,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-21",
-      "avgViewers": 710,
-      "peakViewers": 872,
-      "totalMsgs": 10817,
-      "categories": [
-        "Just Chatting",
-        "Minecraft",
-        "Chat Roulette",
-        "Grand Theft Auto V (GTA)",
-        "VRChat"
-      ]
-    },
     {
       "date": "2026-05-22",
       "avgViewers": 630,
@@ -653,8 +640,17 @@
         "Special Events",
         "Summer Game Fest 2026"
       ]
+    },
+    {
+      "date": "2026-06-06",
+      "avgViewers": 265,
+      "peakViewers": 360,
+      "totalMsgs": 108,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-06T01:40:29.767Z",
-  "lastUpdated": "2026-06-06T14:10:30.329Z"
+  "lastUpdated": "2026-06-06T14:40:30.314Z"
 }
