@@ -1,10 +1,10 @@
 {
   "totalSessions": 117,
   "totalDays": 102,
-  "totalSegments": 5236,
+  "totalSegments": 5239,
   "allTimePeak": 17991,
   "allTimeAvg": 629,
-  "totalMessages": 1022692,
+  "totalMessages": 1023170,
   "categories": [
     {
       "name": "Rust",
@@ -343,13 +343,6 @@
       "totalMsgs": 2661
     },
     {
-      "name": "Special Events",
-      "avgViewers": 509,
-      "peakViewers": 753,
-      "sampleCount": 14,
-      "totalMsgs": 6271
-    },
-    {
       "name": "Scam Line",
       "avgViewers": 499,
       "peakViewers": 499,
@@ -362,6 +355,13 @@
       "peakViewers": 587,
       "sampleCount": 8,
       "totalMsgs": 1782
+    },
+    {
+      "name": "Special Events",
+      "avgViewers": 484,
+      "peakViewers": 753,
+      "sampleCount": 17,
+      "totalMsgs": 6749
     },
     {
       "name": "Too Well Hidden",
@@ -437,9 +437,9 @@
       "totalMsgs": 96731
     },
     "17": {
-      "avgViewers": 707,
-      "sampleCount": 500,
-      "totalMsgs": 99176
+      "avgViewers": 705,
+      "sampleCount": 503,
+      "totalMsgs": 99654
     },
     "18": {
       "avgViewers": 699,
@@ -643,15 +643,16 @@
     },
     {
       "date": "2026-06-07",
-      "avgViewers": 302,
+      "avgViewers": 314,
       "peakViewers": 392,
-      "totalMsgs": 3757,
+      "totalMsgs": 4235,
       "categories": [
         "Just Chatting",
-        "Slots & Casino"
+        "Slots & Casino",
+        "Special Events"
       ]
     }
   ],
   "botStartedAt": "2026-06-06T01:40:29.767Z",
-  "lastUpdated": "2026-06-07T17:10:30.417Z"
+  "lastUpdated": "2026-06-07T17:40:30.410Z"
 }
