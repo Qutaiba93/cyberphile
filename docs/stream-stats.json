@@ -1,10 +1,10 @@
 {
   "totalSessions": 117,
   "totalDays": 102,
-  "totalSegments": 5242,
+  "totalSegments": 5245,
   "allTimePeak": 17991,
-  "allTimeAvg": 629,
-  "totalMessages": 1023741,
+  "allTimeAvg": 628,
+  "totalMessages": 1024414,
   "categories": [
     {
       "name": "Rust",
@@ -241,8 +241,8 @@
       "name": "Just Chatting",
       "avgViewers": 588,
       "peakViewers": 903,
-      "sampleCount": 2005,
-      "totalMsgs": 396434
+      "sampleCount": 2007,
+      "totalMsgs": 396816
     },
     {
       "name": "Dread Neighbor",
@@ -358,10 +358,10 @@
     },
     {
       "name": "Special Events",
-      "avgViewers": 473,
+      "avgViewers": 471,
       "peakViewers": 753,
-      "sampleCount": 20,
-      "totalMsgs": 7320
+      "sampleCount": 21,
+      "totalMsgs": 7611
     },
     {
       "name": "Too Well Hidden",
@@ -442,9 +442,9 @@
       "totalMsgs": 100024
     },
     "18": {
-      "avgViewers": 699,
-      "sampleCount": 510,
-      "totalMsgs": 110457
+      "avgViewers": 697,
+      "sampleCount": 513,
+      "totalMsgs": 111130
     },
     "19": {
       "avgViewers": 700,
@@ -643,9 +643,9 @@
     },
     {
       "date": "2026-06-07",
-      "avgViewers": 328,
-      "peakViewers": 427,
-      "totalMsgs": 4806,
+      "avgViewers": 340,
+      "peakViewers": 436,
+      "totalMsgs": 5479,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -654,5 +654,5 @@
     }
   ],
   "botStartedAt": "2026-06-06T01:40:29.767Z",
-  "lastUpdated": "2026-06-07T18:10:30.436Z"
+  "lastUpdated": "2026-06-07T18:40:30.407Z"
 }
