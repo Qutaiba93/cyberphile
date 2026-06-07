@@ -1,10 +1,10 @@
 {
   "totalSessions": 117,
   "totalDays": 102,
-  "totalSegments": 5239,
+  "totalSegments": 5242,
   "allTimePeak": 17991,
   "allTimeAvg": 629,
-  "totalMessages": 1023170,
+  "totalMessages": 1023741,
   "categories": [
     {
       "name": "Rust",
@@ -358,10 +358,10 @@
     },
     {
       "name": "Special Events",
-      "avgViewers": 484,
+      "avgViewers": 473,
       "peakViewers": 753,
-      "sampleCount": 17,
-      "totalMsgs": 6749
+      "sampleCount": 20,
+      "totalMsgs": 7320
     },
     {
       "name": "Too Well Hidden",
@@ -437,14 +437,14 @@
       "totalMsgs": 96731
     },
     "17": {
-      "avgViewers": 705,
-      "sampleCount": 503,
-      "totalMsgs": 99654
+      "avgViewers": 704,
+      "sampleCount": 505,
+      "totalMsgs": 100024
     },
     "18": {
       "avgViewers": 699,
-      "sampleCount": 509,
-      "totalMsgs": 110256
+      "sampleCount": 510,
+      "totalMsgs": 110457
     },
     "19": {
       "avgViewers": 700,
@@ -643,9 +643,9 @@
     },
     {
       "date": "2026-06-07",
-      "avgViewers": 314,
-      "peakViewers": 392,
-      "totalMsgs": 4235,
+      "avgViewers": 328,
+      "peakViewers": 427,
+      "totalMsgs": 4806,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -654,5 +654,5 @@
     }
   ],
   "botStartedAt": "2026-06-06T01:40:29.767Z",
-  "lastUpdated": "2026-06-07T17:40:30.410Z"
+  "lastUpdated": "2026-06-07T18:10:30.436Z"
 }
