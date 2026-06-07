@@ -1,10 +1,10 @@
 {
   "totalSessions": 116,
   "totalDays": 101,
-  "totalSegments": 5220,
+  "totalSegments": 5222,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 1018526,
+  "totalMessages": 1018935,
   "categories": [
     {
       "name": "Rust",
@@ -148,10 +148,10 @@
     },
     {
       "name": "VRChat",
-      "avgViewers": 639,
+      "avgViewers": 638,
       "peakViewers": 796,
-      "sampleCount": 29,
-      "totalMsgs": 4823
+      "sampleCount": 30,
+      "totalMsgs": 5026
     },
     {
       "name": "Rocket League",
@@ -241,8 +241,8 @@
       "name": "Just Chatting",
       "avgViewers": 589,
       "peakViewers": 903,
-      "sampleCount": 1998,
-      "totalMsgs": 395014
+      "sampleCount": 1999,
+      "totalMsgs": 395220
     },
     {
       "name": "Dread Neighbor",
@@ -468,8 +468,8 @@
     },
     "23": {
       "avgViewers": 637,
-      "sampleCount": 350,
-      "totalMsgs": 64594
+      "sampleCount": 352,
+      "totalMsgs": 65003
     }
   },
   "dailyHistory": [
@@ -645,14 +645,15 @@
       "date": "2026-06-06",
       "avgViewers": 635,
       "peakViewers": 713,
-      "totalMsgs": 8570,
+      "totalMsgs": 8979,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
-        "Grand Theft Auto V (GTA)"
+        "Grand Theft Auto V (GTA)",
+        "VRChat"
       ]
     }
   ],
   "botStartedAt": "2026-06-06T01:40:29.767Z",
-  "lastUpdated": "2026-06-06T23:40:30.346Z"
+  "lastUpdated": "2026-06-07T00:10:30.344Z"
 }
