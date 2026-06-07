@@ -11,12 +11,12 @@
     },
     {
       "name": "meliziana",
-      "balance": 62438,
-      "totalEarned": 1205620,
+      "balance": 62522,
+      "totalEarned": 1205704,
       "totalSpent": 1239103,
       "gamesPlayed": 1226,
       "gamesWon": 485,
-      "streak": 5
+      "streak": 6
     },
     {
       "name": "tevb0t",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3134,
-    "totalCirculating": 2882934,
+    "totalCirculating": 2883018,
     "totalGames": 25108,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-07T12:10:30.422Z"
+  "lastUpdated": "2026-06-07T12:40:30.428Z"
 }
