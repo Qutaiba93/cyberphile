@@ -1,10 +1,10 @@
 {
-  "totalSessions": 116,
-  "totalDays": 101,
-  "totalSegments": 5222,
+  "totalSessions": 117,
+  "totalDays": 102,
+  "totalSegments": 5224,
   "allTimePeak": 17991,
   "allTimeAvg": 630,
-  "totalMessages": 1018935,
+  "totalMessages": 1019215,
   "categories": [
     {
       "name": "Rust",
@@ -239,10 +239,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 589,
+      "avgViewers": 588,
       "peakViewers": 903,
-      "sampleCount": 1999,
-      "totalMsgs": 395220
+      "sampleCount": 2001,
+      "totalMsgs": 395500
     },
     {
       "name": "Dread Neighbor",
@@ -422,14 +422,14 @@
       "totalMsgs": 5242
     },
     "14": {
-      "avgViewers": 352,
-      "sampleCount": 292,
-      "totalMsgs": 45093
+      "avgViewers": 351,
+      "sampleCount": 293,
+      "totalMsgs": 45197
     },
     "15": {
-      "avgViewers": 525,
-      "sampleCount": 422,
-      "totalMsgs": 78983
+      "avgViewers": 524,
+      "sampleCount": 423,
+      "totalMsgs": 79159
     },
     "16": {
       "avgViewers": 652,
@@ -473,18 +473,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-22",
-      "avgViewers": 630,
-      "peakViewers": 759,
-      "totalMsgs": 5535,
-      "categories": [
-        "VRChat",
-        "Just Chatting",
-        "Counter-Strike 2",
-        "Grand Theft Auto V (GTA)"
-      ]
-    },
     {
       "date": "2026-05-23",
       "avgViewers": 651,
@@ -652,8 +640,17 @@
         "Grand Theft Auto V (GTA)",
         "VRChat"
       ]
+    },
+    {
+      "date": "2026-06-07",
+      "avgViewers": 111,
+      "peakViewers": 176,
+      "totalMsgs": 280,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-06T01:40:29.767Z",
-  "lastUpdated": "2026-06-07T14:40:30.425Z"
+  "lastUpdated": "2026-06-07T15:10:30.408Z"
 }

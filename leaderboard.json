@@ -2,17 +2,17 @@
   "leaderboard": [
     {
       "name": "uncommonkey",
-      "balance": 100723,
-      "totalEarned": 401039,
+      "balance": 100837,
+      "totalEarned": 401153,
       "totalSpent": 362371,
       "gamesPlayed": 54,
       "gamesWon": 28,
-      "streak": 15
+      "streak": 16
     },
     {
       "name": "meliziana",
-      "balance": 61279,
-      "totalEarned": 1211786,
+      "balance": 61311,
+      "totalEarned": 1211818,
       "totalSpent": 1246428,
       "gamesPlayed": 1231,
       "gamesWon": 487,
@@ -20,21 +20,21 @@
     },
     {
       "name": "tevb0t",
-      "balance": 54014,
-      "totalEarned": 126142,
+      "balance": 54120,
+      "totalEarned": 126248,
       "totalSpent": 72128,
       "gamesPlayed": 74,
       "gamesWon": 39,
-      "streak": 10
+      "streak": 11
     },
     {
       "name": "shance",
-      "balance": 47750,
-      "totalEarned": 1095562,
+      "balance": 47852,
+      "totalEarned": 1095664,
       "totalSpent": 1129321,
       "gamesPlayed": 568,
       "gamesWon": 211,
-      "streak": 10
+      "streak": 11
     },
     {
       "name": "zuyu",
@@ -65,21 +65,21 @@
     },
     {
       "name": "drogan",
-      "balance": 23274,
-      "totalEarned": 23274,
+      "balance": 23405,
+      "totalEarned": 23405,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 6
+      "streak": 7
     },
     {
       "name": "weppss",
-      "balance": 21528,
-      "totalEarned": 27423,
+      "balance": 21621,
+      "totalEarned": 27516,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
-      "streak": 6
+      "streak": 7
     },
     {
       "name": "6ixzeven",
@@ -91,6 +91,15 @@
       "streak": 10
     },
     {
+      "name": "neinswein",
+      "balance": 19476,
+      "totalEarned": 473206,
+      "totalSpent": 456212,
+      "gamesPlayed": 157,
+      "gamesWon": 59,
+      "streak": 11
+    },
+    {
       "name": "nick6",
       "balance": 19404,
       "totalEarned": 19405,
@@ -98,15 +107,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "neinswein",
-      "balance": 19356,
-      "totalEarned": 473086,
-      "totalSpent": 456212,
-      "gamesPlayed": 157,
-      "gamesWon": 59,
-      "streak": 10
     },
     {
       "name": "schitt",
@@ -128,12 +128,12 @@
     },
     {
       "name": "faridlamm",
-      "balance": 14921,
-      "totalEarned": 15022,
+      "balance": 15039,
+      "totalEarned": 15140,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 10
+      "streak": 11
     },
     {
       "name": "cecee",
@@ -254,12 +254,12 @@
     },
     {
       "name": "karmahit",
-      "balance": 12149,
-      "totalEarned": 12149,
+      "balance": 12257,
+      "totalEarned": 12257,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 10
+      "streak": 11
     },
     {
       "name": "ahmet_uk",
@@ -398,12 +398,12 @@
     },
     {
       "name": "politecatt",
-      "balance": 9402,
-      "totalEarned": 9452,
+      "balance": 9491,
+      "totalEarned": 9541,
       "totalSpent": 50,
       "gamesPlayed": 3,
       "gamesWon": 1,
-      "streak": 6
+      "streak": 7
     },
     {
       "name": "cuuula",
@@ -434,12 +434,12 @@
     },
     {
       "name": "julius666",
-      "balance": 8948,
-      "totalEarned": 8948,
+      "balance": 9027,
+      "totalEarned": 9027,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "hittittt",
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3134,
-    "totalCirculating": 2882288,
-    "totalGames": 25115,
+    "totalPlayers": 3135,
+    "totalCirculating": 2884797,
+    "totalGames": 25146,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-07T14:40:30.447Z"
+  "lastUpdated": "2026-06-07T15:10:30.423Z"
 }
