@@ -1,10 +1,10 @@
 {
   "totalSessions": 117,
   "totalDays": 102,
-  "totalSegments": 5233,
+  "totalSegments": 5236,
   "allTimePeak": 17991,
   "allTimeAvg": 629,
-  "totalMessages": 1021441,
+  "totalMessages": 1022692,
   "categories": [
     {
       "name": "Rust",
@@ -241,8 +241,8 @@
       "name": "Just Chatting",
       "avgViewers": 588,
       "peakViewers": 903,
-      "sampleCount": 2004,
-      "totalMsgs": 396092
+      "sampleCount": 2005,
+      "totalMsgs": 396434
     },
     {
       "name": "Dread Neighbor",
@@ -280,13 +280,6 @@
       "totalMsgs": 678
     },
     {
-      "name": "Slots & Casino",
-      "avgViewers": 557,
-      "peakViewers": 786,
-      "sampleCount": 72,
-      "totalMsgs": 17914
-    },
-    {
       "name": "Cuphead",
       "avgViewers": 557,
       "peakViewers": 593,
@@ -306,6 +299,13 @@
       "peakViewers": 572,
       "sampleCount": 5,
       "totalMsgs": 1035
+    },
+    {
+      "name": "Slots & Casino",
+      "avgViewers": 552,
+      "peakViewers": 786,
+      "sampleCount": 74,
+      "totalMsgs": 18823
     },
     {
       "name": "Elden Ring: Nightreign",
@@ -432,14 +432,14 @@
       "totalMsgs": 80334
     },
     "16": {
-      "avgViewers": 650,
-      "sampleCount": 485,
-      "totalMsgs": 95822
+      "avgViewers": 649,
+      "sampleCount": 487,
+      "totalMsgs": 96731
     },
     "17": {
-      "avgViewers": 708,
-      "sampleCount": 499,
-      "totalMsgs": 98834
+      "avgViewers": 707,
+      "sampleCount": 500,
+      "totalMsgs": 99176
     },
     "18": {
       "avgViewers": 699,
@@ -643,9 +643,9 @@
     },
     {
       "date": "2026-06-07",
-      "avgViewers": 279,
-      "peakViewers": 384,
-      "totalMsgs": 2506,
+      "avgViewers": 302,
+      "peakViewers": 392,
+      "totalMsgs": 3757,
       "categories": [
         "Just Chatting",
         "Slots & Casino"
@@ -653,5 +653,5 @@
     }
   ],
   "botStartedAt": "2026-06-06T01:40:29.767Z",
-  "lastUpdated": "2026-06-07T16:40:30.407Z"
+  "lastUpdated": "2026-06-07T17:10:30.417Z"
 }
