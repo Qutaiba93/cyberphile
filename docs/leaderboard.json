@@ -308,12 +308,12 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 11007,
-      "totalEarned": 51660,
+      "balance": 11099,
+      "totalEarned": 51752,
       "totalSpent": 40653,
       "gamesPlayed": 76,
       "gamesWon": 29,
-      "streak": 7
+      "streak": 8
     },
     {
       "name": "damiybe",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3144,
-    "totalCirculating": 2916322,
+    "totalCirculating": 2916414,
     "totalGames": 25256,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-08T17:40:30.591Z"
+  "lastUpdated": "2026-06-08T18:10:30.591Z"
 }
