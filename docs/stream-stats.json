@@ -1,10 +1,10 @@
 {
-  "totalSessions": 117,
-  "totalDays": 102,
-  "totalSegments": 5263,
+  "totalSessions": 118,
+  "totalDays": 103,
+  "totalSegments": 5266,
   "allTimePeak": 17991,
   "allTimeAvg": 628,
-  "totalMessages": 1027412,
+  "totalMessages": 1027701,
   "categories": [
     {
       "name": "Rust",
@@ -241,8 +241,8 @@
       "name": "Just Chatting",
       "avgViewers": 587,
       "peakViewers": 903,
-      "sampleCount": 2010,
-      "totalMsgs": 397674
+      "sampleCount": 2011,
+      "totalMsgs": 397732
     },
     {
       "name": "Dread Neighbor",
@@ -301,13 +301,6 @@
       "totalMsgs": 1035
     },
     {
-      "name": "Slots & Casino",
-      "avgViewers": 552,
-      "peakViewers": 786,
-      "sampleCount": 74,
-      "totalMsgs": 18823
-    },
-    {
       "name": "Elden Ring: Nightreign",
       "avgViewers": 549,
       "peakViewers": 676,
@@ -327,6 +320,13 @@
       "peakViewers": 696,
       "sampleCount": 47,
       "totalMsgs": 4326
+    },
+    {
+      "name": "Slots & Casino",
+      "avgViewers": 544,
+      "peakViewers": 786,
+      "sampleCount": 76,
+      "totalMsgs": 19054
     },
     {
       "name": "Resident Evil Requiem",
@@ -467,28 +467,12 @@
       "totalMsgs": 94251
     },
     "23": {
-      "avgViewers": 637,
-      "sampleCount": 352,
-      "totalMsgs": 65003
+      "avgViewers": 633,
+      "sampleCount": 355,
+      "totalMsgs": 65292
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-23",
-      "avgViewers": 651,
-      "peakViewers": 832,
-      "totalMsgs": 16174,
-      "categories": [
-        "Counter-Strike 2",
-        "Just Chatting",
-        "Minecraft",
-        "Slots & Casino",
-        "Chat Roulette",
-        "IRL",
-        "VALORANT",
-        "Grand Theft Auto V (GTA)"
-      ]
-    },
     {
       "date": "2026-05-24",
       "avgViewers": 692,
@@ -652,8 +636,18 @@
         "Special Events",
         "Counter-Strike 2"
       ]
+    },
+    {
+      "date": "2026-06-09",
+      "avgViewers": 152,
+      "peakViewers": 264,
+      "totalMsgs": 289,
+      "categories": [
+        "Just Chatting",
+        "Slots & Casino"
+      ]
     }
   ],
   "botStartedAt": "2026-06-06T01:40:29.767Z",
-  "lastUpdated": "2026-06-09T23:10:30.931Z"
+  "lastUpdated": "2026-06-09T23:40:30.927Z"
 }
