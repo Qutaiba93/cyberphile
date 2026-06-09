@@ -47,12 +47,12 @@
     },
     {
       "name": "m1yaghi",
-      "balance": 28743,
-      "totalEarned": 88450,
+      "balance": 28804,
+      "totalEarned": 88511,
       "totalSpent": 59707,
       "gamesPlayed": 51,
       "gamesWon": 21,
-      "streak": 2
+      "streak": 1
     },
     {
       "name": "shahin",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3144,
-    "totalCirculating": 2917037,
+    "totalCirculating": 2917100,
     "totalGames": 25257,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-09T16:40:30.885Z"
+  "lastUpdated": "2026-06-09T17:10:30.889Z"
 }
