@@ -371,12 +371,12 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 9847,
-      "totalEarned": 9847,
+      "balance": 9904,
+      "totalEarned": 9904,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 3
+      "streak": 1
     },
     {
       "name": "skullyontop",
@@ -415,18 +415,18 @@
       "streak": 7
     },
     {
-      "name": "cuuula",
-      "balance": 9427,
-      "totalEarned": 9427,
+      "name": "ganndz",
+      "balance": 9449,
+      "totalEarned": 9449,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 11
+      "streak": 1
     },
     {
-      "name": "ganndz",
-      "balance": 9392,
-      "totalEarned": 9392,
+      "name": "cuuula",
+      "balance": 9427,
+      "totalEarned": 9427,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3144,
-    "totalCirculating": 2917100,
+    "totalCirculating": 2917214,
     "totalGames": 25257,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-09T17:10:30.889Z"
+  "lastUpdated": "2026-06-09T17:40:30.895Z"
 }
