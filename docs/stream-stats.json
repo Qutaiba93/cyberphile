@@ -1,10 +1,10 @@
 {
   "totalSessions": 119,
   "totalDays": 104,
-  "totalSegments": 5282,
+  "totalSegments": 5286,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 1029828,
+  "totalMessages": 1030117,
   "categories": [
     {
       "name": "Rust",
@@ -57,10 +57,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 723,
+      "avgViewers": 722,
       "peakViewers": 916,
-      "sampleCount": 460,
-      "totalMsgs": 103723
+      "sampleCount": 462,
+      "totalMsgs": 103843
     },
     {
       "name": "Log Riders",
@@ -241,8 +241,8 @@
       "name": "Just Chatting",
       "avgViewers": 586,
       "peakViewers": 903,
-      "sampleCount": 2021,
-      "totalMsgs": 398990
+      "sampleCount": 2023,
+      "totalMsgs": 399159
     },
     {
       "name": "Dread Neighbor",
@@ -422,9 +422,9 @@
       "totalMsgs": 5274
     },
     "14": {
-      "avgViewers": 351,
-      "sampleCount": 294,
-      "totalMsgs": 45265
+      "avgViewers": 352,
+      "sampleCount": 298,
+      "totalMsgs": 45554
     },
     "15": {
       "avgViewers": 522,
@@ -635,14 +635,15 @@
     },
     {
       "date": "2026-06-10",
-      "avgViewers": 122,
-      "peakViewers": 175,
-      "totalMsgs": 100,
+      "avgViewers": 341,
+      "peakViewers": 538,
+      "totalMsgs": 389,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Chat Roulette"
       ]
     }
   ],
-  "botStartedAt": "2026-06-06T01:40:29.767Z",
-  "lastUpdated": "2026-06-10T14:10:30.990Z"
+  "botStartedAt": "2026-06-10T14:37:57.869Z",
+  "lastUpdated": "2026-06-10T14:38:58.456Z"
 }
