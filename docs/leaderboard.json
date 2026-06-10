@@ -29,8 +29,8 @@
     },
     {
       "name": "shance",
-      "balance": 48201,
-      "totalEarned": 1096063,
+      "balance": 48203,
+      "totalEarned": 1096065,
       "totalSpent": 1129371,
       "gamesPlayed": 570,
       "gamesWon": 212,
@@ -65,8 +65,8 @@
     },
     {
       "name": "shahin",
-      "balance": 23278,
-      "totalEarned": 60076,
+      "balance": 23280,
+      "totalEarned": 60078,
       "totalSpent": 36798,
       "gamesPlayed": 47,
       "gamesWon": 11,
@@ -110,8 +110,8 @@
     },
     {
       "name": "schitt",
-      "balance": 16867,
-      "totalEarned": 16867,
+      "balance": 16869,
+      "totalEarned": 16869,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -155,12 +155,12 @@
     },
     {
       "name": "papaah",
-      "balance": 14630,
-      "totalEarned": 15631,
+      "balance": 14689,
+      "totalEarned": 15690,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 3
+      "streak": 1
     },
     {
       "name": "kale96",
@@ -299,8 +299,8 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 11180,
-      "totalEarned": 51833,
+      "balance": 11182,
+      "totalEarned": 51835,
       "totalSpent": 40653,
       "gamesPlayed": 76,
       "gamesWon": 29,
@@ -308,8 +308,8 @@
     },
     {
       "name": "damiybe",
-      "balance": 10821,
-      "totalEarned": 10831,
+      "balance": 10823,
+      "totalEarned": 10833,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3161,
-    "totalCirculating": 2931832,
+    "totalCirculating": 2931919,
     "totalGames": 25334,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-10T18:06:13.628Z"
+  "lastUpdated": "2026-06-10T18:08:44.171Z"
 }
