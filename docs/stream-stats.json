@@ -1,10 +1,10 @@
 {
   "totalSessions": 118,
   "totalDays": 103,
-  "totalSegments": 5266,
+  "totalSegments": 5269,
   "allTimePeak": 17991,
   "allTimeAvg": 628,
-  "totalMessages": 1027701,
+  "totalMessages": 1027957,
   "categories": [
     {
       "name": "Rust",
@@ -322,13 +322,6 @@
       "totalMsgs": 4326
     },
     {
-      "name": "Slots & Casino",
-      "avgViewers": 544,
-      "peakViewers": 786,
-      "sampleCount": 76,
-      "totalMsgs": 19054
-    },
-    {
       "name": "Resident Evil Requiem",
       "avgViewers": 539,
       "peakViewers": 601,
@@ -341,6 +334,13 @@
       "peakViewers": 638,
       "sampleCount": 20,
       "totalMsgs": 2661
+    },
+    {
+      "name": "Slots & Casino",
+      "avgViewers": 536,
+      "peakViewers": 786,
+      "sampleCount": 79,
+      "totalMsgs": 19310
     },
     {
       "name": "Scam Line",
@@ -387,9 +387,9 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 585,
-      "sampleCount": 271,
-      "totalMsgs": 39416
+      "avgViewers": 584,
+      "sampleCount": 272,
+      "totalMsgs": 39523
     },
     "1": {
       "avgViewers": 534,
@@ -467,9 +467,9 @@
       "totalMsgs": 94251
     },
     "23": {
-      "avgViewers": 633,
-      "sampleCount": 355,
-      "totalMsgs": 65292
+      "avgViewers": 631,
+      "sampleCount": 357,
+      "totalMsgs": 65441
     }
   },
   "dailyHistory": [
@@ -639,9 +639,9 @@
     },
     {
       "date": "2026-06-09",
-      "avgViewers": 152,
-      "peakViewers": 264,
-      "totalMsgs": 289,
+      "avgViewers": 241,
+      "peakViewers": 349,
+      "totalMsgs": 545,
       "categories": [
         "Just Chatting",
         "Slots & Casino"
@@ -649,5 +649,5 @@
     }
   ],
   "botStartedAt": "2026-06-06T01:40:29.767Z",
-  "lastUpdated": "2026-06-09T23:40:30.927Z"
+  "lastUpdated": "2026-06-10T00:10:30.936Z"
 }
