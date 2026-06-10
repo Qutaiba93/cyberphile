@@ -1,10 +1,10 @@
 {
-  "totalSessions": 118,
-  "totalDays": 103,
-  "totalSegments": 5280,
+  "totalSessions": 119,
+  "totalDays": 104,
+  "totalSegments": 5282,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 1029728,
+  "totalMessages": 1029828,
   "categories": [
     {
       "name": "Rust",
@@ -241,8 +241,8 @@
       "name": "Just Chatting",
       "avgViewers": 586,
       "peakViewers": 903,
-      "sampleCount": 2019,
-      "totalMsgs": 398890
+      "sampleCount": 2021,
+      "totalMsgs": 398990
     },
     {
       "name": "Dread Neighbor",
@@ -417,14 +417,14 @@
       "totalMsgs": 324
     },
     "13": {
-      "avgViewers": 198,
-      "sampleCount": 58,
-      "totalMsgs": 5242
+      "avgViewers": 196,
+      "sampleCount": 59,
+      "totalMsgs": 5274
     },
     "14": {
       "avgViewers": 351,
-      "sampleCount": 293,
-      "totalMsgs": 45197
+      "sampleCount": 294,
+      "totalMsgs": 45265
     },
     "15": {
       "avgViewers": 522,
@@ -473,20 +473,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-24",
-      "avgViewers": 692,
-      "peakViewers": 848,
-      "totalMsgs": 17397,
-      "categories": [
-        "Grand Theft Auto V (GTA)",
-        "Just Chatting",
-        "Counter-Strike 2",
-        "Slots & Casino",
-        "Chat Roulette",
-        "IRL"
-      ]
-    },
     {
       "date": "2026-05-25",
       "avgViewers": 626,
@@ -646,8 +632,17 @@
         "Just Chatting",
         "Slots & Casino"
       ]
+    },
+    {
+      "date": "2026-06-10",
+      "avgViewers": 122,
+      "peakViewers": 175,
+      "totalMsgs": 100,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-06T01:40:29.767Z",
-  "lastUpdated": "2026-06-10T13:40:30.993Z"
+  "lastUpdated": "2026-06-10T14:10:30.990Z"
 }
