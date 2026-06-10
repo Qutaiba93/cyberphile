@@ -1,10 +1,10 @@
 {
   "totalSessions": 119,
   "totalDays": 104,
-  "totalSegments": 5301,
+  "totalSegments": 5303,
   "allTimePeak": 17991,
   "allTimeAvg": 627,
-  "totalMessages": 1032330,
+  "totalMessages": 1032687,
   "categories": [
     {
       "name": "Rust",
@@ -241,8 +241,8 @@
       "name": "Just Chatting",
       "avgViewers": 586,
       "peakViewers": 903,
-      "sampleCount": 2028,
-      "totalMsgs": 399797
+      "sampleCount": 2030,
+      "totalMsgs": 400154
     },
     {
       "name": "Dread Neighbor",
@@ -438,8 +438,8 @@
     },
     "17": {
       "avgViewers": 703,
-      "sampleCount": 506,
-      "totalMsgs": 100031
+      "sampleCount": 508,
+      "totalMsgs": 100388
     },
     "18": {
       "avgViewers": 696,
@@ -635,9 +635,9 @@
     },
     {
       "date": "2026-06-10",
-      "avgViewers": 500,
+      "avgViewers": 505,
       "peakViewers": 594,
-      "totalMsgs": 2602,
+      "totalMsgs": 2959,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -647,5 +647,5 @@
     }
   ],
   "botStartedAt": "2026-06-10T17:06:13.095Z",
-  "lastUpdated": "2026-06-10T17:07:13.680Z"
+  "lastUpdated": "2026-06-10T17:36:13.629Z"
 }
