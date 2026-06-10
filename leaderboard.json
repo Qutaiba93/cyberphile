@@ -29,8 +29,8 @@
     },
     {
       "name": "shance",
-      "balance": 48151,
-      "totalEarned": 1096013,
+      "balance": 48153,
+      "totalEarned": 1096015,
       "totalSpent": 1129371,
       "gamesPlayed": 570,
       "gamesWon": 212,
@@ -110,8 +110,8 @@
     },
     {
       "name": "schitt",
-      "balance": 16845,
-      "totalEarned": 16845,
+      "balance": 16849,
+      "totalEarned": 16849,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -307,15 +307,6 @@
       "streak": 8
     },
     {
-      "name": "rpcsgo",
-      "balance": 11030,
-      "totalEarned": 195999,
-      "totalSpent": 184969,
-      "gamesPlayed": 216,
-      "gamesWon": 95,
-      "streak": 23
-    },
-    {
       "name": "damiybe",
       "balance": 10708,
       "totalEarned": 10718,
@@ -425,8 +416,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 9535,
-      "totalEarned": 9535,
+      "balance": 9537,
+      "totalEarned": 9537,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -449,12 +440,21 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
+    },
+    {
+      "name": "anansidagyuki",
+      "balance": 8839,
+      "totalEarned": 23038,
+      "totalSpent": 14199,
+      "gamesPlayed": 24,
+      "gamesWon": 5,
+      "streak": 1
     }
   ],
   "stats": {
-    "totalPlayers": 3156,
-    "totalCirculating": 2946136,
-    "totalGames": 25300,
+    "totalPlayers": 3157,
+    "totalCirculating": 2928774,
+    "totalGames": 25329,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-10T16:37:58.382Z"
+  "lastUpdated": "2026-06-10T17:07:13.687Z"
 }
