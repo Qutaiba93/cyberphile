@@ -128,8 +128,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 15376,
-      "totalEarned": 15477,
+      "balance": 15380,
+      "totalEarned": 15481,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -416,8 +416,8 @@
     },
     {
       "name": "confusion",
-      "balance": 9565,
-      "totalEarned": 10080,
+      "balance": 9567,
+      "totalEarned": 10082,
       "totalSpent": 515,
       "gamesPlayed": 11,
       "gamesWon": 4,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3164,
-    "totalCirculating": 2965498,
-    "totalGames": 25364,
+    "totalCirculating": 2964940,
+    "totalGames": 25366,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-10T22:51:27.494Z"
+  "lastUpdated": "2026-06-10T23:21:27.507Z"
 }
