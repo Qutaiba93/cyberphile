@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "uncommonkey",
-      "balance": 101010,
-      "totalEarned": 401326,
+      "balance": 101018,
+      "totalEarned": 401334,
       "totalSpent": 362371,
       "gamesPlayed": 54,
       "gamesWon": 28,
@@ -65,8 +65,8 @@
     },
     {
       "name": "shahin",
-      "balance": 23212,
-      "totalEarned": 60010,
+      "balance": 23248,
+      "totalEarned": 60046,
       "totalSpent": 36798,
       "gamesPlayed": 47,
       "gamesWon": 11,
@@ -308,8 +308,8 @@
     },
     {
       "name": "rpcsgo",
-      "balance": 10972,
-      "totalEarned": 195941,
+      "balance": 11002,
+      "totalEarned": 195971,
       "totalSpent": 184969,
       "gamesPlayed": 216,
       "gamesWon": 95,
@@ -416,8 +416,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 9521,
-      "totalEarned": 9521,
+      "balance": 9523,
+      "totalEarned": 9523,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3148,
-    "totalCirculating": 2927415,
+    "totalCirculating": 2928103,
     "totalGames": 25289,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-10T01:40:30.953Z"
+  "lastUpdated": "2026-06-10T02:10:30.961Z"
 }
