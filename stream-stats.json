@@ -1,10 +1,10 @@
 {
   "totalSessions": 120,
   "totalDays": 104,
-  "totalSegments": 5324,
+  "totalSegments": 5327,
   "allTimePeak": 17991,
   "allTimeAvg": 626,
-  "totalMessages": 1036376,
+  "totalMessages": 1036697,
   "categories": [
     {
       "name": "Rust",
@@ -59,8 +59,8 @@
       "name": "Chat Roulette",
       "avgViewers": 720,
       "peakViewers": 916,
-      "sampleCount": 470,
-      "totalMsgs": 105507
+      "sampleCount": 471,
+      "totalMsgs": 105675
     },
     {
       "name": "Log Riders",
@@ -92,10 +92,10 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 676,
+      "avgViewers": 675,
       "peakViewers": 839,
-      "sampleCount": 462,
-      "totalMsgs": 75240
+      "sampleCount": 464,
+      "totalMsgs": 75393
     },
     {
       "name": "Sea of Thieves",
@@ -458,13 +458,13 @@
     },
     "21": {
       "avgViewers": 685,
-      "sampleCount": 544,
-      "totalMsgs": 112450
+      "sampleCount": 545,
+      "totalMsgs": 112618
     },
     "22": {
-      "avgViewers": 666,
-      "sampleCount": 461,
-      "totalMsgs": 94251
+      "avgViewers": 665,
+      "sampleCount": 463,
+      "totalMsgs": 94404
     },
     "23": {
       "avgViewers": 631,
@@ -635,17 +635,18 @@
     },
     {
       "date": "2026-06-10",
-      "avgViewers": 524,
+      "avgViewers": 528,
       "peakViewers": 652,
-      "totalMsgs": 6648,
+      "totalMsgs": 6969,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
         "Slots & Casino",
-        "Minecraft"
+        "Minecraft",
+        "Grand Theft Auto V (GTA)"
       ]
     }
   ],
   "botStartedAt": "2026-06-10T18:21:26.941Z",
-  "lastUpdated": "2026-06-10T21:51:27.478Z"
+  "lastUpdated": "2026-06-10T22:21:27.474Z"
 }
