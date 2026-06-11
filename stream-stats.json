@@ -1,10 +1,10 @@
 {
   "totalSessions": 121,
   "totalDays": 105,
-  "totalSegments": 5335,
+  "totalSegments": 5338,
   "allTimePeak": 17991,
   "allTimeAvg": 626,
-  "totalMessages": 1037772,
+  "totalMessages": 1038166,
   "categories": [
     {
       "name": "Rust",
@@ -241,8 +241,8 @@
       "name": "Just Chatting",
       "avgViewers": 585,
       "peakViewers": 903,
-      "sampleCount": 2041,
-      "totalMsgs": 401829
+      "sampleCount": 2042,
+      "totalMsgs": 401975
     },
     {
       "name": "Dread Neighbor",
@@ -337,10 +337,10 @@
     },
     {
       "name": "Slots & Casino",
-      "avgViewers": 533,
+      "avgViewers": 532,
       "peakViewers": 786,
-      "sampleCount": 90,
-      "totalMsgs": 21372
+      "sampleCount": 92,
+      "totalMsgs": 21620
     },
     {
       "name": "Scam Line",
@@ -417,9 +417,9 @@
       "totalMsgs": 474
     },
     "13": {
-      "avgViewers": 202,
-      "sampleCount": 61,
-      "totalMsgs": 5477
+      "avgViewers": 214,
+      "sampleCount": 64,
+      "totalMsgs": 5871
     },
     "14": {
       "avgViewers": 353,
@@ -634,15 +634,16 @@
     },
     {
       "date": "2026-06-11",
-      "avgViewers": 275,
-      "peakViewers": 427,
-      "totalMsgs": 353,
+      "avgViewers": 351,
+      "peakViewers": 460,
+      "totalMsgs": 747,
       "categories": [
         "Grand Theft Auto V (GTA)",
-        "Just Chatting"
+        "Just Chatting",
+        "Slots & Casino"
       ]
     }
   ],
   "botStartedAt": "2026-06-10T18:21:26.941Z",
-  "lastUpdated": "2026-06-11T13:21:27.580Z"
+  "lastUpdated": "2026-06-11T13:51:27.582Z"
 }

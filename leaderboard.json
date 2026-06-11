@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "uncommonkey",
-      "balance": 126694,
-      "totalEarned": 619010,
+      "balance": 126770,
+      "totalEarned": 619086,
       "totalSpent": 554371,
       "gamesPlayed": 78,
       "gamesWon": 39,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "meliziana",
@@ -29,8 +29,8 @@
     },
     {
       "name": "shance",
-      "balance": 48371,
-      "totalEarned": 1096333,
+      "balance": 48399,
+      "totalEarned": 1096361,
       "totalSpent": 1129471,
       "gamesPlayed": 574,
       "gamesWon": 213,
@@ -236,8 +236,8 @@
     },
     {
       "name": "alexmesq",
-      "balance": 12598,
-      "totalEarned": 13598,
+      "balance": 12618,
+      "totalEarned": 13618,
       "totalSpent": 1000,
       "gamesPlayed": 2,
       "gamesWon": 0,
@@ -254,8 +254,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 11902,
-      "totalEarned": 11902,
+      "balance": 11986,
+      "totalEarned": 11986,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -263,12 +263,12 @@
     },
     {
       "name": "arabicoj",
-      "balance": 11730,
-      "totalEarned": 54595,
+      "balance": 11814,
+      "totalEarned": 54679,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "brandonws",
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3165,
-    "totalCirculating": 2968866,
+    "totalPlayers": 3167,
+    "totalCirculating": 2970964,
     "totalGames": 25369,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-11T13:21:27.596Z"
+  "lastUpdated": "2026-06-11T13:51:27.599Z"
 }
