@@ -1,10 +1,10 @@
 {
-  "totalSessions": 120,
-  "totalDays": 104,
-  "totalSegments": 5331,
+  "totalSessions": 121,
+  "totalDays": 105,
+  "totalSegments": 5332,
   "allTimePeak": 17991,
   "allTimeAvg": 626,
-  "totalMessages": 1037419,
+  "totalMessages": 1037451,
   "categories": [
     {
       "name": "Rust",
@@ -92,10 +92,10 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 674,
+      "avgViewers": 673,
       "peakViewers": 839,
-      "sampleCount": 468,
-      "totalMsgs": 76115
+      "sampleCount": 469,
+      "totalMsgs": 76147
     },
     {
       "name": "Sea of Thieves",
@@ -412,9 +412,9 @@
       "totalMsgs": 502
     },
     "12": {
-      "avgViewers": 70,
-      "sampleCount": 2,
-      "totalMsgs": 324
+      "avgViewers": 79,
+      "sampleCount": 3,
+      "totalMsgs": 356
     },
     "13": {
       "avgViewers": 196,
@@ -473,20 +473,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-25",
-      "avgViewers": 626,
-      "peakViewers": 804,
-      "totalMsgs": 18951,
-      "categories": [
-        "Just Chatting",
-        "Counter-Strike 2",
-        "IRL",
-        "Slots & Casino",
-        "Grand Theft Auto V (GTA)",
-        "VALORANT"
-      ]
-    },
     {
       "date": "2026-05-26",
       "avgViewers": 644,
@@ -645,8 +631,17 @@
         "Minecraft",
         "Grand Theft Auto V (GTA)"
       ]
+    },
+    {
+      "date": "2026-06-11",
+      "avgViewers": 97,
+      "peakViewers": 97,
+      "totalMsgs": 32,
+      "categories": [
+        "Grand Theft Auto V (GTA)"
+      ]
     }
   ],
   "botStartedAt": "2026-06-10T18:21:26.941Z",
-  "lastUpdated": "2026-06-11T12:21:27.581Z"
+  "lastUpdated": "2026-06-11T12:51:27.576Z"
 }

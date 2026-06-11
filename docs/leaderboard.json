@@ -56,12 +56,12 @@
     },
     {
       "name": "drogan",
-      "balance": 23870,
-      "totalEarned": 23870,
+      "balance": 23934,
+      "totalEarned": 23934,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "shahin",
@@ -74,12 +74,12 @@
     },
     {
       "name": "weppss",
-      "balance": 21962,
-      "totalEarned": 27857,
+      "balance": 22032,
+      "totalEarned": 27927,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "neinswein",
@@ -254,12 +254,12 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 11786,
-      "totalEarned": 11786,
+      "balance": 11852,
+      "totalEarned": 11852,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "arabicoj",
@@ -343,18 +343,18 @@
       "streak": 1
     },
     {
-      "name": "quantik",
-      "balance": 10101,
-      "totalEarned": 10101,
+      "name": "iam_umii",
+      "balance": 10113,
+      "totalEarned": 10113,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
-      "name": "iam_umii",
-      "balance": 10051,
-      "totalEarned": 10051,
+      "name": "quantik",
+      "balance": 10101,
+      "totalEarned": 10101,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3164,
-    "totalCirculating": 2965111,
+    "totalCirculating": 2966788,
     "totalGames": 25366,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-11T12:21:27.599Z"
+  "lastUpdated": "2026-06-11T12:51:27.593Z"
 }
