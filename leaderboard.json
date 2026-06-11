@@ -10,21 +10,21 @@
       "streak": 2
     },
     {
-      "name": "meliziana",
-      "balance": 60022,
-      "totalEarned": 1212529,
-      "totalSpent": 1248428,
-      "gamesPlayed": 1232,
-      "gamesWon": 487,
-      "streak": 2
-    },
-    {
       "name": "tevb0t",
       "balance": 57482,
       "totalEarned": 145675,
       "totalSpent": 88193,
       "gamesPlayed": 83,
       "gamesWon": 43,
+      "streak": 2
+    },
+    {
+      "name": "meliziana",
+      "balance": 54550,
+      "totalEarned": 1213557,
+      "totalSpent": 1254928,
+      "gamesPlayed": 1237,
+      "gamesWon": 488,
       "streak": 2
     },
     {
@@ -38,8 +38,8 @@
     },
     {
       "name": "zuyu",
-      "balance": 43629,
-      "totalEarned": 133642,
+      "balance": 43661,
+      "totalEarned": 133674,
       "totalSpent": 90013,
       "gamesPlayed": 44,
       "gamesWon": 19,
@@ -110,8 +110,8 @@
     },
     {
       "name": "schitt",
-      "balance": 16965,
-      "totalEarned": 16965,
+      "balance": 16967,
+      "totalEarned": 16967,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -191,8 +191,8 @@
     },
     {
       "name": "bido_maggot",
-      "balance": 13198,
-      "totalEarned": 13198,
+      "balance": 13200,
+      "totalEarned": 13200,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -254,8 +254,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 12144,
-      "totalEarned": 12144,
+      "balance": 12208,
+      "totalEarned": 12208,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -290,8 +290,8 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 11278,
-      "totalEarned": 51931,
+      "balance": 11280,
+      "totalEarned": 51933,
       "totalSpent": 40653,
       "gamesPlayed": 76,
       "gamesWon": 29,
@@ -443,18 +443,18 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 8899,
-      "totalEarned": 23098,
+      "balance": 8975,
+      "totalEarned": 23174,
       "totalSpent": 14199,
       "gamesPlayed": 24,
       "gamesWon": 5,
-      "streak": 1
+      "streak": 2
     }
   ],
   "stats": {
     "totalPlayers": 3171,
-    "totalCirculating": 2994906,
-    "totalGames": 25373,
+    "totalCirculating": 2991540,
+    "totalGames": 25384,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-11T16:21:27.608Z"
+  "lastUpdated": "2026-06-11T16:51:27.612Z"
 }

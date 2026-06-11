@@ -1,10 +1,10 @@
 {
   "totalSessions": 121,
   "totalDays": 105,
-  "totalSegments": 5353,
+  "totalSegments": 5356,
   "allTimePeak": 17991,
   "allTimeAvg": 626,
-  "totalMessages": 1040497,
+  "totalMessages": 1041081,
   "categories": [
     {
       "name": "Rust",
@@ -175,18 +175,18 @@
       "totalMsgs": 3485
     },
     {
-      "name": "Minecraft",
-      "avgViewers": 625,
-      "peakViewers": 788,
-      "sampleCount": 175,
-      "totalMsgs": 30901
-    },
-    {
       "name": "Psalm 5:9-13",
       "avgViewers": 625,
       "peakViewers": 674,
       "sampleCount": 8,
       "totalMsgs": 929
+    },
+    {
+      "name": "Minecraft",
+      "avgViewers": 624,
+      "peakViewers": 788,
+      "sampleCount": 177,
+      "totalMsgs": 31189
     },
     {
       "name": "Gamble With Your Friends",
@@ -248,8 +248,8 @@
       "name": "Just Chatting",
       "avgViewers": 584,
       "peakViewers": 903,
-      "sampleCount": 2051,
-      "totalMsgs": 402935
+      "sampleCount": 2052,
+      "totalMsgs": 403231
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -432,9 +432,9 @@
       "totalMsgs": 82070
     },
     "16": {
-      "avgViewers": 648,
-      "sampleCount": 495,
-      "totalMsgs": 97595
+      "avgViewers": 647,
+      "sampleCount": 498,
+      "totalMsgs": 98179
     },
     "17": {
       "avgViewers": 702,
@@ -634,16 +634,17 @@
     },
     {
       "date": "2026-06-11",
-      "avgViewers": 484,
+      "avgViewers": 497,
       "peakViewers": 609,
-      "totalMsgs": 3078,
+      "totalMsgs": 3662,
       "categories": [
         "Grand Theft Auto V (GTA)",
         "Just Chatting",
-        "Slots & Casino"
+        "Slots & Casino",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-06-10T18:21:26.941Z",
-  "lastUpdated": "2026-06-11T16:21:27.591Z"
+  "lastUpdated": "2026-06-11T16:51:27.593Z"
 }
