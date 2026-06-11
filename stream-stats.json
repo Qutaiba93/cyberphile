@@ -1,10 +1,10 @@
 {
   "totalSessions": 121,
   "totalDays": 105,
-  "totalSegments": 5383,
+  "totalSegments": 5386,
   "allTimePeak": 17991,
   "allTimeAvg": 626,
-  "totalMessages": 1044656,
+  "totalMessages": 1045116,
   "categories": [
     {
       "name": "Rust",
@@ -238,18 +238,18 @@
       "totalMsgs": 2802
     },
     {
+      "name": "Just Chatting",
+      "avgViewers": 585,
+      "peakViewers": 903,
+      "sampleCount": 2055,
+      "totalMsgs": 403691
+    },
+    {
       "name": "Dread Neighbor",
       "avgViewers": 585,
       "peakViewers": 618,
       "sampleCount": 7,
       "totalMsgs": 487
-    },
-    {
-      "name": "Just Chatting",
-      "avgViewers": 584,
-      "peakViewers": 903,
-      "sampleCount": 2052,
-      "totalMsgs": 403231
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -458,8 +458,8 @@
     },
     "21": {
       "avgViewers": 685,
-      "sampleCount": 547,
-      "totalMsgs": 112958
+      "sampleCount": 550,
+      "totalMsgs": 113418
     },
     "22": {
       "avgViewers": 664,
@@ -634,9 +634,9 @@
     },
     {
       "date": "2026-06-11",
-      "avgViewers": 552,
-      "peakViewers": 642,
-      "totalMsgs": 7237,
+      "avgViewers": 557,
+      "peakViewers": 649,
+      "totalMsgs": 7697,
       "categories": [
         "Grand Theft Auto V (GTA)",
         "Just Chatting",
@@ -646,5 +646,5 @@
     }
   ],
   "botStartedAt": "2026-06-10T18:21:26.941Z",
-  "lastUpdated": "2026-06-11T21:21:27.591Z"
+  "lastUpdated": "2026-06-11T21:51:27.592Z"
 }
