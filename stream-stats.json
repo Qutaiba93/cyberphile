@@ -1,10 +1,10 @@
 {
   "totalSessions": 121,
   "totalDays": 105,
-  "totalSegments": 5392,
+  "totalSegments": 5395,
   "allTimePeak": 17991,
   "allTimeAvg": 626,
-  "totalMessages": 1046499,
+  "totalMessages": 1047339,
   "categories": [
     {
       "name": "Rust",
@@ -59,8 +59,8 @@
       "name": "Chat Roulette",
       "avgViewers": 720,
       "peakViewers": 916,
-      "sampleCount": 471,
-      "totalMsgs": 105675
+      "sampleCount": 474,
+      "totalMsgs": 106515
     },
     {
       "name": "Log Riders",
@@ -463,13 +463,13 @@
     },
     "22": {
       "avgViewers": 664,
-      "sampleCount": 472,
-      "totalMsgs": 96215
+      "sampleCount": 473,
+      "totalMsgs": 96484
     },
     "23": {
       "avgViewers": 631,
-      "sampleCount": 357,
-      "totalMsgs": 65441
+      "sampleCount": 359,
+      "totalMsgs": 66012
     }
   },
   "dailyHistory": [
@@ -634,17 +634,18 @@
     },
     {
       "date": "2026-06-11",
-      "avgViewers": 565,
-      "peakViewers": 649,
-      "totalMsgs": 9080,
+      "avgViewers": 569,
+      "peakViewers": 680,
+      "totalMsgs": 9920,
       "categories": [
         "Grand Theft Auto V (GTA)",
         "Just Chatting",
         "Slots & Casino",
-        "Minecraft"
+        "Minecraft",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-06-10T18:21:26.941Z",
-  "lastUpdated": "2026-06-11T22:51:27.590Z"
+  "lastUpdated": "2026-06-11T23:21:27.593Z"
 }
