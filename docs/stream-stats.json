@@ -1,10 +1,10 @@
 {
   "totalSessions": 122,
   "totalDays": 106,
-  "totalSegments": 5411,
+  "totalSegments": 5414,
   "allTimePeak": 17991,
   "allTimeAvg": 625,
-  "totalMessages": 1049804,
+  "totalMessages": 1050105,
   "categories": [
     {
       "name": "Rust",
@@ -248,8 +248,8 @@
       "name": "Just Chatting",
       "avgViewers": 584,
       "peakViewers": 903,
-      "sampleCount": 2064,
-      "totalMsgs": 405392
+      "sampleCount": 2065,
+      "totalMsgs": 405510
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -339,8 +339,8 @@
       "name": "Slots & Casino",
       "avgViewers": 529,
       "peakViewers": 786,
-      "sampleCount": 102,
-      "totalMsgs": 23596
+      "sampleCount": 104,
+      "totalMsgs": 23779
     },
     {
       "name": "Scam Line",
@@ -438,8 +438,8 @@
     },
     "17": {
       "avgViewers": 700,
-      "sampleCount": 519,
-      "totalMsgs": 102213
+      "sampleCount": 522,
+      "totalMsgs": 102514
     },
     "18": {
       "avgViewers": 695,
@@ -637,9 +637,9 @@
     },
     {
       "date": "2026-06-12",
-      "avgViewers": 380,
-      "peakViewers": 552,
-      "totalMsgs": 923,
+      "avgViewers": 435,
+      "peakViewers": 568,
+      "totalMsgs": 1224,
       "categories": [
         "Just Chatting",
         "Slots & Casino"
@@ -647,5 +647,5 @@
     }
   ],
   "botStartedAt": "2026-06-10T18:21:26.941Z",
-  "lastUpdated": "2026-06-12T17:21:27.714Z"
+  "lastUpdated": "2026-06-12T17:51:27.715Z"
 }
