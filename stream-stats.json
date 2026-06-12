@@ -1,10 +1,10 @@
 {
   "totalSessions": 121,
   "totalDays": 105,
-  "totalSegments": 5401,
+  "totalSegments": 5404,
   "allTimePeak": 17991,
   "allTimeAvg": 626,
-  "totalMessages": 1048502,
+  "totalMessages": 1048881,
   "categories": [
     {
       "name": "Rust",
@@ -162,10 +162,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 634,
+      "avgViewers": 633,
       "peakViewers": 841,
-      "sampleCount": 568,
-      "totalMsgs": 91292
+      "sampleCount": 571,
+      "totalMsgs": 91671
     },
     {
       "name": "Sons of the Forest",
@@ -388,8 +388,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 580,
-      "sampleCount": 279,
-      "totalMsgs": 40958
+      "sampleCount": 282,
+      "totalMsgs": 41337
     },
     "1": {
       "avgViewers": 528,
@@ -634,9 +634,9 @@
     },
     {
       "date": "2026-06-11",
-      "avgViewers": 572,
+      "avgViewers": 570,
       "peakViewers": 683,
-      "totalMsgs": 11083,
+      "totalMsgs": 11462,
       "categories": [
         "Grand Theft Auto V (GTA)",
         "Just Chatting",
@@ -648,5 +648,5 @@
     }
   ],
   "botStartedAt": "2026-06-10T18:21:26.941Z",
-  "lastUpdated": "2026-06-12T00:21:27.604Z"
+  "lastUpdated": "2026-06-12T00:51:27.589Z"
 }
