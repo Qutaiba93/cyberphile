@@ -1,10 +1,10 @@
 {
   "totalSessions": 122,
   "totalDays": 106,
-  "totalSegments": 5425,
+  "totalSegments": 5428,
   "allTimePeak": 17991,
   "allTimeAvg": 625,
-  "totalMessages": 1051732,
+  "totalMessages": 1051898,
   "categories": [
     {
       "name": "Rust",
@@ -252,18 +252,18 @@
       "totalMsgs": 405963
     },
     {
-      "name": "Fears to Fathom: Scratch Creek",
-      "avgViewers": 579,
-      "peakViewers": 601,
-      "sampleCount": 7,
-      "totalMsgs": 1174
-    },
-    {
       "name": "PUBG: Battlegrounds",
       "avgViewers": 578,
       "peakViewers": 748,
       "sampleCount": 145,
       "totalMsgs": 21653
+    },
+    {
+      "name": "Fears to Fathom: Scratch Creek",
+      "avgViewers": 568,
+      "peakViewers": 601,
+      "sampleCount": 10,
+      "totalMsgs": 1340
     },
     {
       "name": "007 First Light",
@@ -454,9 +454,9 @@
       "totalMsgs": 113929
     },
     "19": {
-      "avgViewers": 693,
-      "sampleCount": 530,
-      "totalMsgs": 115154
+      "avgViewers": 692,
+      "sampleCount": 533,
+      "totalMsgs": 115320
     },
     "20": {
       "avgViewers": 679,
@@ -644,9 +644,9 @@
     },
     {
       "date": "2026-06-12",
-      "avgViewers": 509,
+      "avgViewers": 513,
       "peakViewers": 601,
-      "totalMsgs": 2851,
+      "totalMsgs": 3017,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -655,5 +655,5 @@
     }
   ],
   "botStartedAt": "2026-06-12T18:06:46.782Z",
-  "lastUpdated": "2026-06-12T19:36:47.317Z"
+  "lastUpdated": "2026-06-12T20:06:47.320Z"
 }

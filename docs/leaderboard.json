@@ -20,8 +20,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 49729,
-      "totalEarned": 1246886,
+      "balance": 49775,
+      "totalEarned": 1246932,
       "totalSpent": 1293078,
       "gamesPlayed": 1271,
       "gamesWon": 503,
@@ -38,8 +38,8 @@
     },
     {
       "name": "fiverswastaken",
-      "balance": 29078,
-      "totalEarned": 130602,
+      "balance": 29110,
+      "totalEarned": 130634,
       "totalSpent": 101524,
       "gamesPlayed": 193,
       "gamesWon": 61,
@@ -74,12 +74,12 @@
     },
     {
       "name": "neinswein",
-      "balance": 20471,
-      "totalEarned": 474201,
+      "balance": 20550,
+      "totalEarned": 474280,
       "totalSpent": 456212,
       "gamesPlayed": 157,
       "gamesWon": 59,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "6ixzeven",
@@ -128,8 +128,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 15787,
-      "totalEarned": 15888,
+      "balance": 15791,
+      "totalEarned": 15892,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,8 +146,8 @@
     },
     {
       "name": "upkey",
-      "balance": 14818,
-      "totalEarned": 14818,
+      "balance": 14820,
+      "totalEarned": 14820,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -263,8 +263,8 @@
     },
     {
       "name": "kazzcs2",
-      "balance": 11855,
-      "totalEarned": 11855,
+      "balance": 11873,
+      "totalEarned": 11873,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3177,
-    "totalCirculating": 2858181,
+    "totalCirculating": 2858872,
     "totalGames": 25704,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-12T19:36:47.335Z"
+  "lastUpdated": "2026-06-12T20:06:47.336Z"
 }
