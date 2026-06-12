@@ -1,10 +1,10 @@
 {
   "totalSessions": 122,
   "totalDays": 106,
-  "totalSegments": 5428,
+  "totalSegments": 5431,
   "allTimePeak": 17991,
   "allTimeAvg": 625,
-  "totalMessages": 1051898,
+  "totalMessages": 1052359,
   "categories": [
     {
       "name": "Rust",
@@ -175,6 +175,13 @@
       "totalMsgs": 3485
     },
     {
+      "name": "World Cup 2026",
+      "avgViewers": 628,
+      "peakViewers": 628,
+      "sampleCount": 1,
+      "totalMsgs": 179
+    },
+    {
       "name": "Psalm 5:9-13",
       "avgViewers": 625,
       "peakViewers": 674,
@@ -248,8 +255,8 @@
       "name": "Just Chatting",
       "avgViewers": 584,
       "peakViewers": 903,
-      "sampleCount": 2069,
-      "totalMsgs": 405963
+      "sampleCount": 2070,
+      "totalMsgs": 406119
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -344,10 +351,10 @@
     },
     {
       "name": "Slots & Casino",
-      "avgViewers": 529,
+      "avgViewers": 530,
       "peakViewers": 786,
-      "sampleCount": 104,
-      "totalMsgs": 23779
+      "sampleCount": 105,
+      "totalMsgs": 23905
     },
     {
       "name": "Scam Line",
@@ -460,8 +467,8 @@
     },
     "20": {
       "avgViewers": 679,
-      "sampleCount": 561,
-      "totalMsgs": 127577
+      "sampleCount": 564,
+      "totalMsgs": 128038
     },
     "21": {
       "avgViewers": 684,
@@ -644,16 +651,17 @@
     },
     {
       "date": "2026-06-12",
-      "avgViewers": 513,
-      "peakViewers": 601,
-      "totalMsgs": 3017,
+      "avgViewers": 521,
+      "peakViewers": 628,
+      "totalMsgs": 3478,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
-        "Fears to Fathom: Scratch Creek"
+        "Fears to Fathom: Scratch Creek",
+        "World Cup 2026"
       ]
     }
   ],
   "botStartedAt": "2026-06-12T18:06:46.782Z",
-  "lastUpdated": "2026-06-12T20:06:47.320Z"
+  "lastUpdated": "2026-06-12T20:36:47.313Z"
 }
