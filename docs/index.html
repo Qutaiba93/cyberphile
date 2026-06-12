@@ -1,1120 +1,449 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Cyberphile Bot — Commands & Stream Stats</title>
-  <meta name="description" content="Command list and live stream analytics for @Cyberphile, the AI-powered Kick chat bot for Sliker's stream.">
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Cyber_Cloud — Sliker's AI Chat Bot</title>
+<meta name="description" content="Cyber_Cloud: the AI chatbot in Sliker's Kick chat. Commands, games, points leaderboard and live stream stats." />
+<meta property="og:title" content="Cyber_Cloud — Sliker's AI Chat Bot" />
+<meta property="og:description" content="Commands, games, points leaderboard & live stream analytics." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;600;700&family=JetBrains+Mono:wght@600;700&display=swap" rel="stylesheet" />
+<style>
+:root{
+  --bg:#070710; --bg2:#0c0c1a; --card:#12122166; --card-solid:#13132a; --line:#23234a;
+  --txt:#e9e9f5; --muted:#9a9ac4; --cyan:#2de2e6; --purple:#a855f7; --pink:#ff5db1;
+  --green:#3ee07f; --gold:#ffd24a; --silver:#cfd6e6; --bronze:#e0915a;
+  --glow:0 0 40px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  font-family:'Inter',system-ui,sans-serif;background:var(--bg);color:var(--txt);
+  line-height:1.6;overflow-x:hidden;
+}
+body::before{
+  content:"";position:fixed;inset:0;z-index:-2;
+  background:
+    radial-gradient(60vw 60vw at 12% -10%,#a855f733,transparent 60%),
+    radial-gradient(50vw 50vw at 100% 0%,#2de2e622,transparent 60%),
+    radial-gradient(55vw 55vw at 50% 120%,#ff5db122,transparent 60%),
+    var(--bg);
+}
+body::after{content:"";position:fixed;inset:0;z-index:-1;opacity:.5;
+  background-image:radial-gradient(circle at 1px 1px,#ffffff09 1px,transparent 0);background-size:42px 42px}
+a{color:inherit;text-decoration:none}
+.wrap{max-width:1120px;margin:0 auto;padding:0 22px}
+.mono{font-family:'JetBrains Mono',monospace}
+.head{font-family:'Space Grotesk',sans-serif}
 
-    :root {
-      --bg: #0a0a0f;
-      --card: #12121a;
-      --card-hover: #1a1a28;
-      --border: #1e1e2e;
-      --accent: #53fc18;
-      --accent-dim: #53fc1822;
-      --accent-glow: #53fc1844;
-      --text: #e4e4ef;
-      --text-dim: #8888a0;
-      --red: #ff4d6a;
-      --blue: #4d9fff;
-      --purple: #a855f7;
-      --yellow: #fbbf24;
-      --pink: #f472b6;
-      --cyan: #22d3ee;
-      --orange: #fb923c;
-      --green-soft: #34d399;
-    }
+/* NAV */
+nav{position:sticky;top:0;z-index:50;backdrop-filter:blur(14px);
+  background:#070710cc;border-bottom:1px solid var(--line)}
+nav .wrap{display:flex;align-items:center;gap:18px;height:64px}
+.logo{display:flex;align-items:center;gap:10px;font-weight:800;font-size:18px}
+.logo .dot{width:11px;height:11px;border-radius:50%;background:var(--cyan);box-shadow:0 0 12px var(--cyan);animation:pulse 2s infinite}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.5;transform:scale(.78)}}
+.navlinks{margin-left:auto;display:flex;gap:6px;flex-wrap:wrap}
+.navlinks a{padding:8px 13px;border-radius:9px;font-size:14px;font-weight:600;color:var(--muted);transition:.18s}
+.navlinks a:hover{color:#fff;background:#ffffff0d}
 
-    * { margin: 0; padding: 0; box-sizing: border-box; }
+/* HERO */
+.hero{text-align:center;padding:78px 0 54px}
+.badge{display:inline-flex;align-items:center;gap:8px;padding:6px 14px;border-radius:99px;
+  border:1px solid var(--line);background:#ffffff08;font-size:13px;font-weight:600;color:var(--muted);margin-bottom:24px}
+.badge .live{width:8px;height:8px;border-radius:50%;background:var(--green);box-shadow:0 0 10px var(--green);animation:pulse 2s infinite}
+.hero h1{font-family:'Space Grotesk';font-size:clamp(44px,9vw,84px);font-weight:700;line-height:1.02;letter-spacing:-2px}
+.hero h1 .grad{background:linear-gradient(110deg,var(--cyan),var(--purple) 55%,var(--pink));-webkit-background-clip:text;background-clip:text;color:transparent}
+.hero p{max-width:620px;margin:20px auto 0;color:var(--muted);font-size:clamp(16px,2.2vw,19px)}
+.cta{display:flex;gap:14px;justify-content:center;margin-top:34px;flex-wrap:wrap}
+.btn{padding:13px 24px;border-radius:12px;font-weight:700;font-size:15px;transition:.2s;border:1px solid transparent;cursor:pointer}
+.btn.p{background:linear-gradient(110deg,var(--cyan),var(--purple));color:#07071a;box-shadow:var(--glow) #a855f755}
+.btn.p:hover{transform:translateY(-2px);box-shadow:var(--glow) #a855f799}
+.btn.g{background:#ffffff0a;border-color:var(--line);color:#fff}
+.btn.g:hover{background:#ffffff14;transform:translateY(-2px)}
 
-    body {
-      font-family: 'Inter', system-ui, sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      min-height: 100vh;
-      overflow-x: hidden;
-    }
+/* STAT BAND */
+.stats{display:grid;grid-template-columns:repeat(6,1fr);gap:14px;margin:8px 0 30px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px 16px;text-align:center;backdrop-filter:blur(8px);transition:.2s}
+.stat:hover{border-color:#3a3a72;transform:translateY(-3px)}
+.stat .n{font-family:'JetBrains Mono';font-size:clamp(20px,2.6vw,27px);font-weight:700;color:#fff}
+.stat .l{font-size:12px;color:var(--muted);margin-top:4px;text-transform:uppercase;letter-spacing:.6px}
+.stat .n.cy{color:var(--cyan)}.stat .n.pu{color:var(--purple)}.stat .n.pk{color:var(--pink)}.stat .n.gr{color:var(--green)}.stat .n.go{color:var(--gold)}
 
-    body::before {
-      content: '';
-      position: fixed;
-      inset: 0;
-      background:
-        linear-gradient(90deg, transparent 49.5%, var(--border) 49.5%, var(--border) 50.5%, transparent 50.5%) 0 0 / 80px 80px,
-        linear-gradient(0deg, transparent 49.5%, var(--border) 49.5%, var(--border) 50.5%, transparent 50.5%) 0 0 / 80px 80px;
-      opacity: 0.3;
-      pointer-events: none;
-      z-index: 0;
-    }
+/* SECTIONS */
+section{padding:54px 0}
+.sec-h{text-align:center;margin-bottom:38px}
+.sec-h .k{font-size:13px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--cyan)}
+.sec-h h2{font-family:'Space Grotesk';font-size:clamp(28px,4.5vw,40px);font-weight:700;margin-top:8px;letter-spacing:-1px}
+.sec-h p{color:var(--muted);margin-top:8px}
 
-    .orb { position: fixed; border-radius: 50%; filter: blur(120px); opacity: 0.15; pointer-events: none; z-index: 0; }
-    .orb-1 { width: 600px; height: 600px; background: var(--accent); top: -200px; right: -100px; }
-    .orb-2 { width: 500px; height: 500px; background: var(--purple); bottom: -150px; left: -100px; }
+/* PODIUM */
+.podium{display:grid;grid-template-columns:1fr 1.15fr 1fr;gap:14px;align-items:end;margin-bottom:26px}
+.pod{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px 14px;text-align:center;position:relative;backdrop-filter:blur(8px)}
+.pod.first{border-color:var(--gold);box-shadow:var(--glow) #ffd24a22;transform:translateY(-12px)}
+.pod.second{border-color:#5a6480}.pod.third{border-color:#7a4f33}
+.pod .medal{font-size:30px}
+.pod .nm{font-weight:700;font-size:17px;margin:8px 0 2px;word-break:break-word}
+.pod .bal{font-family:'JetBrains Mono';font-weight:700;font-size:20px;color:var(--gold)}
+.pod.second .bal{color:var(--silver)}.pod.third .bal{color:var(--bronze)}
+.pod .sub{font-size:12px;color:var(--muted);margin-top:4px}
 
-    .container { position: relative; z-index: 1; max-width: 900px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+/* TABLE */
+.board{background:var(--card);border:1px solid var(--line);border-radius:18px;overflow:hidden;backdrop-filter:blur(8px)}
+.row{display:grid;grid-template-columns:54px 1fr 130px 120px 80px;align-items:center;gap:10px;padding:13px 18px;border-bottom:1px solid #ffffff0a;transition:.15s}
+.row:last-child{border-bottom:0}
+.row:hover{background:#ffffff07}
+.row.hd{font-size:11px;text-transform:uppercase;letter-spacing:.8px;color:var(--muted);font-weight:700;background:#ffffff05}
+.rank{font-family:'JetBrains Mono';font-weight:700;color:var(--muted);font-size:15px}
+.rank.top{color:var(--gold)}
+.pname{font-weight:600;word-break:break-word}
+.pbal{font-family:'JetBrains Mono';font-weight:700;color:var(--cyan);text-align:right}
+.wr{display:flex;align-items:center;gap:8px}
+.wrbar{flex:1;height:7px;border-radius:99px;background:#ffffff12;overflow:hidden}
+.wrbar i{display:block;height:100%;border-radius:99px;background:linear-gradient(90deg,var(--green),var(--cyan))}
+.wrtxt{font-family:'JetBrains Mono';font-size:12px;color:var(--muted);min-width:34px;text-align:right}
+.streak{font-family:'JetBrains Mono';font-weight:700;text-align:right;color:var(--pink)}
+.muted-note{text-align:center;color:var(--muted);font-size:13px;margin-top:14px}
 
-    header { text-align: center; padding: 3rem 0 2.5rem; }
+/* GAMES */
+.ggrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px}
+.gcard{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px;backdrop-filter:blur(8px);transition:.2s}
+.gcard:hover{transform:translateY(-3px);border-color:#3a3a72}
+.gcard .ic{font-size:26px}
+.gcard h4{font-family:'Space Grotesk';margin:8px 0 3px;font-size:17px}
+.gcard .cmd{font-family:'JetBrains Mono';font-size:12px;color:var(--cyan);margin-bottom:10px}
+.gcard .pp{display:flex;justify-content:space-between;font-size:13px;padding:4px 0;border-top:1px solid #ffffff0d}
+.gcard .pp span:first-child{color:var(--muted)}
+.gcard .pp b{font-family:'JetBrains Mono';color:var(--green)}
+.gcard .pp b.cost{color:var(--pink)}
 
-    .bot-avatar {
-      width: 80px; height: 80px; border-radius: 20px;
-      background: linear-gradient(135deg, var(--accent), #0fa);
-      display: flex; align-items: center; justify-content: center;
-      font-size: 2.2rem; margin: 0 auto 1.2rem;
-      box-shadow: 0 0 40px var(--accent-glow);
-      animation: pulse-glow 3s ease-in-out infinite;
-    }
+/* COMMANDS */
+.cmdsearch{display:block;width:100%;max-width:420px;margin:0 auto 30px;padding:13px 18px;border-radius:12px;
+  background:var(--card-solid);border:1px solid var(--line);color:#fff;font-size:15px;font-family:inherit;outline:none}
+.cmdsearch:focus{border-color:var(--cyan)}
+.cgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:18px}
+.cgroup{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px;backdrop-filter:blur(8px)}
+.cgroup h3{font-family:'Space Grotesk';font-size:18px;display:flex;align-items:center;gap:9px;margin-bottom:14px}
+.cgroup h3 .pill{font-size:11px;font-weight:700;padding:3px 9px;border-radius:99px;background:#ffffff10;color:var(--muted);margin-left:auto}
+.cmd-item{display:flex;gap:11px;padding:8px 0;border-top:1px solid #ffffff0a;align-items:baseline}
+.cmd-item:first-of-type{border-top:0}
+.cmd-item code{font-family:'JetBrains Mono';font-size:13px;font-weight:700;color:var(--cyan);white-space:nowrap}
+.cmd-item .d{font-size:13.5px;color:var(--muted)}
+.cgroup.hidden{display:none}
 
-    @keyframes pulse-glow {
-      0%, 100% { box-shadow: 0 0 40px var(--accent-glow); }
-      50% { box-shadow: 0 0 60px var(--accent-dim), 0 0 100px var(--accent-glow); }
-    }
+/* FEATURES */
+.fgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:18px}
+.fcard{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:24px;backdrop-filter:blur(8px);transition:.2s}
+.fcard:hover{transform:translateY(-4px);border-color:#3a3a72}
+.fcard .ic{width:48px;height:48px;border-radius:13px;display:grid;place-items:center;font-size:24px;background:linear-gradient(135deg,#a855f733,#2de2e633);border:1px solid var(--line);margin-bottom:14px}
+.fcard h4{font-family:'Space Grotesk';font-size:18px;margin-bottom:6px}
+.fcard p{font-size:14px;color:var(--muted)}
 
-    h1 { font-size: 2.4rem; font-weight: 800; letter-spacing: -0.03em; margin-bottom: 0.3rem; }
-    h1 span { color: var(--accent); }
+/* STREAM */
+.scols{display:grid;grid-template-columns:1.3fr 1fr;gap:18px}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:24px;backdrop-filter:blur(8px)}
+.panel h3{font-family:'Space Grotesk';font-size:17px;margin-bottom:16px;color:var(--muted);text-transform:uppercase;letter-spacing:.6px;font-size:13px}
+.catrow{margin-bottom:13px}
+.catrow .t{display:flex;justify-content:space-between;font-size:14px;margin-bottom:5px}
+.catrow .t b{font-family:'JetBrains Mono';color:var(--cyan)}
+.catbar{height:9px;border-radius:99px;background:#ffffff10;overflow:hidden}
+.catbar i{display:block;height:100%;border-radius:99px;background:linear-gradient(90deg,var(--purple),var(--cyan))}
+.bigstat{text-align:center;padding:14px 0}
+.bigstat .n{font-family:'JetBrains Mono';font-size:34px;font-weight:700;color:var(--pink)}
+.bigstat .l{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.6px}
+.sgrid2{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:10px}
+.minicard{background:#ffffff06;border:1px solid var(--line);border-radius:13px;padding:14px;text-align:center}
+.minicard .n{font-family:'JetBrains Mono';font-size:20px;font-weight:700;color:#fff}
+.minicard .l{font-size:11px;color:var(--muted);margin-top:3px}
 
-    .subtitle { color: var(--text-dim); font-size: 1rem; font-weight: 400; }
-    .subtitle a { color: var(--accent); text-decoration: none; }
-    .subtitle a:hover { text-decoration: underline; }
+/* FOOTER */
+footer{border-top:1px solid var(--line);padding:34px 0;margin-top:30px;text-align:center;color:var(--muted);font-size:14px}
+footer a{color:var(--cyan)}
+footer .up{font-family:'JetBrains Mono';font-size:12px;margin-top:8px;opacity:.7}
 
-    .badges { display: flex; gap: 0.5rem; justify-content: center; margin-top: 1.2rem; flex-wrap: wrap; }
-
-    .badge {
-      display: inline-flex; align-items: center; gap: 0.35rem;
-      padding: 0.35rem 0.75rem; border-radius: 999px;
-      font-size: 0.78rem; font-weight: 600;
-      border: 1px solid var(--border); background: var(--card);
-    }
-
-    .badge-green { border-color: #53fc1844; color: var(--accent); }
-    .badge-blue { border-color: #4d9fff44; color: var(--blue); }
-    .badge-purple { border-color: #a855f744; color: var(--purple); }
-    .badge-orange { border-color: #fb923c44; color: var(--orange); }
-    .badge-cyan { border-color: #22d3ee44; color: var(--cyan); }
-    .badge-red { border-color: #ff4d6a44; color: var(--red); }
-
-    /* ---- Bot Status ---- */
-    .bot-status {
-      display: inline-flex; align-items: center; gap: 0.5rem;
-      margin-top: 1rem; padding: 0.5rem 1.2rem;
-      border-radius: 999px; font-size: 0.85rem; font-weight: 600;
-      border: 1px solid var(--border); background: var(--card);
-      transition: all 0.3s ease;
-    }
-    .bot-status .status-dot {
-      width: 10px; height: 10px; border-radius: 50%;
-      display: inline-block; flex-shrink: 0;
-    }
-    .bot-status.online {
-      border-color: #53fc1866; color: var(--accent);
-      background: linear-gradient(135deg, var(--card), #53fc1810);
-    }
-    .bot-status.online .status-dot {
-      background: var(--accent);
-      box-shadow: 0 0 8px var(--accent);
-      animation: status-pulse 2s ease-in-out infinite;
-    }
-    .bot-status.offline {
-      border-color: #ff4d6a44; color: var(--red);
-      background: linear-gradient(135deg, var(--card), #ff4d6a08);
-    }
-    .bot-status.offline .status-dot {
-      background: var(--red); opacity: 0.6;
-    }
-    .bot-status .status-uptime {
-      font-size: 0.72rem; color: var(--text-dim); font-weight: 400;
-    }
-    @keyframes status-pulse {
-      0%, 100% { opacity: 1; box-shadow: 0 0 8px var(--accent); }
-      50% { opacity: 0.5; box-shadow: 0 0 16px var(--accent), 0 0 24px var(--accent-glow); }
-    }
-
-    /* ---- Tab Navigation ---- */
-    .tabs {
-      display: flex; gap: 0.5rem; justify-content: center; margin-bottom: 2rem;
-      border-bottom: 1px solid var(--border); padding-bottom: 0.8rem;
-    }
-    .tab-btn {
-      padding: 0.6rem 1.4rem; border-radius: 10px 10px 0 0;
-      background: var(--card); border: 1px solid var(--border); border-bottom: none;
-      color: var(--text-dim); font-size: 0.9rem; font-weight: 600;
-      cursor: pointer; transition: all 0.2s ease;
-    }
-    .tab-btn:hover { color: var(--text); background: var(--card-hover); }
-    .tab-btn.active { color: var(--accent); border-color: var(--accent); background: var(--accent-dim); }
-    .tab-content { display: none; }
-    .tab-content.active { display: block; }
-
-    .section { margin-bottom: 2rem; }
-
-    .section-header {
-      display: flex; align-items: center; gap: 0.6rem;
-      margin-bottom: 1rem; padding-bottom: 0.6rem;
-      border-bottom: 1px solid var(--border);
-    }
-
-    .section-icon {
-      width: 32px; height: 32px; border-radius: 8px;
-      display: flex; align-items: center; justify-content: center;
-      font-size: 1rem; flex-shrink: 0;
-    }
-
-    .section-icon.ai { background: #53fc1820; }
-    .section-icon.search { background: #fb923c20; }
-    .section-icon.fun { background: #f472b620; }
-    .section-icon.games { background: #fbbf2420; }
-    .section-icon.brain { background: #a855f720; }
-    .section-icon.info { background: #4d9fff20; }
-    .section-icon.translate { background: #22d3ee20; }
-    .section-icon.stalk { background: #ff4d6a20; }
-    .section-icon.stats { background: #34d39920; }
-    .section-icon.analytics { background: #fbbf2420; }
-
-    .section-title { font-size: 1.15rem; font-weight: 700; letter-spacing: -0.02em; }
-
-    .section-count {
-      margin-left: auto; font-size: 0.75rem; color: var(--text-dim);
-      background: var(--card); padding: 0.2rem 0.6rem;
-      border-radius: 999px; border: 1px solid var(--border);
-    }
-
-    .cmd-grid { display: grid; gap: 0.6rem; }
-
-    .cmd {
-      display: grid; grid-template-columns: auto 1fr;
-      gap: 0 1rem; padding: 0.85rem 1rem;
-      background: var(--card); border: 1px solid var(--border);
-      border-radius: 12px; transition: all 0.2s ease; align-items: start;
-    }
-
-    .cmd:hover { background: var(--card-hover); border-color: #2a2a3e; transform: translateY(-1px); }
-
-    .cmd-name {
-      font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace;
-      font-size: 0.88rem; font-weight: 600; color: var(--accent); white-space: nowrap;
-    }
-
-    .cmd-desc { font-size: 0.88rem; color: var(--text-dim); line-height: 1.5; }
-
-    .cmd-aliases { grid-column: 1 / -1; margin-top: 0.3rem; font-size: 0.75rem; color: var(--text-dim); opacity: 0.7; }
-    .cmd-aliases span { font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; color: var(--purple); }
-
-    .cmd-highlight { border-color: #53fc1833; background: linear-gradient(135deg, var(--card), #53fc1808); }
-    .cmd-search { border-color: #fb923c33; background: linear-gradient(135deg, var(--card), #fb923c08); }
-    .cmd-stalk { border-color: #ff4d6a33; background: linear-gradient(135deg, var(--card), #ff4d6a08); }
-    .cmd-translate { border-color: #22d3ee33; background: linear-gradient(135deg, var(--card), #22d3ee08); }
-    .cmd-analytics { border-color: #fbbf2433; background: linear-gradient(135deg, var(--card), #fbbf2408); }
-
-    .cmd-tag {
-      display: inline-block; font-size: 0.65rem; font-weight: 700;
-      padding: 0.1rem 0.4rem; border-radius: 4px;
-      margin-left: 0.4rem; vertical-align: middle;
-    }
-
-    .tag-op { background: #53fc1830; color: var(--accent); }
-    .tag-new { background: #fb923c30; color: var(--orange); }
-    .tag-live { background: #ff4d6a30; color: var(--red); }
-
-    .mode-cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.6rem; margin-top: 0.8rem; }
-    @media (max-width: 600px) { .mode-cards { grid-template-columns: 1fr 1fr; } }
-    .mode-card { padding: 0.75rem 0.85rem; background: var(--card); border: 1px solid var(--border); border-radius: 12px; text-align: center; transition: all 0.2s ease; }
-    .mode-card:hover { background: var(--card-hover); transform: translateY(-1px); }
-    .mode-card .mode-emoji { font-size: 1.4rem; margin-bottom: 0.3rem; }
-    .mode-card .mode-name { font-size: 0.85rem; font-weight: 700; margin-bottom: 0.2rem; }
-    .mode-card .mode-desc { font-size: 0.72rem; color: var(--text-dim); line-height: 1.4; }
-    .mode-fast { border-color: #fbbf2444; }
-    .mode-fast .mode-name { color: var(--yellow); }
-    .mode-eco { border-color: #53fc1844; }
-    .mode-eco .mode-name { color: var(--accent); }
-    .mode-op { border-color: #a855f744; }
-    .mode-op .mode-name { color: var(--purple); }
-    .mode-local { border-color: #4d9fff44; }
-    .mode-local .mode-name { color: var(--blue); }
-    .mode-savage { border-color: #ff4d6a44; }
-    .mode-savage .mode-name { color: var(--red); }
-    .mode-unfiltered { border-color: #fb923c44; }
-    .mode-unfiltered .mode-name { color: var(--orange); }
-
-    /* ---- Stats Styles ---- */
-    .stats-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 0.8rem; margin-bottom: 1.5rem; }
-    .stat-card {
-      padding: 1rem; background: var(--card); border: 1px solid var(--border);
-      border-radius: 12px; text-align: center; transition: all 0.2s ease;
-    }
-    .stat-card:hover { background: var(--card-hover); transform: translateY(-2px); }
-    .stat-value { font-size: 1.8rem; font-weight: 800; color: var(--accent); margin-bottom: 0.2rem; }
-    .stat-label { font-size: 0.78rem; color: var(--text-dim); font-weight: 500; text-transform: uppercase; letter-spacing: 0.05em; }
-
-    .cat-bar-container { margin-bottom: 0.6rem; }
-    .cat-bar-label { display: flex; justify-content: space-between; font-size: 0.82rem; margin-bottom: 0.3rem; }
-    .cat-bar-name { font-weight: 600; }
-    .cat-bar-value { color: var(--text-dim); }
-    .cat-bar-track { height: 8px; background: var(--border); border-radius: 4px; overflow: hidden; }
-    .cat-bar-fill { height: 100%; border-radius: 4px; transition: width 0.6s ease; }
-
-    .hourly-chart { display: flex; align-items: flex-end; gap: 2px; height: 100px; margin: 1rem 0; padding: 0 0.5rem; }
-    .hourly-bar-wrap { flex: 1; display: flex; flex-direction: column; align-items: center; }
-    .hourly-bar {
-      width: 100%; min-width: 8px; border-radius: 3px 3px 0 0;
-      background: var(--accent); opacity: 0.6; transition: all 0.3s ease;
-    }
-    .hourly-bar:hover { opacity: 1; }
-    .hourly-label { font-size: 0.55rem; color: var(--text-dim); margin-top: 3px; }
-
-    .daily-row { display: flex; align-items: center; gap: 0.8rem; padding: 0.5rem 0.8rem; background: var(--card); border: 1px solid var(--border); border-radius: 10px; margin-bottom: 0.5rem; transition: all 0.2s ease; }
-    .daily-row:hover { background: var(--card-hover); }
-    .daily-date { font-weight: 700; font-size: 0.85rem; min-width: 90px; }
-    .daily-viewers { color: var(--accent); font-weight: 600; font-size: 0.85rem; min-width: 60px; }
-    .daily-peak { color: var(--yellow); font-size: 0.78rem; min-width: 55px; }
-    .daily-msgs { color: var(--cyan); font-size: 0.78rem; min-width: 55px; }
-    .daily-cats { font-size: 0.72rem; color: var(--text-dim); flex: 1; text-align: right; }
-
-    .stats-updated { text-align: center; font-size: 0.75rem; color: var(--text-dim); opacity: 0.5; margin-top: 1rem; }
-
-    .no-data { text-align: center; padding: 3rem 1rem; color: var(--text-dim); font-size: 0.95rem; }
-
-    /* ---- Leaderboard Styles ---- */
-    .lb-table { width: 100%; border-collapse: separate; border-spacing: 0 0.4rem; }
-    .lb-table th { font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-dim); padding: 0.5rem 0.7rem; text-align: left; }
-    .lb-table td { padding: 0.65rem 0.7rem; background: var(--card); font-size: 0.85rem; transition: all 0.2s ease; }
-    .lb-table tr:hover td { background: var(--card-hover); }
-    .lb-table td:first-child { border-radius: 10px 0 0 10px; border-left: 1px solid var(--border); }
-    .lb-table td:last-child { border-radius: 0 10px 10px 0; border-right: 1px solid var(--border); }
-    .lb-table td { border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
-    .lb-rank { font-weight: 800; min-width: 2rem; text-align: center; }
-    .lb-rank-1 { color: #fbbf24; font-size: 1.1rem; }
-    .lb-rank-2 { color: #c0c0c0; font-size: 1.05rem; }
-    .lb-rank-3 { color: #cd7f32; font-size: 1rem; }
-    .lb-name { font-weight: 700; color: var(--text); }
-    .lb-name a { color: inherit; text-decoration: none; }
-    .lb-name a:hover { color: var(--accent); }
-    .lb-pts { font-weight: 800; color: var(--accent); font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; }
-    .lb-stat { color: var(--text-dim); font-size: 0.8rem; }
-    .lb-winrate { font-weight: 600; }
-    .lb-winrate-good { color: var(--accent); }
-    .lb-winrate-ok { color: var(--yellow); }
-    .lb-winrate-bad { color: var(--red); }
-    .lb-economy-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 0.6rem; margin-bottom: 1.5rem; }
-    .lb-econ-card { padding: 0.8rem; background: var(--card); border: 1px solid var(--border); border-radius: 10px; text-align: center; }
-    .lb-econ-value { font-size: 1.3rem; font-weight: 800; color: var(--accent); }
-    .lb-econ-label { font-size: 0.7rem; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.04em; margin-top: 0.2rem; }
-    .lb-costs-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); gap: 0.5rem; }
-    .lb-cost-item { padding: 0.5rem 0.7rem; background: var(--card); border: 1px solid var(--border); border-radius: 8px; display: flex; justify-content: space-between; align-items: center; font-size: 0.82rem; }
-    .lb-cost-name { font-weight: 600; }
-    .lb-cost-val { color: var(--yellow); font-weight: 700; font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; }
-    .lb-payout-val { color: var(--accent); font-weight: 700; font-family: 'SF Mono', 'Fira Code', 'Consolas', monospace; }
-    @media (max-width: 600px) {
-      .lb-table { font-size: 0.78rem; }
-      .lb-table th, .lb-table td { padding: 0.4rem 0.4rem; }
-      .lb-economy-grid { grid-template-columns: repeat(2, 1fr); }
-      .lb-costs-grid { grid-template-columns: repeat(2, 1fr); }
-    }
-
-    footer { text-align: center; margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border); color: var(--text-dim); font-size: 0.82rem; }
-    footer .heart { color: var(--red); }
-    footer a { color: var(--accent); text-decoration: none; }
-    footer a:hover { text-decoration: underline; }
-
-    @media (max-width: 600px) {
-      .container { padding: 1rem 1rem 3rem; }
-      h1 { font-size: 1.8rem; }
-      header { padding: 2rem 0 1.5rem; }
-      .cmd { padding: 0.75rem 0.85rem; }
-      .mode-cards { grid-template-columns: 1fr; }
-      .tabs { gap: 0.3rem; }
-      .tab-btn { padding: 0.5rem 0.8rem; font-size: 0.8rem; }
-      .stats-grid { grid-template-columns: repeat(2, 1fr); }
-      .hourly-chart { height: 70px; }
-    }
-  </style>
+@media(max-width:760px){
+  .stats{grid-template-columns:repeat(3,1fr)}
+  .scols{grid-template-columns:1fr}
+  .row{grid-template-columns:42px 1fr 96px;font-size:14px}
+  .row .wr,.row .streak,.row.hd .wr,.row.hd .streak{display:none}
+  .podium{grid-template-columns:1fr;gap:10px}
+  .pod.first{transform:none}
+  .navlinks{display:none}
+}
+.fade{opacity:0;transform:translateY(18px);transition:.6s}
+.fade.in{opacity:1;transform:none}
+</style>
 </head>
 <body>
-  <div class="orb orb-1"></div>
-  <div class="orb orb-2"></div>
-
-  <div class="container">
-    <header>
-      <div class="bot-avatar">🤖</div>
-      <h1>@<span>Cyberphile</span></h1>
-      <p class="subtitle">AI-powered chat bot for <a href="https://kick.com/sliker" target="_blank">Sliker's Kick stream</a></p>
-      <div class="badges">
-        <span class="badge badge-green">✦ 11+ AI Models</span>
-        <span class="badge badge-orange">🔍 Live Search</span>
-        <span class="badge badge-cyan">🌍 Translate</span>
-        <span class="badge badge-purple">🎮 7 Games</span>
-        <span class="badge badge-yellow" style="background:#fbbf2418;color:#fbbf24;border-color:#fbbf2433">💰 Points Economy</span>
-        <span class="badge badge-blue">⚡ 50+ Commands</span>
-        <span class="badge badge-red">📊 Stream Analytics</span>
-      </div>
-      <div class="bot-status" id="bot-status">
-        <span class="status-dot"></span>
-        <span class="status-text">Checking...</span>
-      </div>
-    </header>
-
-    <!-- Tabs -->
-    <div class="tabs">
-      <button class="tab-btn active" onclick="switchTab('commands', this)">📋 Commands</button>
-      <button class="tab-btn" onclick="switchTab('leaderboard', this)">💰 Leaderboard</button>
-      <button class="tab-btn" onclick="switchTab('stats', this)">📊 Stream Stats</button>
-    </div>
-
-    <!-- ==================== COMMANDS TAB ==================== -->
-    <div id="tab-commands" class="tab-content active">
-
-      <!-- AI Commands -->
-      <div class="section">
-        <div class="section-header">
-          <div class="section-icon ai">🧠</div>
-          <span class="section-title">AI Commands</span>
-          <span class="section-count">12 commands</span>
-        </div>
-        <div class="cmd-grid">
-          <div class="cmd cmd-highlight">
-            <span class="cmd-name">!AI &lt;question&gt;<span class="cmd-tag tag-op">OP</span></span>
-            <span class="cmd-desc">The ultimate AI — races up to 7 AIs (Claude, DeepSeek, Groq, Mistral, GPT, Gemini, Grok), picks the best answer. Auto-searches the internet for current events. Full chat memory + user awareness. 3 switchable modes.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!ask &lt;question&gt;</span>
-            <span class="cmd-desc">Ask Claude (Anthropic) — fast, creative, great for conversations.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!ask2 &lt;question&gt;</span>
-            <span class="cmd-desc">Ask Groq (LLaMA 3.3 70B) — ultra-fast responses, open-source model.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!ask3 &lt;question&gt;</span>
-            <span class="cmd-desc">Ask DeepSeek — strong reasoning and coding knowledge.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!ask4 &lt;question&gt;</span>
-            <span class="cmd-desc">Ask Mistral — fast European AI, good with multiple languages.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!ask5 &lt;question&gt;</span>
-            <span class="cmd-desc">Ask Grok (xAI) — Elon's AI with Grok-4-1 Fast, unfiltered and witty.</span>
-            <div class="cmd-aliases">Alias: <span>!grok</span></div>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!ask6 &lt;question&gt;</span>
-            <span class="cmd-desc">Ask Solar Pro 3 — powerful Korean AI via OpenRouter.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!ask7 &lt;question&gt;</span>
-            <span class="cmd-desc">Ask GPT (OpenAI) — the latest GPT model, great at everything.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!ask8 &lt;question&gt;</span>
-            <span class="cmd-desc">Ask Gemini 2.5 Pro (Google) — Google's most advanced reasoning model.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!ask9 &lt;question&gt;</span>
-            <span class="cmd-desc">Ask Kimi K2.5 (Moonshot AI) — powerful Chinese reasoning model, great at logic puzzles.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!local &lt;question&gt;<span class="cmd-tag tag-new">NEW</span></span>
-            <span class="cmd-desc">Ask Slonky — custom fine-tuned 7B LLM running locally on Ollama, trained on the bot's own best AI responses. Fast, offline, and uniquely Sliker-brained.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!unfiltered &lt;question&gt;<span class="cmd-tag tag-new">NEW</span></span>
-            <span class="cmd-desc">Ask an uncensored AI (Dolphin) — completely unfiltered responses with no safety guardrails. Use at your own risk.</span>
-          </div>
-        </div>
-
-        <!-- AI Modes -->
-        <div class="mode-cards">
-          <div class="mode-card mode-fast">
-            <div class="mode-emoji">⚡</div>
-            <div class="mode-name">FAST</div>
-            <div class="mode-desc">Groq speed run with Mistral &amp; DeepSeek fallback. ~1-3s responses.</div>
-          </div>
-          <div class="mode-card mode-eco">
-            <div class="mode-emoji">♻️</div>
-            <div class="mode-name">ECO</div>
-            <div class="mode-desc">6 AIs race, best answer wins. Free tier optimized.</div>
-          </div>
-          <div class="mode-card mode-op">
-            <div class="mode-emoji">🧠</div>
-            <div class="mode-name">OP</div>
-            <div class="mode-desc">All 7 AIs including Claude race. Maximum quality. Default mode.</div>
-          </div>
-          <div class="mode-card mode-local">
-            <div class="mode-emoji">🖥️</div>
-            <div class="mode-name">LOCAL</div>
-            <div class="mode-desc">Custom Slonky 7B LLM via Ollama. Trained on the bot's own responses. Runs on RTX 4090.</div>
-          </div>
-          <div class="mode-card mode-savage">
-            <div class="mode-emoji">🔥</div>
-            <div class="mode-name">SAVAGE</div>
-            <div class="mode-desc">Brutal unfiltered Dolphin AI. No safety nets. Maximum chaos energy.</div>
-          </div>
-          <div class="mode-card mode-unfiltered">
-            <div class="mode-emoji">⚠️</div>
-            <div class="mode-name">UNFILTERED</div>
-            <div class="mode-desc">Dolphin uncensored chain. Says whatever it wants with zero guardrails.</div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Search -->
-      <div class="section">
-        <div class="section-header">
-          <div class="section-icon search">🔍</div>
-          <span class="section-title">Live Internet Search</span>
-          <span class="section-count">1 command</span>
-        </div>
-        <div class="cmd-grid">
-          <div class="cmd cmd-search">
-            <span class="cmd-name">!search &lt;query&gt;<span class="cmd-tag tag-live">LIVE</span></span>
-            <span class="cmd-desc">Search the internet in real-time. Get up-to-date info on news, scores, prices, events, and more. Powered by Perplexity AI.</span>
-          </div>
-        </div>
-      </div>
-
-      <!-- Translate -->
-      <div class="section">
-        <div class="section-header">
-          <div class="section-icon translate">🌍</div>
-          <span class="section-title">Translation</span>
-          <span class="section-count">1 command</span>
-        </div>
-        <div class="cmd-grid">
-          <div class="cmd cmd-translate">
-            <span class="cmd-name">!tr &lt;lang&gt; &lt;text&gt;</span>
-            <span class="cmd-desc">Translate text to any of 50+ languages. Just specify the language and what to translate. Powered by AI — handles slang, emotes, and context.</span>
-            <div class="cmd-aliases">Alias: <span>!translate</span> · Examples: <span>!tr arabic hello</span>, <span>!tr japanese good morning</span></div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Stalk / Chatter Analysis -->
-      <div class="section">
-        <div class="section-header">
-          <div class="section-icon stalk">🔎</div>
-          <span class="section-title">Chatter Analysis</span>
-          <span class="section-count">2 commands</span>
-        </div>
-        <div class="cmd-grid">
-          <div class="cmd cmd-stalk">
-            <span class="cmd-name">!stalk &lt;user&gt;</span>
-            <span class="cmd-desc">Deep analysis of any Kick chatter. Fetches live data from StreamerStats.com — total messages, channels chatted in, emote %, active times, gifted subs, favorite emotes, weekly patterns — combined with bot memory for a witty AI breakdown.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!whois &lt;name&gt;</span>
-            <span class="cmd-desc">Look up what the bot knows about a chatter — message count, topics, vibe, sentiment, catchphrases, and personality traits.</span>
-          </div>
-        </div>
-      </div>
-
-      <!-- Stream Analytics -->
-      <div class="section">
-        <div class="section-header">
-          <div class="section-icon analytics">📊</div>
-          <span class="section-title">Stream Analytics</span>
-          <span class="section-count">2 commands</span>
-        </div>
-        <div class="cmd-grid">
-          <div class="cmd cmd-analytics">
-            <span class="cmd-name">!segment<span class="cmd-tag tag-new">NEW</span></span>
-            <span class="cmd-desc">Full stream analytics — live viewer count, avg/peak/low viewers, viewer trend (📈/📉), chat engagement rate, category performance rankings, best time of day, all-time records. Data polled every 10 minutes, stored permanently.</span>
-            <div class="cmd-aliases">Aliases: <span>!segments</span>, <span>!analytics</span></div>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!stream</span>
-            <span class="cmd-desc">Check if Sliker is live — shows current category, viewer count, and uptime.</span>
-            <div class="cmd-aliases">Aliases: <span>!live</span>, <span>!uptime</span></div>
-          </div>
-        </div>
-      </div>
-
-      <!-- Fun Commands -->
-      <div class="section">
-        <div class="section-header">
-          <div class="section-icon fun">🎭</div>
-          <span class="section-title">Fun Commands</span>
-          <span class="section-count">7 commands</span>
-        </div>
-        <div class="cmd-grid">
-          <div class="cmd">
-            <span class="cmd-name">!roast &lt;name&gt;</span>
-            <span class="cmd-desc">Get an AI-generated roast of someone in chat. No mercy.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!compliment &lt;name&gt;</span>
-            <span class="cmd-desc">Give someone a wholesome AI compliment. Spread the love.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!fight &lt;name&gt;</span>
-            <span class="cmd-desc">Start an epic AI-narrated fight with another chatter.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!debate &lt;topic&gt;</span>
-            <span class="cmd-desc">Get an AI hot take on any topic. Both sides presented.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!skully</span>
-            <span class="cmd-desc">Skully Gang roll call! Rep the gang. 💀</span>
-            <div class="cmd-aliases">Aliases: <span>!skullygang</span>, <span>!skullysunday</span></div>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!lurk [message]</span>
-            <span class="cmd-desc">Go into lurk mode. Optionally leave a lurk message.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!unlurk</span>
-            <span class="cmd-desc">Come back from lurking! Shows how long you were gone.</span>
-          </div>
-        </div>
-      </div>
-
-      <!-- Game Commands -->
-      <div class="section">
-        <div class="section-header">
-          <div class="section-icon games">🎰</div>
-          <span class="section-title">Game Commands<span class="cmd-tag tag-new">POINTS</span></span>
-          <span class="section-count">7 games + economy</span>
-        </div>
-        <div class="cmd-grid">
-          <div class="cmd">
-            <span class="cmd-name">!slots<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">10 pts</span></span>
-            <span class="cmd-desc">Spin the slot machine. Jackpot (triple 7s) pays <strong>500 pts</strong>, triple match pays <strong>100</strong>, double pays <strong>25</strong>!</span>
-            <div class="cmd-aliases">Alias: <span>!slot</span></div>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!flip<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">5 pts</span></span>
-            <span class="cmd-desc">Flip a coin — heads you win <strong>+10 pts</strong>, tails you lose.</span>
-            <div class="cmd-aliases">Aliases: <span>!coinflip</span>, <span>!coin</span></div>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!dice<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">5 pts</span></span>
-            <span class="cmd-desc">Roll two dice. Score 10+ wins <strong>+15</strong>, doubles wins <strong>+20</strong>!</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!roll &lt;max&gt;</span>
-            <span class="cmd-desc">Roll a random number from 1 to max (default 100). Free, no points cost.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!rps &lt;choice&gt;<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">5 pts</span></span>
-            <span class="cmd-desc">Rock Paper Scissors — win gets <strong>+10 pts</strong>, tie refunds your bet.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!8ball &lt;question&gt;</span>
-            <span class="cmd-desc">Ask the magic 8-ball. Free — it knows all. Maybe.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!bj<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">25 pts</span></span>
-            <span class="cmd-desc">Start a Blackjack game. Win pays <strong>+50</strong>, Blackjack pays <strong>+75</strong>! Use <strong>!hit</strong> and <strong>!stand</strong>.</span>
-            <div class="cmd-aliases">Alias: <span>!blackjack</span> · In-game: <span>!hit</span>, <span>!stand</span></div>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!fight &lt;user&gt;<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">10 pts</span></span>
-            <span class="cmd-desc">Fight another chatter! Winner gets <strong>+20 pts</strong>.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!duel &lt;user&gt; &lt;amount&gt;<span style="color:#fbbf24;font-size:0.7rem;margin-left:0.4rem">custom</span></span>
-            <span class="cmd-desc">Challenge someone to a points duel (10-10,000 pts). They type <strong>!accept</strong> to fight. Winner takes all!</span>
-          </div>
-        </div>
-      </div>
-
-      <!-- Economy Commands -->
-      <div class="section">
-        <div class="section-header">
-          <div class="section-icon" style="background:#fbbf2418;color:#fbbf24;border-color:#fbbf2433">💰</div>
-          <span class="section-title">Points Economy<span class="cmd-tag tag-new">NEW</span></span>
-          <span class="section-count">6 commands</span>
-        </div>
-        <div class="cmd-grid">
-          <div class="cmd">
-            <span class="cmd-name">!points</span>
-            <span class="cmd-desc">Check your balance, rank, total earned/spent, games played, and win rate.</span>
-            <div class="cmd-aliases">Aliases: <span>!balance</span>, <span>!bal</span>, <span>!pts</span></div>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!daily</span>
-            <span class="cmd-desc">Claim your daily bonus of <strong>50 pts</strong> + streak bonus (up to +50 extra). Resets each day!</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!give &lt;user&gt; &lt;amount&gt;</span>
-            <span class="cmd-desc">Give points to another chatter. Spread the wealth!</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!top</span>
-            <span class="cmd-desc">See the top 5 richest chatters. Full leaderboard on this page!</span>
-            <div class="cmd-aliases">Aliases: <span>!leaderboard</span>, <span>!lb</span>, <span>!rich</span></div>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!duel &lt;user&gt; &lt;amount&gt;</span>
-            <span class="cmd-desc">Challenge someone to a winner-takes-all points duel. They type !accept to fight.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!accept</span>
-            <span class="cmd-desc">Accept a pending duel challenge. Both players' points are on the line!</span>
-          </div>
-        </div>
-        <div style="margin-top:0.8rem;padding:0.7rem 1rem;background:var(--card);border:1px solid var(--border);border-radius:10px;font-size:0.8rem;color:var(--text-dim)">
-          <strong style="color:var(--accent)">How to earn:</strong> +2 pts per chat message (5s cooldown) · +50 pts daily bonus (!daily) · +5 per streak day (max +50) · New chatters start with 100 pts
-        </div>
-      </div>
-
-      <!-- Brain Commands -->
-      <div class="section">
-        <div class="section-header">
-          <div class="section-icon brain">🧬</div>
-          <span class="section-title">Brain &amp; Memory</span>
-          <span class="section-count">1 command</span>
-        </div>
-        <div class="cmd-grid">
-          <div class="cmd">
-            <span class="cmd-name">!brain</span>
-            <span class="cmd-desc">See the bot's brain stats — RAG permanent memories, user profiles tracked, lifetime messages learned, and trending topics.</span>
-          </div>
-        </div>
-      </div>
-
-      <!-- Info Commands -->
-      <div class="section">
-        <div class="section-header">
-          <div class="section-icon info">ℹ️</div>
-          <span class="section-title">Info Commands</span>
-          <span class="section-count">4 commands</span>
-        </div>
-        <div class="cmd-grid">
-          <div class="cmd">
-            <span class="cmd-name">!help</span>
-            <span class="cmd-desc">Show a summary of all available commands.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!gamble</span>
-            <span class="cmd-desc">Show all available game commands.</span>
-            <div class="cmd-aliases">Alias: <span>!games</span></div>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!ai</span>
-            <span class="cmd-desc">Show info about the bot and available AI models.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">!mode</span>
-            <span class="cmd-desc">Show the current AI mode, Slonky LLM status, and training data count.</span>
-          </div>
-        </div>
-      </div>
-
-      <!-- Other Features -->
-      <div class="section">
-        <div class="section-header">
-          <div class="section-icon ai">💬</div>
-          <span class="section-title">Other Features</span>
-        </div>
-        <div class="cmd-grid">
-          <div class="cmd">
-            <span class="cmd-name">@Cyberphile</span>
-            <span class="cmd-desc">Mention the bot anywhere in your message and it'll reply with AI using full chat context + user memory. Auto-targets the right user with @mentions.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">Reply to Bot</span>
-            <span class="cmd-desc">Reply to any of Cyberphile's messages and it'll continue the conversation with full context awareness.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">Smart Filtering</span>
-            <span class="cmd-desc">Automatically filters emote spam and junk from chat history — only meaningful messages are remembered.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">User Profiles</span>
-            <span class="cmd-desc">Tracks sentiment, catchphrases, personality traits, topic interests, active times, and social connections for every chatter.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">RAG Memory</span>
-            <span class="cmd-desc">Permanent vector-based memory using GPU-powered neural embeddings (all-MiniLM-L6-v2 on RTX 4090). Facts, conversations, and context are stored forever and retrieved by semantic similarity.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">Local LLM (Slonky)<span class="cmd-tag tag-new">NEW</span></span>
-            <span class="cmd-desc">Custom fine-tuned 7B language model running locally via Ollama on RTX 4090. Trained on the bot's own best AI responses — auto-retrains every 6 hours with new data.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">Moltbook Integration<span class="cmd-tag tag-new">NEW</span></span>
-            <span class="cmd-desc">Auto-posts AI-generated content to Moltbook (AI social network) every hour with heartbeat every 5 minutes. The bot has its own social media presence.</span>
-          </div>
-          <div class="cmd">
-            <span class="cmd-name">Auto Internet Search</span>
-            <span class="cmd-desc">The !AI command automatically detects current-event questions and searches the internet via Perplexity — no need to use !search separately.</span>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- ==================== LEADERBOARD TAB ==================== -->
-    <div id="tab-leaderboard" class="tab-content">
-      <div id="lb-loading" class="no-data">Loading leaderboard...</div>
-      <div id="lb-container" style="display: none;">
-
-        <!-- Economy Overview -->
-        <div class="section">
-          <div class="section-header">
-            <div class="section-icon" style="background:#fbbf2418;color:#fbbf24;border-color:#fbbf2433">📊</div>
-            <span class="section-title">Economy Overview</span>
-            <span class="section-count" id="lb-players-count"></span>
-          </div>
-          <div class="lb-economy-grid" id="lb-economy-cards"></div>
-        </div>
-
-        <!-- Leaderboard Table -->
-        <div class="section">
-          <div class="section-header">
-            <div class="section-icon analytics">🏆</div>
-            <span class="section-title">Points Leaderboard</span>
-            <span class="section-count" id="lb-count"></span>
-          </div>
-          <div style="overflow-x: auto;">
-            <table class="lb-table" id="lb-table">
-              <thead>
-                <tr><th>#</th><th>Chatter</th><th>Points</th><th>Earned</th><th>Games</th><th>Win %</th><th>Streak</th></tr>
-              </thead>
-              <tbody id="lb-body"></tbody>
-            </table>
-          </div>
-        </div>
-
-        <!-- Game Costs & Payouts -->
-        <div class="section">
-          <div class="section-header">
-            <div class="section-icon games">🎰</div>
-            <span class="section-title">Game Costs &amp; Payouts</span>
-          </div>
-          <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem">
-            <div>
-              <h4 style="font-size:0.8rem;color:var(--yellow);margin-bottom:0.5rem">💸 Entry Costs</h4>
-              <div class="lb-costs-grid" id="lb-costs"></div>
-            </div>
-            <div>
-              <h4 style="font-size:0.8rem;color:var(--accent);margin-bottom:0.5rem">🏆 Payouts</h4>
-              <div class="lb-costs-grid" id="lb-payouts"></div>
-            </div>
-          </div>
-        </div>
-
-        <div class="stats-updated" id="lb-updated"></div>
-      </div>
-      <div id="lb-error" class="no-data" style="display: none;">
-        <p>⚠️ Could not load leaderboard data.</p>
-        <p style="margin-top: 0.5rem; font-size: 0.8rem;">Leaderboard syncs from the bot every 30 minutes.</p>
-      </div>
-    </div>
-
-    <!-- ==================== STREAM STATS TAB ==================== -->
-    <div id="tab-stats" class="tab-content">
-      <div id="stats-loading" class="no-data">Loading stream stats...</div>
-      <div id="stats-container" style="display: none;">
-
-        <!-- Overview Cards -->
-        <div class="section">
-          <div class="section-header">
-            <div class="section-icon stats">📈</div>
-            <span class="section-title">Overview</span>
-            <span class="section-count" id="stats-badge">permanent records</span>
-          </div>
-          <div class="stats-grid" id="overview-cards"></div>
-        </div>
-
-        <!-- Category Rankings -->
-        <div class="section">
-          <div class="section-header">
-            <div class="section-icon analytics">🏆</div>
-            <span class="section-title">Category Rankings</span>
-            <span class="section-count" id="cat-count"></span>
-          </div>
-          <div id="category-bars"></div>
-        </div>
-
-        <!-- Hourly Viewer Pattern -->
-        <div class="section" id="hourly-section" style="display: none;">
-          <div class="section-header">
-            <div class="section-icon info">🕐</div>
-            <span class="section-title">Viewers by Hour (UTC)</span>
-          </div>
-          <div class="hourly-chart" id="hourly-chart"></div>
-        </div>
-
-        <!-- Daily History -->
-        <div class="section" id="daily-section" style="display: none;">
-          <div class="section-header">
-            <div class="section-icon stats">📅</div>
-            <span class="section-title">Recent Streams</span>
-          </div>
-          <div id="daily-rows"></div>
-        </div>
-
-        <div class="stats-updated" id="stats-updated"></div>
-      </div>
-
-      <div id="stats-error" class="no-data" style="display: none;">
-        <p>⚠️ Could not load stream stats.</p>
-        <p style="margin-top: 0.5rem; font-size: 0.8rem;">Stats are generated from segment data and updated each commit.</p>
-      </div>
-    </div>
-
-    <footer>
-      <p>Built with <span class="heart">♥</span> by <a href="https://kick.com/sliker" target="_blank">@Shance</a> · Powered by 11+ AI models + Live Search + Local LLM + StreamerStats</p>
-      <p style="margin-top: 0.4rem; opacity: 0.6;">@Cyberphile on Kick · Permanent memory &amp; learning · 10-min analytics · 6 AI modes · Moltbook</p>
-    </footer>
+<nav><div class="wrap">
+  <div class="logo"><span class="dot"></span> Cyber_Cloud</div>
+  <div class="navlinks">
+    <a href="#leaderboard">Leaderboard</a>
+    <a href="#games">Games</a>
+    <a href="#commands">Commands</a>
+    <a href="#features">Features</a>
+    <a href="#stream">Stream Stats</a>
   </div>
+</div></nav>
 
-  <script>
-    // ---- Tab switching ----
-    function switchTab(tab, btn) {
-      document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
-      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-      document.getElementById('tab-' + tab).classList.add('active');
-      btn.classList.add('active');
-    }
+<header class="hero"><div class="wrap">
+  <div class="badge"><span class="live"></span> Live in Sliker's Kick chat</div>
+  <h1>The AI that <span class="grad">runs the chat</span></h1>
+  <p>Cyber_Cloud is the AI chatbot in Sliker's Kick stream — it remembers every regular, runs a full points casino, reacts to the stream, and never forgets a face.</p>
+  <div class="cta">
+    <a class="btn p" href="#leaderboard">🏆 View Leaderboard</a>
+    <a class="btn g" href="#commands">⌨️ All Commands</a>
+  </div>
+</div></header>
 
-    // ---- Leaderboard ----
-    const LB_URL = 'leaderboard.json';
+<div class="wrap">
+  <div class="stats fade" id="statband">
+    <div class="stat"><div class="n cy" data-stat="players">—</div><div class="l">Players</div></div>
+    <div class="stat"><div class="n pu" data-stat="circulating">—</div><div class="l">Points in play</div></div>
+    <div class="stat"><div class="n gr" data-stat="games">—</div><div class="l">Games played</div></div>
+    <div class="stat"><div class="n pk" data-stat="peak">—</div><div class="l">Peak viewers</div></div>
+    <div class="stat"><div class="n go" data-stat="messages">—</div><div class="l">Messages tracked</div></div>
+    <div class="stat"><div class="n cy" data-stat="days">—</div><div class="l">Days live</div></div>
+  </div>
+</div>
 
-    async function loadLeaderboard() {
-      try {
-        const res = await fetch(LB_URL + '?t=' + Date.now());
-        if (!res.ok) throw new Error('Not found');
-        const data = await res.json();
-        renderLeaderboard(data);
-      } catch (e) {
-        document.getElementById('lb-loading').style.display = 'none';
-        document.getElementById('lb-error').style.display = 'block';
-      }
-    }
+<section id="leaderboard"><div class="wrap">
+  <div class="sec-h fade"><div class="k">Points Economy</div><h2>🏆 Leaderboard</h2><p>Earn points by chatting & winning games. Updates live from the bot.</p></div>
+  <div class="podium fade" id="podium"></div>
+  <div class="board fade" id="board">
+    <div class="row hd"><div>Rank</div><div>Player</div><div style="text-align:right">Balance</div><div>Win rate</div><div style="text-align:right">Streak</div></div>
+    <div id="rows"><div class="row"><div></div><div class="pname">Loading…</div></div></div>
+  </div>
+  <div class="muted-note">Earn <b id="ppm">2</b> pts per message · <b id="db">50</b> daily bonus · ranked by balance</div>
+</div></section>
 
-    function renderLeaderboard(data) {
-      document.getElementById('lb-loading').style.display = 'none';
-      document.getElementById('lb-container').style.display = 'block';
+<section id="games"><div class="wrap">
+  <div class="sec-h fade"><div class="k">The Casino</div><h2>🎰 Games</h2><p>Bet your points. House always has a small edge — gamble responsibly (it's fake money 😎).</p></div>
+  <div class="ggrid fade" id="games-grid"></div>
+</div></section>
 
-      // Economy overview cards
-      const econCards = document.getElementById('lb-economy-cards');
-      const s = data.stats || {};
-      const econData = [
-        { value: formatNum(s.totalPlayers || 0), label: 'Total Players', icon: '👥' },
-        { value: formatNum(s.totalCirculating || 0), label: 'Total Points', icon: '💰' },
-        { value: formatNum(s.totalGames || 0), label: 'Games Played', icon: '🎰' },
-        { value: s.pointsPerMessage || 2, label: 'Pts/Message', icon: '💬' },
-        { value: s.dailyBonus || 50, label: 'Daily Bonus', icon: '📅' },
-      ];
-      econCards.innerHTML = econData.map(d => `
-        <div class="lb-econ-card">
-          <div style="font-size:1rem;margin-bottom:0.2rem">${d.icon}</div>
-          <div class="lb-econ-value">${d.value}</div>
-          <div class="lb-econ-label">${d.label}</div>
-        </div>
-      `).join('');
-      document.getElementById('lb-players-count').textContent = `${s.totalPlayers || 0} players`;
+<section id="commands"><div class="wrap">
+  <div class="sec-h fade"><div class="k">How to use it</div><h2>⌨️ Commands</h2><p>Type these in Sliker's chat. Search to find what you need.</p></div>
+  <input class="cmdsearch fade" id="cmdsearch" placeholder="🔍 Search commands… (e.g. roast, slots, points)" />
+  <div class="cgrid" id="cgrid"></div>
+</div></section>
 
-      // Leaderboard table
-      const lb = data.leaderboard || [];
-      document.getElementById('lb-count').textContent = `Top ${lb.length}`;
-      const tbody = document.getElementById('lb-body');
-      tbody.innerHTML = lb.map((p, i) => {
-        const rank = i + 1;
-        const rankClass = rank <= 3 ? ` lb-rank-${rank}` : '';
-        const medal = rank === 1 ? '🥇' : rank === 2 ? '🥈' : rank === 3 ? '🥉' : rank;
-        const wr = p.gamesPlayed > 0 ? Math.round((p.gamesWon / p.gamesPlayed) * 100) : 0;
-        const wrClass = wr >= 60 ? 'lb-winrate-good' : wr >= 40 ? 'lb-winrate-ok' : 'lb-winrate-bad';
-        return `<tr>
-          <td class="lb-rank${rankClass}">${medal}</td>
-          <td class="lb-name"><a href="https://kick.com/${p.name}" target="_blank">${p.name}</a></td>
-          <td class="lb-pts">${formatNum(p.balance)}</td>
-          <td class="lb-stat">${formatNum(p.totalEarned)}</td>
-          <td class="lb-stat">${p.gamesPlayed}</td>
-          <td class="lb-winrate ${wrClass}">${p.gamesPlayed > 0 ? wr + '%' : '—'}</td>
-          <td class="lb-stat">${p.streak ? p.streak + 'd' : '—'}</td>
-        </tr>`;
-      }).join('');
+<section id="features"><div class="wrap">
+  <div class="sec-h fade"><div class="k">What makes it different</div><h2>✨ Features</h2></div>
+  <div class="fgrid fade" id="fgrid"></div>
+</div></section>
 
-      // Costs
-      const costs = data.costs || {};
-      const costsEl = document.getElementById('lb-costs');
-      const costNames = { slots: '!slots', coinflip: '!flip', dice: '!dice', rps: '!rps', blackjack: '!bj', fight: '!fight', '8ball': '!8ball', sr: '!sr skip' };
-      costsEl.innerHTML = Object.entries(costs)
-        .filter(([k]) => !k.startsWith('duel'))
-        .map(([k, v]) => `<div class="lb-cost-item"><span class="lb-cost-name">${costNames[k] || k}</span><span class="lb-cost-val">${v === 0 ? 'FREE' : v + ' pts'}</span></div>`)
-        .join('');
+<section id="stream"><div class="wrap">
+  <div class="sec-h fade"><div class="k">Sliker's stream</div><h2>📊 Stream Analytics</h2><p>Tracked automatically by the bot, every 10 minutes, for months.</p></div>
+  <div class="scols fade">
+    <div class="panel">
+      <h3>Top categories by avg viewers</h3>
+      <div id="cats"></div>
+    </div>
+    <div class="panel">
+      <div class="bigstat"><div class="n" id="s-peak">—</div><div class="l">All-time peak viewers</div></div>
+      <div class="sgrid2">
+        <div class="minicard"><div class="n" id="s-avg">—</div><div class="l">Avg viewers</div></div>
+        <div class="minicard"><div class="n" id="s-sessions">—</div><div class="l">Streams tracked</div></div>
+        <div class="minicard"><div class="n" id="s-days">—</div><div class="l">Days tracked</div></div>
+        <div class="minicard"><div class="n" id="s-msgs">—</div><div class="l">Chat messages</div></div>
+      </div>
+    </div>
+  </div>
+</div></section>
 
-      // Payouts
-      const payouts = data.payouts || {};
-      const payoutEl = document.getElementById('lb-payouts');
-      const payoutNames = {
-        slots_jackpot: 'Slots 777', slots_triple: 'Slots 3x', slots_double: 'Slots 2x',
-        coinflip_win: 'Flip Win', dice_high: 'Dice 10+', dice_doubles: 'Dice Doubles',
-        rps_win: 'RPS Win', bj_win: 'BJ Win', bj_blackjack: 'BJ Natural', bj_push: 'BJ Push',
-        fight_win: 'Fight Win'
-      };
-      payoutEl.innerHTML = Object.entries(payouts)
-        .map(([k, v]) => `<div class="lb-cost-item"><span class="lb-cost-name">${payoutNames[k] || k}</span><span class="lb-payout-val">+${v}</span></div>`)
-        .join('');
+<footer><div class="wrap">
+  Cyber_Cloud — an AI chatbot for <a href="https://kick.com/sliker" target="_blank" rel="noopener">Sliker</a>'s Kick stream · built by @Shance
+  <div class="up" id="updated"></div>
+</div></footer>
 
-      // Last updated
-      if (data.lastUpdated) {
-        document.getElementById('lb-updated').textContent = `Last updated: ${timeSince(new Date(data.lastUpdated))} ago · Auto-syncs every 30 min`;
-      }
-    }
+<script>
+const fmt = n => (n==null||isNaN(n))?'—':n>=1e6?(n/1e6).toFixed(n>=1e7?0:1)+'M':n>=1e3?(n/1e3).toFixed(n>=1e4?0:1)+'k':(''+Math.round(n));
+const full = n => (n==null||isNaN(n))?'—':Math.round(n).toLocaleString();
 
-    // ---- Stream Stats ----
-    const STATS_URL = 'stream-stats.json';
-    const CAT_COLORS = ['#53fc18', '#fbbf24', '#22d3ee', '#a855f7', '#fb923c', '#ff4d6a', '#f472b6', '#4d9fff'];
+/* ---- COMMANDS (static, accurate to the bot) ---- */
+const COMMANDS = [
+  ["🤖 AI & Chat","ai",[
+    ["!ai <msg>","Talk to the AI — multi-model brain with full memory"],
+    ["!ask <msg>","Quick AI answer"],
+    ["!grok <msg>","Ask via Grok"],
+    ["!local <msg>","Answer from the local model (Slonky)"],
+    ["!search <q>","Web-aware answer"],
+    ["!mode","Switch AI mode (op / eco / fast)"],
+    ["!tr <lang> <text>","Translate text to any language"],
+    ["!whois <user>","What the bot remembers about a user"],
+    ["!stalk <user>","Deep chatter analysis"],
+  ]],
+  ["🎰 Games","games",[
+    ["!slots","Spin the slot machine"],
+    ["!blackjack <bet>","Play 21 — then !hit / !stand / !double"],
+    ["!roulette <bet> <pick>","Bet a color or number"],
+    ["!crash <bet>","Ride the multiplier, !cashout before it crashes"],
+    ["!coinflip <bet>","Heads or tails"],
+    ["!dice <bet>","Roll for doubles"],
+    ["!rps <choice>","Rock paper scissors"],
+    ["!duel <user> <bet>","Challenge someone — !accept / !decline"],
+    ["!gamble","Random quick gamble"],
+  ]],
+  ["💰 Economy","economy",[
+    ["!points / !bal","Check your balance"],
+    ["!daily","Claim your daily bonus"],
+    ["!top / !leaderboard","See the rankings"],
+    ["!rich","Richest players"],
+    ["!give <user> <amt>","Gift points to someone"],
+    ["!giveaway","Enter the active giveaway"],
+  ]],
+  ["🎉 Fun","fun",[
+    ["!roast <user>","Get roasted by the AI"],
+    ["!compliment <user>","Wholesome AI compliment"],
+    ["!fight <user>","Simulated fight"],
+    ["!debate <topic>","AI takes a side"],
+    ["!lurk / !unlurk","Lurk mode"],
+  ]],
+  ["🎵 Music","music",[
+    ["!skip / !voteskip","Vote to skip the current song"],
+    ["!skully / !skullygang","Skully Gang 💀"],
+    ["!skullysunday","Skully Sunday hype"],
+  ]],
+  ["📊 Info","info",[
+    ["!stream / !live","Is Sliker live? + stats"],
+    ["!uptime","Stream uptime"],
+    ["!brain","The bot's memory stats"],
+    ["!segment / !analytics","Live stream analytics"],
+    ["!help","List commands in chat"],
+  ]],
+];
+function renderCommands(){
+  const g = document.getElementById('cgrid'); g.innerHTML='';
+  COMMANDS.forEach(([title,key,items])=>{
+    const count = items.length;
+    g.insertAdjacentHTML('beforeend',
+     `<div class="cgroup" data-grp>
+        <h3>${title}<span class="pill">${count}</span></h3>
+        ${items.map(([c,d])=>`<div class="cmd-item" data-cmd="${(c+' '+d).toLowerCase()}"><code>${c}</code><span class="d">${d}</span></div>`).join('')}
+      </div>`);
+  });
+}
+function filterCommands(q){
+  q=q.trim().toLowerCase();
+  document.querySelectorAll('.cgroup').forEach(grp=>{
+    let any=false;
+    grp.querySelectorAll('.cmd-item').forEach(it=>{
+      const m = !q || it.dataset.cmd.includes(q);
+      it.style.display = m?'':'none'; if(m) any=true;
+    });
+    grp.classList.toggle('hidden', !any);
+  });
+}
 
-    async function loadStats() {
-      try {
-        const res = await fetch(STATS_URL + '?t=' + Date.now());
-        if (!res.ok) throw new Error('Not found');
-        const data = await res.json();
-        renderStats(data);
-        updateBotStatus(data);
-      } catch (e) {
-        document.getElementById('stats-loading').style.display = 'none';
-        document.getElementById('stats-error').style.display = 'block';
-        updateBotStatus(null);
-      }
-    }
+/* ---- FEATURES ---- */
+const FEATURES = [
+  ["🧠","Persistent Memory","Remembers every regular — their vibe, inside jokes and history. 70k+ neural memories, never forgets a face."],
+  ["🤖","Multi-Model Brain","Routes your question across many top AI models and a self-trained local model, then picks the best reply."],
+  ["🎰","Games & Economy","A full points casino — slots, blackjack, roulette, crash, duels — with a live leaderboard."],
+  ["↩️","Smart Replies","Replies to your exact message in chat, even mid-hype, so you always know it's talking to you."],
+  ["📊","Stream Analytics","Auto-tracks viewers, peaks, categories and chat activity every 10 minutes — for months."],
+  ["🎤","Stream Reactions","Listens to the stream and drops hype reactions to clutch plays and wild moments."],
+  ["🎵","Song Voteskip","Chat votes to skip songs — democratic music control."],
+  ["🛡️","Smart Moderation","Optional AI moderation with anti-spam protection to keep chat clean."],
+];
+function renderFeatures(){
+  document.getElementById('fgrid').innerHTML = FEATURES.map(([i,t,d])=>
+    `<div class="fcard"><div class="ic">${i}</div><h4>${t}</h4><p>${d}</p></div>`).join('');
+}
 
-    function renderStats(data) {
-      document.getElementById('stats-loading').style.display = 'none';
-      document.getElementById('stats-container').style.display = 'block';
+/* ---- GAMES (from leaderboard.json costs/payouts) ---- */
+function renderGames(costs={},payouts={}){
+  const G=[
+    ["🎰","Slots","!slots",costs.slots,[["Jackpot",payouts.slots_jackpot],["Four of a kind",payouts.slots_quad],["Triple",payouts.slots_triple],["Two pair",payouts.slots_twopair]]],
+    ["🃏","Blackjack","!blackjack",costs.blackjack,[["Win",payouts.bj_win],["Blackjack",payouts.bj_blackjack],["Double win",payouts.bj_double_win],["Push (back)",payouts.bj_push]]],
+    ["🎡","Roulette","!roulette",costs.roulette_min,[["Color (2x)","2× bet"],["Number","35× bet"],["Min bet",costs.roulette_min],["Max bet",costs.roulette_max]]],
+    ["🚀","Crash","!crash",costs.crash_min,[["Cash out","up to 50×"],["Min bet",costs.crash_min],["Max bet",costs.crash_max]]],
+    ["🪙","Coinflip","!coinflip",costs.coinflip,[["Win",payouts.coinflip_win]]],
+    ["🎲","Dice","!dice",costs.dice,[["High roll",payouts.dice_high],["Doubles",payouts.dice_doubles]]],
+    ["✊","RPS","!rps",costs.rps,[["Win",payouts.rps_win]]],
+    ["⚔️","Duel","!duel",costs.duel_min,[["Min bet",costs.duel_min],["Max bet",costs.duel_max]]],
+  ];
+  const v=x=>x==null?'—':(typeof x==='number'?full(x):x);
+  document.getElementById('games-grid').innerHTML=G.map(([ic,nm,cmd,cost,rows])=>
+    `<div class="gcard"><div class="ic">${ic}</div><h4>${nm}</h4><div class="cmd">${cmd}</div>
+      <div class="pp"><span>Cost</span><b class="cost">${cost==null?'free':full(cost)+' pts'}</b></div>
+      ${rows.map(([k,val])=>`<div class="pp"><span>${k}</span><b>${v(val)}</b></div>`).join('')}
+    </div>`).join('');
+}
 
-      // Overview cards
-      const cards = document.getElementById('overview-cards');
-      const overviewData = [
-        { value: data.totalSessions || 0, label: 'Streams Tracked', icon: '📡' },
-        { value: data.totalDays || 0, label: 'Days Tracked', icon: '📅' },
-        { value: data.totalSegments || 0, label: 'Data Points', icon: '📊' },
-        { value: data.allTimePeak || 0, label: 'All-Time Peak', icon: '🔥' },
-        { value: data.allTimeAvg || 0, label: 'All-Time Avg', icon: '📈' },
-        { value: formatNum(data.totalMessages || 0), label: 'Chat Messages', icon: '💬' },
-      ];
-      cards.innerHTML = overviewData.map(d => `
-        <div class="stat-card">
-          <div style="font-size: 1.2rem; margin-bottom: 0.3rem;">${d.icon}</div>
-          <div class="stat-value">${d.value}</div>
-          <div class="stat-label">${d.label}</div>
-        </div>
-      `).join('');
+/* ---- LEADERBOARD ---- */
+function renderBoard(d){
+  const lb=(d.leaderboard||[]).slice(0,25);
+  const s=d.stats||{};
+  document.getElementById('ppm').textContent=s.pointsPerMessage??2;
+  document.getElementById('db').textContent=s.dailyBonus??50;
+  setStat('players',s.totalPlayers); setStat('circulating',s.totalCirculating); setStat('games',s.totalGames);
+  // podium
+  const med=['🥇','🥈','🥉'],cls=['first','second','third'],ord=[1,0,2];
+  document.getElementById('podium').innerHTML=ord.map(i=>{
+    const p=lb[i]; if(!p) return '<div></div>';
+    const wr=p.gamesPlayed?Math.round(p.gamesWon/p.gamesPlayed*100):0;
+    return `<div class="pod ${cls[i]}"><div class="medal">${med[i]}</div>
+      <div class="nm">${esc(p.name)}</div><div class="bal">${full(p.balance)}</div>
+      <div class="sub">${full(p.gamesPlayed)} games · ${wr}% win</div></div>`;
+  }).join('');
+  // table
+  document.getElementById('rows').innerHTML=lb.map((p,i)=>{
+    const wr=p.gamesPlayed?Math.round(p.gamesWon/p.gamesPlayed*100):0;
+    return `<div class="row">
+      <div class="rank ${i<3?'top':''}">#${i+1}</div>
+      <div class="pname">${esc(p.name)}</div>
+      <div class="pbal">${full(p.balance)}</div>
+      <div class="wr"><div class="wrbar"><i style="width:${wr}%"></i></div><div class="wrtxt">${wr}%</div></div>
+      <div class="streak">${p.streak>0?'🔥'+p.streak:'—'}</div>
+    </div>`;
+  }).join('')||'<div class="row"><div></div><div class="pname">No players yet</div></div>';
+  renderGames(d.costs,d.payouts);
+}
 
-      document.getElementById('stats-badge').textContent = `${data.totalSegments || 0} records`;
+/* ---- STREAM STATS ---- */
+function renderStream(d){
+  setStat('peak',d.allTimePeak); setStat('messages',d.totalMessages); setStat('days',d.totalDays);
+  document.getElementById('s-peak').textContent=full(d.allTimePeak);
+  document.getElementById('s-avg').textContent=full(d.allTimeAvg);
+  document.getElementById('s-sessions').textContent=full(d.totalSessions);
+  document.getElementById('s-days').textContent=full(d.totalDays);
+  document.getElementById('s-msgs').textContent=fmt(d.totalMessages);
+  const cats=(d.categories||[]).slice().sort((a,b)=>b.avgViewers-a.avgViewers).slice(0,6);
+  const max=Math.max(1,...cats.map(c=>c.avgViewers));
+  document.getElementById('cats').innerHTML=cats.map(c=>
+    `<div class="catrow"><div class="t"><span>${esc(c.name)}</span><b>${full(c.avgViewers)} avg</b></div>
+      <div class="catbar"><i style="width:${Math.round(c.avgViewers/max*100)}%"></i></div></div>`).join('')||'<p style="color:var(--muted)">No data yet</p>';
+}
 
-      // Category rankings
-      const cats = data.categories || [];
-      const catContainer = document.getElementById('category-bars');
-      document.getElementById('cat-count').textContent = `${cats.length} categories`;
-      const maxAvg = cats.length > 0 ? cats[0].avgViewers : 1;
-      catContainer.innerHTML = cats.map((c, i) => `
-        <div class="cat-bar-container">
-          <div class="cat-bar-label">
-            <span class="cat-bar-name" style="color: ${CAT_COLORS[i % CAT_COLORS.length]}">${c.name}</span>
-            <span class="cat-bar-value">avg ${c.avgViewers} · peak ${c.peakViewers} · ${c.sampleCount} samples</span>
-          </div>
-          <div class="cat-bar-track">
-            <div class="cat-bar-fill" style="width: ${(c.avgViewers / maxAvg * 100).toFixed(1)}%; background: ${CAT_COLORS[i % CAT_COLORS.length]};"></div>
-          </div>
-        </div>
-      `).join('');
+/* ---- helpers + animated counters ---- */
+function esc(s){return String(s??'').replace(/[<>&"]/g,c=>({'<':'&lt;','>':'&gt;','&':'&amp;','"':'&quot;'}[c]))}
+const statTargets={};
+function setStat(key,val){
+  if(val==null||isNaN(val))return; statTargets[key]=val;
+  const el=document.querySelector(`[data-stat="${key}"]`); if(!el)return;
+  const from=parseFloat(el.dataset.cur||'0'),to=val,start=performance.now(),dur=900;
+  function tick(t){const k=Math.min(1,(t-start)/dur),e=1-Math.pow(1-k,3),cur=from+(to-from)*e;
+    el.dataset.cur=cur; el.textContent=fmt(cur); if(k<1)requestAnimationFrame(tick);}
+  requestAnimationFrame(tick);
+}
 
-      // Hourly chart
-      const hours = data.hourlyPatterns || {};
-      const hourKeys = Object.keys(hours);
-      if (hourKeys.length > 0) {
-        document.getElementById('hourly-section').style.display = 'block';
-        const chart = document.getElementById('hourly-chart');
-        const maxH = Math.max(...hourKeys.map(h => hours[h].avgViewers));
-        let barsHtml = '';
-        for (let h = 0; h < 24; h++) {
-          const hd = hours[h.toString()];
-          const val = hd ? hd.avgViewers : 0;
-          const pct = maxH > 0 ? (val / maxH * 100) : 0;
-          const opacity = val > 0 ? 0.4 + (pct / 100 * 0.6) : 0.1;
-          barsHtml += `
-            <div class="hourly-bar-wrap" title="${h}:00 UTC — avg ${val} viewers">
-              <div class="hourly-bar" style="height: ${Math.max(pct, 3)}%; opacity: ${opacity};"></div>
-              <span class="hourly-label">${h % 3 === 0 ? h : ''}</span>
-            </div>`;
-        }
-        chart.innerHTML = barsHtml;
-      }
+async function load(){
+  try{const r=await fetch('leaderboard.json?_='+Date.now());if(r.ok)renderBoard(await r.json());}catch(e){}
+  try{const r=await fetch('stream-stats.json?_='+Date.now());if(r.ok){const d=await r.json();renderStream(d);
+    document.getElementById('updated').textContent='Live data · last updated '+new Date(d.lastUpdated||Date.now()).toLocaleString();}}catch(e){}
+}
 
-      // Daily history
-      const daily = data.dailyHistory || [];
-      if (daily.length > 0) {
-        document.getElementById('daily-section').style.display = 'block';
-        const rows = document.getElementById('daily-rows');
-        rows.innerHTML = daily.map(d => `
-          <div class="daily-row">
-            <span class="daily-date">${d.date}</span>
-            <span class="daily-viewers">avg ${d.avgViewers}</span>
-            <span class="daily-peak">⬆ ${d.peakViewers}</span>
-            <span class="daily-msgs">💬 ${formatNum(d.totalMsgs)}</span>
-            <span class="daily-cats">${(d.categories || []).join(', ')}</span>
-          </div>
-        `).join('');
-      }
+renderCommands(); renderFeatures();
+document.getElementById('cmdsearch').addEventListener('input',e=>filterCommands(e.target.value));
+load(); setInterval(load,60000); // auto-refresh every 60s (matches the bot's auto-publish)
 
-      // Updated time
-      if (data.lastUpdated) {
-        const ago = timeSince(new Date(data.lastUpdated));
-        document.getElementById('stats-updated').textContent = `Last updated: ${ago} ago`;
-      }
-    }
-
-    function formatNum(n) {
-      if (n >= 1000000) return (n / 1000000).toFixed(1) + 'M';
-      if (n >= 1000) return (n / 1000).toFixed(1) + 'K';
-      return n.toString();
-    }
-
-    function timeSince(date) {
-      const s = Math.floor((new Date() - date) / 1000);
-      if (s < 60) return s + 's';
-      if (s < 3600) return Math.floor(s / 60) + 'min';
-      if (s < 86400) return Math.floor(s / 3600) + 'h';
-      return Math.floor(s / 86400) + 'd';
-    }
-
-    // ---- Bot Status ----
-    function updateBotStatus(data) {
-      const el = document.getElementById('bot-status');
-      if (!data || !data.lastUpdated) {
-        el.className = 'bot-status offline';
-        el.innerHTML = '<span class="status-dot"></span><span class="status-text">Bot Offline</span>';
-        return;
-      }
-      const lastUpdate = new Date(data.lastUpdated);
-      const now = new Date();
-      const diffMin = (now - lastUpdate) / 60000;
-      // Bot pushes every 30 min — if last update > 40 min ago, consider offline
-      if (diffMin <= 40) {
-        let uptimeStr = '';
-        if (data.botStartedAt) {
-          const started = new Date(data.botStartedAt);
-          const upSec = Math.floor((now - started) / 1000);
-          if (upSec < 3600) uptimeStr = Math.floor(upSec / 60) + 'min';
-          else if (upSec < 86400) uptimeStr = Math.floor(upSec / 3600) + 'h ' + Math.floor((upSec % 3600) / 60) + 'min';
-          else uptimeStr = Math.floor(upSec / 86400) + 'd ' + Math.floor((upSec % 86400) / 3600) + 'h';
-        }
-        el.className = 'bot-status online';
-        el.innerHTML = `<span class="status-dot"></span><span class="status-text">Bot Online</span>${uptimeStr ? '<span class="status-uptime">· uptime ' + uptimeStr + '</span>' : ''}`;
-      } else {
-        el.className = 'bot-status offline';
-        const ago = timeSince(lastUpdate);
-        el.innerHTML = `<span class="status-dot"></span><span class="status-text">Bot Offline</span><span class="status-uptime">· last seen ${ago} ago</span>`;
-      }
-    }
-
-    // Preload stats + bot status + leaderboard
-    document.addEventListener('DOMContentLoaded', () => { loadStats(); loadLeaderboard(); });
-    // Refresh bot status + leaderboard every 5 min
-    setInterval(async () => {
-      try {
-        const res = await fetch(STATS_URL + '?t=' + Date.now());
-        if (res.ok) { const d = await res.json(); updateBotStatus(d); }
-      } catch(_) {}
-      try { loadLeaderboard(); } catch(_) {}
-    }, 5 * 60 * 1000);
-  </script>
+// reveal on scroll
+const io=new IntersectionObserver(es=>es.forEach(x=>{if(x.isIntersecting)x.target.classList.add('in')}),{threshold:.08});
+document.querySelectorAll('.fade').forEach(el=>io.observe(el));
+</script>
 </body>
 </html>
