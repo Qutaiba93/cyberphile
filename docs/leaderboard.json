@@ -47,12 +47,12 @@
     },
     {
       "name": "drogan",
-      "balance": 24166,
-      "totalEarned": 24166,
+      "balance": 24253,
+      "totalEarned": 24253,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "shahin",
@@ -407,8 +407,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 9708,
-      "totalEarned": 9708,
+      "balance": 9710,
+      "totalEarned": 9710,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3175,
-    "totalCirculating": 2995654,
+    "totalCirculating": 2996936,
     "totalGames": 25504,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-12T15:51:27.723Z"
+  "lastUpdated": "2026-06-12T16:21:27.720Z"
 }
