@@ -1,10 +1,10 @@
 {
   "totalSessions": 122,
   "totalDays": 106,
-  "totalSegments": 5435,
+  "totalSegments": 5437,
   "allTimePeak": 17991,
   "allTimeAvg": 625,
-  "totalMessages": 1053080,
+  "totalMessages": 1053729,
   "categories": [
     {
       "name": "Rust",
@@ -80,8 +80,8 @@
       "name": "IRL",
       "avgViewers": 698,
       "peakViewers": 886,
-      "sampleCount": 279,
-      "totalMsgs": 96045
+      "sampleCount": 280,
+      "totalMsgs": 96464
     },
     {
       "name": "Summer Game Fest 2026",
@@ -255,8 +255,8 @@
       "name": "Just Chatting",
       "avgViewers": 584,
       "peakViewers": 903,
-      "sampleCount": 2071,
-      "totalMsgs": 406127
+      "sampleCount": 2072,
+      "totalMsgs": 406357
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -471,9 +471,9 @@
       "totalMsgs": 128751
     },
     "21": {
-      "avgViewers": 685,
-      "sampleCount": 552,
-      "totalMsgs": 113720
+      "avgViewers": 684,
+      "sampleCount": 554,
+      "totalMsgs": 114369
     },
     "22": {
       "avgViewers": 664,
@@ -651,17 +651,18 @@
     },
     {
       "date": "2026-06-12",
-      "avgViewers": 544,
+      "avgViewers": 550,
       "peakViewers": 734,
-      "totalMsgs": 4199,
+      "totalMsgs": 4848,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
         "Fears to Fathom: Scratch Creek",
-        "World Cup 2026"
+        "World Cup 2026",
+        "IRL"
       ]
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-12T21:05:06.258Z"
+  "lastUpdated": "2026-06-12T21:34:06.186Z"
 }
