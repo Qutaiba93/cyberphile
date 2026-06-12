@@ -1,10 +1,10 @@
 {
   "totalSessions": 122,
   "totalDays": 106,
-  "totalSegments": 5419,
+  "totalSegments": 5422,
   "allTimePeak": 17991,
   "allTimeAvg": 625,
-  "totalMessages": 1050754,
+  "totalMessages": 1051437,
   "categories": [
     {
       "name": "Rust",
@@ -224,13 +224,6 @@
       "totalMsgs": 1817
     },
     {
-      "name": "Fears to Fathom: Scratch Creek",
-      "avgViewers": 601,
-      "peakViewers": 601,
-      "sampleCount": 1,
-      "totalMsgs": 196
-    },
-    {
       "name": "Call of Duty: Black Ops",
       "avgViewers": 597,
       "peakViewers": 719,
@@ -243,6 +236,13 @@
       "peakViewers": 748,
       "sampleCount": 16,
       "totalMsgs": 2802
+    },
+    {
+      "name": "Fears to Fathom: Scratch Creek",
+      "avgViewers": 587,
+      "peakViewers": 601,
+      "sampleCount": 4,
+      "totalMsgs": 879
     },
     {
       "name": "Dread Neighbor",
@@ -449,9 +449,9 @@
       "totalMsgs": 102606
     },
     "18": {
-      "avgViewers": 694,
-      "sampleCount": 529,
-      "totalMsgs": 113246
+      "avgViewers": 693,
+      "sampleCount": 532,
+      "totalMsgs": 113929
     },
     "19": {
       "avgViewers": 693,
@@ -644,9 +644,9 @@
     },
     {
       "date": "2026-06-12",
-      "avgViewers": 482,
+      "avgViewers": 499,
       "peakViewers": 601,
-      "totalMsgs": 1873,
+      "totalMsgs": 2556,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -655,5 +655,5 @@
     }
   ],
   "botStartedAt": "2026-06-12T18:06:46.782Z",
-  "lastUpdated": "2026-06-12T18:36:47.312Z"
+  "lastUpdated": "2026-06-12T19:06:47.315Z"
 }
