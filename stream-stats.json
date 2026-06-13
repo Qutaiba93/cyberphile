@@ -1,10 +1,10 @@
 {
   "totalSessions": 123,
   "totalDays": 107,
-  "totalSegments": 5475,
+  "totalSegments": 5478,
   "allTimePeak": 17991,
   "allTimeAvg": 625,
-  "totalMessages": 1060850,
+  "totalMessages": 1061272,
   "categories": [
     {
       "name": "Rust",
@@ -273,13 +273,6 @@
       "totalMsgs": 21653
     },
     {
-      "name": "Lies of P",
-      "avgViewers": 578,
-      "peakViewers": 584,
-      "sampleCount": 3,
-      "totalMsgs": 236
-    },
-    {
       "name": "Fears to Fathom: Scratch Creek",
       "avgViewers": 568,
       "peakViewers": 601,
@@ -292,6 +285,13 @@
       "peakViewers": 619,
       "sampleCount": 13,
       "totalMsgs": 1794
+    },
+    {
+      "name": "Lies of P",
+      "avgViewers": 564,
+      "peakViewers": 584,
+      "sampleCount": 6,
+      "totalMsgs": 658
     },
     {
       "name": "Backrooms",
@@ -461,8 +461,8 @@
     },
     "16": {
       "avgViewers": 644,
-      "sampleCount": 504,
-      "totalMsgs": 98817
+      "sampleCount": 507,
+      "totalMsgs": 99239
     },
     "17": {
       "avgViewers": 699,
@@ -667,9 +667,9 @@
     },
     {
       "date": "2026-06-13",
-      "avgViewers": 474,
+      "avgViewers": 486,
       "peakViewers": 597,
-      "totalMsgs": 1851,
+      "totalMsgs": 2273,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -679,5 +679,5 @@
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-13T16:04:06.257Z"
+  "lastUpdated": "2026-06-13T16:34:06.258Z"
 }
