@@ -1,15 +1,6 @@
 {
   "leaderboard": [
     {
-      "name": "meliziana",
-      "balance": 67068,
-      "totalEarned": 1464460,
-      "totalSpent": 1493313,
-      "gamesPlayed": 1384,
-      "gamesWon": 559,
-      "streak": 4
-    },
-    {
       "name": "tevb0t",
       "balance": 66884,
       "totalEarned": 183577,
@@ -17,6 +8,15 @@
       "gamesPlayed": 95,
       "gamesWon": 49,
       "streak": 5
+    },
+    {
+      "name": "meliziana",
+      "balance": 56642,
+      "totalEarned": 1498034,
+      "totalSpent": 1537313,
+      "gamesPlayed": 1406,
+      "gamesWon": 565,
+      "streak": 4
     },
     {
       "name": "shance",
@@ -263,12 +263,12 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 11547,
-      "totalEarned": 52200,
+      "balance": 11621,
+      "totalEarned": 52274,
       "totalSpent": 40653,
       "gamesPlayed": 76,
       "gamesWon": 29,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "brandonws",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3188,
-    "totalCirculating": 2855796,
-    "totalGames": 25905,
+    "totalCirculating": 2845218,
+    "totalGames": 25928,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-13T11:34:06.275Z"
+  "lastUpdated": "2026-06-13T12:04:06.272Z"
 }
