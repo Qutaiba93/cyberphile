@@ -1,10 +1,10 @@
 {
-  "totalSessions": 122,
-  "totalDays": 106,
-  "totalSegments": 5458,
+  "totalSessions": 123,
+  "totalDays": 107,
+  "totalSegments": 5460,
   "allTimePeak": 17991,
   "allTimeAvg": 625,
-  "totalMessages": 1058999,
+  "totalMessages": 1059246,
   "categories": [
     {
       "name": "Rust",
@@ -255,8 +255,8 @@
       "name": "Just Chatting",
       "avgViewers": 584,
       "peakViewers": 903,
-      "sampleCount": 2076,
-      "totalMsgs": 407214
+      "sampleCount": 2078,
+      "totalMsgs": 407461
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -431,9 +431,9 @@
       "totalMsgs": 474
     },
     "13": {
-      "avgViewers": 218,
-      "sampleCount": 65,
-      "totalMsgs": 6082
+      "avgViewers": 217,
+      "sampleCount": 67,
+      "totalMsgs": 6329
     },
     "14": {
       "avgViewers": 356,
@@ -487,18 +487,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-28",
-      "avgViewers": 627,
-      "peakViewers": 775,
-      "totalMsgs": 17634,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "Counter-Strike 2",
-        "IRL"
-      ]
-    },
     {
       "date": "2026-05-29",
       "avgViewers": 547,
@@ -662,8 +650,17 @@
         "IRL",
         "Chat Roulette"
       ]
+    },
+    {
+      "date": "2026-06-13",
+      "avgViewers": 182,
+      "peakViewers": 240,
+      "totalMsgs": 247,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-13T13:04:06.257Z"
+  "lastUpdated": "2026-06-13T13:34:06.261Z"
 }
