@@ -91,6 +91,15 @@
       "streak": 5
     },
     {
+      "name": "sikkk9",
+      "balance": 17654,
+      "totalEarned": 138475,
+      "totalSpent": 120821,
+      "gamesPlayed": 223,
+      "gamesWon": 99,
+      "streak": 4
+    },
+    {
       "name": "schitt",
       "balance": 17140,
       "totalEarned": 17140,
@@ -440,21 +449,12 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 3
-    },
-    {
-      "name": "ryanize",
-      "balance": 8404,
-      "totalEarned": 104364,
-      "totalSpent": 95960,
-      "gamesPlayed": 61,
-      "gamesWon": 23,
-      "streak": 3
     }
   ],
   "stats": {
     "totalPlayers": 3188,
-    "totalCirculating": 2839183,
-    "totalGames": 25898,
+    "totalCirculating": 2855812,
+    "totalGames": 25902,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-13T10:04:06.268Z"
+  "lastUpdated": "2026-06-13T10:34:06.270Z"
 }
