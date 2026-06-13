@@ -1,10 +1,10 @@
 {
   "totalSessions": 123,
   "totalDays": 107,
-  "totalSegments": 5496,
+  "totalSegments": 5499,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1062873,
+  "totalMessages": 1063152,
   "categories": [
     {
       "name": "Rust",
@@ -57,10 +57,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 719,
+      "avgViewers": 718,
       "peakViewers": 916,
-      "sampleCount": 481,
-      "totalMsgs": 108085
+      "sampleCount": 483,
+      "totalMsgs": 108297
     },
     {
       "name": "Log Riders",
@@ -266,18 +266,18 @@
       "totalMsgs": 407990
     },
     {
-      "name": "Fears to Fathom: Scratch Creek",
-      "avgViewers": 579,
-      "peakViewers": 610,
-      "sampleCount": 18,
-      "totalMsgs": 2027
-    },
-    {
       "name": "PUBG: Battlegrounds",
       "avgViewers": 578,
       "peakViewers": 748,
       "sampleCount": 145,
       "totalMsgs": 21653
+    },
+    {
+      "name": "Fears to Fathom: Scratch Creek",
+      "avgViewers": 577,
+      "peakViewers": 610,
+      "sampleCount": 19,
+      "totalMsgs": 2094
     },
     {
       "name": "007 First Light",
@@ -476,8 +476,8 @@
     },
     "19": {
       "avgViewers": 691,
-      "sampleCount": 536,
-      "totalMsgs": 115578
+      "sampleCount": 539,
+      "totalMsgs": 115857
     },
     "20": {
       "avgViewers": 679,
@@ -667,18 +667,19 @@
     },
     {
       "date": "2026-06-13",
-      "avgViewers": 527,
+      "avgViewers": 531,
       "peakViewers": 610,
-      "totalMsgs": 3874,
+      "totalMsgs": 4153,
       "categories": [
         "Just Chatting",
         "Minecraft",
         "Among Us",
         "Lies of P",
-        "Fears to Fathom: Scratch Creek"
+        "Fears to Fathom: Scratch Creek",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-13T19:34:06.264Z"
+  "lastUpdated": "2026-06-13T20:04:06.260Z"
 }
