@@ -1,10 +1,10 @@
 {
   "totalSessions": 123,
   "totalDays": 107,
-  "totalSegments": 5472,
+  "totalSegments": 5475,
   "allTimePeak": 17991,
   "allTimeAvg": 625,
-  "totalMessages": 1060614,
+  "totalMessages": 1060850,
   "categories": [
     {
       "name": "Rust",
@@ -273,6 +273,13 @@
       "totalMsgs": 21653
     },
     {
+      "name": "Lies of P",
+      "avgViewers": 578,
+      "peakViewers": 584,
+      "sampleCount": 3,
+      "totalMsgs": 236
+    },
+    {
       "name": "Fears to Fathom: Scratch Creek",
       "avgViewers": 568,
       "peakViewers": 601,
@@ -448,9 +455,9 @@
       "totalMsgs": 47912
     },
     "15": {
-      "avgViewers": 523,
-      "sampleCount": 443,
-      "totalMsgs": 82392
+      "avgViewers": 524,
+      "sampleCount": 446,
+      "totalMsgs": 82628
     },
     "16": {
       "avgViewers": 644,
@@ -660,16 +667,17 @@
     },
     {
       "date": "2026-06-13",
-      "avgViewers": 452,
+      "avgViewers": 474,
       "peakViewers": 597,
-      "totalMsgs": 1615,
+      "totalMsgs": 1851,
       "categories": [
         "Just Chatting",
         "Minecraft",
-        "Among Us"
+        "Among Us",
+        "Lies of P"
       ]
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-13T15:34:06.262Z"
+  "lastUpdated": "2026-06-13T16:04:06.257Z"
 }
