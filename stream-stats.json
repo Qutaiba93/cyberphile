@@ -1,10 +1,10 @@
 {
   "totalSessions": 123,
   "totalDays": 107,
-  "totalSegments": 5469,
+  "totalSegments": 5472,
   "allTimePeak": 17991,
   "allTimeAvg": 625,
-  "totalMessages": 1060292,
+  "totalMessages": 1060614,
   "categories": [
     {
       "name": "Rust",
@@ -238,6 +238,13 @@
       "totalMsgs": 6766
     },
     {
+      "name": "Among Us",
+      "avgViewers": 597,
+      "peakViewers": 597,
+      "sampleCount": 1,
+      "totalMsgs": 128
+    },
+    {
       "name": "Call of Duty: Black Ops Zombies",
       "avgViewers": 590,
       "peakViewers": 748,
@@ -255,8 +262,8 @@
       "name": "Just Chatting",
       "avgViewers": 584,
       "peakViewers": 903,
-      "sampleCount": 2081,
-      "totalMsgs": 407796
+      "sampleCount": 2083,
+      "totalMsgs": 407990
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -442,8 +449,8 @@
     },
     "15": {
       "avgViewers": 523,
-      "sampleCount": 440,
-      "totalMsgs": 82070
+      "sampleCount": 443,
+      "totalMsgs": 82392
     },
     "16": {
       "avgViewers": 644,
@@ -653,15 +660,16 @@
     },
     {
       "date": "2026-06-13",
-      "avgViewers": 417,
-      "peakViewers": 557,
-      "totalMsgs": 1293,
+      "avgViewers": 452,
+      "peakViewers": 597,
+      "totalMsgs": 1615,
       "categories": [
         "Just Chatting",
-        "Minecraft"
+        "Minecraft",
+        "Among Us"
       ]
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-13T15:04:06.243Z"
+  "lastUpdated": "2026-06-13T15:34:06.262Z"
 }
