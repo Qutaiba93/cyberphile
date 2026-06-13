@@ -1,10 +1,10 @@
 {
   "totalSessions": 122,
   "totalDays": 106,
-  "totalSegments": 5449,
+  "totalSegments": 5452,
   "allTimePeak": 17991,
   "allTimeAvg": 625,
-  "totalMessages": 1057175,
+  "totalMessages": 1057661,
   "categories": [
     {
       "name": "Rust",
@@ -57,10 +57,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 720,
+      "avgViewers": 719,
       "peakViewers": 916,
-      "sampleCount": 476,
-      "totalMsgs": 107118
+      "sampleCount": 478,
+      "totalMsgs": 107439
     },
     {
       "name": "Log Riders",
@@ -255,8 +255,8 @@
       "name": "Just Chatting",
       "avgViewers": 584,
       "peakViewers": 903,
-      "sampleCount": 2072,
-      "totalMsgs": 406357
+      "sampleCount": 2073,
+      "totalMsgs": 406522
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -482,8 +482,8 @@
     },
     "23": {
       "avgViewers": 631,
-      "sampleCount": 366,
-      "totalMsgs": 67382
+      "sampleCount": 369,
+      "totalMsgs": 67868
     }
   },
   "dailyHistory": [
@@ -651,18 +651,19 @@
     },
     {
       "date": "2026-06-12",
-      "avgViewers": 569,
+      "avgViewers": 572,
       "peakViewers": 734,
-      "totalMsgs": 8294,
+      "totalMsgs": 8780,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
         "Fears to Fathom: Scratch Creek",
         "World Cup 2026",
-        "IRL"
+        "IRL",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-12T23:34:06.179Z"
+  "lastUpdated": "2026-06-13T00:04:06.186Z"
 }
