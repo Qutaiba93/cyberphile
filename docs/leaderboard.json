@@ -11,8 +11,8 @@
     },
     {
       "name": "tevb0t",
-      "balance": 66900,
-      "totalEarned": 183593,
+      "balance": 66906,
+      "totalEarned": 183599,
       "totalSpent": 116693,
       "gamesPlayed": 95,
       "gamesWon": 49,
@@ -325,6 +325,15 @@
       "streak": 1
     },
     {
+      "name": "skullyontop",
+      "balance": 10196,
+      "totalEarned": 10206,
+      "totalSpent": 10,
+      "gamesPlayed": 1,
+      "gamesWon": 1,
+      "streak": 4
+    },
+    {
       "name": "nitro_st",
       "balance": 10195,
       "totalEarned": 10195,
@@ -332,15 +341,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "skullyontop",
-      "balance": 10194,
-      "totalEarned": 10204,
-      "totalSpent": 10,
-      "gamesPlayed": 1,
-      "gamesWon": 1,
-      "streak": 4
     },
     {
       "name": "cuuula",
@@ -434,8 +434,8 @@
     },
     {
       "name": "chicitylol",
-      "balance": 8457,
-      "totalEarned": 8457,
+      "balance": 8473,
+      "totalEarned": 8473,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3191,
-    "totalCirculating": 2849254,
+    "totalPlayers": 3192,
+    "totalCirculating": 2850326,
     "totalGames": 25995,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-13T16:34:06.273Z"
+  "lastUpdated": "2026-06-13T17:04:06.280Z"
 }
