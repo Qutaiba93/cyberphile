@@ -1,10 +1,10 @@
 {
   "totalSessions": 123,
   "totalDays": 107,
-  "totalSegments": 5490,
+  "totalSegments": 5493,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1062416,
+  "totalMessages": 1062615,
   "categories": [
     {
       "name": "Rust",
@@ -274,10 +274,10 @@
     },
     {
       "name": "Fears to Fathom: Scratch Creek",
-      "avgViewers": 570,
-      "peakViewers": 601,
-      "sampleCount": 12,
-      "totalMsgs": 1570
+      "avgViewers": 577,
+      "peakViewers": 610,
+      "sampleCount": 15,
+      "totalMsgs": 1769
     },
     {
       "name": "007 First Light",
@@ -470,9 +470,9 @@
       "totalMsgs": 103044
     },
     "18": {
-      "avgViewers": 693,
-      "sampleCount": 535,
-      "totalMsgs": 114311
+      "avgViewers": 692,
+      "sampleCount": 538,
+      "totalMsgs": 114510
     },
     "19": {
       "avgViewers": 692,
@@ -667,9 +667,9 @@
     },
     {
       "date": "2026-06-13",
-      "avgViewers": 514,
-      "peakViewers": 597,
-      "totalMsgs": 3417,
+      "avgViewers": 521,
+      "peakViewers": 610,
+      "totalMsgs": 3616,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -680,5 +680,5 @@
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-13T18:34:06.265Z"
+  "lastUpdated": "2026-06-13T19:04:06.268Z"
 }
