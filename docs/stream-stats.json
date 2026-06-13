@@ -1,10 +1,10 @@
 {
   "totalSessions": 123,
   "totalDays": 107,
-  "totalSegments": 5484,
+  "totalSegments": 5487,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1061763,
+  "totalMessages": 1062034,
   "categories": [
     {
       "name": "Rust",
@@ -302,10 +302,10 @@
     },
     {
       "name": "Lies of P",
-      "avgViewers": 559,
+      "avgViewers": 560,
       "peakViewers": 584,
-      "sampleCount": 12,
-      "totalMsgs": 1149
+      "sampleCount": 15,
+      "totalMsgs": 1420
     },
     {
       "name": "Cuphead",
@@ -465,9 +465,9 @@
       "totalMsgs": 99563
     },
     "17": {
-      "avgViewers": 699,
-      "sampleCount": 526,
-      "totalMsgs": 102773
+      "avgViewers": 698,
+      "sampleCount": 529,
+      "totalMsgs": 103044
     },
     "18": {
       "avgViewers": 693,
@@ -667,9 +667,9 @@
     },
     {
       "date": "2026-06-13",
-      "avgViewers": 501,
+      "avgViewers": 508,
       "peakViewers": 597,
-      "totalMsgs": 2764,
+      "totalMsgs": 3035,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -679,5 +679,5 @@
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-13T17:34:06.266Z"
+  "lastUpdated": "2026-06-13T18:04:06.306Z"
 }
