@@ -10,21 +10,21 @@
       "streak": 5
     },
     {
+      "name": "meliziana",
+      "balance": 61638,
+      "totalEarned": 1444830,
+      "totalSpent": 1479113,
+      "gamesPlayed": 1377,
+      "gamesWon": 555,
+      "streak": 4
+    },
+    {
       "name": "shance",
       "balance": 51273,
       "totalEarned": 1099235,
       "totalSpent": 1129471,
       "gamesPlayed": 574,
       "gamesWon": 213,
-      "streak": 4
-    },
-    {
-      "name": "meliziana",
-      "balance": 47878,
-      "totalEarned": 1361270,
-      "totalSpent": 1409313,
-      "gamesPlayed": 1330,
-      "gamesWon": 531,
       "streak": 4
     },
     {
@@ -47,12 +47,12 @@
     },
     {
       "name": "drogan",
-      "balance": 24591,
-      "totalEarned": 24591,
+      "balance": 24665,
+      "totalEarned": 24665,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "weppss",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3188,
-    "totalCirculating": 2819909,
-    "totalGames": 25844,
+    "totalCirculating": 2833753,
+    "totalGames": 25891,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-13T09:04:06.264Z"
+  "lastUpdated": "2026-06-13T09:34:06.270Z"
 }
