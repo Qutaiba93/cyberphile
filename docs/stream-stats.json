@@ -1,10 +1,10 @@
 {
   "totalSessions": 124,
   "totalDays": 108,
-  "totalSegments": 5536,
+  "totalSegments": 5539,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1069923,
+  "totalMessages": 1070210,
   "categories": [
     {
       "name": "Rust",
@@ -262,8 +262,8 @@
       "name": "Just Chatting",
       "avgViewers": 584,
       "peakViewers": 903,
-      "sampleCount": 2101,
-      "totalMsgs": 411366
+      "sampleCount": 2104,
+      "totalMsgs": 411653
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -445,9 +445,9 @@
       "totalMsgs": 475
     },
     "13": {
-      "avgViewers": 223,
-      "sampleCount": 70,
-      "totalMsgs": 6743
+      "avgViewers": 228,
+      "sampleCount": 73,
+      "totalMsgs": 7030
     },
     "14": {
       "avgViewers": 360,
@@ -670,14 +670,15 @@
     },
     {
       "date": "2026-06-14",
-      "avgViewers": 125,
-      "peakViewers": 125,
-      "totalMsgs": 1,
+      "avgViewers": 280,
+      "peakViewers": 429,
+      "totalMsgs": 288,
       "categories": [
-        "Lies of P"
+        "Lies of P",
+        "Just Chatting"
       ]
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-14T13:04:06.270Z"
+  "lastUpdated": "2026-06-14T13:34:06.277Z"
 }
