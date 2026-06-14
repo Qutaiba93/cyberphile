@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 80962,
-      "totalEarned": 1581745,
+      "balance": 80988,
+      "totalEarned": 1581771,
       "totalSpent": 1596704,
       "gamesPlayed": 1455,
       "gamesWon": 584,
@@ -56,8 +56,8 @@
     },
     {
       "name": "nick6",
-      "balance": 20144,
-      "totalEarned": 20145,
+      "balance": 20164,
+      "totalEarned": 20165,
       "totalSpent": 1,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -137,8 +137,8 @@
     },
     {
       "name": "5pray",
-      "balance": 14067,
-      "totalEarned": 14067,
+      "balance": 14142,
+      "totalEarned": 14142,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -397,15 +397,6 @@
       "streak": 4
     },
     {
-      "name": "anansidagyuki",
-      "balance": 9459,
-      "totalEarned": 23658,
-      "totalSpent": 14199,
-      "gamesPlayed": 24,
-      "gamesWon": 5,
-      "streak": 5
-    },
-    {
       "name": "ericlamontjr",
       "balance": 8897,
       "totalEarned": 9012,
@@ -442,6 +433,15 @@
       "streak": 2
     },
     {
+      "name": "anansidagyuki",
+      "balance": 8471,
+      "totalEarned": 23670,
+      "totalSpent": 15199,
+      "gamesPlayed": 24,
+      "gamesWon": 5,
+      "streak": 5
+    },
+    {
       "name": "bushybrauz",
       "balance": 8395,
       "totalEarned": 8395,
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3202,
-    "totalCirculating": 2814348,
-    "totalGames": 26103,
+    "totalPlayers": 3203,
+    "totalCirculating": 2813988,
+    "totalGames": 26137,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-14T16:04:06.292Z"
+  "lastUpdated": "2026-06-14T16:34:06.297Z"
 }
