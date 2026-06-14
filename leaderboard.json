@@ -2,9 +2,9 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 80566,
-      "totalEarned": 1582359,
-      "totalSpent": 1597714,
+      "balance": 68664,
+      "totalEarned": 1582457,
+      "totalSpent": 1609714,
       "gamesPlayed": 1456,
       "gamesWon": 584,
       "streak": 5
@@ -29,8 +29,8 @@
     },
     {
       "name": "drogan",
-      "balance": 25384,
-      "totalEarned": 25384,
+      "balance": 25392,
+      "totalEarned": 25392,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -38,8 +38,8 @@
     },
     {
       "name": "shahin",
-      "balance": 25354,
-      "totalEarned": 63152,
+      "balance": 25358,
+      "totalEarned": 63156,
       "totalSpent": 37798,
       "gamesPlayed": 48,
       "gamesWon": 12,
@@ -92,8 +92,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 16268,
-      "totalEarned": 16369,
+      "balance": 16274,
+      "totalEarned": 16375,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -101,8 +101,8 @@
     },
     {
       "name": "cecee",
-      "balance": 16261,
-      "totalEarned": 84356,
+      "balance": 16263,
+      "totalEarned": 84358,
       "totalSpent": 68095,
       "gamesPlayed": 362,
       "gamesWon": 125,
@@ -110,8 +110,8 @@
     },
     {
       "name": "papaah",
-      "balance": 15519,
-      "totalEarned": 16520,
+      "balance": 15539,
+      "totalEarned": 16540,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -128,8 +128,8 @@
     },
     {
       "name": "kale96",
-      "balance": 14931,
-      "totalEarned": 21481,
+      "balance": 14959,
+      "totalEarned": 21509,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -182,8 +182,8 @@
     },
     {
       "name": "machamp1",
-      "balance": 13220,
-      "totalEarned": 13445,
+      "balance": 13230,
+      "totalEarned": 13455,
       "totalSpent": 225,
       "gamesPlayed": 5,
       "gamesWon": 1,
@@ -244,15 +244,6 @@
       "streak": 5
     },
     {
-      "name": "zeepzeep",
-      "balance": 12026,
-      "totalEarned": 53009,
-      "totalSpent": 40983,
-      "gamesPlayed": 142,
-      "gamesWon": 52,
-      "streak": 5
-    },
-    {
       "name": "brandonws",
       "balance": 11603,
       "totalEarned": 29323,
@@ -278,6 +269,15 @@
       "gamesPlayed": 1,
       "gamesWon": 0,
       "streak": 1
+    },
+    {
+      "name": "zeepzeep",
+      "balance": 11068,
+      "totalEarned": 53051,
+      "totalSpent": 41983,
+      "gamesPlayed": 142,
+      "gamesWon": 52,
+      "streak": 5
     },
     {
       "name": "xaqin",
@@ -335,8 +335,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 10196,
-      "totalEarned": 10196,
+      "balance": 10198,
+      "totalEarned": 10198,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -353,8 +353,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 9987,
-      "totalEarned": 9987,
+      "balance": 9991,
+      "totalEarned": 9991,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -406,6 +406,15 @@
       "streak": 5
     },
     {
+      "name": "lecto",
+      "balance": 8609,
+      "totalEarned": 8609,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 5
+    },
+    {
       "name": "hittittt",
       "balance": 8608,
       "totalEarned": 8608,
@@ -413,15 +422,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
-    },
-    {
-      "name": "lecto",
-      "balance": 8603,
-      "totalEarned": 8603,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 5
     },
     {
       "name": "anansidagyuki",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3209,
-    "totalCirculating": 2823835,
-    "totalGames": 26149,
+    "totalCirculating": 2810836,
+    "totalGames": 26177,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-14T22:04:06.300Z"
+  "lastUpdated": "2026-06-14T22:34:06.272Z"
 }
