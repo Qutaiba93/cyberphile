@@ -1,10 +1,10 @@
 {
-  "totalSessions": 123,
-  "totalDays": 107,
-  "totalSegments": 5535,
+  "totalSessions": 124,
+  "totalDays": 108,
+  "totalSegments": 5536,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1069922,
+  "totalMessages": 1069923,
   "categories": [
     {
       "name": "Rust",
@@ -357,18 +357,18 @@
       "totalMsgs": 2661
     },
     {
-      "name": "Lies of P",
-      "avgViewers": 535,
-      "peakViewers": 584,
-      "sampleCount": 26,
-      "totalMsgs": 2794
-    },
-    {
       "name": "Slots & Casino",
       "avgViewers": 530,
       "peakViewers": 786,
       "sampleCount": 105,
       "totalMsgs": 23905
+    },
+    {
+      "name": "Lies of P",
+      "avgViewers": 520,
+      "peakViewers": 584,
+      "sampleCount": 27,
+      "totalMsgs": 2795
     },
     {
       "name": "Scam Line",
@@ -440,9 +440,9 @@
       "totalMsgs": 502
     },
     "12": {
-      "avgViewers": 120,
-      "sampleCount": 4,
-      "totalMsgs": 474
+      "avgViewers": 121,
+      "sampleCount": 5,
+      "totalMsgs": 475
     },
     "13": {
       "avgViewers": 223,
@@ -501,17 +501,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-05-29",
-      "avgViewers": 547,
-      "peakViewers": 680,
-      "totalMsgs": 9456,
-      "categories": [
-        "Just Chatting",
-        "Counter-Strike 2",
-        "007 First Light"
-      ]
-    },
     {
       "date": "2026-05-30",
       "avgViewers": 654,
@@ -678,8 +667,17 @@
         "Fears to Fathom: Scratch Creek",
         "Chat Roulette"
       ]
+    },
+    {
+      "date": "2026-06-14",
+      "avgViewers": 125,
+      "peakViewers": 125,
+      "totalMsgs": 1,
+      "categories": [
+        "Lies of P"
+      ]
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-14T12:34:06.287Z"
+  "lastUpdated": "2026-06-14T13:04:06.270Z"
 }
