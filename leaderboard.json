@@ -245,11 +245,11 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 11931,
-      "totalEarned": 52809,
-      "totalSpent": 40878,
-      "gamesPlayed": 121,
-      "gamesWon": 46,
+      "balance": 11914,
+      "totalEarned": 52897,
+      "totalSpent": 40983,
+      "gamesPlayed": 142,
+      "gamesWon": 52,
       "streak": 5
     },
     {
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3197,
-    "totalCirculating": 2805206,
-    "totalGames": 26079,
+    "totalCirculating": 2805189,
+    "totalGames": 26100,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-14T10:34:06.291Z"
+  "lastUpdated": "2026-06-14T11:04:06.293Z"
 }
