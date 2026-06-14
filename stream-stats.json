@@ -1,10 +1,10 @@
 {
   "totalSessions": 124,
   "totalDays": 108,
-  "totalSegments": 5539,
+  "totalSegments": 5542,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1070210,
+  "totalMessages": 1070768,
   "categories": [
     {
       "name": "Rust",
@@ -262,8 +262,8 @@
       "name": "Just Chatting",
       "avgViewers": 584,
       "peakViewers": 903,
-      "sampleCount": 2104,
-      "totalMsgs": 411653
+      "sampleCount": 2105,
+      "totalMsgs": 411865
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -360,8 +360,8 @@
       "name": "Slots & Casino",
       "avgViewers": 530,
       "peakViewers": 786,
-      "sampleCount": 105,
-      "totalMsgs": 23905
+      "sampleCount": 107,
+      "totalMsgs": 24251
     },
     {
       "name": "Lies of P",
@@ -445,9 +445,9 @@
       "totalMsgs": 475
     },
     "13": {
-      "avgViewers": 228,
-      "sampleCount": 73,
-      "totalMsgs": 7030
+      "avgViewers": 239,
+      "sampleCount": 76,
+      "totalMsgs": 7588
     },
     "14": {
       "avgViewers": 360,
@@ -670,15 +670,16 @@
     },
     {
       "date": "2026-06-14",
-      "avgViewers": 280,
-      "peakViewers": 429,
-      "totalMsgs": 288,
+      "avgViewers": 382,
+      "peakViewers": 536,
+      "totalMsgs": 846,
       "categories": [
         "Lies of P",
-        "Just Chatting"
+        "Just Chatting",
+        "Slots & Casino"
       ]
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-14T13:34:06.277Z"
+  "lastUpdated": "2026-06-14T14:04:06.270Z"
 }
