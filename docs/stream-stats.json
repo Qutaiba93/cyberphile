@@ -1,10 +1,10 @@
 {
   "totalSessions": 123,
   "totalDays": 107,
-  "totalSegments": 5526,
+  "totalSegments": 5529,
   "allTimePeak": 17991,
-  "allTimeAvg": 625,
-  "totalMessages": 1068866,
+  "allTimeAvg": 624,
+  "totalMessages": 1069146,
   "categories": [
     {
       "name": "Rust",
@@ -301,13 +301,6 @@
       "totalMsgs": 678
     },
     {
-      "name": "Lies of P",
-      "avgViewers": 558,
-      "peakViewers": 584,
-      "sampleCount": 17,
-      "totalMsgs": 1738
-    },
-    {
       "name": "Cuphead",
       "avgViewers": 557,
       "peakViewers": 593,
@@ -327,6 +320,13 @@
       "peakViewers": 572,
       "sampleCount": 5,
       "totalMsgs": 1035
+    },
+    {
+      "name": "Lies of P",
+      "avgViewers": 550,
+      "peakViewers": 584,
+      "sampleCount": 20,
+      "totalMsgs": 2018
     },
     {
       "name": "Elden Ring: Nightreign",
@@ -415,9 +415,9 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 581,
-      "sampleCount": 291,
-      "totalMsgs": 43095
+      "avgViewers": 580,
+      "sampleCount": 294,
+      "totalMsgs": 43375
     },
     "1": {
       "avgViewers": 528,
@@ -667,9 +667,9 @@
     },
     {
       "date": "2026-06-13",
-      "avgViewers": 580,
+      "avgViewers": 577,
       "peakViewers": 748,
-      "totalMsgs": 9867,
+      "totalMsgs": 10147,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -681,5 +681,5 @@
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-14T00:34:06.263Z"
+  "lastUpdated": "2026-06-14T01:04:06.269Z"
 }
