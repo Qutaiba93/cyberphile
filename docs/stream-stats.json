@@ -1,10 +1,10 @@
 {
   "totalSessions": 124,
   "totalDays": 108,
-  "totalSegments": 5566,
+  "totalSegments": 5569,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1073697,
+  "totalMessages": 1073969,
   "categories": [
     {
       "name": "Rust",
@@ -171,8 +171,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 633,
       "peakViewers": 841,
-      "sampleCount": 576,
-      "totalMsgs": 92095
+      "sampleCount": 579,
+      "totalMsgs": 92367
     },
     {
       "name": "Sons of the Forest",
@@ -471,8 +471,8 @@
     },
     "18": {
       "avgViewers": 692,
-      "sampleCount": 538,
-      "totalMsgs": 114510
+      "sampleCount": 541,
+      "totalMsgs": 114782
     },
     "19": {
       "avgViewers": 691,
@@ -670,9 +670,9 @@
     },
     {
       "date": "2026-06-14",
-      "avgViewers": 558,
+      "avgViewers": 563,
       "peakViewers": 652,
-      "totalMsgs": 3775,
+      "totalMsgs": 4047,
       "categories": [
         "Lies of P",
         "Just Chatting",
@@ -682,5 +682,5 @@
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-14T18:04:06.280Z"
+  "lastUpdated": "2026-06-14T18:34:06.273Z"
 }
