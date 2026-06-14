@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 81068,
-      "totalEarned": 1581851,
+      "balance": 81090,
+      "totalEarned": 1581873,
       "totalSpent": 1596704,
       "gamesPlayed": 1455,
       "gamesWon": 584,
@@ -74,8 +74,8 @@
     },
     {
       "name": "schitt",
-      "balance": 17333,
-      "totalEarned": 17333,
+      "balance": 17335,
+      "totalEarned": 17335,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -92,8 +92,8 @@
     },
     {
       "name": "cecee",
-      "balance": 16259,
-      "totalEarned": 84354,
+      "balance": 16261,
+      "totalEarned": 84356,
       "totalSpent": 68095,
       "gamesPlayed": 362,
       "gamesWon": 125,
@@ -245,8 +245,8 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 11968,
-      "totalEarned": 52951,
+      "balance": 11972,
+      "totalEarned": 52955,
       "totalSpent": 40983,
       "gamesPlayed": 142,
       "gamesWon": 52,
@@ -272,8 +272,8 @@
     },
     {
       "name": "damiybe",
-      "balance": 11090,
-      "totalEarned": 11100,
+      "balance": 11102,
+      "totalEarned": 11112,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -353,8 +353,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 9904,
-      "totalEarned": 9904,
+      "balance": 9967,
+      "totalEarned": 9967,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3206,
-    "totalCirculating": 2816228,
+    "totalCirculating": 2817266,
     "totalGames": 26137,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-14T17:34:06.287Z"
+  "lastUpdated": "2026-06-14T18:04:06.298Z"
 }
