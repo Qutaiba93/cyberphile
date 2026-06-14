@@ -1,10 +1,10 @@
 {
   "totalSessions": 124,
   "totalDays": 108,
-  "totalSegments": 5557,
+  "totalSegments": 5560,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1072933,
+  "totalMessages": 1073120,
   "categories": [
     {
       "name": "Rust",
@@ -171,8 +171,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 633,
       "peakViewers": 841,
-      "sampleCount": 571,
-      "totalMsgs": 91671
+      "sampleCount": 573,
+      "totalMsgs": 91781
     },
     {
       "name": "Sons of the Forest",
@@ -262,8 +262,8 @@
       "name": "Just Chatting",
       "avgViewers": 584,
       "peakViewers": 903,
-      "sampleCount": 2114,
-      "totalMsgs": 412975
+      "sampleCount": 2115,
+      "totalMsgs": 413052
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -461,8 +461,8 @@
     },
     "16": {
       "avgViewers": 643,
-      "sampleCount": 513,
-      "totalMsgs": 99854
+      "sampleCount": 516,
+      "totalMsgs": 100041
     },
     "17": {
       "avgViewers": 698,
@@ -670,16 +670,17 @@
     },
     {
       "date": "2026-06-14",
-      "avgViewers": 530,
+      "avgViewers": 541,
       "peakViewers": 636,
-      "totalMsgs": 3011,
+      "totalMsgs": 3198,
       "categories": [
         "Lies of P",
         "Just Chatting",
-        "Slots & Casino"
+        "Slots & Casino",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-14T16:34:06.279Z"
+  "lastUpdated": "2026-06-14T17:04:06.273Z"
 }
