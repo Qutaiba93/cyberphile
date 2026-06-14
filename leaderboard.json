@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 81168,
-      "totalEarned": 1581951,
+      "balance": 81196,
+      "totalEarned": 1581979,
       "totalSpent": 1596704,
       "gamesPlayed": 1455,
       "gamesWon": 584,
@@ -56,8 +56,8 @@
     },
     {
       "name": "nick6",
-      "balance": 20164,
-      "totalEarned": 20165,
+      "balance": 20214,
+      "totalEarned": 20215,
       "totalSpent": 1,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -191,8 +191,8 @@
     },
     {
       "name": "pitapan",
-      "balance": 12813,
-      "totalEarned": 12838,
+      "balance": 12870,
+      "totalEarned": 12895,
       "totalSpent": 25,
       "gamesPlayed": 1,
       "gamesWon": 1,
@@ -245,8 +245,8 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 11998,
-      "totalEarned": 52981,
+      "balance": 12000,
+      "totalEarned": 52983,
       "totalSpent": 40983,
       "gamesPlayed": 142,
       "gamesWon": 52,
@@ -361,6 +361,15 @@
       "streak": 1
     },
     {
+      "name": "politecatt",
+      "balance": 9866,
+      "totalEarned": 9916,
+      "totalSpent": 50,
+      "gamesPlayed": 3,
+      "gamesWon": 1,
+      "streak": 1
+    },
+    {
       "name": "confusion",
       "balance": 9865,
       "totalEarned": 10380,
@@ -377,15 +386,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "politecatt",
-      "balance": 9805,
-      "totalEarned": 9855,
-      "totalSpent": 50,
-      "gamesPlayed": 3,
-      "gamesWon": 1,
-      "streak": 3
     },
     {
       "name": "neincs",
@@ -443,8 +443,8 @@
     },
     {
       "name": "bushybrauz",
-      "balance": 8401,
-      "totalEarned": 8401,
+      "balance": 8403,
+      "totalEarned": 8403,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3206,
-    "totalCirculating": 2818734,
-    "totalGames": 26139,
+    "totalCirculating": 2819430,
+    "totalGames": 26144,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-14T19:04:06.287Z"
+  "lastUpdated": "2026-06-14T19:34:06.290Z"
 }
