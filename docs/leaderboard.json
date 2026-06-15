@@ -29,8 +29,8 @@
     },
     {
       "name": "shahin",
-      "balance": 25507,
-      "totalEarned": 63305,
+      "balance": 25543,
+      "totalEarned": 63341,
       "totalSpent": 37798,
       "gamesPlayed": 48,
       "gamesWon": 12,
@@ -38,8 +38,8 @@
     },
     {
       "name": "weppss",
-      "balance": 23196,
-      "totalEarned": 29091,
+      "balance": 23214,
+      "totalEarned": 29109,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -137,12 +137,12 @@
     },
     {
       "name": "5pray",
-      "balance": 14144,
-      "totalEarned": 14144,
+      "balance": 14206,
+      "totalEarned": 14206,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "seraj",
@@ -227,8 +227,8 @@
     },
     {
       "name": "kazzcs2",
-      "balance": 12354,
-      "totalEarned": 12354,
+      "balance": 12356,
+      "totalEarned": 12356,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,8 +434,8 @@
     },
     {
       "name": "donixo",
-      "balance": 8506,
-      "totalEarned": 8506,
+      "balance": 8508,
+      "totalEarned": 8508,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -443,8 +443,8 @@
     },
     {
       "name": "bushybrauz",
-      "balance": 8503,
-      "totalEarned": 8503,
+      "balance": 8505,
+      "totalEarned": 8505,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3223,
-    "totalCirculating": 2830126,
+    "totalCirculating": 2830911,
     "totalGames": 26365,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-15T20:34:06.345Z"
+  "lastUpdated": "2026-06-15T21:04:06.338Z"
 }
