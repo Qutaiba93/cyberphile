@@ -1,10 +1,10 @@
 {
   "totalSessions": 125,
   "totalDays": 109,
-  "totalSegments": 5613,
+  "totalSegments": 5616,
   "allTimePeak": 17991,
   "allTimeAvg": 623,
-  "totalMessages": 1079654,
+  "totalMessages": 1080042,
   "categories": [
     {
       "name": "Rust",
@@ -367,8 +367,8 @@
       "name": "Slots & Casino",
       "avgViewers": 532,
       "peakViewers": 786,
-      "sampleCount": 113,
-      "totalMsgs": 25306
+      "sampleCount": 116,
+      "totalMsgs": 25694
     },
     {
       "name": "Scam Line",
@@ -456,8 +456,8 @@
     },
     "15": {
       "avgViewers": 525,
-      "sampleCount": 452,
-      "totalMsgs": 83447
+      "sampleCount": 455,
+      "totalMsgs": 83835
     },
     "16": {
       "avgViewers": 643,
@@ -671,14 +671,15 @@
     },
     {
       "date": "2026-06-15",
-      "avgViewers": 410,
+      "avgViewers": 441,
       "peakViewers": 555,
-      "totalMsgs": 1076,
+      "totalMsgs": 1464,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Slots & Casino"
       ]
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-15T15:04:06.305Z"
+  "lastUpdated": "2026-06-15T15:34:06.303Z"
 }
