@@ -1,10 +1,10 @@
 {
   "totalSessions": 125,
   "totalDays": 109,
-  "totalSegments": 5661,
+  "totalSegments": 5664,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1087618,
+  "totalMessages": 1088006,
   "categories": [
     {
       "name": "Rust",
@@ -196,18 +196,18 @@
       "totalMsgs": 7053
     },
     {
+      "name": "Minecraft",
+      "avgViewers": 621,
+      "peakViewers": 788,
+      "sampleCount": 187,
+      "totalMsgs": 32685
+    },
+    {
       "name": "DayZ",
       "avgViewers": 621,
       "peakViewers": 709,
       "sampleCount": 26,
       "totalMsgs": 3536
-    },
-    {
-      "name": "Minecraft",
-      "avgViewers": 620,
-      "peakViewers": 788,
-      "sampleCount": 186,
-      "totalMsgs": 32503
     },
     {
       "name": "Trees Hate You",
@@ -255,8 +255,8 @@
       "name": "Just Chatting",
       "avgViewers": 585,
       "peakViewers": 903,
-      "sampleCount": 2157,
-      "totalMsgs": 418328
+      "sampleCount": 2159,
+      "totalMsgs": 418534
     },
     {
       "name": "Dread Neighbor",
@@ -495,9 +495,9 @@
       "totalMsgs": 101735
     },
     "23": {
-      "avgViewers": 630,
-      "sampleCount": 381,
-      "totalMsgs": 69557
+      "avgViewers": 631,
+      "sampleCount": 384,
+      "totalMsgs": 69945
     }
   },
   "dailyHistory": [
@@ -671,9 +671,9 @@
     },
     {
       "date": "2026-06-15",
-      "avgViewers": 681,
+      "avgViewers": 684,
       "peakViewers": 902,
-      "totalMsgs": 9040,
+      "totalMsgs": 9428,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -684,5 +684,5 @@
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-15T23:04:06.328Z"
+  "lastUpdated": "2026-06-15T23:34:06.331Z"
 }
