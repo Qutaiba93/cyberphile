@@ -1,10 +1,10 @@
 {
   "totalSessions": 124,
   "totalDays": 108,
-  "totalSegments": 5602,
+  "totalSegments": 5603,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1078378,
+  "totalMessages": 1078578,
   "categories": [
     {
       "name": "Rust",
@@ -353,8 +353,8 @@
       "name": "Lies of P",
       "avgViewers": 537,
       "peakViewers": 629,
-      "sampleCount": 39,
-      "totalMsgs": 4271
+      "sampleCount": 40,
+      "totalMsgs": 4471
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -416,8 +416,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 580,
-      "sampleCount": 294,
-      "totalMsgs": 43375
+      "sampleCount": 295,
+      "totalMsgs": 43575
     },
     "1": {
       "avgViewers": 527,
@@ -672,7 +672,7 @@
       "date": "2026-06-14",
       "avgViewers": 587,
       "peakViewers": 691,
-      "totalMsgs": 8456,
+      "totalMsgs": 8656,
       "categories": [
         "Lies of P",
         "Just Chatting",
@@ -683,5 +683,5 @@
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-15T00:04:06.296Z"
+  "lastUpdated": "2026-06-15T00:34:06.279Z"
 }
