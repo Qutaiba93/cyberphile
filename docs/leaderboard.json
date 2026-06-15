@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 51475,
-      "totalEarned": 1099437,
+      "balance": 51477,
+      "totalEarned": 1099439,
       "totalSpent": 1129471,
       "gamesPlayed": 574,
       "gamesWon": 213,
@@ -38,8 +38,8 @@
     },
     {
       "name": "weppss",
-      "balance": 22996,
-      "totalEarned": 28891,
+      "balance": 23024,
+      "totalEarned": 28919,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -56,8 +56,8 @@
     },
     {
       "name": "willyhairs99",
-      "balance": 20017,
-      "totalEarned": 58851,
+      "balance": 20033,
+      "totalEarned": 58867,
       "totalSpent": 38834,
       "gamesPlayed": 22,
       "gamesWon": 9,
@@ -74,8 +74,8 @@
     },
     {
       "name": "schitt",
-      "balance": 17459,
-      "totalEarned": 17459,
+      "balance": 17461,
+      "totalEarned": 17461,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -92,8 +92,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 16381,
-      "totalEarned": 16482,
+      "balance": 16389,
+      "totalEarned": 16490,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -199,6 +199,15 @@
       "streak": 1
     },
     {
+      "name": "alexmesq",
+      "balance": 12770,
+      "totalEarned": 13770,
+      "totalSpent": 1000,
+      "gamesPlayed": 2,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "ahmet_uk",
       "balance": 12766,
       "totalEarned": 12766,
@@ -206,15 +215,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 6
-    },
-    {
-      "name": "alexmesq",
-      "balance": 12711,
-      "totalEarned": 13711,
-      "totalSpent": 1000,
-      "gamesPlayed": 2,
-      "gamesWon": 0,
-      "streak": 1
     },
     {
       "name": "furrreal",
@@ -344,8 +344,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 10088,
-      "totalEarned": 10088,
+      "balance": 10090,
+      "totalEarned": 10090,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -361,6 +361,15 @@
       "streak": 1
     },
     {
+      "name": "politecatt",
+      "balance": 9930,
+      "totalEarned": 9980,
+      "totalSpent": 50,
+      "gamesPlayed": 3,
+      "gamesWon": 1,
+      "streak": 2
+    },
+    {
       "name": "confusion",
       "balance": 9873,
       "totalEarned": 10388,
@@ -368,15 +377,6 @@
       "gamesPlayed": 11,
       "gamesWon": 4,
       "streak": 2
-    },
-    {
-      "name": "politecatt",
-      "balance": 9866,
-      "totalEarned": 9916,
-      "totalSpent": 50,
-      "gamesPlayed": 3,
-      "gamesWon": 1,
-      "streak": 1
     },
     {
       "name": "tonynairobi",
@@ -398,8 +398,8 @@
     },
     {
       "name": "ericlamontjr",
-      "balance": 9031,
-      "totalEarned": 9146,
+      "balance": 9063,
+      "totalEarned": 9178,
       "totalSpent": 115,
       "gamesPlayed": 6,
       "gamesWon": 2,
@@ -407,26 +407,26 @@
     },
     {
       "name": "lecto",
-      "balance": 8707,
-      "totalEarned": 8707,
+      "balance": 8725,
+      "totalEarned": 8725,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 6
     },
     {
-      "name": "hittittt",
-      "balance": 8608,
-      "totalEarned": 8608,
+      "name": "chicitylol",
+      "balance": 8622,
+      "totalEarned": 8622,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
-      "name": "chicitylol",
-      "balance": 8553,
-      "totalEarned": 8553,
+      "name": "hittittt",
+      "balance": 8608,
+      "totalEarned": 8608,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3220,
-    "totalCirculating": 2816989,
-    "totalGames": 26342,
+    "totalPlayers": 3221,
+    "totalCirculating": 2819511,
+    "totalGames": 26343,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-15T16:34:06.323Z"
+  "lastUpdated": "2026-06-15T17:04:06.322Z"
 }
