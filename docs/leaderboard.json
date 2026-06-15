@@ -38,8 +38,8 @@
     },
     {
       "name": "weppss",
-      "balance": 23082,
-      "totalEarned": 28977,
+      "balance": 23090,
+      "totalEarned": 28985,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -74,8 +74,8 @@
     },
     {
       "name": "schitt",
-      "balance": 17469,
-      "totalEarned": 17469,
+      "balance": 17473,
+      "totalEarned": 17473,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -83,17 +83,17 @@
     },
     {
       "name": "juggin247",
-      "balance": 17127,
-      "totalEarned": 17127,
+      "balance": 17209,
+      "totalEarned": 17209,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 5
+      "streak": 6
     },
     {
       "name": "faridlamm",
-      "balance": 16441,
-      "totalEarned": 16542,
+      "balance": 16475,
+      "totalEarned": 16576,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,8 +299,8 @@
     },
     {
       "name": "iam_umii",
-      "balance": 10513,
-      "totalEarned": 10513,
+      "balance": 10521,
+      "totalEarned": 10521,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -407,8 +407,8 @@
     },
     {
       "name": "lecto",
-      "balance": 8725,
-      "totalEarned": 8725,
+      "balance": 8727,
+      "totalEarned": 8727,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -443,8 +443,8 @@
     },
     {
       "name": "donixo",
-      "balance": 8490,
-      "totalEarned": 8490,
+      "balance": 8498,
+      "totalEarned": 8498,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3221,
-    "totalCirculating": 2822796,
-    "totalGames": 26343,
+    "totalPlayers": 3223,
+    "totalCirculating": 2825478,
+    "totalGames": 26344,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-15T18:04:06.318Z"
+  "lastUpdated": "2026-06-15T18:34:06.316Z"
 }
