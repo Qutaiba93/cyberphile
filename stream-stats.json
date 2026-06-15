@@ -1,10 +1,10 @@
 {
   "totalSessions": 125,
   "totalDays": 109,
-  "totalSegments": 5628,
+  "totalSegments": 5631,
   "allTimePeak": 17991,
   "allTimeAvg": 623,
-  "totalMessages": 1081650,
+  "totalMessages": 1082254,
   "categories": [
     {
       "name": "Rust",
@@ -59,8 +59,8 @@
       "name": "Chat Roulette",
       "avgViewers": 717,
       "peakViewers": 916,
-      "sampleCount": 498,
-      "totalMsgs": 111627
+      "sampleCount": 500,
+      "totalMsgs": 112084
     },
     {
       "name": "Log Riders",
@@ -171,8 +171,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 633,
       "peakViewers": 841,
-      "sampleCount": 585,
-      "totalMsgs": 92964
+      "sampleCount": 586,
+      "totalMsgs": 93111
     },
     {
       "name": "Sons of the Forest",
@@ -466,8 +466,8 @@
     },
     "17": {
       "avgViewers": 697,
-      "sampleCount": 538,
-      "totalMsgs": 104052
+      "sampleCount": 541,
+      "totalMsgs": 104656
     },
     "18": {
       "avgViewers": 691,
@@ -671,16 +671,17 @@
     },
     {
       "date": "2026-06-15",
-      "avgViewers": 515,
-      "peakViewers": 675,
-      "totalMsgs": 3072,
+      "avgViewers": 532,
+      "peakViewers": 696,
+      "totalMsgs": 3676,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-15T17:34:06.296Z"
+  "lastUpdated": "2026-06-15T18:04:06.303Z"
 }
