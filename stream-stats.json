@@ -1,10 +1,10 @@
 {
   "totalSessions": 125,
   "totalDays": 109,
-  "totalSegments": 5652,
+  "totalSegments": 5655,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1085146,
+  "totalMessages": 1086395,
   "categories": [
     {
       "name": "Rust",
@@ -59,8 +59,8 @@
       "name": "Chat Roulette",
       "avgViewers": 718,
       "peakViewers": 916,
-      "sampleCount": 502,
-      "totalMsgs": 112461
+      "sampleCount": 505,
+      "totalMsgs": 113710
     },
     {
       "name": "Log Riders",
@@ -485,9 +485,9 @@
       "totalMsgs": 131855
     },
     "21": {
-      "avgViewers": 685,
-      "sampleCount": 572,
-      "totalMsgs": 118320
+      "avgViewers": 686,
+      "sampleCount": 575,
+      "totalMsgs": 119569
     },
     "22": {
       "avgViewers": 663,
@@ -671,9 +671,9 @@
     },
     {
       "date": "2026-06-15",
-      "avgViewers": 656,
+      "avgViewers": 668,
       "peakViewers": 898,
-      "totalMsgs": 6568,
+      "totalMsgs": 7817,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -683,5 +683,5 @@
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-15T21:34:06.329Z"
+  "lastUpdated": "2026-06-15T22:04:06.325Z"
 }
