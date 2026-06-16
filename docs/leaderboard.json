@@ -11,12 +11,12 @@
     },
     {
       "name": "shance",
-      "balance": 51527,
-      "totalEarned": 1099489,
+      "balance": 51595,
+      "totalEarned": 1099557,
       "totalSpent": 1129471,
       "gamesPlayed": 574,
       "gamesWon": 213,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "zuyu",
@@ -38,12 +38,12 @@
     },
     {
       "name": "weppss",
-      "balance": 23272,
-      "totalEarned": 29167,
+      "balance": 23375,
+      "totalEarned": 29270,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
-      "streak": 6
+      "streak": 7
     },
     {
       "name": "nick6",
@@ -200,12 +200,12 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 12830,
-      "totalEarned": 12830,
+      "balance": 12917,
+      "totalEarned": 12917,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 6
+      "streak": 7
     },
     {
       "name": "alexmesq",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3226,
-    "totalCirculating": 2823555,
+    "totalCirculating": 2825435,
     "totalGames": 26511,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-16T13:04:06.370Z"
+  "lastUpdated": "2026-06-16T13:34:06.368Z"
 }

@@ -1,10 +1,10 @@
 {
-  "totalSessions": 125,
-  "totalDays": 109,
-  "totalSegments": 5668,
+  "totalSessions": 126,
+  "totalDays": 110,
+  "totalSegments": 5669,
   "allTimePeak": 17991,
-  "allTimeAvg": 625,
-  "totalMessages": 1088521,
+  "allTimeAvg": 624,
+  "totalMessages": 1088682,
   "categories": [
     {
       "name": "Rust",
@@ -255,8 +255,8 @@
       "name": "Just Chatting",
       "avgViewers": 585,
       "peakViewers": 903,
-      "sampleCount": 2163,
-      "totalMsgs": 419049
+      "sampleCount": 2164,
+      "totalMsgs": 419210
     },
     {
       "name": "Dread Neighbor",
@@ -445,9 +445,9 @@
       "totalMsgs": 475
     },
     "13": {
-      "avgViewers": 239,
-      "sampleCount": 80,
-      "totalMsgs": 7973
+      "avgViewers": 238,
+      "sampleCount": 81,
+      "totalMsgs": 8134
     },
     "14": {
       "avgViewers": 367,
@@ -501,19 +501,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-01",
-      "avgViewers": 674,
-      "peakViewers": 818,
-      "totalMsgs": 13571,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "Sports",
-        "Chat Roulette",
-        "Grand Theft Auto V (GTA)"
-      ]
-    },
     {
       "date": "2026-06-02",
       "avgViewers": 394,
@@ -681,8 +668,17 @@
         "Counter-Strike 2",
         "Minecraft"
       ]
+    },
+    {
+      "date": "2026-06-16",
+      "avgViewers": 116,
+      "peakViewers": 116,
+      "totalMsgs": 161,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-12T21:04:05.678Z",
-  "lastUpdated": "2026-06-16T13:04:06.353Z"
+  "lastUpdated": "2026-06-16T13:34:06.352Z"
 }
