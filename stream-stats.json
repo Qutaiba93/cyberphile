@@ -1,10 +1,10 @@
 {
   "totalSessions": 126,
   "totalDays": 110,
-  "totalSegments": 5699,
+  "totalSegments": 5702,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1092304,
+  "totalMessages": 1092516,
   "categories": [
     {
       "name": "Rust",
@@ -126,18 +126,18 @@
       "totalMsgs": 11357
     },
     {
-      "name": "Meccha Chameleon",
-      "avgViewers": 661,
-      "peakViewers": 661,
-      "sampleCount": 1,
-      "totalMsgs": 78
-    },
-    {
       "name": "Call of Duty: Black Ops II",
       "avgViewers": 660,
       "peakViewers": 725,
       "sampleCount": 30,
       "totalMsgs": 4208
+    },
+    {
+      "name": "Meccha Chameleon",
+      "avgViewers": 660,
+      "peakViewers": 678,
+      "sampleCount": 4,
+      "totalMsgs": 290
     },
     {
       "name": "ARC Raiders",
@@ -478,8 +478,8 @@
     },
     "18": {
       "avgViewers": 692,
-      "sampleCount": 552,
-      "totalMsgs": 116406
+      "sampleCount": 555,
+      "totalMsgs": 116618
     },
     "19": {
       "avgViewers": 691,
@@ -678,9 +678,9 @@
     },
     {
       "date": "2026-06-16",
-      "avgViewers": 554,
+      "avgViewers": 563,
       "peakViewers": 685,
-      "totalMsgs": 3783,
+      "totalMsgs": 3995,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -690,5 +690,5 @@
     }
   ],
   "botStartedAt": "2026-06-16T16:25:24.082Z",
-  "lastUpdated": "2026-06-16T18:25:25.142Z"
+  "lastUpdated": "2026-06-16T18:55:25.144Z"
 }
