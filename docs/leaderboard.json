@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 67182,
-      "totalEarned": 1631815,
+      "balance": 67224,
+      "totalEarned": 1631857,
       "totalSpent": 1660554,
       "gamesPlayed": 1500,
       "gamesWon": 599,
@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 51599,
-      "totalEarned": 1099561,
+      "balance": 51607,
+      "totalEarned": 1099569,
       "totalSpent": 1129471,
       "gamesPlayed": 574,
       "gamesWon": 213,
@@ -154,6 +154,15 @@
       "streak": 0
     },
     {
+      "name": "bbalint320",
+      "balance": 13598,
+      "totalEarned": 13738,
+      "totalSpent": 140,
+      "gamesPlayed": 14,
+      "gamesWon": 1,
+      "streak": 7
+    },
+    {
       "name": "bido_maggot",
       "balance": 13582,
       "totalEarned": 13582,
@@ -169,15 +178,6 @@
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 6
-    },
-    {
-      "name": "bbalint320",
-      "balance": 13505,
-      "totalEarned": 13645,
-      "totalSpent": 140,
-      "gamesPlayed": 14,
-      "gamesWon": 1,
       "streak": 6
     },
     {
@@ -200,8 +200,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 12919,
-      "totalEarned": 12919,
+      "balance": 12949,
+      "totalEarned": 12949,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -344,12 +344,12 @@
     },
     {
       "name": "ganndz",
-      "balance": 10110,
-      "totalEarned": 10110,
+      "balance": 10206,
+      "totalEarned": 10206,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 7
+      "streak": 8
     },
     {
       "name": "parlaybuster",
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3226,
-    "totalCirculating": 2827356,
-    "totalGames": 26511,
+    "totalPlayers": 3227,
+    "totalCirculating": 2829463,
+    "totalGames": 26512,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-16T14:04:06.360Z"
+  "lastUpdated": "2026-06-16T14:34:06.367Z"
 }
