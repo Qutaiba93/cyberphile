@@ -1,10 +1,10 @@
 {
   "totalSessions": 126,
   "totalDays": 110,
-  "totalSegments": 5702,
+  "totalSegments": 5705,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1092516,
+  "totalMessages": 1092740,
   "categories": [
     {
       "name": "Rust",
@@ -133,13 +133,6 @@
       "totalMsgs": 4208
     },
     {
-      "name": "Meccha Chameleon",
-      "avgViewers": 660,
-      "peakViewers": 678,
-      "sampleCount": 4,
-      "totalMsgs": 290
-    },
-    {
       "name": "ARC Raiders",
       "avgViewers": 655,
       "peakViewers": 751,
@@ -159,6 +152,13 @@
       "peakViewers": 744,
       "sampleCount": 30,
       "totalMsgs": 5736
+    },
+    {
+      "name": "Meccha Chameleon",
+      "avgViewers": 642,
+      "peakViewers": 678,
+      "sampleCount": 7,
+      "totalMsgs": 514
     },
     {
       "name": "VRChat",
@@ -478,13 +478,13 @@
     },
     "18": {
       "avgViewers": 692,
-      "sampleCount": 555,
-      "totalMsgs": 116618
+      "sampleCount": 556,
+      "totalMsgs": 116666
     },
     "19": {
       "avgViewers": 691,
-      "sampleCount": 551,
-      "totalMsgs": 117236
+      "sampleCount": 553,
+      "totalMsgs": 117412
     },
     "20": {
       "avgViewers": 680,
@@ -678,9 +678,9 @@
     },
     {
       "date": "2026-06-16",
-      "avgViewers": 563,
+      "avgViewers": 568,
       "peakViewers": 685,
-      "totalMsgs": 3995,
+      "totalMsgs": 4219,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -690,5 +690,5 @@
     }
   ],
   "botStartedAt": "2026-06-16T16:25:24.082Z",
-  "lastUpdated": "2026-06-16T18:55:25.144Z"
+  "lastUpdated": "2026-06-16T19:25:25.145Z"
 }
