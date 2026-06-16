@@ -1,10 +1,10 @@
 {
   "totalSessions": 126,
   "totalDays": 110,
-  "totalSegments": 5713,
+  "totalSegments": 5715,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1093995,
+  "totalMessages": 1094321,
   "categories": [
     {
       "name": "Rust",
@@ -157,8 +157,8 @@
       "name": "VRChat",
       "avgViewers": 638,
       "peakViewers": 796,
-      "sampleCount": 30,
-      "totalMsgs": 5026
+      "sampleCount": 31,
+      "totalMsgs": 5143
     },
     {
       "name": "Rocket League",
@@ -262,8 +262,8 @@
       "name": "Just Chatting",
       "avgViewers": 585,
       "peakViewers": 903,
-      "sampleCount": 2187,
-      "totalMsgs": 422133
+      "sampleCount": 2188,
+      "totalMsgs": 422342
     },
     {
       "name": "Dread Neighbor",
@@ -487,9 +487,9 @@
       "totalMsgs": 117861
     },
     "20": {
-      "avgViewers": 680,
-      "sampleCount": 589,
-      "totalMsgs": 132661
+      "avgViewers": 679,
+      "sampleCount": 591,
+      "totalMsgs": 132987
     },
     "21": {
       "avgViewers": 686,
@@ -678,17 +678,18 @@
     },
     {
       "date": "2026-06-16",
-      "avgViewers": 579,
+      "avgViewers": 582,
       "peakViewers": 685,
-      "totalMsgs": 5474,
+      "totalMsgs": 5800,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
         "Chat Roulette",
-        "Meccha Chameleon"
+        "Meccha Chameleon",
+        "VRChat"
       ]
     }
   ],
   "botStartedAt": "2026-06-16T20:26:52.442Z",
-  "lastUpdated": "2026-06-16T20:27:53.074Z"
+  "lastUpdated": "2026-06-16T20:56:52.989Z"
 }
