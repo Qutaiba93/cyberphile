@@ -2,17 +2,17 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 67085,
-      "totalEarned": 1631718,
+      "balance": 67182,
+      "totalEarned": 1631815,
       "totalSpent": 1660554,
       "gamesPlayed": 1500,
       "gamesWon": 599,
-      "streak": 6
+      "streak": 7
     },
     {
       "name": "shance",
-      "balance": 51595,
-      "totalEarned": 1099557,
+      "balance": 51599,
+      "totalEarned": 1099561,
       "totalSpent": 1129471,
       "gamesPlayed": 574,
       "gamesWon": 213,
@@ -38,8 +38,8 @@
     },
     {
       "name": "weppss",
-      "balance": 23375,
-      "totalEarned": 29270,
+      "balance": 23381,
+      "totalEarned": 29276,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -200,8 +200,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 12917,
-      "totalEarned": 12917,
+      "balance": 12919,
+      "totalEarned": 12919,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3226,
-    "totalCirculating": 2825435,
+    "totalCirculating": 2827356,
     "totalGames": 26511,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-16T13:34:06.368Z"
+  "lastUpdated": "2026-06-16T14:04:06.360Z"
 }
