@@ -1,10 +1,10 @@
 {
   "totalSessions": 126,
   "totalDays": 110,
-  "totalSegments": 5705,
+  "totalSegments": 5708,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1092740,
+  "totalMessages": 1093011,
   "categories": [
     {
       "name": "Rust",
@@ -154,13 +154,6 @@
       "totalMsgs": 5736
     },
     {
-      "name": "Meccha Chameleon",
-      "avgViewers": 642,
-      "peakViewers": 678,
-      "sampleCount": 7,
-      "totalMsgs": 514
-    },
-    {
       "name": "VRChat",
       "avgViewers": 638,
       "peakViewers": 796,
@@ -173,6 +166,13 @@
       "peakViewers": 756,
       "sampleCount": 32,
       "totalMsgs": 7649
+    },
+    {
+      "name": "Meccha Chameleon",
+      "avgViewers": 637,
+      "peakViewers": 678,
+      "sampleCount": 8,
+      "totalMsgs": 590
     },
     {
       "name": "Counter-Strike 2",
@@ -262,8 +262,8 @@
       "name": "Just Chatting",
       "avgViewers": 585,
       "peakViewers": 903,
-      "sampleCount": 2180,
-      "totalMsgs": 420954
+      "sampleCount": 2182,
+      "totalMsgs": 421149
     },
     {
       "name": "Dread Neighbor",
@@ -483,8 +483,8 @@
     },
     "19": {
       "avgViewers": 691,
-      "sampleCount": 553,
-      "totalMsgs": 117412
+      "sampleCount": 556,
+      "totalMsgs": 117683
     },
     "20": {
       "avgViewers": 680,
@@ -678,9 +678,9 @@
     },
     {
       "date": "2026-06-16",
-      "avgViewers": 568,
+      "avgViewers": 570,
       "peakViewers": 685,
-      "totalMsgs": 4219,
+      "totalMsgs": 4490,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -690,5 +690,5 @@
     }
   ],
   "botStartedAt": "2026-06-16T16:25:24.082Z",
-  "lastUpdated": "2026-06-16T19:25:25.145Z"
+  "lastUpdated": "2026-06-16T19:55:25.144Z"
 }
