@@ -1,10 +1,10 @@
 {
   "totalSessions": 126,
   "totalDays": 110,
-  "totalSegments": 5696,
+  "totalSegments": 5699,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1091974,
+  "totalMessages": 1092304,
   "categories": [
     {
       "name": "Rust",
@@ -124,6 +124,13 @@
       "peakViewers": 861,
       "sampleCount": 63,
       "totalMsgs": 11357
+    },
+    {
+      "name": "Meccha Chameleon",
+      "avgViewers": 661,
+      "peakViewers": 661,
+      "sampleCount": 1,
+      "totalMsgs": 78
     },
     {
       "name": "Call of Duty: Black Ops II",
@@ -255,8 +262,8 @@
       "name": "Just Chatting",
       "avgViewers": 585,
       "peakViewers": 903,
-      "sampleCount": 2178,
-      "totalMsgs": 420702
+      "sampleCount": 2180,
+      "totalMsgs": 420954
     },
     {
       "name": "Dread Neighbor",
@@ -466,13 +473,13 @@
     },
     "17": {
       "avgViewers": 696,
-      "sampleCount": 546,
-      "totalMsgs": 105088
+      "sampleCount": 547,
+      "totalMsgs": 105163
     },
     "18": {
       "avgViewers": 692,
-      "sampleCount": 550,
-      "totalMsgs": 116151
+      "sampleCount": 552,
+      "totalMsgs": 116406
     },
     "19": {
       "avgViewers": 691,
@@ -671,16 +678,17 @@
     },
     {
       "date": "2026-06-16",
-      "avgViewers": 543,
+      "avgViewers": 554,
       "peakViewers": 685,
-      "totalMsgs": 3453,
+      "totalMsgs": 3783,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Meccha Chameleon"
       ]
     }
   ],
   "botStartedAt": "2026-06-16T16:25:24.082Z",
-  "lastUpdated": "2026-06-16T17:55:25.141Z"
+  "lastUpdated": "2026-06-16T18:25:25.142Z"
 }
