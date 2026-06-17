@@ -11,12 +11,12 @@
     },
     {
       "name": "shance",
-      "balance": 51733,
-      "totalEarned": 1099695,
+      "balance": 51800,
+      "totalEarned": 1099762,
       "totalSpent": 1129471,
       "gamesPlayed": 574,
       "gamesWon": 213,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "zuyu",
@@ -65,12 +65,12 @@
     },
     {
       "name": "schitt",
-      "balance": 17644,
-      "totalEarned": 17644,
+      "balance": 17742,
+      "totalEarned": 17742,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 7
+      "streak": 8
     },
     {
       "name": "juggin247",
@@ -182,12 +182,12 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 13065,
-      "totalEarned": 13065,
+      "balance": 13163,
+      "totalEarned": 13163,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 7
+      "streak": 8
     },
     {
       "name": "alexmesq",
@@ -442,18 +442,18 @@
       "streak": 2
     },
     {
-      "name": "zz_nz",
-      "balance": 8550,
-      "totalEarned": 8550,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 8
+      "name": "m0535fps",
+      "balance": 8556,
+      "totalEarned": 13466,
+      "totalSpent": 4910,
+      "gamesPlayed": 13,
+      "gamesWon": 4,
+      "streak": 4
     }
   ],
   "stats": {
     "totalPlayers": 3237,
-    "totalCirculating": 2834672,
+    "totalCirculating": 2836670,
     "totalGames": 26846,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-17T13:26:53.109Z"
+  "lastUpdated": "2026-06-17T13:56:53.084Z"
 }
