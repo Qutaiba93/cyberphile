@@ -1,10 +1,10 @@
 {
   "totalSessions": 127,
   "totalDays": 111,
-  "totalSegments": 5767,
+  "totalSegments": 5770,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1101297,
+  "totalMessages": 1101502,
   "categories": [
     {
       "name": "Rust",
@@ -322,6 +322,13 @@
       "totalMsgs": 1979
     },
     {
+      "name": "Lies of P",
+      "avgViewers": 555,
+      "peakViewers": 716,
+      "sampleCount": 46,
+      "totalMsgs": 4831
+    },
+    {
       "name": "Call of Duty: Black Ops 7",
       "avgViewers": 554,
       "peakViewers": 572,
@@ -348,13 +355,6 @@
       "peakViewers": 696,
       "sampleCount": 47,
       "totalMsgs": 4326
-    },
-    {
-      "name": "Lies of P",
-      "avgViewers": 548,
-      "peakViewers": 716,
-      "sampleCount": 43,
-      "totalMsgs": 4626
     },
     {
       "name": "Slots & Casino",
@@ -478,13 +478,13 @@
     },
     "18": {
       "avgViewers": 692,
-      "sampleCount": 561,
-      "totalMsgs": 117042
+      "sampleCount": 562,
+      "totalMsgs": 117098
     },
     "19": {
       "avgViewers": 691,
-      "sampleCount": 557,
-      "totalMsgs": 117861
+      "sampleCount": 559,
+      "totalMsgs": 118010
     },
     "20": {
       "avgViewers": 679,
@@ -679,9 +679,9 @@
     },
     {
       "date": "2026-06-17",
-      "avgViewers": 621,
+      "avgViewers": 625,
       "peakViewers": 757,
-      "totalMsgs": 3605,
+      "totalMsgs": 3810,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -691,5 +691,5 @@
     }
   ],
   "botStartedAt": "2026-06-16T20:26:52.442Z",
-  "lastUpdated": "2026-06-17T18:56:53.067Z"
+  "lastUpdated": "2026-06-17T19:26:53.069Z"
 }
