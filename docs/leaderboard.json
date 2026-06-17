@@ -83,8 +83,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 17038,
-      "totalEarned": 17139,
+      "balance": 17042,
+      "totalEarned": 17143,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -191,8 +191,8 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 12918,
-      "totalEarned": 54902,
+      "balance": 12920,
+      "totalEarned": 54904,
       "totalSpent": 41984,
       "gamesPlayed": 142,
       "gamesWon": 52,
@@ -218,8 +218,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 12617,
-      "totalEarned": 55482,
+      "balance": 12621,
+      "totalEarned": 55486,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3242,
-    "totalCirculating": 2858584,
+    "totalCirculating": 2858953,
     "totalGames": 26896,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-17T22:04:32.109Z"
+  "lastUpdated": "2026-06-17T22:14:40.331Z"
 }
