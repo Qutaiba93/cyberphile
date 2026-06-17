@@ -1,10 +1,10 @@
 {
   "totalSessions": 127,
   "totalDays": 111,
-  "totalSegments": 5752,
+  "totalSegments": 5755,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1099405,
+  "totalMessages": 1100031,
   "categories": [
     {
       "name": "Rust",
@@ -351,10 +351,10 @@
     },
     {
       "name": "Slots & Casino",
-      "avgViewers": 541,
+      "avgViewers": 545,
       "peakViewers": 786,
-      "sampleCount": 136,
-      "totalMsgs": 28378
+      "sampleCount": 139,
+      "totalMsgs": 29004
     },
     {
       "name": "Resident Evil Requiem",
@@ -468,8 +468,8 @@
     },
     "16": {
       "avgViewers": 642,
-      "sampleCount": 531,
-      "totalMsgs": 101830
+      "sampleCount": 534,
+      "totalMsgs": 102456
     },
     "17": {
       "avgViewers": 696,
@@ -679,9 +679,9 @@
     },
     {
       "date": "2026-06-17",
-      "avgViewers": 539,
+      "avgViewers": 562,
       "peakViewers": 700,
-      "totalMsgs": 1713,
+      "totalMsgs": 2339,
       "categories": [
         "Just Chatting",
         "Slots & Casino"
@@ -689,5 +689,5 @@
     }
   ],
   "botStartedAt": "2026-06-16T20:26:52.442Z",
-  "lastUpdated": "2026-06-17T16:26:53.067Z"
+  "lastUpdated": "2026-06-17T16:56:53.064Z"
 }
