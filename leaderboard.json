@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 51853,
-      "totalEarned": 1099882,
+      "balance": 51887,
+      "totalEarned": 1099916,
       "totalSpent": 1129538,
       "gamesPlayed": 574,
       "gamesWon": 213,
@@ -92,8 +92,8 @@
     },
     {
       "name": "papaah",
-      "balance": 16122,
-      "totalEarned": 17123,
+      "balance": 16140,
+      "totalEarned": 17141,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -137,8 +137,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 13812,
-      "totalEarned": 13812,
+      "balance": 13828,
+      "totalEarned": 13828,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -191,8 +191,8 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 12860,
-      "totalEarned": 54844,
+      "balance": 12886,
+      "totalEarned": 54870,
       "totalSpent": 41984,
       "gamesPlayed": 142,
       "gamesWon": 52,
@@ -254,8 +254,8 @@
     },
     {
       "name": "xaqin",
-      "balance": 11225,
-      "totalEarned": 11225,
+      "balance": 11247,
+      "totalEarned": 11247,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -281,8 +281,8 @@
     },
     {
       "name": "iam_umii",
-      "balance": 10750,
-      "totalEarned": 10750,
+      "balance": 10752,
+      "totalEarned": 10752,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -316,6 +316,15 @@
       "streak": 5
     },
     {
+      "name": "daecs",
+      "balance": 10499,
+      "totalEarned": 35298,
+      "totalSpent": 24799,
+      "gamesPlayed": 16,
+      "gamesWon": 8,
+      "streak": 8
+    },
+    {
       "name": "skullyontop",
       "balance": 10414,
       "totalEarned": 10424,
@@ -323,15 +332,6 @@
       "gamesPlayed": 1,
       "gamesWon": 1,
       "streak": 1
-    },
-    {
-      "name": "daecs",
-      "balance": 10381,
-      "totalEarned": 35180,
-      "totalSpent": 24799,
-      "gamesPlayed": 16,
-      "gamesWon": 8,
-      "streak": 8
     },
     {
       "name": "ganndz",
@@ -407,8 +407,8 @@
     },
     {
       "name": "lecto",
-      "balance": 8944,
-      "totalEarned": 8944,
+      "balance": 8948,
+      "totalEarned": 8948,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3242,
-    "totalCirculating": 2853000,
+    "totalCirculating": 2853960,
     "totalGames": 26871,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-17T19:26:53.084Z"
+  "lastUpdated": "2026-06-17T19:56:53.091Z"
 }
