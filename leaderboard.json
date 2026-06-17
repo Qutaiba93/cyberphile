@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 51978,
-      "totalEarned": 1100332,
+      "balance": 52016,
+      "totalEarned": 1100370,
       "totalSpent": 1129863,
       "gamesPlayed": 575,
       "gamesWon": 214,
@@ -29,8 +29,8 @@
     },
     {
       "name": "shahin",
-      "balance": 32664,
-      "totalEarned": 111051,
+      "balance": 32716,
+      "totalEarned": 111103,
       "totalSpent": 78387,
       "gamesPlayed": 66,
       "gamesWon": 19,
@@ -38,8 +38,8 @@
     },
     {
       "name": "weppss",
-      "balance": 23755,
-      "totalEarned": 29650,
+      "balance": 23797,
+      "totalEarned": 29692,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -83,8 +83,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 17042,
-      "totalEarned": 17143,
+      "balance": 17082,
+      "totalEarned": 17183,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -173,8 +173,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 13257,
-      "totalEarned": 13257,
+      "balance": 13283,
+      "totalEarned": 13283,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -191,8 +191,8 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 12920,
-      "totalEarned": 54904,
+      "balance": 13022,
+      "totalEarned": 55006,
       "totalSpent": 41984,
       "gamesPlayed": 142,
       "gamesWon": 52,
@@ -208,21 +208,21 @@
       "streak": 1
     },
     {
+      "name": "arabicoj",
+      "balance": 12631,
+      "totalEarned": 55496,
+      "totalSpent": 42865,
+      "gamesPlayed": 41,
+      "gamesWon": 15,
+      "streak": 8
+    },
+    {
       "name": "kazzcs2",
       "balance": 12627,
       "totalEarned": 12627,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 8
-    },
-    {
-      "name": "arabicoj",
-      "balance": 12621,
-      "totalEarned": 55486,
-      "totalSpent": 42865,
-      "gamesPlayed": 41,
-      "gamesWon": 15,
       "streak": 8
     },
     {
@@ -244,6 +244,15 @@
       "streak": 3
     },
     {
+      "name": "xaqin",
+      "balance": 11283,
+      "totalEarned": 11283,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 9
+    },
+    {
       "name": "damiybe",
       "balance": 11267,
       "totalEarned": 11277,
@@ -251,15 +260,6 @@
       "gamesPlayed": 1,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "xaqin",
-      "balance": 11247,
-      "totalEarned": 11247,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 9
     },
     {
       "name": "intermediatewastakensadge",
@@ -299,8 +299,8 @@
     },
     {
       "name": "daecs",
-      "balance": 10565,
-      "totalEarned": 35364,
+      "balance": 10579,
+      "totalEarned": 35378,
       "totalSpent": 24799,
       "gamesPlayed": 16,
       "gamesWon": 8,
@@ -308,8 +308,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 10562,
-      "totalEarned": 10562,
+      "balance": 10568,
+      "totalEarned": 10568,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -317,8 +317,8 @@
     },
     {
       "name": "quantik",
-      "balance": 10548,
-      "totalEarned": 10548,
+      "balance": 10550,
+      "totalEarned": 10550,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -335,8 +335,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 10355,
-      "totalEarned": 10355,
+      "balance": 10359,
+      "totalEarned": 10359,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3242,
-    "totalCirculating": 2858953,
-    "totalGames": 26896,
+    "totalCirculating": 2861008,
+    "totalGames": 26907,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-17T22:14:40.331Z"
+  "lastUpdated": "2026-06-17T22:43:40.264Z"
 }
