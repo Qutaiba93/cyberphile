@@ -1,10 +1,10 @@
 {
   "totalSessions": 127,
   "totalDays": 111,
-  "totalSegments": 5764,
+  "totalSegments": 5767,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1101142,
+  "totalMessages": 1101297,
   "categories": [
     {
       "name": "Rust",
@@ -350,6 +350,13 @@
       "totalMsgs": 4326
     },
     {
+      "name": "Lies of P",
+      "avgViewers": 548,
+      "peakViewers": 716,
+      "sampleCount": 43,
+      "totalMsgs": 4626
+    },
+    {
       "name": "Slots & Casino",
       "avgViewers": 545,
       "peakViewers": 786,
@@ -362,13 +369,6 @@
       "peakViewers": 601,
       "sampleCount": 41,
       "totalMsgs": 9011
-    },
-    {
-      "name": "Lies of P",
-      "avgViewers": 537,
-      "peakViewers": 629,
-      "sampleCount": 40,
-      "totalMsgs": 4471
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -478,8 +478,8 @@
     },
     "18": {
       "avgViewers": 692,
-      "sampleCount": 558,
-      "totalMsgs": 116887
+      "sampleCount": 561,
+      "totalMsgs": 117042
     },
     "19": {
       "avgViewers": 691,
@@ -679,16 +679,17 @@
     },
     {
       "date": "2026-06-17",
-      "avgViewers": 614,
+      "avgViewers": 621,
       "peakViewers": 757,
-      "totalMsgs": 3450,
+      "totalMsgs": 3605,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Lies of P"
       ]
     }
   ],
   "botStartedAt": "2026-06-16T20:26:52.442Z",
-  "lastUpdated": "2026-06-17T18:26:53.067Z"
+  "lastUpdated": "2026-06-17T18:56:53.067Z"
 }

@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 51821,
-      "totalEarned": 1099850,
+      "balance": 51831,
+      "totalEarned": 1099860,
       "totalSpent": 1129538,
       "gamesPlayed": 574,
       "gamesWon": 213,
@@ -136,6 +136,15 @@
       "streak": 8
     },
     {
+      "name": "twilighty",
+      "balance": 13810,
+      "totalEarned": 13810,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 8
+    },
+    {
       "name": "bido_maggot",
       "balance": 13781,
       "totalEarned": 13781,
@@ -143,15 +152,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 8
-    },
-    {
-      "name": "twilighty",
-      "balance": 13710,
-      "totalEarned": 13710,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 7
     },
     {
       "name": "seraj",
@@ -191,8 +191,8 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 12792,
-      "totalEarned": 54776,
+      "balance": 12808,
+      "totalEarned": 54792,
       "totalSpent": 41984,
       "gamesPlayed": 142,
       "gamesWon": 52,
@@ -218,8 +218,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 12561,
-      "totalEarned": 55426,
+      "balance": 12575,
+      "totalEarned": 55440,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -227,8 +227,8 @@
     },
     {
       "name": "furrreal",
-      "balance": 12501,
-      "totalEarned": 16001,
+      "balance": 12560,
+      "totalEarned": 16060,
       "totalSpent": 3500,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -325,6 +325,15 @@
       "streak": 1
     },
     {
+      "name": "daecs",
+      "balance": 10359,
+      "totalEarned": 35158,
+      "totalSpent": 24799,
+      "gamesPlayed": 16,
+      "gamesWon": 8,
+      "streak": 8
+    },
+    {
       "name": "ganndz",
       "balance": 10353,
       "totalEarned": 10353,
@@ -332,15 +341,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 9
-    },
-    {
-      "name": "daecs",
-      "balance": 10351,
-      "totalEarned": 35150,
-      "totalSpent": 24799,
-      "gamesPlayed": 16,
-      "gamesWon": 8,
-      "streak": 8
     },
     {
       "name": "nitro_st",
@@ -425,8 +425,8 @@
     },
     {
       "name": "donixo",
-      "balance": 8809,
-      "totalEarned": 8809,
+      "balance": 8813,
+      "totalEarned": 8813,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3242,
-    "totalCirculating": 2848878,
-    "totalGames": 26868,
+    "totalCirculating": 2849392,
+    "totalGames": 26869,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-17T18:26:53.081Z"
+  "lastUpdated": "2026-06-17T18:56:53.082Z"
 }
