@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 51934,
-      "totalEarned": 1100288,
+      "balance": 51936,
+      "totalEarned": 1100290,
       "totalSpent": 1129863,
       "gamesPlayed": 575,
       "gamesWon": 214,
@@ -29,8 +29,8 @@
     },
     {
       "name": "shahin",
-      "balance": 32616,
-      "totalEarned": 111003,
+      "balance": 32628,
+      "totalEarned": 111015,
       "totalSpent": 78387,
       "gamesPlayed": 66,
       "gamesWon": 19,
@@ -38,8 +38,8 @@
     },
     {
       "name": "weppss",
-      "balance": 23743,
-      "totalEarned": 29638,
+      "balance": 23751,
+      "totalEarned": 29646,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -83,8 +83,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 17022,
-      "totalEarned": 17123,
+      "balance": 17028,
+      "totalEarned": 17129,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -110,8 +110,8 @@
     },
     {
       "name": "upkey",
-      "balance": 15321,
-      "totalEarned": 15321,
+      "balance": 15325,
+      "totalEarned": 15325,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -191,8 +191,8 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 12886,
-      "totalEarned": 54870,
+      "balance": 12902,
+      "totalEarned": 54886,
       "totalSpent": 41984,
       "gamesPlayed": 142,
       "gamesWon": 52,
@@ -209,8 +209,8 @@
     },
     {
       "name": "kazzcs2",
-      "balance": 12617,
-      "totalEarned": 12617,
+      "balance": 12627,
+      "totalEarned": 12627,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -218,8 +218,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 12579,
-      "totalEarned": 55444,
+      "balance": 12607,
+      "totalEarned": 55472,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -317,8 +317,8 @@
     },
     {
       "name": "daecs",
-      "balance": 10517,
-      "totalEarned": 35316,
+      "balance": 10531,
+      "totalEarned": 35330,
       "totalSpent": 24799,
       "gamesPlayed": 16,
       "gamesWon": 8,
@@ -335,8 +335,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 10353,
-      "totalEarned": 10353,
+      "balance": 10355,
+      "totalEarned": 10355,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -425,8 +425,17 @@
     },
     {
       "name": "donixo",
-      "balance": 8813,
-      "totalEarned": 8813,
+      "balance": 8819,
+      "totalEarned": 8819,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 8
+    },
+    {
+      "name": "bushybrauz",
+      "balance": 8710,
+      "totalEarned": 8710,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -440,21 +449,12 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 9
-    },
-    {
-      "name": "bushybrauz",
-      "balance": 8614,
-      "totalEarned": 8614,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 7
     }
   ],
   "stats": {
     "totalPlayers": 3242,
-    "totalCirculating": 2857896,
-    "totalGames": 26892,
+    "totalCirculating": 2857748,
+    "totalGames": 26894,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-17T20:26:53.085Z"
+  "lastUpdated": "2026-06-17T20:56:53.099Z"
 }
