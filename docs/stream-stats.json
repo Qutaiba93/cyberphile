@@ -1,10 +1,10 @@
 {
   "totalSessions": 127,
   "totalDays": 111,
-  "totalSegments": 5746,
+  "totalSegments": 5749,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1098769,
+  "totalMessages": 1099046,
   "categories": [
     {
       "name": "Rust",
@@ -357,6 +357,13 @@
       "totalMsgs": 9011
     },
     {
+      "name": "Slots & Casino",
+      "avgViewers": 538,
+      "peakViewers": 786,
+      "sampleCount": 133,
+      "totalMsgs": 28019
+    },
+    {
       "name": "Lies of P",
       "avgViewers": 537,
       "peakViewers": 629,
@@ -369,13 +376,6 @@
       "peakViewers": 638,
       "sampleCount": 20,
       "totalMsgs": 2661
-    },
-    {
-      "name": "Slots & Casino",
-      "avgViewers": 535,
-      "peakViewers": 786,
-      "sampleCount": 130,
-      "totalMsgs": 27742
     },
     {
       "name": "Scam Line",
@@ -462,9 +462,9 @@
       "totalMsgs": 51534
     },
     "15": {
-      "avgViewers": 526,
-      "sampleCount": 466,
-      "totalMsgs": 84992
+      "avgViewers": 527,
+      "sampleCount": 469,
+      "totalMsgs": 85269
     },
     "16": {
       "avgViewers": 642,
@@ -679,9 +679,9 @@
     },
     {
       "date": "2026-06-17",
-      "avgViewers": 458,
-      "peakViewers": 667,
-      "totalMsgs": 1077,
+      "avgViewers": 507,
+      "peakViewers": 687,
+      "totalMsgs": 1354,
       "categories": [
         "Just Chatting",
         "Slots & Casino"
@@ -689,5 +689,5 @@
     }
   ],
   "botStartedAt": "2026-06-16T20:26:52.442Z",
-  "lastUpdated": "2026-06-17T15:26:53.062Z"
+  "lastUpdated": "2026-06-17T15:56:53.067Z"
 }
