@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 51976,
-      "totalEarned": 1100330,
+      "balance": 51978,
+      "totalEarned": 1100332,
       "totalSpent": 1129863,
       "gamesPlayed": 575,
       "gamesWon": 214,
@@ -29,8 +29,8 @@
     },
     {
       "name": "shahin",
-      "balance": 32662,
-      "totalEarned": 111049,
+      "balance": 32664,
+      "totalEarned": 111051,
       "totalSpent": 78387,
       "gamesPlayed": 66,
       "gamesWon": 19,
@@ -83,8 +83,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 17034,
-      "totalEarned": 17135,
+      "balance": 17038,
+      "totalEarned": 17139,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -218,8 +218,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 12615,
-      "totalEarned": 55480,
+      "balance": 12617,
+      "totalEarned": 55482,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -298,6 +298,15 @@
       "streak": 2
     },
     {
+      "name": "daecs",
+      "balance": 10565,
+      "totalEarned": 35364,
+      "totalSpent": 24799,
+      "gamesPlayed": 16,
+      "gamesWon": 8,
+      "streak": 8
+    },
+    {
       "name": "cuuula",
       "balance": 10562,
       "totalEarned": 10562,
@@ -305,15 +314,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 9
-    },
-    {
-      "name": "daecs",
-      "balance": 10561,
-      "totalEarned": 35360,
-      "totalSpent": 24799,
-      "gamesPlayed": 16,
-      "gamesWon": 8,
-      "streak": 8
     },
     {
       "name": "quantik",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3242,
-    "totalCirculating": 2858516,
-    "totalGames": 26894,
+    "totalCirculating": 2858584,
+    "totalGames": 26896,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-17T21:59:24.305Z"
+  "lastUpdated": "2026-06-17T22:04:32.109Z"
 }

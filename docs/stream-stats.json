@@ -1,10 +1,10 @@
 {
   "totalSessions": 128,
   "totalDays": 111,
-  "totalSegments": 5787,
+  "totalSegments": 5788,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1102749,
+  "totalMessages": 1102753,
   "categories": [
     {
       "name": "Rust",
@@ -260,10 +260,10 @@
     },
     {
       "name": "Lies of P",
-      "avgViewers": 586,
+      "avgViewers": 587,
       "peakViewers": 716,
-      "sampleCount": 63,
-      "totalMsgs": 6078
+      "sampleCount": 64,
+      "totalMsgs": 6082
     },
     {
       "name": "Just Chatting",
@@ -498,8 +498,8 @@
     },
     "22": {
       "avgViewers": 664,
-      "sampleCount": 503,
-      "totalMsgs": 102862
+      "sampleCount": 504,
+      "totalMsgs": 102866
     },
     "23": {
       "avgViewers": 631,
@@ -681,7 +681,7 @@
       "date": "2026-06-17",
       "avgViewers": 640,
       "peakViewers": 757,
-      "totalMsgs": 5057,
+      "totalMsgs": 5061,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -690,6 +690,6 @@
       ]
     }
   ],
-  "botStartedAt": "2026-06-17T21:58:23.613Z",
-  "lastUpdated": "2026-06-17T21:59:24.297Z"
+  "botStartedAt": "2026-06-17T22:03:31.467Z",
+  "lastUpdated": "2026-06-17T22:04:32.099Z"
 }
