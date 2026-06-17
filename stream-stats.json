@@ -1,10 +1,10 @@
 {
   "totalSessions": 127,
   "totalDays": 111,
-  "totalSegments": 5749,
+  "totalSegments": 5752,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1099046,
+  "totalMessages": 1099405,
   "categories": [
     {
       "name": "Rust",
@@ -350,18 +350,18 @@
       "totalMsgs": 4326
     },
     {
+      "name": "Slots & Casino",
+      "avgViewers": 541,
+      "peakViewers": 786,
+      "sampleCount": 136,
+      "totalMsgs": 28378
+    },
+    {
       "name": "Resident Evil Requiem",
       "avgViewers": 539,
       "peakViewers": 601,
       "sampleCount": 41,
       "totalMsgs": 9011
-    },
-    {
-      "name": "Slots & Casino",
-      "avgViewers": 538,
-      "peakViewers": 786,
-      "sampleCount": 133,
-      "totalMsgs": 28019
     },
     {
       "name": "Lies of P",
@@ -462,14 +462,14 @@
       "totalMsgs": 51534
     },
     "15": {
-      "avgViewers": 527,
-      "sampleCount": 469,
-      "totalMsgs": 85269
+      "avgViewers": 528,
+      "sampleCount": 470,
+      "totalMsgs": 85402
     },
     "16": {
       "avgViewers": 642,
-      "sampleCount": 529,
-      "totalMsgs": 101604
+      "sampleCount": 531,
+      "totalMsgs": 101830
     },
     "17": {
       "avgViewers": 696,
@@ -679,9 +679,9 @@
     },
     {
       "date": "2026-06-17",
-      "avgViewers": 507,
-      "peakViewers": 687,
-      "totalMsgs": 1354,
+      "avgViewers": 539,
+      "peakViewers": 700,
+      "totalMsgs": 1713,
       "categories": [
         "Just Chatting",
         "Slots & Casino"
@@ -689,5 +689,5 @@
     }
   ],
   "botStartedAt": "2026-06-16T20:26:52.442Z",
-  "lastUpdated": "2026-06-17T15:56:53.067Z"
+  "lastUpdated": "2026-06-17T16:26:53.067Z"
 }
