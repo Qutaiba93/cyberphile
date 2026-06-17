@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 51940,
-      "totalEarned": 1100294,
+      "balance": 51976,
+      "totalEarned": 1100330,
       "totalSpent": 1129863,
       "gamesPlayed": 575,
       "gamesWon": 214,
@@ -29,8 +29,8 @@
     },
     {
       "name": "shahin",
-      "balance": 32648,
-      "totalEarned": 111035,
+      "balance": 32662,
+      "totalEarned": 111049,
       "totalSpent": 78387,
       "gamesPlayed": 66,
       "gamesWon": 19,
@@ -38,8 +38,8 @@
     },
     {
       "name": "weppss",
-      "balance": 23751,
-      "totalEarned": 29646,
+      "balance": 23755,
+      "totalEarned": 29650,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -83,8 +83,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 17028,
-      "totalEarned": 17129,
+      "balance": 17034,
+      "totalEarned": 17135,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -191,8 +191,8 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 12910,
-      "totalEarned": 54894,
+      "balance": 12918,
+      "totalEarned": 54902,
       "totalSpent": 41984,
       "gamesPlayed": 142,
       "gamesWon": 52,
@@ -218,8 +218,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 12613,
-      "totalEarned": 55478,
+      "balance": 12615,
+      "totalEarned": 55480,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -307,6 +307,15 @@
       "streak": 9
     },
     {
+      "name": "daecs",
+      "balance": 10561,
+      "totalEarned": 35360,
+      "totalSpent": 24799,
+      "gamesPlayed": 16,
+      "gamesWon": 8,
+      "streak": 8
+    },
+    {
       "name": "quantik",
       "balance": 10548,
       "totalEarned": 10548,
@@ -314,15 +323,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 5
-    },
-    {
-      "name": "daecs",
-      "balance": 10541,
-      "totalEarned": 35340,
-      "totalSpent": 24799,
-      "gamesPlayed": 16,
-      "gamesWon": 8,
-      "streak": 8
     },
     {
       "name": "skullyontop",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3242,
-    "totalCirculating": 2858007,
+    "totalCirculating": 2858516,
     "totalGames": 26894,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-17T21:33:30.496Z"
+  "lastUpdated": "2026-06-17T21:59:24.305Z"
 }
