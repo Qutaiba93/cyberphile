@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 52094,
-      "totalEarned": 1100448,
+      "balance": 52096,
+      "totalEarned": 1100450,
       "totalSpent": 1129863,
       "gamesPlayed": 575,
       "gamesWon": 214,
@@ -127,6 +127,15 @@
       "streak": 4
     },
     {
+      "name": "bido_maggot",
+      "balance": 13878,
+      "totalEarned": 13878,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 9
+    },
+    {
       "name": "bbalint320",
       "balance": 13872,
       "totalEarned": 14012,
@@ -145,15 +154,6 @@
       "streak": 8
     },
     {
-      "name": "bido_maggot",
-      "balance": 13781,
-      "totalEarned": 13781,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 8
-    },
-    {
       "name": "seraj",
       "balance": 13709,
       "totalEarned": 13709,
@@ -163,6 +163,15 @@
       "streak": 0
     },
     {
+      "name": "ahmet_uk",
+      "balance": 13382,
+      "totalEarned": 13382,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 9
+    },
+    {
       "name": "machamp1",
       "balance": 13357,
       "totalEarned": 13582,
@@ -170,15 +179,6 @@
       "gamesPlayed": 5,
       "gamesWon": 1,
       "streak": 2
-    },
-    {
-      "name": "ahmet_uk",
-      "balance": 13283,
-      "totalEarned": 13283,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 8
     },
     {
       "name": "pitapan",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3242,
-    "totalCirculating": 2861198,
+    "totalCirculating": 2861602,
     "totalGames": 26911,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-18T10:43:40.365Z"
+  "lastUpdated": "2026-06-18T11:13:40.370Z"
 }
