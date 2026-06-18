@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 80238,
-      "totalEarned": 1716836,
+      "balance": 80244,
+      "totalEarned": 1716842,
       "totalSpent": 1732519,
       "gamesPlayed": 1563,
       "gamesWon": 631,
@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 52096,
-      "totalEarned": 1100450,
+      "balance": 52102,
+      "totalEarned": 1100456,
       "totalSpent": 1129863,
       "gamesPlayed": 575,
       "gamesWon": 214,
@@ -101,12 +101,12 @@
     },
     {
       "name": "kale96",
-      "balance": 15524,
-      "totalEarned": 22074,
+      "balance": 15641,
+      "totalEarned": 22191,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
-      "streak": 8
+      "streak": 9
     },
     {
       "name": "upkey",
@@ -164,8 +164,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 13390,
-      "totalEarned": 13390,
+      "balance": 13400,
+      "totalEarned": 13400,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -209,8 +209,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 12730,
-      "totalEarned": 55595,
+      "balance": 12768,
+      "totalEarned": 55633,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -361,6 +361,15 @@
       "streak": 2
     },
     {
+      "name": "recentant",
+      "balance": 10081,
+      "totalEarned": 46159,
+      "totalSpent": 36078,
+      "gamesPlayed": 48,
+      "gamesWon": 23,
+      "streak": 9
+    },
+    {
       "name": "politecatt",
       "balance": 10051,
       "totalEarned": 10101,
@@ -440,21 +449,12 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 8
-    },
-    {
-      "name": "zz_nz",
-      "balance": 8693,
-      "totalEarned": 8693,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 9
     }
   ],
   "stats": {
     "totalPlayers": 3251,
-    "totalCirculating": 2865297,
-    "totalGames": 26911,
+    "totalCirculating": 2874512,
+    "totalGames": 26915,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-18T12:13:40.400Z"
+  "lastUpdated": "2026-06-18T12:43:40.378Z"
 }
