@@ -1,10 +1,10 @@
 {
-  "totalSessions": 128,
-  "totalDays": 111,
-  "totalSegments": 5793,
+  "totalSessions": 129,
+  "totalDays": 112,
+  "totalSegments": 5796,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1104346,
+  "totalMessages": 1104526,
   "categories": [
     {
       "name": "Rust",
@@ -269,8 +269,8 @@
       "name": "Just Chatting",
       "avgViewers": 585,
       "peakViewers": 903,
-      "sampleCount": 2215,
-      "totalMsgs": 426680
+      "sampleCount": 2216,
+      "totalMsgs": 426687
     },
     {
       "name": "Dread Neighbor",
@@ -357,18 +357,18 @@
       "totalMsgs": 4326
     },
     {
-      "name": "Slots & Casino",
-      "avgViewers": 545,
-      "peakViewers": 786,
-      "sampleCount": 139,
-      "totalMsgs": 29004
-    },
-    {
       "name": "Resident Evil Requiem",
       "avgViewers": 539,
       "peakViewers": 601,
       "sampleCount": 41,
       "totalMsgs": 9011
+    },
+    {
+      "name": "Slots & Casino",
+      "avgViewers": 539,
+      "peakViewers": 786,
+      "sampleCount": 141,
+      "totalMsgs": 29177
     },
     {
       "name": "Counter-Strike: Global Offensive",
@@ -446,6 +446,11 @@
       "sampleCount": 7,
       "totalMsgs": 502
     },
+    "11": {
+      "avgViewers": 142,
+      "sampleCount": 3,
+      "totalMsgs": 180
+    },
     "12": {
       "avgViewers": 121,
       "sampleCount": 5,
@@ -508,21 +513,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-03",
-      "avgViewers": 650,
-      "peakViewers": 758,
-      "totalMsgs": 11957,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "Sports",
-        "Minecraft",
-        "Counter-Strike 2",
-        "IRL",
-        "Chat Roulette"
-      ]
-    },
     {
       "date": "2026-06-04",
       "avgViewers": 661,
@@ -688,8 +678,18 @@
         "Chat Roulette",
         "Lies of P"
       ]
+    },
+    {
+      "date": "2026-06-18",
+      "avgViewers": 142,
+      "peakViewers": 206,
+      "totalMsgs": 180,
+      "categories": [
+        "Just Chatting",
+        "Slots & Casino"
+      ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-18T11:13:40.352Z"
+  "lastUpdated": "2026-06-18T11:43:40.371Z"
 }

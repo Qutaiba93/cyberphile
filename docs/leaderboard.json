@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 80101,
-      "totalEarned": 1716699,
+      "balance": 80212,
+      "totalEarned": 1716810,
       "totalSpent": 1732519,
       "gamesPlayed": 1563,
       "gamesWon": 631,
-      "streak": 7
+      "streak": 1
     },
     {
       "name": "shance",
@@ -164,8 +164,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 13382,
-      "totalEarned": 13382,
+      "balance": 13388,
+      "totalEarned": 13388,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -209,12 +209,12 @@
     },
     {
       "name": "arabicoj",
-      "balance": 12631,
-      "totalEarned": 55496,
+      "balance": 12730,
+      "totalEarned": 55595,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
-      "streak": 8
+      "streak": 9
     },
     {
       "name": "kazzcs2",
@@ -289,6 +289,15 @@
       "streak": 8
     },
     {
+      "name": "cuuula",
+      "balance": 10670,
+      "totalEarned": 10670,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 10
+    },
+    {
       "name": "lena_xc",
       "balance": 10616,
       "totalEarned": 10616,
@@ -305,15 +314,6 @@
       "gamesPlayed": 16,
       "gamesWon": 8,
       "streak": 8
-    },
-    {
-      "name": "cuuula",
-      "balance": 10568,
-      "totalEarned": 10568,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 9
     },
     {
       "name": "quantik",
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3242,
-    "totalCirculating": 2861602,
+    "totalPlayers": 3245,
+    "totalCirculating": 2863546,
     "totalGames": 26911,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-18T11:13:40.370Z"
+  "lastUpdated": "2026-06-18T11:43:40.397Z"
 }
