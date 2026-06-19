@@ -298,6 +298,15 @@
       "streak": 10
     },
     {
+      "name": "daecs",
+      "balance": 10636,
+      "totalEarned": 35435,
+      "totalSpent": 24799,
+      "gamesPlayed": 16,
+      "gamesWon": 8,
+      "streak": 1
+    },
+    {
       "name": "lena_xc",
       "balance": 10616,
       "totalEarned": 10616,
@@ -305,15 +314,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
-    },
-    {
-      "name": "daecs",
-      "balance": 10579,
-      "totalEarned": 35378,
-      "totalSpent": 24799,
-      "gamesPlayed": 16,
-      "gamesWon": 8,
-      "streak": 8
     },
     {
       "name": "quantik",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3251,
-    "totalCirculating": 2875248,
+    "totalCirculating": 2875362,
     "totalGames": 26926,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-19T13:43:40.519Z"
+  "lastUpdated": "2026-06-19T14:13:40.524Z"
 }
