@@ -1,10 +1,10 @@
 {
   "totalSessions": 130,
   "totalDays": 113,
-  "totalSegments": 5843,
+  "totalSegments": 5846,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1111114,
+  "totalMessages": 1111917,
   "categories": [
     {
       "name": "Rust",
@@ -262,8 +262,15 @@
       "name": "Lies of P",
       "avgViewers": 590,
       "peakViewers": 716,
-      "sampleCount": 66,
-      "totalMsgs": 6180
+      "sampleCount": 67,
+      "totalMsgs": 6387
+    },
+    {
+      "name": "Just Chatting",
+      "avgViewers": 585,
+      "peakViewers": 903,
+      "sampleCount": 2221,
+      "totalMsgs": 427710
     },
     {
       "name": "Dread Neighbor",
@@ -271,13 +278,6 @@
       "peakViewers": 618,
       "sampleCount": 7,
       "totalMsgs": 487
-    },
-    {
-      "name": "Just Chatting",
-      "avgViewers": 584,
-      "peakViewers": 903,
-      "sampleCount": 2219,
-      "totalMsgs": 427114
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -508,8 +508,8 @@
     },
     "23": {
       "avgViewers": 632,
-      "sampleCount": 394,
-      "totalMsgs": 71807
+      "sampleCount": 397,
+      "totalMsgs": 72610
     }
   },
   "dailyHistory": [
@@ -679,17 +679,18 @@
     },
     {
       "date": "2026-06-19",
-      "avgViewers": 627,
+      "avgViewers": 628,
       "peakViewers": 713,
-      "totalMsgs": 6168,
+      "totalMsgs": 6971,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
         "Counter-Strike 2",
-        "Minecraft"
+        "Minecraft",
+        "Lies of P"
       ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-19T23:13:40.538Z"
+  "lastUpdated": "2026-06-19T23:43:40.539Z"
 }
