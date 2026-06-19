@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 80250,
-      "totalEarned": 1716848,
+      "balance": 80312,
+      "totalEarned": 1716910,
       "totalSpent": 1732519,
       "gamesPlayed": 1563,
       "gamesWon": 631,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "shance",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3251,
-    "totalCirculating": 2875654,
+    "totalCirculating": 2875932,
     "totalGames": 26925,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-19T12:43:40.507Z"
+  "lastUpdated": "2026-06-19T13:13:40.510Z"
 }
