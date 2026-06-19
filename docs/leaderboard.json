@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 80646,
-      "totalEarned": 1726044,
+      "balance": 80656,
+      "totalEarned": 1726054,
       "totalSpent": 1741319,
       "gamesPlayed": 1570,
       "gamesWon": 635,
@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 52168,
-      "totalEarned": 1100547,
+      "balance": 52176,
+      "totalEarned": 1100555,
       "totalSpent": 1129888,
       "gamesPlayed": 576,
       "gamesWon": 214,
@@ -29,8 +29,8 @@
     },
     {
       "name": "shahin",
-      "balance": 32779,
-      "totalEarned": 111166,
+      "balance": 32787,
+      "totalEarned": 111174,
       "totalSpent": 78387,
       "gamesPlayed": 66,
       "gamesWon": 19,
@@ -308,8 +308,8 @@
     },
     {
       "name": "daecs",
-      "balance": 10702,
-      "totalEarned": 35501,
+      "balance": 10722,
+      "totalEarned": 35521,
       "totalSpent": 24799,
       "gamesPlayed": 16,
       "gamesWon": 8,
@@ -335,8 +335,8 @@
     },
     {
       "name": "skullyontop",
-      "balance": 10485,
-      "totalEarned": 10495,
+      "balance": 10513,
+      "totalEarned": 10523,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 1,
@@ -407,8 +407,8 @@
     },
     {
       "name": "ericlamontjr",
-      "balance": 9417,
-      "totalEarned": 9532,
+      "balance": 9421,
+      "totalEarned": 9536,
       "totalSpent": 115,
       "gamesPlayed": 6,
       "gamesWon": 2,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3255,
-    "totalCirculating": 2894863,
-    "totalGames": 26993,
+    "totalCirculating": 2893723,
+    "totalGames": 26996,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-19T19:13:40.538Z"
+  "lastUpdated": "2026-06-19T19:43:40.542Z"
 }
