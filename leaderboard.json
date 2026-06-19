@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 76330,
-      "totalEarned": 1716928,
+      "balance": 76356,
+      "totalEarned": 1716954,
       "totalSpent": 1736519,
       "gamesPlayed": 1565,
       "gamesWon": 631,
@@ -65,12 +65,12 @@
     },
     {
       "name": "schitt",
-      "balance": 17774,
-      "totalEarned": 17774,
+      "balance": 17835,
+      "totalEarned": 17835,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 8
+      "streak": 1
     },
     {
       "name": "juggin247",
@@ -325,6 +325,15 @@
       "streak": 5
     },
     {
+      "name": "ganndz",
+      "balance": 10418,
+      "totalEarned": 10418,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "skullyontop",
       "balance": 10414,
       "totalEarned": 10424,
@@ -332,15 +341,6 @@
       "gamesPlayed": 1,
       "gamesWon": 1,
       "streak": 1
-    },
-    {
-      "name": "ganndz",
-      "balance": 10359,
-      "totalEarned": 10359,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 9
     },
     {
       "name": "nitro_st",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3251,
-    "totalCirculating": 2872621,
-    "totalGames": 26928,
+    "totalCirculating": 2874759,
+    "totalGames": 26933,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-19T15:43:40.544Z"
+  "lastUpdated": "2026-06-19T16:13:40.546Z"
 }

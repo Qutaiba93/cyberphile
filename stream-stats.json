@@ -1,10 +1,10 @@
 {
-  "totalSessions": 129,
-  "totalDays": 112,
-  "totalSegments": 5802,
+  "totalSessions": 130,
+  "totalDays": 113,
+  "totalSegments": 5803,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1104946,
+  "totalMessages": 1104971,
   "categories": [
     {
       "name": "Rust",
@@ -269,8 +269,8 @@
       "name": "Just Chatting",
       "avgViewers": 585,
       "peakViewers": 903,
-      "sampleCount": 2216,
-      "totalMsgs": 426687
+      "sampleCount": 2217,
+      "totalMsgs": 426712
     },
     {
       "name": "Dread Neighbor",
@@ -472,9 +472,9 @@
       "totalMsgs": 85402
     },
     "16": {
-      "avgViewers": 642,
-      "sampleCount": 535,
-      "totalMsgs": 102595
+      "avgViewers": 641,
+      "sampleCount": 536,
+      "totalMsgs": 102620
     },
     "17": {
       "avgViewers": 697,
@@ -513,18 +513,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-04",
-      "avgViewers": 661,
-      "peakViewers": 796,
-      "totalMsgs": 10492,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "Counter-Strike 2",
-        "Psalm 5:9-13"
-      ]
-    },
     {
       "date": "2026-06-05",
       "avgViewers": 499,
@@ -688,8 +676,17 @@
         "Just Chatting",
         "Slots & Casino"
       ]
+    },
+    {
+      "date": "2026-06-19",
+      "avgViewers": 64,
+      "peakViewers": 64,
+      "totalMsgs": 25,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-19T15:43:40.526Z"
+  "lastUpdated": "2026-06-19T16:13:40.529Z"
 }
