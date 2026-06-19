@@ -1,10 +1,10 @@
 {
   "totalSessions": 130,
   "totalDays": 113,
-  "totalSegments": 5828,
+  "totalSegments": 5831,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1108025,
+  "totalMessages": 1108331,
   "categories": [
     {
       "name": "Rust",
@@ -178,8 +178,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 636,
       "peakViewers": 898,
-      "sampleCount": 609,
-      "totalMsgs": 96360
+      "sampleCount": 611,
+      "totalMsgs": 96549
     },
     {
       "name": "Sons of the Forest",
@@ -372,10 +372,10 @@
     },
     {
       "name": "Slots & Casino",
-      "avgViewers": 532,
+      "avgViewers": 533,
       "peakViewers": 786,
-      "sampleCount": 153,
-      "totalMsgs": 30088
+      "sampleCount": 154,
+      "totalMsgs": 30205
     },
     {
       "name": "Scam Line",
@@ -493,13 +493,13 @@
     },
     "20": {
       "avgViewers": 680,
-      "sampleCount": 602,
-      "totalMsgs": 134256
+      "sampleCount": 604,
+      "totalMsgs": 134445
     },
     "21": {
       "avgViewers": 686,
-      "sampleCount": 588,
-      "totalMsgs": 121108
+      "sampleCount": 589,
+      "totalMsgs": 121225
     },
     "22": {
       "avgViewers": 664,
@@ -679,9 +679,9 @@
     },
     {
       "date": "2026-06-19",
-      "avgViewers": 594,
+      "avgViewers": 603,
       "peakViewers": 706,
-      "totalMsgs": 3079,
+      "totalMsgs": 3385,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -691,5 +691,5 @@
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-19T20:43:40.533Z"
+  "lastUpdated": "2026-06-19T21:13:40.544Z"
 }
