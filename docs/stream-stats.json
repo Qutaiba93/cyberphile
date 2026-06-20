@@ -1,10 +1,10 @@
 {
   "totalSessions": 130,
   "totalDays": 113,
-  "totalSegments": 5852,
+  "totalSegments": 5855,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1112308,
+  "totalMessages": 1112497,
   "categories": [
     {
       "name": "Rust",
@@ -260,17 +260,17 @@
     },
     {
       "name": "Lies of P",
-      "avgViewers": 589,
+      "avgViewers": 587,
       "peakViewers": 716,
-      "sampleCount": 73,
-      "totalMsgs": 6778
+      "sampleCount": 75,
+      "totalMsgs": 6916
     },
     {
       "name": "Just Chatting",
       "avgViewers": 585,
       "peakViewers": 903,
-      "sampleCount": 2221,
-      "totalMsgs": 427710
+      "sampleCount": 2222,
+      "totalMsgs": 427761
     },
     {
       "name": "Dread Neighbor",
@@ -423,13 +423,13 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 579,
-      "sampleCount": 301,
-      "totalMsgs": 44063
+      "sampleCount": 303,
+      "totalMsgs": 44201
     },
     "1": {
       "avgViewers": 527,
-      "sampleCount": 166,
-      "totalMsgs": 25513
+      "sampleCount": 167,
+      "totalMsgs": 25564
     },
     "2": {
       "avgViewers": 492,
@@ -679,9 +679,9 @@
     },
     {
       "date": "2026-06-19",
-      "avgViewers": 621,
+      "avgViewers": 616,
       "peakViewers": 713,
-      "totalMsgs": 7362,
+      "totalMsgs": 7551,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -692,5 +692,5 @@
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-20T00:43:40.541Z"
+  "lastUpdated": "2026-06-20T01:13:40.550Z"
 }
