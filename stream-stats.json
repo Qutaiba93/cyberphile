@@ -1,10 +1,10 @@
 {
   "totalSessions": 131,
   "totalDays": 114,
-  "totalSegments": 5904,
+  "totalSegments": 5907,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1120018,
+  "totalMessages": 1120244,
   "categories": [
     {
       "name": "Rust",
@@ -78,10 +78,10 @@
     },
     {
       "name": "IRL",
-      "avgViewers": 695,
+      "avgViewers": 694,
       "peakViewers": 886,
-      "sampleCount": 292,
-      "totalMsgs": 99910
+      "sampleCount": 293,
+      "totalMsgs": 99982
     },
     {
       "name": "Summer Game Fest 2026",
@@ -269,8 +269,8 @@
       "name": "Just Chatting",
       "avgViewers": 585,
       "peakViewers": 903,
-      "sampleCount": 2247,
-      "totalMsgs": 431917
+      "sampleCount": 2249,
+      "totalMsgs": 432071
     },
     {
       "name": "Dread Neighbor",
@@ -492,14 +492,14 @@
       "totalMsgs": 119854
     },
     "20": {
-      "avgViewers": 680,
-      "sampleCount": 608,
-      "totalMsgs": 134899
+      "avgViewers": 679,
+      "sampleCount": 610,
+      "totalMsgs": 135053
     },
     "21": {
-      "avgViewers": 686,
-      "sampleCount": 594,
-      "totalMsgs": 121987
+      "avgViewers": 685,
+      "sampleCount": 595,
+      "totalMsgs": 122059
     },
     "22": {
       "avgViewers": 665,
@@ -678,19 +678,20 @@
     },
     {
       "date": "2026-06-20",
-      "avgViewers": 584,
+      "avgViewers": 588,
       "peakViewers": 681,
-      "totalMsgs": 7110,
+      "totalMsgs": 7336,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
         "VALORANT",
         "Counter-Strike 2",
         "Chat Roulette",
-        "Meccha Chameleon"
+        "Meccha Chameleon",
+        "IRL"
       ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-20T20:43:40.588Z"
+  "lastUpdated": "2026-06-20T21:13:40.580Z"
 }
