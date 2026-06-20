@@ -1,10 +1,10 @@
 {
   "totalSessions": 131,
   "totalDays": 114,
-  "totalSegments": 5865,
+  "totalSegments": 5868,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1113715,
+  "totalMessages": 1114278,
   "categories": [
     {
       "name": "Rust",
@@ -22,10 +22,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 753,
+      "avgViewers": 752,
       "peakViewers": 17935,
-      "sampleCount": 160,
-      "totalMsgs": 31812
+      "sampleCount": 161,
+      "totalMsgs": 32081
     },
     {
       "name": "Gartic Phone",
@@ -374,8 +374,8 @@
       "name": "Slots & Casino",
       "avgViewers": 527,
       "peakViewers": 786,
-      "sampleCount": 159,
-      "totalMsgs": 30889
+      "sampleCount": 161,
+      "totalMsgs": 31183
     },
     {
       "name": "Scam Line",
@@ -462,9 +462,9 @@
       "totalMsgs": 9326
     },
     "14": {
-      "avgViewers": 372,
-      "sampleCount": 337,
-      "totalMsgs": 51667
+      "avgViewers": 374,
+      "sampleCount": 340,
+      "totalMsgs": 52230
     },
     "15": {
       "avgViewers": 528,
@@ -678,15 +678,16 @@
     },
     {
       "date": "2026-06-20",
-      "avgViewers": 282,
-      "peakViewers": 488,
-      "totalMsgs": 807,
+      "avgViewers": 377,
+      "peakViewers": 591,
+      "totalMsgs": 1370,
       "categories": [
         "Just Chatting",
-        "Slots & Casino"
+        "Slots & Casino",
+        "VALORANT"
       ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-20T14:13:40.582Z"
+  "lastUpdated": "2026-06-20T14:43:40.559Z"
 }
