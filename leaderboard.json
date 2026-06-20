@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 72267,
-      "totalEarned": 1782465,
+      "balance": 72293,
+      "totalEarned": 1782491,
       "totalSpent": 1806119,
       "gamesPlayed": 1611,
       "gamesWon": 655,
@@ -38,8 +38,8 @@
     },
     {
       "name": "weppss",
-      "balance": 23920,
-      "totalEarned": 29815,
+      "balance": 23922,
+      "totalEarned": 29817,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -47,12 +47,21 @@
     },
     {
       "name": "nick6",
-      "balance": 20582,
-      "totalEarned": 20583,
+      "balance": 20586,
+      "totalEarned": 20587,
       "totalSpent": 1,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
+    },
+    {
+      "name": "recentant",
+      "balance": 20447,
+      "totalEarned": 212525,
+      "totalSpent": 192078,
+      "gamesPlayed": 76,
+      "gamesWon": 37,
+      "streak": 11
     },
     {
       "name": "shahin",
@@ -73,18 +82,9 @@
       "streak": 10
     },
     {
-      "name": "recentant",
-      "balance": 18427,
-      "totalEarned": 208505,
-      "totalSpent": 190078,
-      "gamesPlayed": 75,
-      "gamesWon": 36,
-      "streak": 11
-    },
-    {
       "name": "schitt",
-      "balance": 17943,
-      "totalEarned": 17943,
+      "balance": 17953,
+      "totalEarned": 17953,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -137,8 +137,8 @@
     },
     {
       "name": "5pray",
-      "balance": 14549,
-      "totalEarned": 14549,
+      "balance": 14565,
+      "totalEarned": 14565,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -182,12 +182,12 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 13556,
-      "totalEarned": 13556,
+      "balance": 13664,
+      "totalEarned": 13664,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 10
+      "streak": 11
     },
     {
       "name": "machamp1",
@@ -299,8 +299,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 10906,
-      "totalEarned": 10906,
+      "balance": 10912,
+      "totalEarned": 10912,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -361,6 +361,15 @@
       "streak": 2
     },
     {
+      "name": "sikkk9",
+      "balance": 10179,
+      "totalEarned": 159684,
+      "totalSpent": 149505,
+      "gamesPlayed": 234,
+      "gamesWon": 106,
+      "streak": 2
+    },
+    {
       "name": "parlaybuster",
       "balance": 10132,
       "totalEarned": 10132,
@@ -415,6 +424,24 @@
       "streak": 1
     },
     {
+      "name": "donixo",
+      "balance": 8974,
+      "totalEarned": 8974,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 2
+    },
+    {
+      "name": "chicitylol",
+      "balance": 8954,
+      "totalEarned": 8954,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 2
+    },
+    {
       "name": "lecto",
       "balance": 8948,
       "totalEarned": 8948,
@@ -422,39 +449,12 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 8
-    },
-    {
-      "name": "donixo",
-      "balance": 8906,
-      "totalEarned": 8906,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
-    },
-    {
-      "name": "chicitylol",
-      "balance": 8892,
-      "totalEarned": 8892,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
-    },
-    {
-      "name": "bushybrauz",
-      "balance": 8783,
-      "totalEarned": 8783,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
     }
   ],
   "stats": {
     "totalPlayers": 3262,
-    "totalCirculating": 2902464,
-    "totalGames": 27060,
+    "totalCirculating": 2913968,
+    "totalGames": 27064,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-20T13:43:40.602Z"
+  "lastUpdated": "2026-06-20T14:13:40.601Z"
 }
