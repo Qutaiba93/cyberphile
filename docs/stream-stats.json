@@ -1,10 +1,10 @@
 {
   "totalSessions": 131,
   "totalDays": 114,
-  "totalSegments": 5874,
+  "totalSegments": 5877,
   "allTimePeak": 17991,
-  "allTimeAvg": 623,
-  "totalMessages": 1115719,
+  "allTimeAvg": 624,
+  "totalMessages": 1116356,
   "categories": [
     {
       "name": "Rust",
@@ -171,8 +171,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 637,
       "peakViewers": 898,
-      "sampleCount": 623,
-      "totalMsgs": 99332
+      "sampleCount": 624,
+      "totalMsgs": 99580
     },
     {
       "name": "Meccha Chameleon",
@@ -276,8 +276,8 @@
       "name": "Just Chatting",
       "avgViewers": 584,
       "peakViewers": 903,
-      "sampleCount": 2233,
-      "totalMsgs": 429736
+      "sampleCount": 2235,
+      "totalMsgs": 430125
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -467,14 +467,14 @@
       "totalMsgs": 52953
     },
     "15": {
-      "avgViewers": 528,
-      "sampleCount": 474,
-      "totalMsgs": 86120
+      "avgViewers": 529,
+      "sampleCount": 476,
+      "totalMsgs": 86509
     },
     "16": {
       "avgViewers": 639,
-      "sampleCount": 541,
-      "totalMsgs": 103155
+      "sampleCount": 542,
+      "totalMsgs": 103403
     },
     "17": {
       "avgViewers": 696,
@@ -678,16 +678,17 @@
     },
     {
       "date": "2026-06-20",
-      "avgViewers": 466,
-      "peakViewers": 612,
-      "totalMsgs": 2811,
+      "avgViewers": 494,
+      "peakViewers": 648,
+      "totalMsgs": 3448,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
-        "VALORANT"
+        "VALORANT",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-20T15:43:40.575Z"
+  "lastUpdated": "2026-06-20T16:13:40.587Z"
 }
