@@ -1,10 +1,10 @@
 {
-  "totalSessions": 130,
-  "totalDays": 113,
-  "totalSegments": 5859,
+  "totalSessions": 131,
+  "totalDays": 114,
+  "totalSegments": 5862,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1112908,
+  "totalMessages": 1113331,
   "categories": [
     {
       "name": "Rust",
@@ -276,8 +276,8 @@
       "name": "Just Chatting",
       "avgViewers": 584,
       "peakViewers": 903,
-      "sampleCount": 2226,
-      "totalMsgs": 428172
+      "sampleCount": 2227,
+      "totalMsgs": 428295
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -372,10 +372,10 @@
     },
     {
       "name": "Slots & Casino",
-      "avgViewers": 533,
+      "avgViewers": 529,
       "peakViewers": 786,
-      "sampleCount": 154,
-      "totalMsgs": 30205
+      "sampleCount": 156,
+      "totalMsgs": 30505
     },
     {
       "name": "Scam Line",
@@ -457,9 +457,9 @@
       "totalMsgs": 804
     },
     "13": {
-      "avgViewers": 238,
-      "sampleCount": 87,
-      "totalMsgs": 8652
+      "avgViewers": 235,
+      "sampleCount": 90,
+      "totalMsgs": 9075
     },
     "14": {
       "avgViewers": 372,
@@ -513,20 +513,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-05",
-      "avgViewers": 499,
-      "peakViewers": 753,
-      "totalMsgs": 11340,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "Grand Theft Auto V (GTA)",
-        "Chat Roulette",
-        "Special Events",
-        "Summer Game Fest 2026"
-      ]
-    },
     {
       "date": "2026-06-06",
       "avgViewers": 635,
@@ -689,8 +675,18 @@
         "Minecraft",
         "Lies of P"
       ]
+    },
+    {
+      "date": "2026-06-20",
+      "avgViewers": 145,
+      "peakViewers": 241,
+      "totalMsgs": 423,
+      "categories": [
+        "Just Chatting",
+        "Slots & Casino"
+      ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-20T13:13:40.581Z"
+  "lastUpdated": "2026-06-20T13:43:40.583Z"
 }
