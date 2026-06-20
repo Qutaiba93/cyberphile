@@ -1,10 +1,10 @@
 {
   "totalSessions": 131,
   "totalDays": 114,
-  "totalSegments": 5892,
+  "totalSegments": 5895,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1118955,
+  "totalMessages": 1119090,
   "categories": [
     {
       "name": "Rust",
@@ -176,10 +176,10 @@
     },
     {
       "name": "Meccha Chameleon",
-      "avgViewers": 637,
+      "avgViewers": 635,
       "peakViewers": 678,
-      "sampleCount": 9,
-      "totalMsgs": 722
+      "sampleCount": 12,
+      "totalMsgs": 857
     },
     {
       "name": "Sons of the Forest",
@@ -483,13 +483,13 @@
     },
     "18": {
       "avgViewers": 692,
-      "sampleCount": 572,
-      "totalMsgs": 118260
+      "sampleCount": 574,
+      "totalMsgs": 118355
     },
     "19": {
       "avgViewers": 690,
-      "sampleCount": 569,
-      "totalMsgs": 119340
+      "sampleCount": 570,
+      "totalMsgs": 119380
     },
     "20": {
       "avgViewers": 680,
@@ -678,9 +678,9 @@
     },
     {
       "date": "2026-06-20",
-      "avgViewers": 561,
+      "avgViewers": 567,
       "peakViewers": 673,
-      "totalMsgs": 6047,
+      "totalMsgs": 6182,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -692,5 +692,5 @@
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-20T18:43:40.590Z"
+  "lastUpdated": "2026-06-20T19:13:40.588Z"
 }

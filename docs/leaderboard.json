@@ -11,8 +11,8 @@
     },
     {
       "name": "shance",
-      "balance": 52362,
-      "totalEarned": 1100741,
+      "balance": 52374,
+      "totalEarned": 1100753,
       "totalSpent": 1129888,
       "gamesPlayed": 576,
       "gamesWon": 214,
@@ -38,8 +38,8 @@
     },
     {
       "name": "daecs",
-      "balance": 24972,
-      "totalEarned": 60771,
+      "balance": 24974,
+      "totalEarned": 60773,
       "totalSpent": 35799,
       "gamesPlayed": 17,
       "gamesWon": 9,
@@ -47,8 +47,8 @@
     },
     {
       "name": "weppss",
-      "balance": 23982,
-      "totalEarned": 29877,
+      "balance": 23988,
+      "totalEarned": 29883,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -101,8 +101,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 17399,
-      "totalEarned": 17500,
+      "balance": 17405,
+      "totalEarned": 17506,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,8 +146,8 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 14287,
-      "totalEarned": 57271,
+      "balance": 14309,
+      "totalEarned": 57293,
       "totalSpent": 42984,
       "gamesPlayed": 143,
       "gamesWon": 53,
@@ -218,8 +218,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 13120,
-      "totalEarned": 55985,
+      "balance": 13150,
+      "totalEarned": 56015,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -425,8 +425,8 @@
     },
     {
       "name": "donixo",
-      "balance": 9004,
-      "totalEarned": 9004,
+      "balance": 9006,
+      "totalEarned": 9006,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3264,
-    "totalCirculating": 2930396,
+    "totalCirculating": 2930714,
     "totalGames": 27133,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-20T18:43:40.609Z"
+  "lastUpdated": "2026-06-20T19:13:40.606Z"
 }
