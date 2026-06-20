@@ -1,10 +1,10 @@
 {
   "totalSessions": 131,
   "totalDays": 114,
-  "totalSegments": 5883,
+  "totalSegments": 5886,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1117527,
+  "totalMessages": 1118254,
   "categories": [
     {
       "name": "Rust",
@@ -59,8 +59,8 @@
       "name": "Chat Roulette",
       "avgViewers": 718,
       "peakViewers": 916,
-      "sampleCount": 522,
-      "totalMsgs": 116295
+      "sampleCount": 523,
+      "totalMsgs": 116469
     },
     {
       "name": "Log Riders",
@@ -276,8 +276,8 @@
       "name": "Just Chatting",
       "avgViewers": 584,
       "peakViewers": 903,
-      "sampleCount": 2236,
-      "totalMsgs": 430436
+      "sampleCount": 2238,
+      "totalMsgs": 430989
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -478,8 +478,8 @@
     },
     "17": {
       "avgViewers": 696,
-      "sampleCount": 558,
-      "totalMsgs": 106701
+      "sampleCount": 561,
+      "totalMsgs": 107428
     },
     "18": {
       "avgViewers": 692,
@@ -678,17 +678,18 @@
     },
     {
       "date": "2026-06-20",
-      "avgViewers": 528,
-      "peakViewers": 648,
-      "totalMsgs": 4619,
+      "avgViewers": 540,
+      "peakViewers": 656,
+      "totalMsgs": 5346,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
         "VALORANT",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-20T17:13:40.576Z"
+  "lastUpdated": "2026-06-20T17:43:40.592Z"
 }
