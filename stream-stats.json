@@ -1,10 +1,10 @@
 {
   "totalSessions": 131,
   "totalDays": 114,
-  "totalSegments": 5916,
+  "totalSegments": 5919,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1121456,
+  "totalMessages": 1121803,
   "categories": [
     {
       "name": "Rust",
@@ -80,8 +80,8 @@
       "name": "IRL",
       "avgViewers": 693,
       "peakViewers": 886,
-      "sampleCount": 302,
-      "totalMsgs": 101194
+      "sampleCount": 305,
+      "totalMsgs": 101541
     },
     {
       "name": "Summer Game Fest 2026",
@@ -502,14 +502,14 @@
       "totalMsgs": 122557
     },
     "22": {
-      "avgViewers": 665,
-      "sampleCount": 519,
-      "totalMsgs": 106262
+      "avgViewers": 664,
+      "sampleCount": 521,
+      "totalMsgs": 106459
     },
     "23": {
       "avgViewers": 631,
-      "sampleCount": 399,
-      "totalMsgs": 72755
+      "sampleCount": 400,
+      "totalMsgs": 72905
     }
   },
   "dailyHistory": [
@@ -678,9 +678,9 @@
     },
     {
       "date": "2026-06-20",
-      "avgViewers": 599,
+      "avgViewers": 600,
       "peakViewers": 681,
-      "totalMsgs": 8548,
+      "totalMsgs": 8895,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -693,5 +693,5 @@
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-20T22:43:40.587Z"
+  "lastUpdated": "2026-06-20T23:13:40.589Z"
 }

@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 73059,
-      "totalEarned": 1783257,
+      "balance": 73121,
+      "totalEarned": 1783319,
       "totalSpent": 1806119,
       "gamesPlayed": 1611,
       "gamesWon": 655,
@@ -91,6 +91,15 @@
       "streak": 2
     },
     {
+      "name": "faridlamm",
+      "balance": 17461,
+      "totalEarned": 17562,
+      "totalSpent": 101,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 2
+    },
+    {
       "name": "juggin247",
       "balance": 17444,
       "totalEarned": 17444,
@@ -98,15 +107,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 8
-    },
-    {
-      "name": "faridlamm",
-      "balance": 17435,
-      "totalEarned": 17536,
-      "totalSpent": 101,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
     },
     {
       "name": "papaah",
@@ -146,8 +146,8 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 14419,
-      "totalEarned": 57403,
+      "balance": 14477,
+      "totalEarned": 57461,
       "totalSpent": 42984,
       "gamesPlayed": 143,
       "gamesWon": 53,
@@ -380,8 +380,8 @@
     },
     {
       "name": "confusion",
-      "balance": 10101,
-      "totalEarned": 10616,
+      "balance": 10105,
+      "totalEarned": 10620,
       "totalSpent": 515,
       "gamesPlayed": 11,
       "gamesWon": 4,
@@ -416,8 +416,8 @@
     },
     {
       "name": "lecto",
-      "balance": 9055,
-      "totalEarned": 9055,
+      "balance": 9063,
+      "totalEarned": 9063,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,8 +434,8 @@
     },
     {
       "name": "chicitylol",
-      "balance": 8954,
-      "totalEarned": 8954,
+      "balance": 8962,
+      "totalEarned": 8962,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3267,
-    "totalCirculating": 2936353,
+    "totalPlayers": 3268,
+    "totalCirculating": 2937571,
     "totalGames": 27137,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-20T22:43:40.605Z"
+  "lastUpdated": "2026-06-20T23:13:40.604Z"
 }
