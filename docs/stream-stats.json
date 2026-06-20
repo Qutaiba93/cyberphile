@@ -1,10 +1,10 @@
 {
   "totalSessions": 131,
   "totalDays": 114,
-  "totalSegments": 5877,
+  "totalSegments": 5880,
   "allTimePeak": 17991,
   "allTimeAvg": 624,
-  "totalMessages": 1116356,
+  "totalMessages": 1116964,
   "categories": [
     {
       "name": "Rust",
@@ -171,8 +171,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 637,
       "peakViewers": 898,
-      "sampleCount": 624,
-      "totalMsgs": 99580
+      "sampleCount": 627,
+      "totalMsgs": 100188
     },
     {
       "name": "Meccha Chameleon",
@@ -473,8 +473,8 @@
     },
     "16": {
       "avgViewers": 639,
-      "sampleCount": 542,
-      "totalMsgs": 103403
+      "sampleCount": 545,
+      "totalMsgs": 104011
     },
     "17": {
       "avgViewers": 696,
@@ -678,9 +678,9 @@
     },
     {
       "date": "2026-06-20",
-      "avgViewers": 494,
+      "avgViewers": 512,
       "peakViewers": 648,
-      "totalMsgs": 3448,
+      "totalMsgs": 4056,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -690,5 +690,5 @@
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-20T16:13:40.587Z"
+  "lastUpdated": "2026-06-20T16:43:40.590Z"
 }
