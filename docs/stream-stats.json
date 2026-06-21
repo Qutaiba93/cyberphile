@@ -1,10 +1,10 @@
 {
   "totalSessions": 132,
   "totalDays": 115,
-  "totalSegments": 5950,
+  "totalSegments": 5952,
   "allTimePeak": 17991,
   "allTimeAvg": 623,
-  "totalMessages": 1125685,
+  "totalMessages": 1125731,
   "categories": [
     {
       "name": "Rust",
@@ -85,10 +85,10 @@
     },
     {
       "name": "Crab Game",
-      "avgViewers": 690,
-      "peakViewers": 694,
-      "sampleCount": 3,
-      "totalMsgs": 224
+      "avgViewers": 692,
+      "peakViewers": 701,
+      "sampleCount": 5,
+      "totalMsgs": 270
     },
     {
       "name": "Summer Game Fest 2026",
@@ -495,13 +495,13 @@
     },
     "19": {
       "avgViewers": 690,
-      "sampleCount": 579,
-      "totalMsgs": 120248
+      "sampleCount": 580,
+      "totalMsgs": 120283
     },
     "20": {
-      "avgViewers": 679,
-      "sampleCount": 610,
-      "totalMsgs": 135053
+      "avgViewers": 680,
+      "sampleCount": 611,
+      "totalMsgs": 135064
     },
     "21": {
       "avgViewers": 685,
@@ -688,9 +688,9 @@
     },
     {
       "date": "2026-06-21",
-      "avgViewers": 496,
+      "avgViewers": 520,
       "peakViewers": 722,
-      "totalMsgs": 2035,
+      "totalMsgs": 2081,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -699,5 +699,5 @@
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-21T19:43:40.709Z"
+  "lastUpdated": "2026-06-21T20:13:40.700Z"
 }
