@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 56225,
-      "totalEarned": 1879623,
+      "balance": 56247,
+      "totalEarned": 1879645,
       "totalSpent": 1919319,
       "gamesPlayed": 1661,
       "gamesWon": 673,
@@ -11,8 +11,8 @@
     },
     {
       "name": "daecs",
-      "balance": 55026,
-      "totalEarned": 220962,
+      "balance": 55028,
+      "totalEarned": 220964,
       "totalSpent": 165936,
       "gamesPlayed": 33,
       "gamesWon": 17,
@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 52515,
-      "totalEarned": 1100894,
+      "balance": 52531,
+      "totalEarned": 1100910,
       "totalSpent": 1129888,
       "gamesPlayed": 576,
       "gamesWon": 214,
@@ -38,8 +38,8 @@
     },
     {
       "name": "recentant",
-      "balance": 40799,
-      "totalEarned": 696877,
+      "balance": 40811,
+      "totalEarned": 696889,
       "totalSpent": 656078,
       "gamesPlayed": 136,
       "gamesWon": 67,
@@ -47,8 +47,8 @@
     },
     {
       "name": "shahin",
-      "balance": 34037,
-      "totalEarned": 156038,
+      "balance": 34063,
+      "totalEarned": 156064,
       "totalSpent": 122001,
       "gamesPlayed": 85,
       "gamesWon": 24,
@@ -146,8 +146,8 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 14566,
-      "totalEarned": 57550,
+      "balance": 14578,
+      "totalEarned": 57562,
       "totalSpent": 42984,
       "gamesPlayed": 143,
       "gamesWon": 53,
@@ -164,8 +164,8 @@
     },
     {
       "name": "bido_maggot",
-      "balance": 14161,
-      "totalEarned": 14161,
+      "balance": 14181,
+      "totalEarned": 14181,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -182,8 +182,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 13816,
-      "totalEarned": 13816,
+      "balance": 13840,
+      "totalEarned": 13840,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -236,8 +236,8 @@
     },
     {
       "name": "alexmesq",
-      "balance": 12770,
-      "totalEarned": 13770,
+      "balance": 12833,
+      "totalEarned": 13833,
       "totalSpent": 1000,
       "gamesPlayed": 2,
       "gamesWon": 0,
@@ -269,6 +269,15 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
+    },
+    {
+      "name": "cheesee6969",
+      "balance": 11364,
+      "totalEarned": 3940371,
+      "totalSpent": 3938947,
+      "gamesPlayed": 1034,
+      "gamesWon": 433,
+      "streak": 34
     },
     {
       "name": "damiybe",
@@ -335,8 +344,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 10591,
-      "totalEarned": 10591,
+      "balance": 10595,
+      "totalEarned": 10595,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -415,22 +424,22 @@
       "streak": 2
     },
     {
-      "name": "chicitylol",
-      "balance": 9045,
-      "totalEarned": 9045,
+      "name": "donixo",
+      "balance": 9101,
+      "totalEarned": 9101,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 3
     },
     {
-      "name": "donixo",
-      "balance": 9024,
-      "totalEarned": 9024,
+      "name": "chicitylol",
+      "balance": 9055,
+      "totalEarned": 9055,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "zz_nz",
@@ -440,21 +449,12 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 3
-    },
-    {
-      "name": "bushybrauz",
-      "balance": 8783,
-      "totalEarned": 8783,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
     }
   ],
   "stats": {
-    "totalPlayers": 3269,
-    "totalCirculating": 2954392,
-    "totalGames": 27239,
+    "totalPlayers": 3270,
+    "totalCirculating": 2963715,
+    "totalGames": 27247,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-21T17:43:40.703Z"
+  "lastUpdated": "2026-06-21T18:13:40.705Z"
 }

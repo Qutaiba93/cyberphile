@@ -1,10 +1,10 @@
 {
   "totalSessions": 132,
   "totalDays": 115,
-  "totalSegments": 5938,
+  "totalSegments": 5941,
   "allTimePeak": 17991,
   "allTimeAvg": 623,
-  "totalMessages": 1123815,
+  "totalMessages": 1124258,
   "categories": [
     {
       "name": "Rust",
@@ -169,10 +169,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 637,
+      "avgViewers": 636,
       "peakViewers": 898,
-      "sampleCount": 629,
-      "totalMsgs": 100440
+      "sampleCount": 632,
+      "totalMsgs": 100883
     },
     {
       "name": "Meccha Chameleon",
@@ -477,14 +477,14 @@
       "totalMsgs": 104263
     },
     "17": {
-      "avgViewers": 694,
-      "sampleCount": 565,
-      "totalMsgs": 107871
+      "avgViewers": 693,
+      "sampleCount": 567,
+      "totalMsgs": 108121
     },
     "18": {
-      "avgViewers": 692,
-      "sampleCount": 574,
-      "totalMsgs": 118355
+      "avgViewers": 691,
+      "sampleCount": 575,
+      "totalMsgs": 118548
     },
     "19": {
       "avgViewers": 690,
@@ -681,14 +681,15 @@
     },
     {
       "date": "2026-06-21",
-      "avgViewers": 188,
-      "peakViewers": 237,
-      "totalMsgs": 165,
+      "avgViewers": 275,
+      "peakViewers": 383,
+      "totalMsgs": 608,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-21T17:43:40.689Z"
+  "lastUpdated": "2026-06-21T18:13:40.691Z"
 }
