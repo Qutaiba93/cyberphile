@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 73291,
-      "totalEarned": 1783489,
+      "balance": 73309,
+      "totalEarned": 1783507,
       "totalSpent": 1806119,
       "gamesPlayed": 1611,
       "gamesWon": 655,
@@ -74,8 +74,8 @@
     },
     {
       "name": "shahin",
-      "balance": 19556,
-      "totalEarned": 121943,
+      "balance": 19574,
+      "totalEarned": 121961,
       "totalSpent": 102387,
       "gamesPlayed": 81,
       "gamesWon": 22,
@@ -92,8 +92,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 17576,
-      "totalEarned": 17677,
+      "balance": 17588,
+      "totalEarned": 17689,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -110,8 +110,8 @@
     },
     {
       "name": "papaah",
-      "balance": 16366,
-      "totalEarned": 17367,
+      "balance": 16384,
+      "totalEarned": 17385,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -335,12 +335,12 @@
     },
     {
       "name": "ganndz",
-      "balance": 10520,
-      "totalEarned": 10520,
+      "balance": 10587,
+      "totalEarned": 10587,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "parlaybuster",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3268,
-    "totalCirculating": 2940421,
+    "totalCirculating": 2941549,
     "totalGames": 27171,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-21T00:43:40.597Z"
+  "lastUpdated": "2026-06-21T01:13:40.599Z"
 }
