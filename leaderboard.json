@@ -47,8 +47,8 @@
     },
     {
       "name": "weppss",
-      "balance": 24121,
-      "totalEarned": 30016,
+      "balance": 24133,
+      "totalEarned": 30028,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -110,8 +110,8 @@
     },
     {
       "name": "papaah",
-      "balance": 16406,
-      "totalEarned": 17407,
+      "balance": 16422,
+      "totalEarned": 17423,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -344,8 +344,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 10395,
-      "totalEarned": 10395,
+      "balance": 10397,
+      "totalEarned": 10397,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3268,
-    "totalCirculating": 2942832,
+    "totalCirculating": 2943483,
     "totalGames": 27171,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-21T01:43:40.609Z"
+  "lastUpdated": "2026-06-21T02:13:40.608Z"
 }
