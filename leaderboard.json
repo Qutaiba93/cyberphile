@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 73309,
-      "totalEarned": 1783507,
+      "balance": 73325,
+      "totalEarned": 1783523,
       "totalSpent": 1806119,
       "gamesPlayed": 1611,
       "gamesWon": 655,
@@ -47,12 +47,12 @@
     },
     {
       "name": "weppss",
-      "balance": 24048,
-      "totalEarned": 29943,
+      "balance": 24121,
+      "totalEarned": 30016,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "nick6",
@@ -74,8 +74,8 @@
     },
     {
       "name": "shahin",
-      "balance": 19574,
-      "totalEarned": 121961,
+      "balance": 19606,
+      "totalEarned": 121993,
       "totalSpent": 102387,
       "gamesPlayed": 81,
       "gamesWon": 22,
@@ -110,8 +110,8 @@
     },
     {
       "name": "papaah",
-      "balance": 16384,
-      "totalEarned": 17385,
+      "balance": 16406,
+      "totalEarned": 17407,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -344,12 +344,12 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 10333,
-      "totalEarned": 10333,
+      "balance": 10395,
+      "totalEarned": 10395,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "nitro_st",
@@ -362,8 +362,8 @@
     },
     {
       "name": "confusion",
-      "balance": 10175,
-      "totalEarned": 10690,
+      "balance": 10177,
+      "totalEarned": 10692,
       "totalSpent": 515,
       "gamesPlayed": 11,
       "gamesWon": 4,
@@ -434,12 +434,12 @@
     },
     {
       "name": "zz_nz",
-      "balance": 8820,
-      "totalEarned": 8820,
+      "balance": 8889,
+      "totalEarned": 8889,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "bushybrauz",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3268,
-    "totalCirculating": 2941549,
+    "totalCirculating": 2942832,
     "totalGames": 27171,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-21T01:13:40.599Z"
+  "lastUpdated": "2026-06-21T01:43:40.609Z"
 }
