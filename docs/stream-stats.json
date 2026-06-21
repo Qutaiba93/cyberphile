@@ -1,10 +1,10 @@
 {
-  "totalSessions": 131,
-  "totalDays": 114,
-  "totalSegments": 5936,
+  "totalSessions": 132,
+  "totalDays": 115,
+  "totalSegments": 5938,
   "allTimePeak": 17991,
-  "allTimeAvg": 624,
-  "totalMessages": 1123650,
+  "allTimeAvg": 623,
+  "totalMessages": 1123815,
   "categories": [
     {
       "name": "Rust",
@@ -266,18 +266,18 @@
       "totalMsgs": 6916
     },
     {
-      "name": "Just Chatting",
-      "avgViewers": 585,
-      "peakViewers": 903,
-      "sampleCount": 2263,
-      "totalMsgs": 433700
-    },
-    {
       "name": "Dread Neighbor",
       "avgViewers": 585,
       "peakViewers": 618,
       "sampleCount": 7,
       "totalMsgs": 487
+    },
+    {
+      "name": "Just Chatting",
+      "avgViewers": 584,
+      "peakViewers": 903,
+      "sampleCount": 2265,
+      "totalMsgs": 433865
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -477,9 +477,9 @@
       "totalMsgs": 104263
     },
     "17": {
-      "avgViewers": 696,
-      "sampleCount": 563,
-      "totalMsgs": 107706
+      "avgViewers": 694,
+      "sampleCount": 565,
+      "totalMsgs": 107871
     },
     "18": {
       "avgViewers": 692,
@@ -513,18 +513,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-06",
-      "avgViewers": 635,
-      "peakViewers": 713,
-      "totalMsgs": 8979,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "Grand Theft Auto V (GTA)",
-        "VRChat"
-      ]
-    },
     {
       "date": "2026-06-07",
       "avgViewers": 424,
@@ -690,8 +678,17 @@
         "Meccha Chameleon",
         "IRL"
       ]
+    },
+    {
+      "date": "2026-06-21",
+      "avgViewers": 188,
+      "peakViewers": 237,
+      "totalMsgs": 165,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-21T17:13:40.698Z"
+  "lastUpdated": "2026-06-21T17:43:40.689Z"
 }
