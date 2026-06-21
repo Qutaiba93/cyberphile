@@ -38,11 +38,11 @@
     },
     {
       "name": "daecs",
-      "balance": 40004,
-      "totalEarned": 135940,
-      "totalSpent": 95936,
-      "gamesPlayed": 26,
-      "gamesWon": 13,
+      "balance": 40024,
+      "totalEarned": 195960,
+      "totalSpent": 155936,
+      "gamesPlayed": 32,
+      "gamesWon": 16,
       "streak": 3
     },
     {
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3268,
-    "totalCirculating": 2930768,
-    "totalGames": 27219,
+    "totalCirculating": 2930788,
+    "totalGames": 27225,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-21T12:13:40.682Z"
+  "lastUpdated": "2026-06-21T12:43:40.679Z"
 }
