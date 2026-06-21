@@ -55,6 +55,15 @@
       "streak": 3
     },
     {
+      "name": "shahin",
+      "balance": 21610,
+      "totalEarned": 131997,
+      "totalSpent": 110387,
+      "gamesPlayed": 83,
+      "gamesWon": 23,
+      "streak": 3
+    },
+    {
       "name": "nick6",
       "balance": 21041,
       "totalEarned": 21042,
@@ -71,15 +80,6 @@
       "gamesPlayed": 10162,
       "gamesWon": 4415,
       "streak": 10
-    },
-    {
-      "name": "shahin",
-      "balance": 19606,
-      "totalEarned": 121993,
-      "totalSpent": 102387,
-      "gamesPlayed": 81,
-      "gamesWon": 22,
-      "streak": 3
     },
     {
       "name": "schitt",
@@ -335,8 +335,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 10587,
-      "totalEarned": 10587,
+      "balance": 10589,
+      "totalEarned": 10589,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3268,
-    "totalCirculating": 2937795,
-    "totalGames": 27235,
+    "totalCirculating": 2939803,
+    "totalGames": 27237,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-21T16:43:40.695Z"
+  "lastUpdated": "2026-06-21T17:13:40.729Z"
 }
