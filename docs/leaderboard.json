@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 56269,
-      "totalEarned": 1879667,
+      "balance": 56378,
+      "totalEarned": 1879776,
       "totalSpent": 1919319,
       "gamesPlayed": 1661,
       "gamesWon": 673,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "daecs",
@@ -20,12 +20,12 @@
     },
     {
       "name": "shance",
-      "balance": 52539,
-      "totalEarned": 1100918,
+      "balance": 52633,
+      "totalEarned": 1101012,
       "totalSpent": 1129888,
       "gamesPlayed": 576,
       "gamesWon": 214,
-      "streak": 7
+      "streak": 8
     },
     {
       "name": "zuyu",
@@ -163,6 +163,15 @@
       "streak": 1
     },
     {
+      "name": "ahmet_uk",
+      "balance": 14034,
+      "totalEarned": 14034,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 13
+    },
+    {
       "name": "bbalint320",
       "balance": 13937,
       "totalEarned": 14077,
@@ -170,15 +179,6 @@
       "gamesPlayed": 14,
       "gamesWon": 1,
       "streak": 1
-    },
-    {
-      "name": "ahmet_uk",
-      "balance": 13928,
-      "totalEarned": 13928,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 12
     },
     {
       "name": "seraj",
@@ -290,12 +290,12 @@
     },
     {
       "name": "cuuula",
-      "balance": 11032,
-      "totalEarned": 11032,
+      "balance": 11134,
+      "totalEarned": 11134,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 13
+      "streak": 14
     },
     {
       "name": "iam_umii",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3271,
-    "totalCirculating": 2934813,
+    "totalCirculating": 2936660,
     "totalGames": 27263,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-22T13:43:40.920Z"
+  "lastUpdated": "2026-06-22T14:13:40.892Z"
 }

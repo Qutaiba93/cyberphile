@@ -1,10 +1,10 @@
 {
-  "totalSessions": 132,
-  "totalDays": 115,
-  "totalSegments": 5953,
+  "totalSessions": 133,
+  "totalDays": 116,
+  "totalSegments": 5955,
   "allTimePeak": 17991,
   "allTimeAvg": 623,
-  "totalMessages": 1125760,
+  "totalMessages": 1126044,
   "categories": [
     {
       "name": "Rust",
@@ -273,18 +273,18 @@
       "totalMsgs": 6916
     },
     {
-      "name": "Just Chatting",
-      "avgViewers": 585,
-      "peakViewers": 903,
-      "sampleCount": 2268,
-      "totalMsgs": 434777
-    },
-    {
       "name": "Dread Neighbor",
       "avgViewers": 585,
       "peakViewers": 618,
       "sampleCount": 7,
       "totalMsgs": 487
+    },
+    {
+      "name": "Just Chatting",
+      "avgViewers": 584,
+      "peakViewers": 903,
+      "sampleCount": 2270,
+      "totalMsgs": 435061
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -464,14 +464,14 @@
       "totalMsgs": 804
     },
     "13": {
-      "avgViewers": 239,
-      "sampleCount": 92,
-      "totalMsgs": 9326
+      "avgViewers": 237,
+      "sampleCount": 93,
+      "totalMsgs": 9570
     },
     "14": {
       "avgViewers": 375,
-      "sampleCount": 342,
-      "totalMsgs": 52953
+      "sampleCount": 343,
+      "totalMsgs": 52993
     },
     "15": {
       "avgViewers": 529,
@@ -520,18 +520,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-07",
-      "avgViewers": 424,
-      "peakViewers": 642,
-      "totalMsgs": 8477,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "Special Events",
-        "Counter-Strike 2"
-      ]
-    },
     {
       "date": "2026-06-09",
       "avgViewers": 344,
@@ -696,8 +684,17 @@
         "Counter-Strike 2",
         "Crab Game"
       ]
+    },
+    {
+      "date": "2026-06-22",
+      "avgViewers": 114,
+      "peakViewers": 183,
+      "totalMsgs": 284,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-22T13:43:40.887Z"
+  "lastUpdated": "2026-06-22T14:13:40.874Z"
 }
