@@ -1,10 +1,10 @@
 {
   "totalSessions": 133,
   "totalDays": 116,
-  "totalSegments": 6008,
+  "totalSegments": 6011,
   "allTimePeak": 17991,
   "allTimeAvg": 623,
-  "totalMessages": 1129978,
+  "totalMessages": 1130169,
   "categories": [
     {
       "name": "Rust",
@@ -154,13 +154,6 @@
       "totalMsgs": 5736
     },
     {
-      "name": "World Cup 2026",
-      "avgViewers": 642,
-      "peakViewers": 734,
-      "sampleCount": 15,
-      "totalMsgs": 1397
-    },
-    {
       "name": "VRChat",
       "avgViewers": 640,
       "peakViewers": 796,
@@ -180,6 +173,13 @@
       "peakViewers": 898,
       "sampleCount": 645,
       "totalMsgs": 101828
+    },
+    {
+      "name": "World Cup 2026",
+      "avgViewers": 635,
+      "peakViewers": 734,
+      "sampleCount": 18,
+      "totalMsgs": 1588
     },
     {
       "name": "Meccha Chameleon",
@@ -515,8 +515,8 @@
     },
     "23": {
       "avgViewers": 631,
-      "sampleCount": 406,
-      "totalMsgs": 73446
+      "sampleCount": 409,
+      "totalMsgs": 73637
     }
   },
   "dailyHistory": [
@@ -687,9 +687,9 @@
     },
     {
       "date": "2026-06-22",
-      "avgViewers": 576,
+      "avgViewers": 577,
       "peakViewers": 653,
-      "totalMsgs": 4218,
+      "totalMsgs": 4409,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -701,5 +701,5 @@
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-22T23:13:40.916Z"
+  "lastUpdated": "2026-06-22T23:43:40.920Z"
 }
