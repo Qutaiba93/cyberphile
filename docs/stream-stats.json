@@ -1,10 +1,10 @@
 {
   "totalSessions": 133,
   "totalDays": 116,
-  "totalSegments": 5966,
+  "totalSegments": 5969,
   "allTimePeak": 17991,
   "allTimeAvg": 623,
-  "totalMessages": 1126965,
+  "totalMessages": 1127134,
   "categories": [
     {
       "name": "Rust",
@@ -59,8 +59,8 @@
       "name": "Chat Roulette",
       "avgViewers": 716,
       "peakViewers": 916,
-      "sampleCount": 532,
-      "totalMsgs": 117267
+      "sampleCount": 534,
+      "totalMsgs": 117381
     },
     {
       "name": "Log Riders",
@@ -178,8 +178,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 635,
       "peakViewers": 898,
-      "sampleCount": 635,
-      "totalMsgs": 101174
+      "sampleCount": 636,
+      "totalMsgs": 101229
     },
     {
       "name": "Meccha Chameleon",
@@ -480,8 +480,8 @@
     },
     "16": {
       "avgViewers": 638,
-      "sampleCount": 548,
-      "totalMsgs": 104313
+      "sampleCount": 551,
+      "totalMsgs": 104482
     },
     "17": {
       "avgViewers": 693,
@@ -687,16 +687,17 @@
     },
     {
       "date": "2026-06-22",
-      "avgViewers": 417,
-      "peakViewers": 605,
-      "totalMsgs": 1205,
+      "avgViewers": 456,
+      "peakViewers": 634,
+      "totalMsgs": 1374,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-22T16:13:40.890Z"
+  "lastUpdated": "2026-06-22T16:43:40.885Z"
 }

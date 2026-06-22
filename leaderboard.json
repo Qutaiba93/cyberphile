@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 56468,
-      "totalEarned": 1879866,
+      "balance": 56470,
+      "totalEarned": 1879868,
       "totalSpent": 1919319,
       "gamesPlayed": 1661,
       "gamesWon": 673,
@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 52643,
-      "totalEarned": 1101022,
+      "balance": 52649,
+      "totalEarned": 1101028,
       "totalSpent": 1129888,
       "gamesPlayed": 576,
       "gamesWon": 214,
@@ -38,8 +38,8 @@
     },
     {
       "name": "recentant",
-      "balance": 40937,
-      "totalEarned": 697015,
+      "balance": 40939,
+      "totalEarned": 697017,
       "totalSpent": 656078,
       "gamesPlayed": 136,
       "gamesWon": 67,
@@ -110,12 +110,12 @@
     },
     {
       "name": "kale96",
-      "balance": 16115,
-      "totalEarned": 22665,
+      "balance": 16223,
+      "totalEarned": 22773,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
-      "streak": 12
+      "streak": 13
     },
     {
       "name": "upkey",
@@ -146,8 +146,8 @@
     },
     {
       "name": "bido_maggot",
-      "balance": 14257,
-      "totalEarned": 14257,
+      "balance": 14259,
+      "totalEarned": 14259,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -164,8 +164,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 14078,
-      "totalEarned": 14078,
+      "balance": 14086,
+      "totalEarned": 14086,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -254,8 +254,8 @@
     },
     {
       "name": "cheesee6969",
-      "balance": 11710,
-      "totalEarned": 3940717,
+      "balance": 11722,
+      "totalEarned": 3940729,
       "totalSpent": 3938947,
       "gamesPlayed": 1034,
       "gamesWon": 433,
@@ -308,8 +308,8 @@
     },
     {
       "name": "skullyontop",
-      "balance": 10774,
-      "totalEarned": 10784,
+      "balance": 10792,
+      "totalEarned": 10802,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 1,
@@ -352,6 +352,15 @@
       "streak": 3
     },
     {
+      "name": "politecatt",
+      "balance": 10315,
+      "totalEarned": 10365,
+      "totalSpent": 50,
+      "gamesPlayed": 3,
+      "gamesWon": 1,
+      "streak": 4
+    },
+    {
       "name": "nitro_st",
       "balance": 10314,
       "totalEarned": 10314,
@@ -359,15 +368,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
-    },
-    {
-      "name": "politecatt",
-      "balance": 10243,
-      "totalEarned": 10293,
-      "totalSpent": 50,
-      "gamesPlayed": 3,
-      "gamesWon": 1,
-      "streak": 3
     },
     {
       "name": "confusion",
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3275,
-    "totalCirculating": 2942902,
+    "totalPlayers": 3277,
+    "totalCirculating": 2944709,
     "totalGames": 27263,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-22T16:13:40.907Z"
+  "lastUpdated": "2026-06-22T16:43:40.907Z"
 }
