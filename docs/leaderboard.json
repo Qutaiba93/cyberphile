@@ -29,8 +29,8 @@
     },
     {
       "name": "shance",
-      "balance": 52699,
-      "totalEarned": 1101078,
+      "balance": 52703,
+      "totalEarned": 1101082,
       "totalSpent": 1129888,
       "gamesPlayed": 576,
       "gamesWon": 214,
@@ -245,8 +245,8 @@
     },
     {
       "name": "cheesee6969",
-      "balance": 11996,
-      "totalEarned": 3941003,
+      "balance": 11998,
+      "totalEarned": 3941005,
       "totalSpent": 3938947,
       "gamesPlayed": 1034,
       "gamesWon": 433,
@@ -272,8 +272,8 @@
     },
     {
       "name": "damiybe",
-      "balance": 11348,
-      "totalEarned": 11358,
+      "balance": 11350,
+      "totalEarned": 11360,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -299,8 +299,8 @@
     },
     {
       "name": "skullyontop",
-      "balance": 10906,
-      "totalEarned": 10916,
+      "balance": 10908,
+      "totalEarned": 10918,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 1,
@@ -371,8 +371,8 @@
     },
     {
       "name": "confusion",
-      "balance": 10264,
-      "totalEarned": 10779,
+      "balance": 10266,
+      "totalEarned": 10781,
       "totalSpent": 515,
       "gamesPlayed": 11,
       "gamesWon": 4,
@@ -415,6 +415,15 @@
       "streak": 3
     },
     {
+      "name": "donixo",
+      "balance": 9191,
+      "totalEarned": 9191,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 4
+    },
+    {
       "name": "chicitylol",
       "balance": 9147,
       "totalEarned": 9147,
@@ -422,15 +431,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 4
-    },
-    {
-      "name": "donixo",
-      "balance": 9117,
-      "totalEarned": 9117,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 3
     },
     {
       "name": "zz_nz",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3279,
-    "totalCirculating": 2976115,
+    "totalCirculating": 2976425,
     "totalGames": 27287,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-22T20:13:40.907Z"
+  "lastUpdated": "2026-06-22T20:43:40.919Z"
 }
