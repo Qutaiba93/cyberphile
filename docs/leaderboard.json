@@ -64,15 +64,6 @@
       "streak": 3
     },
     {
-      "name": "shahin",
-      "balance": 20091,
-      "totalEarned": 206092,
-      "totalSpent": 186001,
-      "gamesPlayed": 92,
-      "gamesWon": 26,
-      "streak": 3
-    },
-    {
       "name": "6ixzeven",
       "balance": 19814,
       "totalEarned": 1967022,
@@ -449,12 +440,21 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 3
+    },
+    {
+      "name": "bushybrauz",
+      "balance": 8783,
+      "totalEarned": 8783,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
     }
   ],
   "stats": {
     "totalPlayers": 3271,
-    "totalCirculating": 2954898,
-    "totalGames": 27259,
+    "totalCirculating": 2934813,
+    "totalGames": 27263,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-21T23:43:40.759Z"
+  "lastUpdated": "2026-06-22T00:13:40.778Z"
 }
