@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 56464,
-      "totalEarned": 1879862,
+      "balance": 56468,
+      "totalEarned": 1879866,
       "totalSpent": 1919319,
       "gamesPlayed": 1661,
       "gamesWon": 673,
@@ -11,12 +11,12 @@
     },
     {
       "name": "daecs",
-      "balance": 55036,
-      "totalEarned": 220972,
+      "balance": 55110,
+      "totalEarned": 221046,
       "totalSpent": 165936,
       "gamesPlayed": 33,
       "gamesWon": 17,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "shance",
@@ -47,12 +47,12 @@
     },
     {
       "name": "weppss",
-      "balance": 24135,
-      "totalEarned": 30030,
+      "balance": 24225,
+      "totalEarned": 30120,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "nick6",
@@ -145,6 +145,15 @@
       "streak": 3
     },
     {
+      "name": "bido_maggot",
+      "balance": 14257,
+      "totalEarned": 14257,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 2
+    },
+    {
       "name": "twilighty",
       "balance": 14212,
       "totalEarned": 14212,
@@ -154,18 +163,9 @@
       "streak": 3
     },
     {
-      "name": "bido_maggot",
-      "balance": 14193,
-      "totalEarned": 14193,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
-    },
-    {
       "name": "ahmet_uk",
-      "balance": 14070,
-      "totalEarned": 14070,
+      "balance": 14078,
+      "totalEarned": 14078,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -254,8 +254,8 @@
     },
     {
       "name": "cheesee6969",
-      "balance": 11708,
-      "totalEarned": 3940715,
+      "balance": 11710,
+      "totalEarned": 3940717,
       "totalSpent": 3938947,
       "gamesPlayed": 1034,
       "gamesWon": 433,
@@ -307,6 +307,15 @@
       "streak": 1
     },
     {
+      "name": "skullyontop",
+      "balance": 10774,
+      "totalEarned": 10784,
+      "totalSpent": 10,
+      "gamesPlayed": 1,
+      "gamesWon": 1,
+      "streak": 4
+    },
+    {
       "name": "quantik",
       "balance": 10693,
       "totalEarned": 10693,
@@ -314,15 +323,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
-    },
-    {
-      "name": "skullyontop",
-      "balance": 10680,
-      "totalEarned": 10690,
-      "totalSpent": 10,
-      "gamesPlayed": 1,
-      "gamesWon": 1,
-      "streak": 3
     },
     {
       "name": "ganndz",
@@ -344,12 +344,12 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 10423,
-      "totalEarned": 10423,
+      "balance": 10492,
+      "totalEarned": 10492,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "nitro_st",
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3274,
-    "totalCirculating": 2941617,
+    "totalPlayers": 3275,
+    "totalCirculating": 2942902,
     "totalGames": 27263,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-22T15:43:40.901Z"
+  "lastUpdated": "2026-06-22T16:13:40.907Z"
 }
