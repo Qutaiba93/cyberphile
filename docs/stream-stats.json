@@ -1,10 +1,10 @@
 {
   "totalSessions": 133,
   "totalDays": 116,
-  "totalSegments": 5996,
+  "totalSegments": 5999,
   "allTimePeak": 17991,
   "allTimeAvg": 623,
-  "totalMessages": 1129418,
+  "totalMessages": 1129539,
   "categories": [
     {
       "name": "Rust",
@@ -98,13 +98,6 @@
       "totalMsgs": 4135
     },
     {
-      "name": "World Cup 2026",
-      "avgViewers": 679,
-      "peakViewers": 734,
-      "sampleCount": 4,
-      "totalMsgs": 892
-    },
-    {
       "name": "Sea of Thieves",
       "avgViewers": 673,
       "peakViewers": 776,
@@ -117,6 +110,13 @@
       "peakViewers": 839,
       "sampleCount": 496,
       "totalMsgs": 79722
+    },
+    {
+      "name": "World Cup 2026",
+      "avgViewers": 667,
+      "peakViewers": 734,
+      "sampleCount": 6,
+      "totalMsgs": 958
     },
     {
       "name": "The Empty Eyes",
@@ -273,18 +273,18 @@
       "totalMsgs": 6916
     },
     {
+      "name": "Just Chatting",
+      "avgViewers": 585,
+      "peakViewers": 903,
+      "sampleCount": 2285,
+      "totalMsgs": 436256
+    },
+    {
       "name": "Dread Neighbor",
       "avgViewers": 585,
       "peakViewers": 618,
       "sampleCount": 7,
       "totalMsgs": 487
-    },
-    {
-      "name": "Just Chatting",
-      "avgViewers": 584,
-      "peakViewers": 903,
-      "sampleCount": 2284,
-      "totalMsgs": 436201
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -505,8 +505,8 @@
     },
     "21": {
       "avgViewers": 685,
-      "sampleCount": 601,
-      "totalMsgs": 122636
+      "sampleCount": 604,
+      "totalMsgs": 122757
     },
     "22": {
       "avgViewers": 664,
@@ -687,18 +687,19 @@
     },
     {
       "date": "2026-06-22",
-      "avgViewers": 562,
+      "avgViewers": 567,
       "peakViewers": 653,
-      "totalMsgs": 3658,
+      "totalMsgs": 3779,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
         "Chat Roulette",
         "Counter-Strike 2",
-        "Minecraft"
+        "Minecraft",
+        "World Cup 2026"
       ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-22T21:13:40.903Z"
+  "lastUpdated": "2026-06-22T21:43:40.910Z"
 }
