@@ -1,10 +1,10 @@
 {
   "totalSessions": 133,
   "totalDays": 116,
-  "totalSegments": 6005,
+  "totalSegments": 6008,
   "allTimePeak": 17991,
   "allTimeAvg": 623,
-  "totalMessages": 1129771,
+  "totalMessages": 1129978,
   "categories": [
     {
       "name": "Rust",
@@ -147,18 +147,18 @@
       "totalMsgs": 7002
     },
     {
-      "name": "World Cup 2026",
-      "avgViewers": 648,
-      "peakViewers": 734,
-      "sampleCount": 12,
-      "totalMsgs": 1190
-    },
-    {
       "name": "The Elder Scrolls V: Skyrim",
       "avgViewers": 645,
       "peakViewers": 744,
       "sampleCount": 30,
       "totalMsgs": 5736
+    },
+    {
+      "name": "World Cup 2026",
+      "avgViewers": 642,
+      "peakViewers": 734,
+      "sampleCount": 15,
+      "totalMsgs": 1397
     },
     {
       "name": "VRChat",
@@ -510,13 +510,13 @@
     },
     "22": {
       "avgViewers": 664,
-      "sampleCount": 525,
-      "totalMsgs": 106650
+      "sampleCount": 527,
+      "totalMsgs": 106790
     },
     "23": {
       "avgViewers": 631,
-      "sampleCount": 405,
-      "totalMsgs": 73379
+      "sampleCount": 406,
+      "totalMsgs": 73446
     }
   },
   "dailyHistory": [
@@ -687,9 +687,9 @@
     },
     {
       "date": "2026-06-22",
-      "avgViewers": 574,
+      "avgViewers": 576,
       "peakViewers": 653,
-      "totalMsgs": 4011,
+      "totalMsgs": 4218,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -701,5 +701,5 @@
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-22T22:43:40.908Z"
+  "lastUpdated": "2026-06-22T23:13:40.916Z"
 }
