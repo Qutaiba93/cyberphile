@@ -1,6 +1,15 @@
 {
   "leaderboard": [
     {
+      "name": "daecs",
+      "balance": 90267,
+      "totalEarned": 326203,
+      "totalSpent": 235936,
+      "gamesPlayed": 40,
+      "gamesWon": 22,
+      "streak": 5
+    },
+    {
       "name": "recentant",
       "balance": 61011,
       "totalEarned": 857089,
@@ -16,15 +25,6 @@
       "totalSpent": 1919319,
       "gamesPlayed": 1661,
       "gamesWon": 673,
-      "streak": 5
-    },
-    {
-      "name": "daecs",
-      "balance": 55237,
-      "totalEarned": 221173,
-      "totalSpent": 165936,
-      "gamesPlayed": 33,
-      "gamesWon": 17,
       "streak": 5
     },
     {
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3282,
-    "totalCirculating": 2983687,
-    "totalGames": 27296,
+    "totalCirculating": 3018796,
+    "totalGames": 27303,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-23T12:13:41.060Z"
+  "lastUpdated": "2026-06-23T12:43:41.050Z"
 }
