@@ -1,10 +1,10 @@
 {
   "totalSessions": 133,
   "totalDays": 116,
-  "totalSegments": 6014,
+  "totalSegments": 6017,
   "allTimePeak": 17991,
   "allTimeAvg": 623,
-  "totalMessages": 1130491,
+  "totalMessages": 1130640,
   "categories": [
     {
       "name": "Rust",
@@ -189,13 +189,6 @@
       "totalMsgs": 3485
     },
     {
-      "name": "World Cup 2026",
-      "avgViewers": 628,
-      "peakViewers": 734,
-      "sampleCount": 21,
-      "totalMsgs": 1910
-    },
-    {
       "name": "Psalm 5:9-13",
       "avgViewers": 625,
       "peakViewers": 674,
@@ -222,6 +215,13 @@
       "peakViewers": 709,
       "sampleCount": 26,
       "totalMsgs": 3536
+    },
+    {
+      "name": "World Cup 2026",
+      "avgViewers": 620,
+      "peakViewers": 734,
+      "sampleCount": 24,
+      "totalMsgs": 2059
     },
     {
       "name": "Trees Hate You",
@@ -430,8 +430,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 579,
-      "sampleCount": 310,
-      "totalMsgs": 45085
+      "sampleCount": 313,
+      "totalMsgs": 45234
     },
     "1": {
       "avgViewers": 529,
@@ -687,9 +687,9 @@
     },
     {
       "date": "2026-06-22",
-      "avgViewers": 578,
+      "avgViewers": 577,
       "peakViewers": 653,
-      "totalMsgs": 4731,
+      "totalMsgs": 4880,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -701,5 +701,5 @@
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-23T00:13:40.929Z"
+  "lastUpdated": "2026-06-23T00:43:40.906Z"
 }
