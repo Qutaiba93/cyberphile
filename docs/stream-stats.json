@@ -1,10 +1,10 @@
 {
   "totalSessions": 134,
   "totalDays": 117,
-  "totalSegments": 6030,
+  "totalSegments": 6033,
   "allTimePeak": 17991,
   "allTimeAvg": 622,
-  "totalMessages": 1131591,
+  "totalMessages": 1131901,
   "categories": [
     {
       "name": "Rust",
@@ -168,18 +168,18 @@
       "totalMsgs": 7649
     },
     {
-      "name": "Counter-Strike 2",
-      "avgViewers": 635,
-      "peakViewers": 898,
-      "sampleCount": 647,
-      "totalMsgs": 101964
-    },
-    {
       "name": "Meccha Chameleon",
       "avgViewers": 635,
       "peakViewers": 678,
       "sampleCount": 12,
       "totalMsgs": 857
+    },
+    {
+      "name": "Counter-Strike 2",
+      "avgViewers": 634,
+      "peakViewers": 898,
+      "sampleCount": 650,
+      "totalMsgs": 102274
     },
     {
       "name": "Sons of the Forest",
@@ -475,8 +475,8 @@
     },
     "15": {
       "avgViewers": 529,
-      "sampleCount": 482,
-      "totalMsgs": 86929
+      "sampleCount": 485,
+      "totalMsgs": 87239
     },
     "16": {
       "avgViewers": 638,
@@ -691,9 +691,9 @@
     },
     {
       "date": "2026-06-23",
-      "avgViewers": 402,
-      "peakViewers": 523,
-      "totalMsgs": 919,
+      "avgViewers": 426,
+      "peakViewers": 528,
+      "totalMsgs": 1229,
       "categories": [
         "World Cup 2026",
         "Just Chatting",
@@ -703,5 +703,5 @@
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-23T15:13:41.034Z"
+  "lastUpdated": "2026-06-23T15:43:41.035Z"
 }
