@@ -1,10 +1,10 @@
 {
   "totalSessions": 133,
   "totalDays": 116,
-  "totalSegments": 6017,
+  "totalSegments": 6018,
   "allTimePeak": 17991,
   "allTimeAvg": 623,
-  "totalMessages": 1130640,
+  "totalMessages": 1130672,
   "categories": [
     {
       "name": "Rust",
@@ -218,10 +218,10 @@
     },
     {
       "name": "World Cup 2026",
-      "avgViewers": 620,
+      "avgViewers": 617,
       "peakViewers": 734,
-      "sampleCount": 24,
-      "totalMsgs": 2059
+      "sampleCount": 25,
+      "totalMsgs": 2091
     },
     {
       "name": "Trees Hate You",
@@ -430,8 +430,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 579,
-      "sampleCount": 313,
-      "totalMsgs": 45234
+      "sampleCount": 314,
+      "totalMsgs": 45266
     },
     "1": {
       "avgViewers": 529,
@@ -689,7 +689,7 @@
       "date": "2026-06-22",
       "avgViewers": 577,
       "peakViewers": 653,
-      "totalMsgs": 4880,
+      "totalMsgs": 4912,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -701,5 +701,5 @@
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-23T00:43:40.906Z"
+  "lastUpdated": "2026-06-23T01:13:40.941Z"
 }
