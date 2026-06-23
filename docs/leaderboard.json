@@ -11,26 +11,26 @@
     },
     {
       "name": "recentant",
-      "balance": 61011,
-      "totalEarned": 857089,
+      "balance": 61119,
+      "totalEarned": 857197,
       "totalSpent": 796078,
       "gamesPlayed": 154,
       "gamesWon": 77,
-      "streak": 13
+      "streak": 14
     },
     {
       "name": "meliziana",
-      "balance": 56494,
-      "totalEarned": 1879892,
+      "balance": 56582,
+      "totalEarned": 1879980,
       "totalSpent": 1919319,
       "gamesPlayed": 1661,
       "gamesWon": 673,
-      "streak": 5
+      "streak": 6
     },
     {
       "name": "shance",
-      "balance": 52840,
-      "totalEarned": 1101219,
+      "balance": 52848,
+      "totalEarned": 1101227,
       "totalSpent": 1129888,
       "gamesPlayed": 576,
       "gamesWon": 214,
@@ -133,6 +133,15 @@
       "totalSpent": 42984,
       "gamesPlayed": 143,
       "gamesWon": 53,
+      "streak": 5
+    },
+    {
+      "name": "sikkk9",
+      "balance": 14898,
+      "totalEarned": 187128,
+      "totalSpent": 172230,
+      "gamesPlayed": 241,
+      "gamesWon": 112,
       "streak": 5
     },
     {
@@ -433,28 +442,19 @@
       "streak": 4
     },
     {
-      "name": "zz_nz",
-      "balance": 9062,
-      "totalEarned": 9062,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 5
-    },
-    {
-      "name": "thelegend99",
-      "balance": 8853,
-      "totalEarned": 9353,
-      "totalSpent": 500,
-      "gamesPlayed": 1,
-      "gamesWon": 1,
+      "name": "rpcsgo",
+      "balance": 9084,
+      "totalEarned": 335999,
+      "totalSpent": 326915,
+      "gamesPlayed": 305,
+      "gamesWon": 143,
       "streak": 5
     }
   ],
   "stats": {
-    "totalPlayers": 3283,
-    "totalCirculating": 3022857,
-    "totalGames": 27303,
+    "totalPlayers": 3285,
+    "totalCirculating": 3044422,
+    "totalGames": 27309,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-23T14:13:41.047Z"
+  "lastUpdated": "2026-06-23T14:43:41.062Z"
 }
