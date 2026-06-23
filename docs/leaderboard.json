@@ -74,8 +74,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 17921,
-      "totalEarned": 18022,
+      "balance": 17943,
+      "totalEarned": 18044,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -92,8 +92,8 @@
     },
     {
       "name": "papaah",
-      "balance": 16681,
-      "totalEarned": 17682,
+      "balance": 16695,
+      "totalEarned": 17696,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -263,8 +263,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 11244,
-      "totalEarned": 11244,
+      "balance": 11246,
+      "totalEarned": 11246,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -280,6 +280,15 @@
       "streak": 13
     },
     {
+      "name": "skullyontop",
+      "balance": 11017,
+      "totalEarned": 11027,
+      "totalSpent": 10,
+      "gamesPlayed": 1,
+      "gamesWon": 1,
+      "streak": 5
+    },
+    {
       "name": "iam_umii",
       "balance": 10944,
       "totalEarned": 10944,
@@ -287,15 +296,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
-    },
-    {
-      "name": "skullyontop",
-      "balance": 10920,
-      "totalEarned": 10930,
-      "totalSpent": 10,
-      "gamesPlayed": 1,
-      "gamesWon": 1,
-      "streak": 4
     },
     {
       "name": "quantik",
@@ -389,8 +389,8 @@
     },
     {
       "name": "lecto",
-      "balance": 9342,
-      "totalEarned": 9342,
+      "balance": 9356,
+      "totalEarned": 9356,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3287,
-    "totalCirculating": 2949631,
+    "totalPlayers": 3288,
+    "totalCirculating": 2950751,
     "totalGames": 27460,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-23T16:13:41.065Z"
+  "lastUpdated": "2026-06-23T16:43:41.046Z"
 }
