@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "daecs",
-      "balance": 90267,
-      "totalEarned": 326203,
+      "balance": 90271,
+      "totalEarned": 326207,
       "totalSpent": 235936,
       "gamesPlayed": 40,
       "gamesWon": 22,
@@ -29,12 +29,12 @@
     },
     {
       "name": "shance",
-      "balance": 52709,
-      "totalEarned": 1101088,
+      "balance": 52806,
+      "totalEarned": 1101185,
       "totalSpent": 1129888,
       "gamesPlayed": 576,
       "gamesWon": 214,
-      "streak": 8
+      "streak": 9
     },
     {
       "name": "zuyu",
@@ -47,17 +47,17 @@
     },
     {
       "name": "weppss",
-      "balance": 24271,
-      "totalEarned": 30166,
+      "balance": 24360,
+      "totalEarned": 30255,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "nick6",
-      "balance": 21196,
-      "totalEarned": 21197,
+      "balance": 21222,
+      "totalEarned": 21223,
       "totalSpent": 1,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -74,12 +74,12 @@
     },
     {
       "name": "schitt",
-      "balance": 18104,
-      "totalEarned": 18104,
+      "balance": 18174,
+      "totalEarned": 18174,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "faridlamm",
@@ -191,12 +191,12 @@
     },
     {
       "name": "arabicoj",
-      "balance": 13464,
-      "totalEarned": 56329,
+      "balance": 13570,
+      "totalEarned": 56435,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
-      "streak": 13
+      "streak": 14
     },
     {
       "name": "machamp1",
@@ -227,12 +227,12 @@
     },
     {
       "name": "alexmesq",
-      "balance": 12901,
-      "totalEarned": 13901,
+      "balance": 12968,
+      "totalEarned": 13968,
       "totalSpent": 1000,
       "gamesPlayed": 2,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "furrreal",
@@ -280,6 +280,15 @@
       "streak": 1
     },
     {
+      "name": "cuuula",
+      "balance": 11244,
+      "totalEarned": 11244,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 15
+    },
+    {
       "name": "intermediatewastakensadge",
       "balance": 11200,
       "totalEarned": 11200,
@@ -289,13 +298,13 @@
       "streak": 13
     },
     {
-      "name": "cuuula",
-      "balance": 11140,
-      "totalEarned": 11140,
+      "name": "iam_umii",
+      "balance": 10944,
+      "totalEarned": 10944,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 14
+      "streak": 2
     },
     {
       "name": "skullyontop",
@@ -305,15 +314,6 @@
       "gamesPlayed": 1,
       "gamesWon": 1,
       "streak": 4
-    },
-    {
-      "name": "iam_umii",
-      "balance": 10876,
-      "totalEarned": 10876,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
     },
     {
       "name": "quantik",
@@ -398,12 +398,12 @@
     },
     {
       "name": "ericlamontjr",
-      "balance": 9592,
-      "totalEarned": 9707,
+      "balance": 9660,
+      "totalEarned": 9775,
       "totalSpent": 115,
       "gamesPlayed": 6,
       "gamesWon": 2,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "lecto",
@@ -434,12 +434,12 @@
     },
     {
       "name": "zz_nz",
-      "balance": 8977,
-      "totalEarned": 8977,
+      "balance": 9058,
+      "totalEarned": 9058,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "thelegend99",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3282,
-    "totalCirculating": 3018965,
+    "totalCirculating": 3021245,
     "totalGames": 27303,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-23T13:13:41.046Z"
+  "lastUpdated": "2026-06-23T13:43:41.046Z"
 }
