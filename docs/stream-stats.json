@@ -1,10 +1,10 @@
 {
   "totalSessions": 134,
   "totalDays": 117,
-  "totalSegments": 6057,
+  "totalSegments": 6060,
   "allTimePeak": 17991,
   "allTimeAvg": 622,
-  "totalMessages": 1133710,
+  "totalMessages": 1133855,
   "categories": [
     {
       "name": "Rust",
@@ -101,8 +101,8 @@
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 668,
       "peakViewers": 839,
-      "sampleCount": 499,
-      "totalMsgs": 79897
+      "sampleCount": 502,
+      "totalMsgs": 80042
     },
     {
       "name": "Crab Game",
@@ -494,14 +494,14 @@
       "totalMsgs": 120611
     },
     "19": {
-      "avgViewers": 688,
-      "sampleCount": 590,
-      "totalMsgs": 121055
+      "avgViewers": 687,
+      "sampleCount": 592,
+      "totalMsgs": 121163
     },
     "20": {
       "avgViewers": 679,
-      "sampleCount": 618,
-      "totalMsgs": 135480
+      "sampleCount": 619,
+      "totalMsgs": 135517
     },
     "21": {
       "avgViewers": 685,
@@ -691,9 +691,9 @@
     },
     {
       "date": "2026-06-23",
-      "avgViewers": 492,
+      "avgViewers": 494,
       "peakViewers": 564,
-      "totalMsgs": 3038,
+      "totalMsgs": 3183,
       "categories": [
         "World Cup 2026",
         "Just Chatting",
@@ -707,5 +707,5 @@
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-23T19:43:41.039Z"
+  "lastUpdated": "2026-06-23T20:13:41.029Z"
 }
