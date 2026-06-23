@@ -1,10 +1,10 @@
 {
   "totalSessions": 134,
   "totalDays": 117,
-  "totalSegments": 6039,
+  "totalSegments": 6042,
   "allTimePeak": 17991,
   "allTimeAvg": 622,
-  "totalMessages": 1132616,
+  "totalMessages": 1132824,
   "categories": [
     {
       "name": "Rust",
@@ -203,18 +203,18 @@
       "totalMsgs": 7053
     },
     {
-      "name": "Minecraft",
-      "avgViewers": 621,
-      "peakViewers": 788,
-      "sampleCount": 193,
-      "totalMsgs": 33504
-    },
-    {
       "name": "DayZ",
       "avgViewers": 621,
       "peakViewers": 709,
       "sampleCount": 26,
       "totalMsgs": 3536
+    },
+    {
+      "name": "Minecraft",
+      "avgViewers": 619,
+      "peakViewers": 788,
+      "sampleCount": 195,
+      "totalMsgs": 33670
     },
     {
       "name": "Trees Hate You",
@@ -283,8 +283,8 @@
       "name": "Just Chatting",
       "avgViewers": 584,
       "peakViewers": 903,
-      "sampleCount": 2290,
-      "totalMsgs": 436679
+      "sampleCount": 2291,
+      "totalMsgs": 436721
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -479,14 +479,14 @@
       "totalMsgs": 87632
     },
     "16": {
-      "avgViewers": 638,
-      "sampleCount": 557,
-      "totalMsgs": 104945
+      "avgViewers": 637,
+      "sampleCount": 559,
+      "totalMsgs": 105112
     },
     "17": {
       "avgViewers": 692,
-      "sampleCount": 573,
-      "totalMsgs": 108499
+      "sampleCount": 574,
+      "totalMsgs": 108540
     },
     "18": {
       "avgViewers": 689,
@@ -691,17 +691,18 @@
     },
     {
       "date": "2026-06-23",
-      "avgViewers": 459,
-      "peakViewers": 560,
-      "totalMsgs": 1944,
+      "avgViewers": 467,
+      "peakViewers": 564,
+      "totalMsgs": 2152,
       "categories": [
         "World Cup 2026",
         "Just Chatting",
         "Slots & Casino",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-23T16:43:41.035Z"
+  "lastUpdated": "2026-06-23T17:13:41.042Z"
 }
