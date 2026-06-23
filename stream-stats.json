@@ -1,10 +1,10 @@
 {
   "totalSessions": 134,
   "totalDays": 117,
-  "totalSegments": 6048,
+  "totalSegments": 6051,
   "allTimePeak": 17991,
   "allTimeAvg": 622,
-  "totalMessages": 1133283,
+  "totalMessages": 1133416,
   "categories": [
     {
       "name": "Rust",
@@ -84,13 +84,6 @@
       "totalMsgs": 101759
     },
     {
-      "name": "Crab Game",
-      "avgViewers": 690,
-      "peakViewers": 701,
-      "sampleCount": 6,
-      "totalMsgs": 299
-    },
-    {
       "name": "Summer Game Fest 2026",
       "avgViewers": 687,
       "peakViewers": 727,
@@ -110,6 +103,13 @@
       "peakViewers": 839,
       "sampleCount": 496,
       "totalMsgs": 79722
+    },
+    {
+      "name": "Crab Game",
+      "avgViewers": 665,
+      "peakViewers": 701,
+      "sampleCount": 7,
+      "totalMsgs": 368
     },
     {
       "name": "The Empty Eyes",
@@ -266,13 +266,6 @@
       "totalMsgs": 6916
     },
     {
-      "name": "World Cup 2026",
-      "avgViewers": 586,
-      "peakViewers": 734,
-      "sampleCount": 31,
-      "totalMsgs": 2502
-    },
-    {
       "name": "Dread Neighbor",
       "avgViewers": 585,
       "peakViewers": 618,
@@ -285,6 +278,13 @@
       "peakViewers": 903,
       "sampleCount": 2291,
       "totalMsgs": 436721
+    },
+    {
+      "name": "World Cup 2026",
+      "avgViewers": 583,
+      "peakViewers": 734,
+      "sampleCount": 33,
+      "totalMsgs": 2566
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -489,9 +489,9 @@
       "totalMsgs": 108923
     },
     "18": {
-      "avgViewers": 689,
-      "sampleCount": 587,
-      "totalMsgs": 120386
+      "avgViewers": 688,
+      "sampleCount": 590,
+      "totalMsgs": 120519
     },
     "19": {
       "avgViewers": 689,
@@ -691,19 +691,20 @@
     },
     {
       "date": "2026-06-23",
-      "avgViewers": 480,
+      "avgViewers": 483,
       "peakViewers": 564,
-      "totalMsgs": 2611,
+      "totalMsgs": 2744,
       "categories": [
         "World Cup 2026",
         "Just Chatting",
         "Slots & Casino",
         "Counter-Strike 2",
         "Minecraft",
-        "Meccha Chameleon"
+        "Meccha Chameleon",
+        "Crab Game"
       ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-23T18:13:41.033Z"
+  "lastUpdated": "2026-06-23T18:43:41.035Z"
 }

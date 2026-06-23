@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "daecs",
-      "balance": 100014,
-      "totalEarned": 422429,
+      "balance": 100016,
+      "totalEarned": 422431,
       "totalSpent": 322415,
       "gamesPlayed": 54,
       "gamesWon": 28,
@@ -11,8 +11,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 61833,
-      "totalEarned": 1908231,
+      "balance": 61841,
+      "totalEarned": 1908239,
       "totalSpent": 1942319,
       "gamesPlayed": 1667,
       "gamesWon": 677,
@@ -326,8 +326,8 @@
     },
     {
       "name": "confusion",
-      "balance": 10354,
-      "totalEarned": 10869,
+      "balance": 10358,
+      "totalEarned": 10873,
       "totalSpent": 515,
       "gamesPlayed": 11,
       "gamesWon": 4,
@@ -353,8 +353,8 @@
     },
     {
       "name": "tonynairobi",
-      "balance": 10067,
-      "totalEarned": 10067,
+      "balance": 10069,
+      "totalEarned": 10069,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -425,8 +425,8 @@
     },
     {
       "name": "bushybrauz",
-      "balance": 8783,
-      "totalEarned": 8783,
+      "balance": 8840,
+      "totalEarned": 8840,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3288,
-    "totalCirculating": 2948943,
+    "totalCirculating": 2949566,
     "totalGames": 27470,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-23T18:13:41.046Z"
+  "lastUpdated": "2026-06-23T18:43:41.048Z"
 }
