@@ -1,10 +1,10 @@
 {
   "totalSessions": 134,
   "totalDays": 117,
-  "totalSegments": 6045,
+  "totalSegments": 6048,
   "allTimePeak": 17991,
   "allTimeAvg": 622,
-  "totalMessages": 1133039,
+  "totalMessages": 1133283,
   "categories": [
     {
       "name": "Rust",
@@ -168,13 +168,6 @@
       "totalMsgs": 7649
     },
     {
-      "name": "Meccha Chameleon",
-      "avgViewers": 635,
-      "peakViewers": 678,
-      "sampleCount": 12,
-      "totalMsgs": 857
-    },
-    {
       "name": "Counter-Strike 2",
       "avgViewers": 633,
       "peakViewers": 898,
@@ -187,6 +180,13 @@
       "peakViewers": 693,
       "sampleCount": 23,
       "totalMsgs": 3485
+    },
+    {
+      "name": "Meccha Chameleon",
+      "avgViewers": 627,
+      "peakViewers": 678,
+      "sampleCount": 13,
+      "totalMsgs": 933
     },
     {
       "name": "Psalm 5:9-13",
@@ -259,18 +259,18 @@
       "totalMsgs": 2802
     },
     {
-      "name": "World Cup 2026",
-      "avgViewers": 590,
-      "peakViewers": 734,
-      "sampleCount": 29,
-      "totalMsgs": 2334
-    },
-    {
       "name": "Lies of P",
       "avgViewers": 587,
       "peakViewers": 716,
       "sampleCount": 75,
       "totalMsgs": 6916
+    },
+    {
+      "name": "World Cup 2026",
+      "avgViewers": 586,
+      "peakViewers": 734,
+      "sampleCount": 31,
+      "totalMsgs": 2502
     },
     {
       "name": "Dread Neighbor",
@@ -484,14 +484,14 @@
       "totalMsgs": 105112
     },
     "17": {
-      "avgViewers": 691,
-      "sampleCount": 577,
-      "totalMsgs": 108755
+      "avgViewers": 690,
+      "sampleCount": 579,
+      "totalMsgs": 108923
     },
     "18": {
       "avgViewers": 689,
-      "sampleCount": 586,
-      "totalMsgs": 120310
+      "sampleCount": 587,
+      "totalMsgs": 120386
     },
     "19": {
       "avgViewers": 689,
@@ -691,18 +691,19 @@
     },
     {
       "date": "2026-06-23",
-      "avgViewers": 473,
+      "avgViewers": 480,
       "peakViewers": 564,
-      "totalMsgs": 2367,
+      "totalMsgs": 2611,
       "categories": [
         "World Cup 2026",
         "Just Chatting",
         "Slots & Casino",
         "Counter-Strike 2",
-        "Minecraft"
+        "Minecraft",
+        "Meccha Chameleon"
       ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-23T17:43:41.036Z"
+  "lastUpdated": "2026-06-23T18:13:41.033Z"
 }
