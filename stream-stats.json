@@ -1,10 +1,10 @@
 {
   "totalSessions": 135,
   "totalDays": 118,
-  "totalSegments": 6104,
+  "totalSegments": 6107,
   "allTimePeak": 17991,
   "allTimeAvg": 621,
-  "totalMessages": 1139645,
+  "totalMessages": 1139831,
   "categories": [
     {
       "name": "Rust",
@@ -101,8 +101,8 @@
       "name": "Grand Theft Auto V (GTA)",
       "avgViewers": 667,
       "peakViewers": 839,
-      "sampleCount": 503,
-      "totalMsgs": 80126
+      "sampleCount": 505,
+      "totalMsgs": 80238
     },
     {
       "name": "Crab Game",
@@ -276,8 +276,8 @@
       "name": "Just Chatting",
       "avgViewers": 583,
       "peakViewers": 903,
-      "sampleCount": 2313,
-      "totalMsgs": 439693
+      "sampleCount": 2314,
+      "totalMsgs": 439767
     },
     {
       "name": "World Cup 2026",
@@ -495,13 +495,13 @@
     },
     "19": {
       "avgViewers": 687,
-      "sampleCount": 596,
-      "totalMsgs": 121871
+      "sampleCount": 598,
+      "totalMsgs": 122019
     },
     "20": {
-      "avgViewers": 679,
-      "sampleCount": 620,
-      "totalMsgs": 135601
+      "avgViewers": 678,
+      "sampleCount": 621,
+      "totalMsgs": 135639
     },
     "21": {
       "avgViewers": 685,
@@ -694,18 +694,19 @@
     },
     {
       "date": "2026-06-24",
-      "avgViewers": 511,
+      "avgViewers": 518,
       "peakViewers": 685,
-      "totalMsgs": 5706,
+      "totalMsgs": 5892,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
         "Meccha Chameleon",
         "Counter-Strike 2",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Grand Theft Auto V (GTA)"
       ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-24T19:43:41.124Z"
+  "lastUpdated": "2026-06-24T20:13:41.131Z"
 }
