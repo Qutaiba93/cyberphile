@@ -1,10 +1,10 @@
 {
   "totalSessions": 135,
   "totalDays": 118,
-  "totalSegments": 6080,
+  "totalSegments": 6083,
   "allTimePeak": 17991,
   "allTimeAvg": 621,
-  "totalMessages": 1135597,
+  "totalMessages": 1135833,
   "categories": [
     {
       "name": "Rust",
@@ -57,10 +57,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 716,
+      "avgViewers": 715,
       "peakViewers": 916,
-      "sampleCount": 534,
-      "totalMsgs": 117381
+      "sampleCount": 536,
+      "totalMsgs": 117552
     },
     {
       "name": "Log Riders",
@@ -171,8 +171,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 633,
       "peakViewers": 898,
-      "sampleCount": 656,
-      "totalMsgs": 103040
+      "sampleCount": 657,
+      "totalMsgs": 103105
     },
     {
       "name": "Sons of the Forest",
@@ -475,13 +475,13 @@
     },
     "15": {
       "avgViewers": 529,
-      "sampleCount": 491,
-      "totalMsgs": 88009
+      "sampleCount": 493,
+      "totalMsgs": 88144
     },
     "16": {
       "avgViewers": 637,
-      "sampleCount": 559,
-      "totalMsgs": 105112
+      "sampleCount": 560,
+      "totalMsgs": 105213
     },
     "17": {
       "avgViewers": 690,
@@ -694,17 +694,18 @@
     },
     {
       "date": "2026-06-24",
-      "avgViewers": 398,
-      "peakViewers": 500,
-      "totalMsgs": 1658,
+      "avgViewers": 413,
+      "peakViewers": 524,
+      "totalMsgs": 1894,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
         "Meccha Chameleon",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-24T15:43:41.124Z"
+  "lastUpdated": "2026-06-24T16:13:41.132Z"
 }
