@@ -1,10 +1,10 @@
 {
   "totalSessions": 135,
   "totalDays": 118,
-  "totalSegments": 6107,
+  "totalSegments": 6110,
   "allTimePeak": 17991,
   "allTimeAvg": 621,
-  "totalMessages": 1139831,
+  "totalMessages": 1140091,
   "categories": [
     {
       "name": "Rust",
@@ -99,10 +99,10 @@
     },
     {
       "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 667,
+      "avgViewers": 666,
       "peakViewers": 839,
-      "sampleCount": 505,
-      "totalMsgs": 80238
+      "sampleCount": 508,
+      "totalMsgs": 80498
     },
     {
       "name": "Crab Game",
@@ -500,8 +500,8 @@
     },
     "20": {
       "avgViewers": 678,
-      "sampleCount": 621,
-      "totalMsgs": 135639
+      "sampleCount": 624,
+      "totalMsgs": 135899
     },
     "21": {
       "avgViewers": 685,
@@ -694,9 +694,9 @@
     },
     {
       "date": "2026-06-24",
-      "avgViewers": 518,
+      "avgViewers": 521,
       "peakViewers": 685,
-      "totalMsgs": 5892,
+      "totalMsgs": 6152,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
@@ -708,5 +708,5 @@
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-24T20:13:41.131Z"
+  "lastUpdated": "2026-06-24T20:43:41.131Z"
 }
