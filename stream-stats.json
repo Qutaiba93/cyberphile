@@ -1,10 +1,10 @@
 {
   "totalSessions": 135,
   "totalDays": 118,
-  "totalSegments": 6074,
+  "totalSegments": 6077,
   "allTimePeak": 17991,
   "allTimeAvg": 621,
-  "totalMessages": 1135114,
+  "totalMessages": 1135311,
   "categories": [
     {
       "name": "Rust",
@@ -182,13 +182,6 @@
       "totalMsgs": 3485
     },
     {
-      "name": "Meccha Chameleon",
-      "avgViewers": 627,
-      "peakViewers": 678,
-      "sampleCount": 13,
-      "totalMsgs": 933
-    },
-    {
       "name": "Psalm 5:9-13",
       "avgViewers": 625,
       "peakViewers": 674,
@@ -222,6 +215,13 @@
       "peakViewers": 614,
       "sampleCount": 1,
       "totalMsgs": 107
+    },
+    {
+      "name": "Meccha Chameleon",
+      "avgViewers": 607,
+      "peakViewers": 678,
+      "sampleCount": 15,
+      "totalMsgs": 1070
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -276,8 +276,8 @@
       "name": "Just Chatting",
       "avgViewers": 583,
       "peakViewers": 903,
-      "sampleCount": 2298,
-      "totalMsgs": 437097
+      "sampleCount": 2299,
+      "totalMsgs": 437157
     },
     {
       "name": "World Cup 2026",
@@ -469,14 +469,14 @@
       "totalMsgs": 10457
     },
     "14": {
-      "avgViewers": 378,
-      "sampleCount": 358,
-      "totalMsgs": 54546
+      "avgViewers": 379,
+      "sampleCount": 360,
+      "totalMsgs": 54652
     },
     "15": {
       "avgViewers": 529,
-      "sampleCount": 487,
-      "totalMsgs": 87632
+      "sampleCount": 488,
+      "totalMsgs": 87723
     },
     "16": {
       "avgViewers": 637,
@@ -694,15 +694,16 @@
     },
     {
       "date": "2026-06-24",
-      "avgViewers": 356,
-      "peakViewers": 478,
-      "totalMsgs": 1175,
+      "avgViewers": 380,
+      "peakViewers": 500,
+      "totalMsgs": 1372,
       "categories": [
         "Just Chatting",
-        "Slots & Casino"
+        "Slots & Casino",
+        "Meccha Chameleon"
       ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-24T14:43:41.130Z"
+  "lastUpdated": "2026-06-24T15:13:41.134Z"
 }

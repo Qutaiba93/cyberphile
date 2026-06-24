@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "daecs",
-      "balance": 100140,
-      "totalEarned": 422555,
+      "balance": 100152,
+      "totalEarned": 422567,
       "totalSpent": 322415,
       "gamesPlayed": 54,
       "gamesWon": 28,
@@ -11,8 +11,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 75150,
-      "totalEarned": 1946548,
+      "balance": 75212,
+      "totalEarned": 1946610,
       "totalSpent": 1967319,
       "gamesPlayed": 1673,
       "gamesWon": 681,
@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 52996,
-      "totalEarned": 1101375,
+      "balance": 53002,
+      "totalEarned": 1101381,
       "totalSpent": 1129888,
       "gamesPlayed": 576,
       "gamesWon": 214,
@@ -74,8 +74,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 18089,
-      "totalEarned": 18190,
+      "balance": 18103,
+      "totalEarned": 18204,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -173,8 +173,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 13926,
-      "totalEarned": 56791,
+      "balance": 13930,
+      "totalEarned": 56795,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -254,8 +254,8 @@
     },
     {
       "name": "damiybe",
-      "balance": 11427,
-      "totalEarned": 11437,
+      "balance": 11433,
+      "totalEarned": 11443,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -380,8 +380,8 @@
     },
     {
       "name": "lecto",
-      "balance": 9455,
-      "totalEarned": 9455,
+      "balance": 9459,
+      "totalEarned": 9459,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3290,
-    "totalCirculating": 2972989,
+    "totalCirculating": 2973568,
     "totalGames": 27476,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-24T14:43:41.145Z"
+  "lastUpdated": "2026-06-24T15:13:41.152Z"
 }
