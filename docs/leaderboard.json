@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "daecs",
-      "balance": 100152,
-      "totalEarned": 422567,
+      "balance": 100164,
+      "totalEarned": 422579,
       "totalSpent": 322415,
       "gamesPlayed": 54,
       "gamesWon": 28,
@@ -11,8 +11,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 75212,
-      "totalEarned": 1946610,
+      "balance": 75266,
+      "totalEarned": 1946664,
       "totalSpent": 1967319,
       "gamesPlayed": 1673,
       "gamesWon": 681,
@@ -20,10 +20,10 @@
     },
     {
       "name": "shance",
-      "balance": 53002,
-      "totalEarned": 1101381,
-      "totalSpent": 1129888,
-      "gamesPlayed": 576,
+      "balance": 53035,
+      "totalEarned": 1101439,
+      "totalSpent": 1129913,
+      "gamesPlayed": 577,
       "gamesWon": 214,
       "streak": 10
     },
@@ -74,8 +74,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 18103,
-      "totalEarned": 18204,
+      "balance": 18111,
+      "totalEarned": 18212,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -173,8 +173,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 13930,
-      "totalEarned": 56795,
+      "balance": 13934,
+      "totalEarned": 56799,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -380,8 +380,8 @@
     },
     {
       "name": "lecto",
-      "balance": 9459,
-      "totalEarned": 9459,
+      "balance": 9471,
+      "totalEarned": 9471,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3290,
-    "totalCirculating": 2973568,
-    "totalGames": 27476,
+    "totalCirculating": 2974338,
+    "totalGames": 27479,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-24T15:13:41.152Z"
+  "lastUpdated": "2026-06-24T15:43:41.139Z"
 }

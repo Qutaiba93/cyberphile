@@ -1,10 +1,10 @@
 {
   "totalSessions": 135,
   "totalDays": 118,
-  "totalSegments": 6077,
+  "totalSegments": 6080,
   "allTimePeak": 17991,
   "allTimeAvg": 621,
-  "totalMessages": 1135311,
+  "totalMessages": 1135597,
   "categories": [
     {
       "name": "Rust",
@@ -171,8 +171,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 633,
       "peakViewers": 898,
-      "sampleCount": 654,
-      "totalMsgs": 102836
+      "sampleCount": 656,
+      "totalMsgs": 103040
     },
     {
       "name": "Sons of the Forest",
@@ -217,13 +217,6 @@
       "totalMsgs": 107
     },
     {
-      "name": "Meccha Chameleon",
-      "avgViewers": 607,
-      "peakViewers": 678,
-      "sampleCount": 15,
-      "totalMsgs": 1070
-    },
-    {
       "name": "Creepy Shift: House for Sale",
       "avgViewers": 605,
       "peakViewers": 611,
@@ -236,6 +229,13 @@
       "peakViewers": 652,
       "sampleCount": 10,
       "totalMsgs": 1817
+    },
+    {
+      "name": "Meccha Chameleon",
+      "avgViewers": 600,
+      "peakViewers": 678,
+      "sampleCount": 16,
+      "totalMsgs": 1152
     },
     {
       "name": "Call of Duty: Black Ops",
@@ -475,8 +475,8 @@
     },
     "15": {
       "avgViewers": 529,
-      "sampleCount": 488,
-      "totalMsgs": 87723
+      "sampleCount": 491,
+      "totalMsgs": 88009
     },
     "16": {
       "avgViewers": 637,
@@ -694,16 +694,17 @@
     },
     {
       "date": "2026-06-24",
-      "avgViewers": 380,
+      "avgViewers": 398,
       "peakViewers": 500,
-      "totalMsgs": 1372,
+      "totalMsgs": 1658,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
-        "Meccha Chameleon"
+        "Meccha Chameleon",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-24T15:13:41.134Z"
+  "lastUpdated": "2026-06-24T15:43:41.124Z"
 }
