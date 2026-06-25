@@ -1,10 +1,10 @@
 {
-  "totalSessions": 135,
-  "totalDays": 118,
-  "totalSegments": 6114,
+  "totalSessions": 136,
+  "totalDays": 119,
+  "totalSegments": 6117,
   "allTimePeak": 17991,
   "allTimeAvg": 621,
-  "totalMessages": 1140541,
+  "totalMessages": 1140888,
   "categories": [
     {
       "name": "Rust",
@@ -276,8 +276,8 @@
       "name": "Just Chatting",
       "avgViewers": 583,
       "peakViewers": 903,
-      "sampleCount": 2314,
-      "totalMsgs": 439767
+      "sampleCount": 2316,
+      "totalMsgs": 439975
     },
     {
       "name": "World Cup 2026",
@@ -379,10 +379,10 @@
     },
     {
       "name": "Slots & Casino",
-      "avgViewers": 518,
+      "avgViewers": 517,
       "peakViewers": 786,
-      "sampleCount": 181,
-      "totalMsgs": 33186
+      "sampleCount": 182,
+      "totalMsgs": 33325
     },
     {
       "name": "Scam Line",
@@ -489,9 +489,9 @@
       "totalMsgs": 109694
     },
     "18": {
-      "avgViewers": 687,
-      "sampleCount": 598,
-      "totalMsgs": 121558
+      "avgViewers": 685,
+      "sampleCount": 601,
+      "totalMsgs": 121905
     },
     "19": {
       "avgViewers": 687,
@@ -520,20 +520,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-11",
-      "avgViewers": 570,
-      "peakViewers": 683,
-      "totalMsgs": 11462,
-      "categories": [
-        "Grand Theft Auto V (GTA)",
-        "Just Chatting",
-        "Slots & Casino",
-        "Minecraft",
-        "Chat Roulette",
-        "Counter-Strike 2"
-      ]
-    },
     {
       "date": "2026-06-12",
       "avgViewers": 579,
@@ -705,8 +691,18 @@
         "Chat Roulette",
         "Grand Theft Auto V (GTA)"
       ]
+    },
+    {
+      "date": "2026-06-25",
+      "avgViewers": 241,
+      "peakViewers": 319,
+      "totalMsgs": 347,
+      "categories": [
+        "Just Chatting",
+        "Slots & Casino"
+      ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-25T18:13:41.144Z"
+  "lastUpdated": "2026-06-25T18:43:41.154Z"
 }
