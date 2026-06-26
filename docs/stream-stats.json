@@ -1,10 +1,10 @@
 {
-  "totalSessions": 136,
-  "totalDays": 119,
-  "totalSegments": 6149,
+  "totalSessions": 137,
+  "totalDays": 120,
+  "totalSegments": 6152,
   "allTimePeak": 17991,
   "allTimeAvg": 620,
-  "totalMessages": 1148009,
+  "totalMessages": 1148443,
   "categories": [
     {
       "name": "Rust",
@@ -274,10 +274,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 583,
+      "avgViewers": 582,
       "peakViewers": 903,
-      "sampleCount": 2327,
-      "totalMsgs": 443809
+      "sampleCount": 2330,
+      "totalMsgs": 444243
     },
     {
       "name": "World Cup 2026",
@@ -469,14 +469,14 @@
       "totalMsgs": 10457
     },
     "14": {
-      "avgViewers": 379,
-      "sampleCount": 360,
-      "totalMsgs": 54652
+      "avgViewers": 378,
+      "sampleCount": 362,
+      "totalMsgs": 54934
     },
     "15": {
-      "avgViewers": 529,
-      "sampleCount": 493,
-      "totalMsgs": 88144
+      "avgViewers": 528,
+      "sampleCount": 494,
+      "totalMsgs": 88296
     },
     "16": {
       "avgViewers": 637,
@@ -520,20 +520,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-12",
-      "avgViewers": 579,
-      "peakViewers": 734,
-      "totalMsgs": 10118,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "Fears to Fathom: Scratch Creek",
-        "World Cup 2026",
-        "IRL",
-        "Chat Roulette"
-      ]
-    },
     {
       "date": "2026-06-13",
       "avgViewers": 569,
@@ -702,8 +688,17 @@
         "Slots & Casino",
         "Counter-Strike 2"
       ]
+    },
+    {
+      "date": "2026-06-26",
+      "avgViewers": 232,
+      "peakViewers": 314,
+      "totalMsgs": 434,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-17T22:13:39.696Z",
-  "lastUpdated": "2026-06-26T14:43:41.130Z"
+  "lastUpdated": "2026-06-26T15:13:41.146Z"
 }
