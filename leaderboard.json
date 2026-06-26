@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "daecs",
-      "balance": 100441,
-      "totalEarned": 422856,
-      "totalSpent": 322415,
+      "balance": 100010,
+      "totalEarned": 422960,
+      "totalSpent": 322950,
       "gamesPlayed": 54,
       "gamesWon": 28,
-      "streak": 7
+      "streak": 8
     },
     {
       "name": "meliziana",
@@ -47,8 +47,8 @@
     },
     {
       "name": "nick6",
-      "balance": 22683,
-      "totalEarned": 22684,
+      "balance": 22745,
+      "totalEarned": 22746,
       "totalSpent": 1,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -74,8 +74,8 @@
     },
     {
       "name": "schitt",
-      "balance": 18476,
-      "totalEarned": 18476,
+      "balance": 18482,
+      "totalEarned": 18482,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -101,8 +101,8 @@
     },
     {
       "name": "kale96",
-      "balance": 16893,
-      "totalEarned": 23443,
+      "balance": 16975,
+      "totalEarned": 23525,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -127,6 +127,15 @@
       "streak": 2
     },
     {
+      "name": "ahmet_uk",
+      "balance": 14726,
+      "totalEarned": 14726,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 17
+    },
+    {
       "name": "5pray",
       "balance": 14712,
       "totalEarned": 14712,
@@ -134,15 +143,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "ahmet_uk",
-      "balance": 14706,
-      "totalEarned": 14706,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 17
     },
     {
       "name": "twilighty",
@@ -154,6 +154,15 @@
       "streak": 7
     },
     {
+      "name": "arabicoj",
+      "balance": 14167,
+      "totalEarned": 57032,
+      "totalSpent": 42865,
+      "gamesPlayed": 41,
+      "gamesWon": 15,
+      "streak": 1
+    },
+    {
       "name": "bbalint320",
       "balance": 14151,
       "totalEarned": 14291,
@@ -161,15 +170,6 @@
       "gamesPlayed": 14,
       "gamesWon": 1,
       "streak": 3
-    },
-    {
-      "name": "arabicoj",
-      "balance": 14145,
-      "totalEarned": 57010,
-      "totalSpent": 42865,
-      "gamesPlayed": 41,
-      "gamesWon": 15,
-      "streak": 1
     },
     {
       "name": "seraj",
@@ -209,8 +209,8 @@
     },
     {
       "name": "kazzcs2",
-      "balance": 13197,
-      "totalEarned": 13197,
+      "balance": 13217,
+      "totalEarned": 13217,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3307,
-    "totalCirculating": 2993181,
-    "totalGames": 27535,
+    "totalCirculating": 2998933,
+    "totalGames": 27541,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-26T15:43:41.159Z"
+  "lastUpdated": "2026-06-26T16:13:41.163Z"
 }
