@@ -47,8 +47,8 @@
     },
     {
       "name": "nick6",
-      "balance": 22833,
-      "totalEarned": 22834,
+      "balance": 22863,
+      "totalEarned": 22864,
       "totalSpent": 1,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -74,8 +74,8 @@
     },
     {
       "name": "schitt",
-      "balance": 18496,
-      "totalEarned": 18496,
+      "balance": 18500,
+      "totalEarned": 18500,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 14219,
-      "totalEarned": 57084,
+      "balance": 14225,
+      "totalEarned": 57090,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -326,8 +326,8 @@
     },
     {
       "name": "tonynairobi",
-      "balance": 10564,
-      "totalEarned": 10564,
+      "balance": 10570,
+      "totalEarned": 10570,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -389,8 +389,8 @@
     },
     {
       "name": "donixo",
-      "balance": 9446,
-      "totalEarned": 9446,
+      "balance": 9450,
+      "totalEarned": 9450,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3310,
-    "totalCirculating": 3009720,
+    "totalCirculating": 3010199,
     "totalGames": 27550,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-26T19:43:41.160Z"
+  "lastUpdated": "2026-06-26T20:13:41.160Z"
 }
