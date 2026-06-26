@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "daecs",
-      "balance": 100022,
-      "totalEarned": 422972,
+      "balance": 100024,
+      "totalEarned": 422974,
       "totalSpent": 322950,
       "gamesPlayed": 54,
       "gamesWon": 28,
@@ -65,8 +65,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 18546,
-      "totalEarned": 18647,
+      "balance": 18550,
+      "totalEarned": 18651,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -92,12 +92,12 @@
     },
     {
       "name": "papaah",
-      "balance": 17082,
-      "totalEarned": 18083,
+      "balance": 17176,
+      "totalEarned": 18177,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 7
+      "streak": 8
     },
     {
       "name": "kale96",
@@ -137,8 +137,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 14824,
-      "totalEarned": 14824,
+      "balance": 14828,
+      "totalEarned": 14828,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -308,8 +308,8 @@
     },
     {
       "name": "politecatt",
-      "balance": 10633,
-      "totalEarned": 10683,
+      "balance": 10639,
+      "totalEarned": 10689,
       "totalSpent": 50,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -326,8 +326,8 @@
     },
     {
       "name": "tonynairobi",
-      "balance": 10570,
-      "totalEarned": 10570,
+      "balance": 10584,
+      "totalEarned": 10584,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3310,
-    "totalCirculating": 3004688,
-    "totalGames": 27551,
+    "totalPlayers": 3311,
+    "totalCirculating": 2997349,
+    "totalGames": 27556,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-26T20:43:41.194Z"
+  "lastUpdated": "2026-06-26T21:13:41.170Z"
 }
