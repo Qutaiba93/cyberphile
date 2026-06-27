@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 53432,
-      "totalEarned": 1101836,
+      "balance": 53440,
+      "totalEarned": 1101844,
       "totalSpent": 1129913,
       "gamesPlayed": 577,
       "gamesWon": 214,
@@ -47,8 +47,8 @@
     },
     {
       "name": "nick6",
-      "balance": 23145,
-      "totalEarned": 23147,
+      "balance": 23181,
+      "totalEarned": 23183,
       "totalSpent": 2,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -65,8 +65,8 @@
     },
     {
       "name": "schitt",
-      "balance": 18582,
-      "totalEarned": 18582,
+      "balance": 18586,
+      "totalEarned": 18586,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -101,8 +101,8 @@
     },
     {
       "name": "kale96",
-      "balance": 17141,
-      "totalEarned": 23691,
+      "balance": 17143,
+      "totalEarned": 23693,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -119,8 +119,8 @@
     },
     {
       "name": "upkey",
-      "balance": 15645,
-      "totalEarned": 15645,
+      "balance": 15651,
+      "totalEarned": 15651,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -155,12 +155,12 @@
     },
     {
       "name": "arabicoj",
-      "balance": 14225,
-      "totalEarned": 57090,
+      "balance": 14299,
+      "totalEarned": 57164,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "bbalint320",
@@ -361,6 +361,15 @@
       "streak": 5
     },
     {
+      "name": "lecto",
+      "balance": 9800,
+      "totalEarned": 9800,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 8
+    },
+    {
       "name": "neincs",
       "balance": 9745,
       "totalEarned": 9745,
@@ -368,15 +377,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 4
-    },
-    {
-      "name": "lecto",
-      "balance": 9708,
-      "totalEarned": 9708,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 7
     },
     {
       "name": "chicitylol",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3313,
-    "totalCirculating": 3004072,
+    "totalCirculating": 3004974,
     "totalGames": 27562,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-27T18:10:40.036Z"
+  "lastUpdated": "2026-06-27T18:23:35.043Z"
 }
