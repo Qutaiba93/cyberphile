@@ -47,8 +47,8 @@
     },
     {
       "name": "nick6",
-      "balance": 22934,
-      "totalEarned": 22935,
+      "balance": 22936,
+      "totalEarned": 22937,
       "totalSpent": 1,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3311,
-    "totalCirculating": 2997159,
+    "totalCirculating": 2997447,
     "totalGames": 27557,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-27T14:13:41.174Z"
+  "lastUpdated": "2026-06-27T14:43:41.173Z"
 }
