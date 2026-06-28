@@ -253,6 +253,15 @@
       "streak": 2
     },
     {
+      "name": "parlaybuster",
+      "balance": 11487,
+      "totalEarned": 11487,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 9
+    },
+    {
       "name": "damiybe",
       "balance": 11441,
       "totalEarned": 11451,
@@ -260,15 +269,6 @@
       "gamesPlayed": 1,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "parlaybuster",
-      "balance": 11390,
-      "totalEarned": 11390,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 8
     },
     {
       "name": "iam_umii",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3317,
-    "totalCirculating": 3016703,
+    "totalCirculating": 3017046,
     "totalGames": 27562,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-28T16:52:35.120Z"
+  "lastUpdated": "2026-06-28T17:22:35.063Z"
 }
