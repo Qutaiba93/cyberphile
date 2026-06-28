@@ -254,8 +254,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 11487,
-      "totalEarned": 11487,
+      "balance": 11499,
+      "totalEarned": 11499,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3317,
-    "totalCirculating": 3017046,
+    "totalCirculating": 3017058,
     "totalGames": 27562,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-28T17:22:35.063Z"
+  "lastUpdated": "2026-06-28T17:52:35.068Z"
 }
