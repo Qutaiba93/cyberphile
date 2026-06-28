@@ -406,6 +406,15 @@
       "streak": 1
     },
     {
+      "name": "bushybrauz",
+      "balance": 8899,
+      "totalEarned": 8899,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "m0535fps",
       "balance": 8898,
       "totalEarned": 13808,
@@ -422,15 +431,6 @@
       "gamesPlayed": 1,
       "gamesWon": 1,
       "streak": 5
-    },
-    {
-      "name": "bushybrauz",
-      "balance": 8842,
-      "totalEarned": 8842,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
     },
     {
       "name": "aymoon",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3317,
-    "totalCirculating": 3017162,
+    "totalCirculating": 3017221,
     "totalGames": 27562,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-28T18:52:35.079Z"
+  "lastUpdated": "2026-06-28T19:22:35.067Z"
 }
