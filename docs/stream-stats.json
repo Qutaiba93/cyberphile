@@ -1,10 +1,10 @@
 {
-  "totalSessions": 138,
-  "totalDays": 121,
-  "totalSegments": 6210,
+  "totalSessions": 139,
+  "totalDays": 122,
+  "totalSegments": 6212,
   "allTimePeak": 17991,
   "allTimeAvg": 619,
-  "totalMessages": 1158580,
+  "totalMessages": 1158654,
   "categories": [
     {
       "name": "Rust",
@@ -274,10 +274,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 582,
+      "avgViewers": 581,
       "peakViewers": 903,
-      "sampleCount": 2355,
-      "totalMsgs": 447644
+      "sampleCount": 2357,
+      "totalMsgs": 447718
     },
     {
       "name": "World Cup 2026",
@@ -464,9 +464,9 @@
       "totalMsgs": 909
     },
     "13": {
-      "avgViewers": 247,
-      "sampleCount": 104,
-      "totalMsgs": 10457
+      "avgViewers": 246,
+      "sampleCount": 106,
+      "totalMsgs": 10531
     },
     "14": {
       "avgViewers": 378,
@@ -520,19 +520,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-14",
-      "avgViewers": 587,
-      "peakViewers": 691,
-      "totalMsgs": 8656,
-      "categories": [
-        "Lies of P",
-        "Just Chatting",
-        "Slots & Casino",
-        "Counter-Strike 2",
-        "Chat Roulette"
-      ]
-    },
     {
       "date": "2026-06-15",
       "avgViewers": 686,
@@ -696,8 +683,17 @@
         "Slots & Casino",
         "Chat Roulette"
       ]
+    },
+    {
+      "date": "2026-06-29",
+      "avgViewers": 170,
+      "peakViewers": 236,
+      "totalMsgs": 74,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-06-29T12:52:35.134Z"
+  "lastUpdated": "2026-06-29T13:22:35.096Z"
 }
