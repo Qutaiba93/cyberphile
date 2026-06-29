@@ -1,10 +1,10 @@
 {
   "totalSessions": 139,
   "totalDays": 122,
-  "totalSegments": 6227,
+  "totalSegments": 6230,
   "allTimePeak": 17991,
   "allTimeAvg": 619,
-  "totalMessages": 1159851,
+  "totalMessages": 1160270,
   "categories": [
     {
       "name": "Rust",
@@ -206,8 +206,8 @@
       "name": "Minecraft",
       "avgViewers": 619,
       "peakViewers": 788,
-      "sampleCount": 195,
-      "totalMsgs": 33670
+      "sampleCount": 198,
+      "totalMsgs": 34089
     },
     {
       "name": "Trees Hate You",
@@ -475,13 +475,13 @@
     },
     "15": {
       "avgViewers": 528,
-      "sampleCount": 504,
-      "totalMsgs": 89983
+      "sampleCount": 505,
+      "totalMsgs": 90188
     },
     "16": {
       "avgViewers": 636,
-      "sampleCount": 571,
-      "totalMsgs": 107446
+      "sampleCount": 573,
+      "totalMsgs": 107660
     },
     "17": {
       "avgViewers": 686,
@@ -686,16 +686,17 @@
     },
     {
       "date": "2026-06-29",
-      "avgViewers": 443,
-      "peakViewers": 598,
-      "totalMsgs": 1271,
+      "avgViewers": 464,
+      "peakViewers": 601,
+      "totalMsgs": 1690,
       "categories": [
         "Just Chatting",
         "Slots & Casino",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Minecraft"
       ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-06-29T15:52:35.134Z"
+  "lastUpdated": "2026-06-29T16:22:35.124Z"
 }
