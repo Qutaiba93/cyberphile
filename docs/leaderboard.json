@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "daecs",
-      "balance": 100290,
-      "totalEarned": 423240,
+      "balance": 100298,
+      "totalEarned": 423248,
       "totalSpent": 322950,
       "gamesPlayed": 54,
       "gamesWon": 28,
@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 52131,
-      "totalEarned": 1102163,
+      "balance": 52143,
+      "totalEarned": 1102175,
       "totalSpent": 1131541,
       "gamesPlayed": 577,
       "gamesWon": 214,
@@ -119,8 +119,8 @@
     },
     {
       "name": "upkey",
-      "balance": 15746,
-      "totalEarned": 15746,
+      "balance": 15760,
+      "totalEarned": 15760,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -227,8 +227,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 12023,
-      "totalEarned": 12023,
+      "balance": 12033,
+      "totalEarned": 12033,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -362,8 +362,8 @@
     },
     {
       "name": "lecto",
-      "balance": 9895,
-      "totalEarned": 9895,
+      "balance": 9897,
+      "totalEarned": 9897,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -389,8 +389,8 @@
     },
     {
       "name": "chicitylol",
-      "balance": 9546,
-      "totalEarned": 9546,
+      "balance": 9548,
+      "totalEarned": 9548,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3321,
-    "totalCirculating": 3025922,
+    "totalCirculating": 3026678,
     "totalGames": 27578,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-29T18:22:35.170Z"
+  "lastUpdated": "2026-06-29T18:52:35.167Z"
 }
