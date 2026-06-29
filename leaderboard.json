@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "daecs",
-      "balance": 100284,
-      "totalEarned": 423234,
+      "balance": 100290,
+      "totalEarned": 423240,
       "totalSpent": 322950,
       "gamesPlayed": 54,
       "gamesWon": 28,
@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 52121,
-      "totalEarned": 1102153,
+      "balance": 52131,
+      "totalEarned": 1102163,
       "totalSpent": 1131541,
       "gamesPlayed": 577,
       "gamesWon": 214,
@@ -38,8 +38,8 @@
     },
     {
       "name": "weppss",
-      "balance": 24944,
-      "totalEarned": 30839,
+      "balance": 24946,
+      "totalEarned": 30841,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -83,8 +83,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 17555,
-      "totalEarned": 17555,
+      "balance": 17567,
+      "totalEarned": 17567,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -110,8 +110,8 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 16118,
-      "totalEarned": 59102,
+      "balance": 16120,
+      "totalEarned": 59104,
       "totalSpent": 42984,
       "gamesPlayed": 143,
       "gamesWon": 53,
@@ -119,12 +119,12 @@
     },
     {
       "name": "upkey",
-      "balance": 15673,
-      "totalEarned": 15673,
+      "balance": 15746,
+      "totalEarned": 15746,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 1
     },
     {
       "name": "ahmet_uk",
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3320,
-    "totalCirculating": 3024700,
+    "totalPlayers": 3321,
+    "totalCirculating": 3025922,
     "totalGames": 27578,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-29T17:52:35.189Z"
+  "lastUpdated": "2026-06-29T18:22:35.170Z"
 }
