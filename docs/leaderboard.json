@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "daecs",
-      "balance": 100274,
-      "totalEarned": 423224,
+      "balance": 100278,
+      "totalEarned": 423228,
       "totalSpent": 322950,
       "gamesPlayed": 54,
       "gamesWon": 28,
@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 52097,
-      "totalEarned": 1102129,
+      "balance": 52109,
+      "totalEarned": 1102141,
       "totalSpent": 1131541,
       "gamesPlayed": 577,
       "gamesWon": 214,
@@ -74,8 +74,8 @@
     },
     {
       "name": "schitt",
-      "balance": 18647,
-      "totalEarned": 18647,
+      "balance": 18679,
+      "totalEarned": 18679,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -83,8 +83,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 17513,
-      "totalEarned": 17513,
+      "balance": 17543,
+      "totalEarned": 17543,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -101,8 +101,8 @@
     },
     {
       "name": "kale96",
-      "balance": 17238,
-      "totalEarned": 23788,
+      "balance": 17262,
+      "totalEarned": 23812,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 14376,
-      "totalEarned": 57241,
+      "balance": 14380,
+      "totalEarned": 57245,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -173,8 +173,8 @@
     },
     {
       "name": "pitapan",
-      "balance": 13874,
-      "totalEarned": 13899,
+      "balance": 13878,
+      "totalEarned": 13903,
       "totalSpent": 25,
       "gamesPlayed": 1,
       "gamesWon": 1,
@@ -209,8 +209,8 @@
     },
     {
       "name": "kazzcs2",
-      "balance": 13320,
-      "totalEarned": 13320,
+      "balance": 13326,
+      "totalEarned": 13326,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -227,8 +227,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 11991,
-      "totalEarned": 11991,
+      "balance": 12007,
+      "totalEarned": 12007,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -272,8 +272,8 @@
     },
     {
       "name": "iam_umii",
-      "balance": 11331,
-      "totalEarned": 11331,
+      "balance": 11333,
+      "totalEarned": 11333,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -281,8 +281,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 11243,
-      "totalEarned": 11243,
+      "balance": 11245,
+      "totalEarned": 11245,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -307,6 +307,15 @@
       "streak": 1
     },
     {
+      "name": "lena_xc",
+      "balance": 10738,
+      "totalEarned": 10738,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "quantik",
       "balance": 10693,
       "totalEarned": 10693,
@@ -314,15 +323,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
-    },
-    {
-      "name": "lena_xc",
-      "balance": 10677,
-      "totalEarned": 10677,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
     },
     {
       "name": "politecatt",
@@ -362,8 +362,8 @@
     },
     {
       "name": "lecto",
-      "balance": 9879,
-      "totalEarned": 9879,
+      "balance": 9883,
+      "totalEarned": 9883,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -398,8 +398,8 @@
     },
     {
       "name": "zz_nz",
-      "balance": 9219,
-      "totalEarned": 9219,
+      "balance": 9276,
+      "totalEarned": 9276,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3320,
-    "totalCirculating": 3020227,
+    "totalCirculating": 3021569,
     "totalGames": 27578,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-29T16:22:35.142Z"
+  "lastUpdated": "2026-06-29T16:52:35.148Z"
 }
