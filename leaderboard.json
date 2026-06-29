@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 52203,
-      "totalEarned": 1102235,
+      "balance": 52205,
+      "totalEarned": 1102237,
       "totalSpent": 1131541,
       "gamesPlayed": 577,
       "gamesWon": 214,
@@ -65,8 +65,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 18776,
-      "totalEarned": 18877,
+      "balance": 18784,
+      "totalEarned": 18885,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -92,8 +92,8 @@
     },
     {
       "name": "kale96",
-      "balance": 17342,
-      "totalEarned": 23892,
+      "balance": 17350,
+      "totalEarned": 23900,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -110,8 +110,8 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 16158,
-      "totalEarned": 59142,
+      "balance": 16172,
+      "totalEarned": 59156,
       "totalSpent": 42984,
       "gamesPlayed": 143,
       "gamesWon": 53,
@@ -281,8 +281,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 11259,
-      "totalEarned": 11259,
+      "balance": 11261,
+      "totalEarned": 11261,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -379,7 +379,7 @@
       "streak": 4
     },
     {
-      "name": "donixo",
+      "name": "chicitylol",
       "balance": 9580,
       "totalEarned": 9580,
       "totalSpent": 0,
@@ -388,9 +388,9 @@
       "streak": 1
     },
     {
-      "name": "chicitylol",
-      "balance": 9574,
-      "totalEarned": 9574,
+      "name": "donixo",
+      "balance": 9580,
+      "totalEarned": 9580,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3321,
-    "totalCirculating": 3030389,
+    "totalPlayers": 3323,
+    "totalCirculating": 3031301,
     "totalGames": 27578,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-29T20:22:35.171Z"
+  "lastUpdated": "2026-06-29T20:52:35.174Z"
 }
