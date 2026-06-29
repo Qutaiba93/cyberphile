@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "daecs",
-      "balance": 100212,
-      "totalEarned": 423162,
+      "balance": 100218,
+      "totalEarned": 423168,
       "totalSpent": 322950,
       "gamesPlayed": 54,
       "gamesWon": 28,
@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 53573,
-      "totalEarned": 1101977,
+      "balance": 53587,
+      "totalEarned": 1101991,
       "totalSpent": 1129913,
       "gamesPlayed": 577,
       "gamesWon": 214,
@@ -137,8 +137,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 14997,
-      "totalEarned": 14997,
+      "balance": 15005,
+      "totalEarned": 15005,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -209,8 +209,8 @@
     },
     {
       "name": "kazzcs2",
-      "balance": 13243,
-      "totalEarned": 13243,
+      "balance": 13310,
+      "totalEarned": 13310,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -227,12 +227,12 @@
     },
     {
       "name": "cuuula",
-      "balance": 11898,
-      "totalEarned": 11898,
+      "balance": 11955,
+      "totalEarned": 11955,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 19
+      "streak": 1
     },
     {
       "name": "brandonws",
@@ -254,8 +254,8 @@
     },
     {
       "name": "damiybe",
-      "balance": 11514,
-      "totalEarned": 11524,
+      "balance": 11516,
+      "totalEarned": 11526,
       "totalSpent": 10,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3319,
-    "totalCirculating": 3019029,
+    "totalCirculating": 3020101,
     "totalGames": 27566,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-06-29T13:22:35.114Z"
+  "lastUpdated": "2026-06-29T13:52:35.108Z"
 }
