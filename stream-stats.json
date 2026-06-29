@@ -1,10 +1,10 @@
 {
   "totalSessions": 139,
   "totalDays": 122,
-  "totalSegments": 6218,
+  "totalSegments": 6221,
   "allTimePeak": 17991,
   "allTimeAvg": 619,
-  "totalMessages": 1159014,
+  "totalMessages": 1159283,
   "categories": [
     {
       "name": "Rust",
@@ -178,8 +178,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 630,
       "peakViewers": 898,
-      "sampleCount": 672,
-      "totalMsgs": 105374
+      "sampleCount": 674,
+      "totalMsgs": 105557
     },
     {
       "name": "Psalm 5:9-13",
@@ -276,8 +276,8 @@
       "name": "Just Chatting",
       "avgViewers": 581,
       "peakViewers": 903,
-      "sampleCount": 2357,
-      "totalMsgs": 447718
+      "sampleCount": 2358,
+      "totalMsgs": 447804
     },
     {
       "name": "World Cup 2026",
@@ -469,9 +469,9 @@
       "totalMsgs": 10731
     },
     "14": {
-      "avgViewers": 378,
-      "sampleCount": 364,
-      "totalMsgs": 55094
+      "avgViewers": 379,
+      "sampleCount": 367,
+      "totalMsgs": 55363
     },
     "15": {
       "avgViewers": 527,
@@ -686,15 +686,16 @@
     },
     {
       "date": "2026-06-29",
-      "avgViewers": 330,
-      "peakViewers": 474,
-      "totalMsgs": 434,
+      "avgViewers": 377,
+      "peakViewers": 513,
+      "totalMsgs": 703,
       "categories": [
         "Just Chatting",
-        "Slots & Casino"
+        "Slots & Casino",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-06-29T14:22:35.100Z"
+  "lastUpdated": "2026-06-29T14:52:35.103Z"
 }
