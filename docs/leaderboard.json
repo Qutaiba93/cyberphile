@@ -65,8 +65,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 18806,
-      "totalEarned": 18907,
+      "balance": 18863,
+      "totalEarned": 18964,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -235,21 +235,21 @@
       "streak": 1
     },
     {
+      "name": "xaqin",
+      "balance": 11851,
+      "totalEarned": 11851,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "brandonws",
       "balance": 11837,
       "totalEarned": 29557,
       "totalSpent": 17720,
       "gamesPlayed": 11,
       "gamesWon": 3,
-      "streak": 1
-    },
-    {
-      "name": "xaqin",
-      "balance": 11794,
-      "totalEarned": 11794,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
       "streak": 1
     },
     {
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3323,
-    "totalCirculating": 3033152,
+    "totalCirculating": 3033323,
     "totalGames": 27580,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-01T13:52:35.486Z"
+  "lastUpdated": "2026-07-01T14:22:35.485Z"
 }
