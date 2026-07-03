@@ -91,20 +91,20 @@
       "streak": 1
     },
     {
+      "name": "papaah",
+      "balance": 17461,
+      "totalEarned": 18462,
+      "totalSpent": 1001,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "kale96",
       "balance": 17392,
       "totalEarned": 23942,
       "totalSpent": 6550,
       "gamesPlayed": 6,
-      "gamesWon": 0,
-      "streak": 1
-    },
-    {
-      "name": "papaah",
-      "balance": 17392,
-      "totalEarned": 18393,
-      "totalSpent": 1001,
-      "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
     },
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3324,
-    "totalCirculating": 3038892,
+    "totalCirculating": 3038961,
     "totalGames": 27588,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-03T21:22:35.742Z"
+  "lastUpdated": "2026-07-03T21:52:35.760Z"
 }
