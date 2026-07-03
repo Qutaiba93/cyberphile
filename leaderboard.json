@@ -47,8 +47,8 @@
     },
     {
       "name": "nick6",
-      "balance": 23803,
-      "totalEarned": 23805,
+      "balance": 23807,
+      "totalEarned": 23809,
       "totalSpent": 2,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -271,18 +271,18 @@
       "streak": 1
     },
     {
-      "name": "iam_umii",
-      "balance": 11333,
-      "totalEarned": 11333,
+      "name": "ganndz",
+      "balance": 11379,
+      "totalEarned": 11379,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
     },
     {
-      "name": "ganndz",
-      "balance": 11322,
-      "totalEarned": 11322,
+      "name": "iam_umii",
+      "balance": 11333,
+      "totalEarned": 11333,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3324,
-    "totalCirculating": 3038345,
+    "totalCirculating": 3038584,
     "totalGames": 27588,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-03T16:52:35.726Z"
+  "lastUpdated": "2026-07-03T17:22:35.708Z"
 }
