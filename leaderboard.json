@@ -47,12 +47,12 @@
     },
     {
       "name": "nick6",
-      "balance": 23811,
-      "totalEarned": 23813,
+      "balance": 23885,
+      "totalEarned": 23887,
       "totalSpent": 2,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "eyla_vanel",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3324,
-    "totalCirculating": 3039225,
+    "totalCirculating": 3039405,
     "totalGames": 27588,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-04T12:22:35.817Z"
+  "lastUpdated": "2026-07-04T12:52:35.823Z"
 }
