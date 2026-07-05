@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 52384,
-      "totalEarned": 1102466,
+      "balance": 52386,
+      "totalEarned": 1102468,
       "totalSpent": 1131591,
       "gamesPlayed": 579,
       "gamesWon": 216,
@@ -65,8 +65,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 19000,
-      "totalEarned": 19101,
+      "balance": 19010,
+      "totalEarned": 19111,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -74,8 +74,8 @@
     },
     {
       "name": "schitt",
-      "balance": 18770,
-      "totalEarned": 18770,
+      "balance": 18774,
+      "totalEarned": 18774,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -128,8 +128,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 15256,
-      "totalEarned": 15256,
+      "balance": 15260,
+      "totalEarned": 15260,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 14515,
-      "totalEarned": 57380,
+      "balance": 14527,
+      "totalEarned": 57392,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -218,8 +218,8 @@
     },
     {
       "name": "furrreal",
-      "balance": 13346,
-      "totalEarned": 16846,
+      "balance": 13350,
+      "totalEarned": 16850,
       "totalSpent": 3500,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -227,8 +227,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 12108,
-      "totalEarned": 12108,
+      "balance": 12110,
+      "totalEarned": 12110,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -271,6 +271,15 @@
       "streak": 1
     },
     {
+      "name": "iam_umii",
+      "balance": 11474,
+      "totalEarned": 11474,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 2
+    },
+    {
       "name": "ganndz",
       "balance": 11462,
       "totalEarned": 11462,
@@ -278,15 +287,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "iam_umii",
-      "balance": 11462,
-      "totalEarned": 11462,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
     },
     {
       "name": "intermediatewastakensadge",
@@ -326,8 +326,8 @@
     },
     {
       "name": "confusion",
-      "balance": 10727,
-      "totalEarned": 11242,
+      "balance": 10729,
+      "totalEarned": 11244,
       "totalSpent": 515,
       "gamesPlayed": 11,
       "gamesWon": 4,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3336,
-    "totalCirculating": 3063452,
+    "totalPlayers": 3337,
+    "totalCirculating": 3064383,
     "totalGames": 27599,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-05T20:22:35.936Z"
+  "lastUpdated": "2026-07-05T20:52:35.936Z"
 }
