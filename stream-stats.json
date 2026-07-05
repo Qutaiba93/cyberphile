@@ -1,10 +1,10 @@
 {
-  "totalSessions": 139,
-  "totalDays": 122,
-  "totalSegments": 6263,
+  "totalSessions": 140,
+  "totalDays": 123,
+  "totalSegments": 6264,
   "allTimePeak": 17991,
   "allTimeAvg": 619,
-  "totalMessages": 1164014,
+  "totalMessages": 1164100,
   "categories": [
     {
       "name": "Rust",
@@ -276,8 +276,8 @@
       "name": "Just Chatting",
       "avgViewers": 581,
       "peakViewers": 903,
-      "sampleCount": 2374,
-      "totalMsgs": 450117
+      "sampleCount": 2375,
+      "totalMsgs": 450203
     },
     {
       "name": "World Cup 2026",
@@ -464,9 +464,9 @@
       "totalMsgs": 909
     },
     "13": {
-      "avgViewers": 249,
-      "sampleCount": 110,
-      "totalMsgs": 10731
+      "avgViewers": 248,
+      "sampleCount": 111,
+      "totalMsgs": 10817
     },
     "14": {
       "avgViewers": 379,
@@ -520,19 +520,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-15",
-      "avgViewers": 686,
-      "peakViewers": 902,
-      "totalMsgs": 9943,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "Chat Roulette",
-        "Counter-Strike 2",
-        "Minecraft"
-      ]
-    },
     {
       "date": "2026-06-16",
       "avgViewers": 603,
@@ -696,8 +683,17 @@
         "Minecraft",
         "Chat Roulette"
       ]
+    },
+    {
+      "date": "2026-07-05",
+      "avgViewers": 111,
+      "peakViewers": 111,
+      "totalMsgs": 86,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-05T13:52:35.898Z"
+  "lastUpdated": "2026-07-05T14:22:35.908Z"
 }
