@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 52205,
-      "totalEarned": 1102237,
+      "balance": 52262,
+      "totalEarned": 1102294,
       "totalSpent": 1131541,
       "gamesPlayed": 577,
       "gamesWon": 214,
@@ -164,8 +164,8 @@
     },
     {
       "name": "bbalint320",
-      "balance": 14301,
-      "totalEarned": 14441,
+      "balance": 14358,
+      "totalEarned": 14498,
       "totalSpent": 140,
       "gamesPlayed": 14,
       "gamesWon": 1,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3324,
-    "totalCirculating": 3040298,
+    "totalCirculating": 3041132,
     "totalGames": 27591,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-05T13:22:35.928Z"
+  "lastUpdated": "2026-07-05T13:52:35.911Z"
 }
