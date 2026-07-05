@@ -1,10 +1,10 @@
 {
   "totalSessions": 141,
   "totalDays": 123,
-  "totalSegments": 6285,
+  "totalSegments": 6288,
   "allTimePeak": 17991,
-  "allTimeAvg": 618,
-  "totalMessages": 1167532,
+  "allTimeAvg": 619,
+  "totalMessages": 1168028,
   "categories": [
     {
       "name": "Rust",
@@ -59,8 +59,8 @@
       "name": "Chat Roulette",
       "avgViewers": 712,
       "peakViewers": 916,
-      "sampleCount": 565,
-      "totalMsgs": 123585
+      "sampleCount": 567,
+      "totalMsgs": 123886
     },
     {
       "name": "Log Riders",
@@ -276,8 +276,8 @@
       "name": "Just Chatting",
       "avgViewers": 581,
       "peakViewers": 903,
-      "sampleCount": 2393,
-      "totalMsgs": 452963
+      "sampleCount": 2394,
+      "totalMsgs": 453158
     },
     {
       "name": "World Cup 2026",
@@ -490,8 +490,8 @@
     },
     "18": {
       "avgViewers": 681,
-      "sampleCount": 624,
-      "totalMsgs": 126040
+      "sampleCount": 627,
+      "totalMsgs": 126536
     },
     "19": {
       "avgViewers": 683,
@@ -686,9 +686,9 @@
     },
     {
       "date": "2026-07-05",
-      "avgViewers": 545,
+      "avgViewers": 569,
       "peakViewers": 779,
-      "totalMsgs": 3518,
+      "totalMsgs": 4014,
       "categories": [
         "Just Chatting",
         "Chat Roulette"
@@ -696,5 +696,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-05T18:22:35.918Z"
+  "lastUpdated": "2026-07-05T18:52:35.914Z"
 }
