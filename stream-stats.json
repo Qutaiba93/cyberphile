@@ -1,10 +1,10 @@
 {
   "totalSessions": 141,
   "totalDays": 123,
-  "totalSegments": 6312,
+  "totalSegments": 6315,
   "allTimePeak": 17991,
   "allTimeAvg": 619,
-  "totalMessages": 1171647,
+  "totalMessages": 1171825,
   "categories": [
     {
       "name": "Rust",
@@ -176,10 +176,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 629,
+      "avgViewers": 628,
       "peakViewers": 898,
-      "sampleCount": 703,
-      "totalMsgs": 108825
+      "sampleCount": 706,
+      "totalMsgs": 109003
     },
     {
       "name": "Psalm 5:9-13",
@@ -510,13 +510,13 @@
     },
     "22": {
       "avgViewers": 662,
-      "sampleCount": 538,
-      "totalMsgs": 110549
+      "sampleCount": 539,
+      "totalMsgs": 110617
     },
     "23": {
       "avgViewers": 629,
-      "sampleCount": 417,
-      "totalMsgs": 74820
+      "sampleCount": 419,
+      "totalMsgs": 74930
     }
   },
   "dailyHistory": [
@@ -686,9 +686,9 @@
     },
     {
       "date": "2026-07-05",
-      "avgViewers": 605,
+      "avgViewers": 604,
       "peakViewers": 779,
-      "totalMsgs": 7633,
+      "totalMsgs": 7811,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -698,5 +698,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-05T22:52:35.923Z"
+  "lastUpdated": "2026-07-05T23:22:35.921Z"
 }
