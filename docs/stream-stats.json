@@ -1,10 +1,10 @@
 {
   "totalSessions": 141,
   "totalDays": 123,
-  "totalSegments": 6309,
+  "totalSegments": 6312,
   "allTimePeak": 17991,
   "allTimeAvg": 619,
-  "totalMessages": 1171367,
+  "totalMessages": 1171647,
   "categories": [
     {
       "name": "Rust",
@@ -178,8 +178,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 629,
       "peakViewers": 898,
-      "sampleCount": 700,
-      "totalMsgs": 108545
+      "sampleCount": 703,
+      "totalMsgs": 108825
     },
     {
       "name": "Psalm 5:9-13",
@@ -509,9 +509,9 @@
       "totalMsgs": 125361
     },
     "22": {
-      "avgViewers": 663,
-      "sampleCount": 535,
-      "totalMsgs": 110269
+      "avgViewers": 662,
+      "sampleCount": 538,
+      "totalMsgs": 110549
     },
     "23": {
       "avgViewers": 629,
@@ -686,9 +686,9 @@
     },
     {
       "date": "2026-07-05",
-      "avgViewers": 606,
+      "avgViewers": 605,
       "peakViewers": 779,
-      "totalMsgs": 7353,
+      "totalMsgs": 7633,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -698,5 +698,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-05T22:22:35.899Z"
+  "lastUpdated": "2026-07-05T22:52:35.923Z"
 }
