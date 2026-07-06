@@ -1,10 +1,10 @@
 {
   "totalSessions": 142,
   "totalDays": 124,
-  "totalSegments": 6360,
+  "totalSegments": 6363,
   "allTimePeak": 17991,
   "allTimeAvg": 618,
-  "totalMessages": 1178068,
+  "totalMessages": 1178260,
   "categories": [
     {
       "name": "Rust",
@@ -178,8 +178,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 628,
       "peakViewers": 898,
-      "sampleCount": 713,
-      "totalMsgs": 109627
+      "sampleCount": 714,
+      "totalMsgs": 109684
     },
     {
       "name": "Psalm 5:9-13",
@@ -276,8 +276,8 @@
       "name": "World Cup 2026",
       "avgViewers": 582,
       "peakViewers": 734,
-      "sampleCount": 36,
-      "totalMsgs": 2789
+      "sampleCount": 38,
+      "totalMsgs": 2924
     },
     {
       "name": "Just Chatting",
@@ -495,8 +495,8 @@
     },
     "19": {
       "avgViewers": 682,
-      "sampleCount": 630,
-      "totalMsgs": 127225
+      "sampleCount": 633,
+      "totalMsgs": 127417
     },
     "20": {
       "avgViewers": 672,
@@ -685,15 +685,16 @@
     },
     {
       "date": "2026-07-06",
-      "avgViewers": 512,
+      "avgViewers": 521,
       "peakViewers": 671,
-      "totalMsgs": 2816,
+      "totalMsgs": 3008,
       "categories": [
         "Just Chatting",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "World Cup 2026"
       ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-06T19:22:36.104Z"
+  "lastUpdated": "2026-07-06T19:52:36.038Z"
 }
