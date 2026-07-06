@@ -262,6 +262,15 @@
       "streak": 1
     },
     {
+      "name": "ganndz",
+      "balance": 11542,
+      "totalEarned": 11542,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 2
+    },
+    {
       "name": "iam_umii",
       "balance": 11504,
       "totalEarned": 11504,
@@ -269,15 +278,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
-    },
-    {
-      "name": "ganndz",
-      "balance": 11480,
-      "totalEarned": 11480,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
     },
     {
       "name": "intermediatewastakensadge",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3344,
-    "totalCirculating": 3063844,
+    "totalCirculating": 3063906,
     "totalGames": 27610,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-06T13:52:35.978Z"
+  "lastUpdated": "2026-07-06T14:22:36.005Z"
 }
