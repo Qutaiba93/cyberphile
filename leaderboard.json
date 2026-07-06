@@ -146,8 +146,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 15207,
-      "totalEarned": 15207,
+      "balance": 15211,
+      "totalEarned": 15211,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3348,
-    "totalCirculating": 3096096,
+    "totalCirculating": 3096100,
     "totalGames": 27616,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-06T22:22:36.081Z"
+  "lastUpdated": "2026-07-06T22:52:36.088Z"
 }
