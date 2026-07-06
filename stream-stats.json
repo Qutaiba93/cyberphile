@@ -1,10 +1,10 @@
 {
   "totalSessions": 142,
   "totalDays": 124,
-  "totalSegments": 6369,
+  "totalSegments": 6372,
   "allTimePeak": 17991,
   "allTimeAvg": 618,
-  "totalMessages": 1178672,
+  "totalMessages": 1178911,
   "categories": [
     {
       "name": "Rust",
@@ -276,15 +276,8 @@
       "name": "Just Chatting",
       "avgViewers": 580,
       "peakViewers": 903,
-      "sampleCount": 2434,
-      "totalMsgs": 458419
-    },
-    {
-      "name": "World Cup 2026",
-      "avgViewers": 579,
-      "peakViewers": 734,
-      "sampleCount": 44,
-      "totalMsgs": 3336
+      "sampleCount": 2436,
+      "totalMsgs": 458600
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -292,6 +285,13 @@
       "peakViewers": 748,
       "sampleCount": 145,
       "totalMsgs": 21653
+    },
+    {
+      "name": "World Cup 2026",
+      "avgViewers": 578,
+      "peakViewers": 734,
+      "sampleCount": 45,
+      "totalMsgs": 3394
     },
     {
       "name": "Fears to Fathom: Scratch Creek",
@@ -500,13 +500,13 @@
     },
     "20": {
       "avgViewers": 671,
-      "sampleCount": 661,
-      "totalMsgs": 139930
+      "sampleCount": 662,
+      "totalMsgs": 139988
     },
     "21": {
       "avgViewers": 681,
-      "sampleCount": 625,
-      "totalMsgs": 125361
+      "sampleCount": 627,
+      "totalMsgs": 125542
     },
     "22": {
       "avgViewers": 662,
@@ -685,9 +685,9 @@
     },
     {
       "date": "2026-07-06",
-      "avgViewers": 528,
+      "avgViewers": 531,
       "peakViewers": 671,
-      "totalMsgs": 3420,
+      "totalMsgs": 3659,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -696,5 +696,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-06T20:52:36.045Z"
+  "lastUpdated": "2026-07-06T21:22:36.045Z"
 }
