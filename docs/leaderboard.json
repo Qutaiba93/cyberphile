@@ -38,8 +38,8 @@
     },
     {
       "name": "weppss",
-      "balance": 25339,
-      "totalEarned": 31234,
+      "balance": 25353,
+      "totalEarned": 31248,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -74,8 +74,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 19158,
-      "totalEarned": 19259,
+      "balance": 19168,
+      "totalEarned": 19269,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -200,8 +200,8 @@
     },
     {
       "name": "machamp1",
-      "balance": 13662,
-      "totalEarned": 13887,
+      "balance": 13680,
+      "totalEarned": 13905,
       "totalSpent": 225,
       "gamesPlayed": 5,
       "gamesWon": 1,
@@ -281,8 +281,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 11554,
-      "totalEarned": 11554,
+      "balance": 11556,
+      "totalEarned": 11556,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -317,8 +317,8 @@
     },
     {
       "name": "confusion",
-      "balance": 10805,
-      "totalEarned": 11320,
+      "balance": 10807,
+      "totalEarned": 11322,
       "totalSpent": 515,
       "gamesPlayed": 11,
       "gamesWon": 4,
@@ -371,8 +371,8 @@
     },
     {
       "name": "chicitylol",
-      "balance": 9777,
-      "totalEarned": 9777,
+      "balance": 9779,
+      "totalEarned": 9779,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -389,8 +389,8 @@
     },
     {
       "name": "donixo",
-      "balance": 9709,
-      "totalEarned": 9709,
+      "balance": 9717,
+      "totalEarned": 9717,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3347,
-    "totalCirculating": 3093599,
+    "totalCirculating": 3093942,
     "totalGames": 27616,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-06T20:22:36.051Z"
+  "lastUpdated": "2026-07-06T20:52:36.063Z"
 }
