@@ -47,8 +47,8 @@
     },
     {
       "name": "nick6",
-      "balance": 24479,
-      "totalEarned": 24483,
+      "balance": 24491,
+      "totalEarned": 24495,
       "totalSpent": 4,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -92,8 +92,8 @@
     },
     {
       "name": "kale96",
-      "balance": 17597,
-      "totalEarned": 24147,
+      "balance": 17601,
+      "totalEarned": 24151,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -245,8 +245,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 11852,
-      "totalEarned": 11852,
+      "balance": 11856,
+      "totalEarned": 11856,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -380,8 +380,8 @@
     },
     {
       "name": "donixo",
-      "balance": 9703,
-      "totalEarned": 9703,
+      "balance": 9707,
+      "totalEarned": 9707,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3344,
-    "totalCirculating": 3063634,
+    "totalCirculating": 3063844,
     "totalGames": 27610,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-06T02:52:35.951Z"
+  "lastUpdated": "2026-07-06T03:22:35.949Z"
 }
