@@ -47,8 +47,8 @@
     },
     {
       "name": "nick6",
-      "balance": 24457,
-      "totalEarned": 24461,
+      "balance": 24479,
+      "totalEarned": 24483,
       "totalSpent": 4,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -199,19 +199,19 @@
       "streak": 1
     },
     {
+      "name": "furrreal",
+      "balance": 13498,
+      "totalEarned": 16998,
+      "totalSpent": 3500,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 2
+    },
+    {
       "name": "kazzcs2",
       "balance": 13451,
       "totalEarned": 13451,
       "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
-    },
-    {
-      "name": "furrreal",
-      "balance": 13436,
-      "totalEarned": 16936,
-      "totalSpent": 3500,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
@@ -245,8 +245,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 11832,
-      "totalEarned": 11832,
+      "balance": 11852,
+      "totalEarned": 11852,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -353,8 +353,8 @@
     },
     {
       "name": "lecto",
-      "balance": 9986,
-      "totalEarned": 9986,
+      "balance": 10000,
+      "totalEarned": 10000,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3344,
-    "totalCirculating": 3062897,
+    "totalCirculating": 3063634,
     "totalGames": 27610,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-06T02:22:35.952Z"
+  "lastUpdated": "2026-07-06T02:52:35.951Z"
 }
