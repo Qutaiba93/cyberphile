@@ -1,10 +1,10 @@
 {
-  "totalSessions": 141,
-  "totalDays": 123,
-  "totalSegments": 6338,
+  "totalSessions": 142,
+  "totalDays": 124,
+  "totalSegments": 6339,
   "allTimePeak": 17991,
   "allTimeAvg": 618,
-  "totalMessages": 1175252,
+  "totalMessages": 1175332,
   "categories": [
     {
       "name": "Rust",
@@ -283,8 +283,8 @@
       "name": "Just Chatting",
       "avgViewers": 581,
       "peakViewers": 903,
-      "sampleCount": 2418,
-      "totalMsgs": 456175
+      "sampleCount": 2419,
+      "totalMsgs": 456255
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -474,9 +474,9 @@
       "totalMsgs": 55631
     },
     "15": {
-      "avgViewers": 527,
-      "sampleCount": 511,
-      "totalMsgs": 91086
+      "avgViewers": 526,
+      "sampleCount": 512,
+      "totalMsgs": 91166
     },
     "16": {
       "avgViewers": 635,
@@ -520,19 +520,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-16",
-      "avgViewers": 603,
-      "peakViewers": 728,
-      "totalMsgs": 9171,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "Chat Roulette",
-        "Meccha Chameleon",
-        "VRChat"
-      ]
-    },
     {
       "date": "2026-06-17",
       "avgViewers": 643,
@@ -695,8 +682,17 @@
         "Counter-Strike 2",
         "World Cup 2026"
       ]
+    },
+    {
+      "date": "2026-07-06",
+      "avgViewers": 68,
+      "peakViewers": 68,
+      "totalMsgs": 80,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-06T15:22:35.994Z"
+  "lastUpdated": "2026-07-06T15:52:35.989Z"
 }
