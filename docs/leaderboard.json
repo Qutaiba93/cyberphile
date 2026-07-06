@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 52478,
-      "totalEarned": 1102560,
+      "balance": 52496,
+      "totalEarned": 1102578,
       "totalSpent": 1131591,
       "gamesPlayed": 579,
       "gamesWon": 216,
@@ -38,8 +38,8 @@
     },
     {
       "name": "weppss",
-      "balance": 25323,
-      "totalEarned": 31218,
+      "balance": 25325,
+      "totalEarned": 31220,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -47,8 +47,8 @@
     },
     {
       "name": "nick6",
-      "balance": 24355,
-      "totalEarned": 24359,
+      "balance": 24403,
+      "totalEarned": 24407,
       "totalSpent": 4,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -65,8 +65,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 19092,
-      "totalEarned": 19193,
+      "balance": 19094,
+      "totalEarned": 19195,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -244,18 +244,9 @@
       "streak": 1
     },
     {
-      "name": "brandonws",
-      "balance": 11898,
-      "totalEarned": 29618,
-      "totalSpent": 17720,
-      "gamesPlayed": 11,
-      "gamesWon": 3,
-      "streak": 1
-    },
-    {
       "name": "parlaybuster",
-      "balance": 11768,
-      "totalEarned": 11768,
+      "balance": 11790,
+      "totalEarned": 11790,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -449,12 +440,21 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
+    },
+    {
+      "name": "aymoon",
+      "balance": 8724,
+      "totalEarned": 8724,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 8
     }
   ],
   "stats": {
     "totalPlayers": 3343,
-    "totalCirculating": 3074451,
-    "totalGames": 27606,
+    "totalCirculating": 3061700,
+    "totalGames": 27610,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-06T01:22:35.943Z"
+  "lastUpdated": "2026-07-06T01:52:35.947Z"
 }
