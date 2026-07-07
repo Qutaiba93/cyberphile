@@ -38,12 +38,12 @@
     },
     {
       "name": "weppss",
-      "balance": 25383,
-      "totalEarned": 31278,
+      "balance": 25450,
+      "totalEarned": 31345,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "nick6",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3348,
-    "totalCirculating": 3096291,
+    "totalCirculating": 3097025,
     "totalGames": 27616,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-07T14:52:36.156Z"
+  "lastUpdated": "2026-07-07T15:22:36.196Z"
 }
