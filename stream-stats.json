@@ -1,10 +1,10 @@
 {
-  "totalSessions": 142,
-  "totalDays": 124,
-  "totalSegments": 6377,
+  "totalSessions": 143,
+  "totalDays": 125,
+  "totalSegments": 6380,
   "allTimePeak": 17991,
   "allTimeAvg": 618,
-  "totalMessages": 1179396,
+  "totalMessages": 1179617,
   "categories": [
     {
       "name": "Rust",
@@ -176,10 +176,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 628,
+      "avgViewers": 627,
       "peakViewers": 898,
-      "sampleCount": 715,
-      "totalMsgs": 109747
+      "sampleCount": 716,
+      "totalMsgs": 109790
     },
     {
       "name": "Psalm 5:9-13",
@@ -276,8 +276,8 @@
       "name": "Just Chatting",
       "avgViewers": 580,
       "peakViewers": 903,
-      "sampleCount": 2440,
-      "totalMsgs": 459022
+      "sampleCount": 2442,
+      "totalMsgs": 459200
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -474,9 +474,9 @@
       "totalMsgs": 55631
     },
     "15": {
-      "avgViewers": 525,
-      "sampleCount": 513,
-      "totalMsgs": 91195
+      "avgViewers": 524,
+      "sampleCount": 516,
+      "totalMsgs": 91416
     },
     "16": {
       "avgViewers": 633,
@@ -520,18 +520,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-17",
-      "avgViewers": 643,
-      "peakViewers": 757,
-      "totalMsgs": 6654,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "Chat Roulette",
-        "Lies of P"
-      ]
-    },
     {
       "date": "2026-06-18",
       "avgViewers": 324,
@@ -693,8 +681,18 @@
         "Counter-Strike 2",
         "World Cup 2026"
       ]
+    },
+    {
+      "date": "2026-07-07",
+      "avgViewers": 213,
+      "peakViewers": 326,
+      "totalMsgs": 221,
+      "categories": [
+        "Counter-Strike 2",
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-07T15:22:36.114Z"
+  "lastUpdated": "2026-07-07T15:52:36.133Z"
 }
