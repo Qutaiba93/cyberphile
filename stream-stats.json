@@ -1,10 +1,10 @@
 {
   "totalSessions": 144,
   "totalDays": 126,
-  "totalSegments": 6433,
+  "totalSegments": 6436,
   "allTimePeak": 17991,
-  "allTimeAvg": 617,
-  "totalMessages": 1188346,
+  "allTimeAvg": 616,
+  "totalMessages": 1188927,
   "categories": [
     {
       "name": "Rust",
@@ -182,18 +182,18 @@
       "totalMsgs": 929
     },
     {
-      "name": "Counter-Strike 2",
-      "avgViewers": 623,
-      "peakViewers": 898,
-      "sampleCount": 727,
-      "totalMsgs": 110730
-    },
-    {
       "name": "Gamble With Your Friends",
       "avgViewers": 623,
       "peakViewers": 755,
       "sampleCount": 56,
       "totalMsgs": 7053
+    },
+    {
+      "name": "Counter-Strike 2",
+      "avgViewers": 622,
+      "peakViewers": 898,
+      "sampleCount": 730,
+      "totalMsgs": 111311
     },
     {
       "name": "DayZ",
@@ -510,13 +510,13 @@
     },
     "22": {
       "avgViewers": 658,
-      "sampleCount": 545,
-      "totalMsgs": 111252
+      "sampleCount": 546,
+      "totalMsgs": 111432
     },
     "23": {
-      "avgViewers": 628,
-      "sampleCount": 423,
-      "totalMsgs": 75349
+      "avgViewers": 627,
+      "sampleCount": 425,
+      "totalMsgs": 75750
     }
   },
   "dailyHistory": [
@@ -684,9 +684,9 @@
     },
     {
       "date": "2026-07-08",
-      "avgViewers": 393,
+      "avgViewers": 384,
       "peakViewers": 643,
-      "totalMsgs": 4941,
+      "totalMsgs": 5522,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2"
@@ -694,5 +694,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-08T22:52:36.183Z"
+  "lastUpdated": "2026-07-08T23:22:36.188Z"
 }
