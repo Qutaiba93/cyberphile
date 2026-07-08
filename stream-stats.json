@@ -1,10 +1,10 @@
 {
   "totalSessions": 144,
   "totalDays": 126,
-  "totalSegments": 6436,
+  "totalSegments": 6439,
   "allTimePeak": 17991,
   "allTimeAvg": 616,
-  "totalMessages": 1188927,
+  "totalMessages": 1189317,
   "categories": [
     {
       "name": "Rust",
@@ -190,10 +190,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 622,
+      "avgViewers": 621,
       "peakViewers": 898,
-      "sampleCount": 730,
-      "totalMsgs": 111311
+      "sampleCount": 733,
+      "totalMsgs": 111701
     },
     {
       "name": "DayZ",
@@ -514,9 +514,9 @@
       "totalMsgs": 111432
     },
     "23": {
-      "avgViewers": 627,
-      "sampleCount": 425,
-      "totalMsgs": 75750
+      "avgViewers": 625,
+      "sampleCount": 428,
+      "totalMsgs": 76140
     }
   },
   "dailyHistory": [
@@ -684,9 +684,9 @@
     },
     {
       "date": "2026-07-08",
-      "avgViewers": 384,
+      "avgViewers": 380,
       "peakViewers": 643,
-      "totalMsgs": 5522,
+      "totalMsgs": 5912,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2"
@@ -694,5 +694,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-08T23:22:36.188Z"
+  "lastUpdated": "2026-07-08T23:52:36.190Z"
 }

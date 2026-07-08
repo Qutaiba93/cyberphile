@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 52793,
-      "totalEarned": 1102875,
+      "balance": 52801,
+      "totalEarned": 1102883,
       "totalSpent": 1131591,
       "gamesPlayed": 579,
       "gamesWon": 216,
@@ -101,8 +101,8 @@
     },
     {
       "name": "papaah",
-      "balance": 17639,
-      "totalEarned": 18640,
+      "balance": 17641,
+      "totalEarned": 18642,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 14910,
-      "totalEarned": 57775,
+      "balance": 14926,
+      "totalEarned": 57791,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -236,8 +236,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 12253,
-      "totalEarned": 12253,
+      "balance": 12261,
+      "totalEarned": 12261,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3358,
-    "totalCirculating": 3109546,
+    "totalPlayers": 3359,
+    "totalCirculating": 3110506,
     "totalGames": 27637,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-08T23:22:36.203Z"
+  "lastUpdated": "2026-07-08T23:52:36.203Z"
 }
