@@ -1,10 +1,10 @@
 {
   "totalSessions": 144,
   "totalDays": 126,
-  "totalSegments": 6424,
+  "totalSegments": 6427,
   "allTimePeak": 17991,
   "allTimeAvg": 617,
-  "totalMessages": 1187277,
+  "totalMessages": 1187694,
   "categories": [
     {
       "name": "Rust",
@@ -176,10 +176,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 627,
+      "avgViewers": 626,
       "peakViewers": 898,
-      "sampleCount": 720,
-      "totalMsgs": 110029
+      "sampleCount": 721,
+      "totalMsgs": 110078
     },
     {
       "name": "Psalm 5:9-13",
@@ -274,10 +274,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 579,
+      "avgViewers": 578,
       "peakViewers": 903,
-      "sampleCount": 2482,
-      "totalMsgs": 466621
+      "sampleCount": 2484,
+      "totalMsgs": 466989
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -504,9 +504,9 @@
       "totalMsgs": 141134
     },
     "21": {
-      "avgViewers": 679,
-      "sampleCount": 633,
-      "totalMsgs": 126346
+      "avgViewers": 678,
+      "sampleCount": 636,
+      "totalMsgs": 126763
     },
     "22": {
       "avgViewers": 662,
@@ -684,14 +684,15 @@
     },
     {
       "date": "2026-07-08",
-      "avgViewers": 436,
+      "avgViewers": 422,
       "peakViewers": 643,
-      "totalMsgs": 3872,
+      "totalMsgs": 4289,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-08T21:22:36.192Z"
+  "lastUpdated": "2026-07-08T21:52:36.182Z"
 }
