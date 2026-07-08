@@ -65,12 +65,12 @@
     },
     {
       "name": "cheesee6969",
-      "balance": 19749,
-      "totalEarned": 4157030,
+      "balance": 19821,
+      "totalEarned": 4157102,
       "totalSpent": 4147221,
       "gamesPlayed": 1082,
       "gamesWon": 450,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "faridlamm",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3352,
-    "totalCirculating": 3114476,
+    "totalCirculating": 3114635,
     "totalGames": 27616,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-08T17:22:36.226Z"
+  "lastUpdated": "2026-07-08T17:52:36.199Z"
 }
