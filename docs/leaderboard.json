@@ -164,12 +164,12 @@
     },
     {
       "name": "arabicoj",
-      "balance": 14758,
-      "totalEarned": 57623,
+      "balance": 14830,
+      "totalEarned": 57695,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "bbalint320",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3352,
-    "totalCirculating": 3114324,
+    "totalCirculating": 3114396,
     "totalGames": 27616,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-08T16:22:36.217Z"
+  "lastUpdated": "2026-07-08T16:52:36.199Z"
 }
