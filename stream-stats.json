@@ -1,10 +1,10 @@
 {
   "totalSessions": 144,
   "totalDays": 126,
-  "totalSegments": 6430,
+  "totalSegments": 6433,
   "allTimePeak": 17991,
   "allTimeAvg": 617,
-  "totalMessages": 1188035,
+  "totalMessages": 1188346,
   "categories": [
     {
       "name": "Rust",
@@ -175,18 +175,18 @@
       "totalMsgs": 3485
     },
     {
-      "name": "Counter-Strike 2",
-      "avgViewers": 625,
-      "peakViewers": 898,
-      "sampleCount": 724,
-      "totalMsgs": 110419
-    },
-    {
       "name": "Psalm 5:9-13",
       "avgViewers": 625,
       "peakViewers": 674,
       "sampleCount": 8,
       "totalMsgs": 929
+    },
+    {
+      "name": "Counter-Strike 2",
+      "avgViewers": 623,
+      "peakViewers": 898,
+      "sampleCount": 727,
+      "totalMsgs": 110730
     },
     {
       "name": "Gamble With Your Friends",
@@ -509,9 +509,9 @@
       "totalMsgs": 126843
     },
     "22": {
-      "avgViewers": 661,
-      "sampleCount": 542,
-      "totalMsgs": 110941
+      "avgViewers": 658,
+      "sampleCount": 545,
+      "totalMsgs": 111252
     },
     "23": {
       "avgViewers": 628,
@@ -684,9 +684,9 @@
     },
     {
       "date": "2026-07-08",
-      "avgViewers": 406,
+      "avgViewers": 393,
       "peakViewers": 643,
-      "totalMsgs": 4630,
+      "totalMsgs": 4941,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2"
@@ -694,5 +694,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-08T22:22:36.187Z"
+  "lastUpdated": "2026-07-08T22:52:36.183Z"
 }
