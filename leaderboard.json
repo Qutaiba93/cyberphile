@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "daecs",
-      "balance": 100793,
-      "totalEarned": 423743,
+      "balance": 100805,
+      "totalEarned": 423755,
       "totalSpent": 322950,
       "gamesPlayed": 54,
       "gamesWon": 28,
@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 52882,
-      "totalEarned": 1102964,
+      "balance": 52914,
+      "totalEarned": 1102996,
       "totalSpent": 1131591,
       "gamesPlayed": 579,
       "gamesWon": 216,
@@ -74,21 +74,21 @@
     },
     {
       "name": "schitt",
-      "balance": 19159,
-      "totalEarned": 19159,
+      "balance": 19240,
+      "totalEarned": 19240,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "juggin247",
-      "balance": 18445,
-      "totalEarned": 18445,
+      "balance": 18560,
+      "totalEarned": 18560,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "kale96",
@@ -145,6 +145,15 @@
       "streak": 1
     },
     {
+      "name": "arabicoj",
+      "balance": 15049,
+      "totalEarned": 57914,
+      "totalSpent": 42865,
+      "gamesPlayed": 41,
+      "gamesWon": 15,
+      "streak": 5
+    },
+    {
       "name": "5pray",
       "balance": 15042,
       "totalEarned": 15042,
@@ -154,22 +163,13 @@
       "streak": 1
     },
     {
-      "name": "arabicoj",
-      "balance": 15003,
-      "totalEarned": 57868,
-      "totalSpent": 42865,
-      "gamesPlayed": 41,
-      "gamesWon": 15,
-      "streak": 5
-    },
-    {
       "name": "bbalint320",
-      "balance": 14571,
-      "totalEarned": 14711,
+      "balance": 14645,
+      "totalEarned": 14785,
       "totalSpent": 140,
       "gamesPlayed": 14,
       "gamesWon": 1,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "pitapan",
@@ -227,12 +227,12 @@
     },
     {
       "name": "cuuula",
-      "balance": 12413,
-      "totalEarned": 12413,
+      "balance": 12490,
+      "totalEarned": 12490,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "parlaybuster",
@@ -281,12 +281,12 @@
     },
     {
       "name": "tonynairobi",
-      "balance": 11270,
-      "totalEarned": 11270,
+      "balance": 11354,
+      "totalEarned": 11354,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "intermediatewastakensadge",
@@ -317,8 +317,8 @@
     },
     {
       "name": "lena_xc",
-      "balance": 10829,
-      "totalEarned": 10829,
+      "balance": 10845,
+      "totalEarned": 10845,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -388,6 +388,15 @@
       "streak": 4
     },
     {
+      "name": "zz_nz",
+      "balance": 9627,
+      "totalEarned": 9627,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 5
+    },
+    {
       "name": "bushybrauz",
       "balance": 9563,
       "totalEarned": 9563,
@@ -397,18 +406,9 @@
       "streak": 8
     },
     {
-      "name": "zz_nz",
-      "balance": 9548,
-      "totalEarned": 9548,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 4
-    },
-    {
       "name": "med1cinee",
-      "balance": 9261,
-      "totalEarned": 9261,
+      "balance": 9285,
+      "totalEarned": 9285,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -443,8 +443,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 8894,
-      "totalEarned": 26132,
+      "balance": 8900,
+      "totalEarned": 26138,
       "totalSpent": 17238,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3359,
-    "totalCirculating": 3113140,
+    "totalCirculating": 3116022,
     "totalGames": 27637,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-09T15:22:36.240Z"
+  "lastUpdated": "2026-07-09T15:52:36.227Z"
 }
