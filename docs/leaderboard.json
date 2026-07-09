@@ -29,8 +29,8 @@
     },
     {
       "name": "zuyu",
-      "balance": 44868,
-      "totalEarned": 134881,
+      "balance": 44936,
+      "totalEarned": 134949,
       "totalSpent": 90013,
       "gamesPlayed": 44,
       "gamesWon": 19,
@@ -83,8 +83,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 18632,
-      "totalEarned": 18632,
+      "balance": 18692,
+      "totalEarned": 18692,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -101,8 +101,8 @@
     },
     {
       "name": "kale96",
-      "balance": 17749,
-      "totalEarned": 24299,
+      "balance": 17767,
+      "totalEarned": 24317,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -155,8 +155,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 15073,
-      "totalEarned": 57938,
+      "balance": 15089,
+      "totalEarned": 57954,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -200,8 +200,8 @@
     },
     {
       "name": "furrreal",
-      "balance": 13740,
-      "totalEarned": 17240,
+      "balance": 13746,
+      "totalEarned": 17246,
       "totalSpent": 3500,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -227,8 +227,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 12494,
-      "totalEarned": 12494,
+      "balance": 12498,
+      "totalEarned": 12498,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -281,8 +281,8 @@
     },
     {
       "name": "tonynairobi",
-      "balance": 11392,
-      "totalEarned": 11392,
+      "balance": 11398,
+      "totalEarned": 11398,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,11 +299,20 @@
     },
     {
       "name": "politecatt",
-      "balance": 11040,
-      "totalEarned": 11090,
+      "balance": 11050,
+      "totalEarned": 11100,
       "totalSpent": 50,
       "gamesPlayed": 3,
       "gamesWon": 1,
+      "streak": 2
+    },
+    {
+      "name": "confusion",
+      "balance": 10950,
+      "totalEarned": 11465,
+      "totalSpent": 515,
+      "gamesPlayed": 11,
+      "gamesWon": 4,
       "streak": 2
     },
     {
@@ -313,15 +322,6 @@
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
-    },
-    {
-      "name": "confusion",
-      "balance": 10886,
-      "totalEarned": 11401,
-      "totalSpent": 515,
-      "gamesPlayed": 11,
-      "gamesWon": 4,
       "streak": 1
     },
     {
@@ -407,8 +407,8 @@
     },
     {
       "name": "med1cinee",
-      "balance": 9319,
-      "totalEarned": 9319,
+      "balance": 9321,
+      "totalEarned": 9321,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,8 +434,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 8994,
-      "totalEarned": 26232,
+      "balance": 9032,
+      "totalEarned": 26270,
       "totalSpent": 17238,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3362,
-    "totalCirculating": 3128061,
+    "totalCirculating": 3130225,
     "totalGames": 27639,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-09T18:52:36.252Z"
+  "lastUpdated": "2026-07-09T19:22:36.231Z"
 }
