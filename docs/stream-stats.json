@@ -1,10 +1,10 @@
 {
   "totalSessions": 145,
   "totalDays": 127,
-  "totalSegments": 6457,
+  "totalSegments": 6460,
   "allTimePeak": 17991,
   "allTimeAvg": 616,
-  "totalMessages": 1192100,
+  "totalMessages": 1192607,
   "categories": [
     {
       "name": "Rust",
@@ -59,8 +59,8 @@
       "name": "Chat Roulette",
       "avgViewers": 710,
       "peakViewers": 916,
-      "sampleCount": 584,
-      "totalMsgs": 127294
+      "sampleCount": 587,
+      "totalMsgs": 127801
     },
     {
       "name": "Log Riders",
@@ -485,13 +485,13 @@
     },
     "17": {
       "avgViewers": 683,
-      "sampleCount": 624,
-      "totalMsgs": 116737
+      "sampleCount": 625,
+      "totalMsgs": 117040
     },
     "18": {
       "avgViewers": 677,
-      "sampleCount": 645,
-      "totalMsgs": 129545
+      "sampleCount": 647,
+      "totalMsgs": 129749
     },
     "19": {
       "avgViewers": 679,
@@ -681,9 +681,9 @@
     },
     {
       "date": "2026-07-09",
-      "avgViewers": 466,
-      "peakViewers": 683,
-      "totalMsgs": 2510,
+      "avgViewers": 502,
+      "peakViewers": 701,
+      "totalMsgs": 3017,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
@@ -692,5 +692,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-09T17:52:36.227Z"
+  "lastUpdated": "2026-07-09T18:22:36.227Z"
 }
