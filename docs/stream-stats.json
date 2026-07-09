@@ -1,10 +1,10 @@
 {
-  "totalSessions": 144,
-  "totalDays": 126,
-  "totalSegments": 6441,
+  "totalSessions": 145,
+  "totalDays": 127,
+  "totalSegments": 6442,
   "allTimePeak": 17991,
   "allTimeAvg": 616,
-  "totalMessages": 1189590,
+  "totalMessages": 1189632,
   "categories": [
     {
       "name": "Rust",
@@ -199,8 +199,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 620,
       "peakViewers": 898,
-      "sampleCount": 735,
-      "totalMsgs": 111974
+      "sampleCount": 736,
+      "totalMsgs": 112016
     },
     {
       "name": "Minecraft",
@@ -474,9 +474,9 @@
       "totalMsgs": 55631
     },
     "15": {
-      "avgViewers": 523,
-      "sampleCount": 517,
-      "totalMsgs": 91558
+      "avgViewers": 522,
+      "sampleCount": 518,
+      "totalMsgs": 91600
     },
     "16": {
       "avgViewers": 631,
@@ -520,19 +520,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-19",
-      "avgViewers": 611,
-      "peakViewers": 713,
-      "totalMsgs": 7962,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "Counter-Strike 2",
-        "Minecraft",
-        "Lies of P"
-      ]
-    },
     {
       "date": "2026-06-20",
       "avgViewers": 602,
@@ -691,8 +678,17 @@
         "Just Chatting",
         "Counter-Strike 2"
       ]
+    },
+    {
+      "date": "2026-07-09",
+      "avgViewers": 0,
+      "peakViewers": 0,
+      "totalMsgs": 42,
+      "categories": [
+        "Counter-Strike 2"
+      ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-09T14:52:36.227Z"
+  "lastUpdated": "2026-07-09T15:22:36.223Z"
 }

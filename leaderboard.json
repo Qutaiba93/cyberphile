@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "daecs",
-      "balance": 100712,
-      "totalEarned": 423662,
+      "balance": 100793,
+      "totalEarned": 423743,
       "totalSpent": 322950,
       "gamesPlayed": 54,
       "gamesWon": 28,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "meliziana",
@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 52878,
-      "totalEarned": 1102960,
+      "balance": 52882,
+      "totalEarned": 1102964,
       "totalSpent": 1131591,
       "gamesPlayed": 579,
       "gamesWon": 216,
@@ -155,12 +155,12 @@
     },
     {
       "name": "arabicoj",
-      "balance": 14926,
-      "totalEarned": 57791,
+      "balance": 15003,
+      "totalEarned": 57868,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "bbalint320",
@@ -191,12 +191,12 @@
     },
     {
       "name": "kazzcs2",
-      "balance": 13726,
-      "totalEarned": 13726,
+      "balance": 13805,
+      "totalEarned": 13805,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "seraj",
@@ -317,8 +317,8 @@
     },
     {
       "name": "lena_xc",
-      "balance": 10772,
-      "totalEarned": 10772,
+      "balance": 10829,
+      "totalEarned": 10829,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -407,12 +407,12 @@
     },
     {
       "name": "med1cinee",
-      "balance": 9185,
-      "totalEarned": 9185,
+      "balance": 9261,
+      "totalEarned": 9261,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "gusha",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3359,
-    "totalCirculating": 3112281,
+    "totalCirculating": 3113140,
     "totalGames": 27637,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-09T14:52:36.254Z"
+  "lastUpdated": "2026-07-09T15:22:36.240Z"
 }
