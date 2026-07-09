@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 52920,
-      "totalEarned": 1103002,
+      "balance": 52930,
+      "totalEarned": 1103012,
       "totalSpent": 1131591,
       "gamesPlayed": 579,
       "gamesWon": 216,
@@ -74,8 +74,8 @@
     },
     {
       "name": "schitt",
-      "balance": 19244,
-      "totalEarned": 19244,
+      "balance": 19248,
+      "totalEarned": 19248,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -83,30 +83,30 @@
     },
     {
       "name": "juggin247",
-      "balance": 18560,
-      "totalEarned": 18560,
+      "balance": 18576,
+      "totalEarned": 18576,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 5
     },
     {
+      "name": "kale96",
+      "balance": 17747,
+      "totalEarned": 24297,
+      "totalSpent": 6550,
+      "gamesPlayed": 6,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "papaah",
-      "balance": 17725,
-      "totalEarned": 18726,
+      "balance": 17733,
+      "totalEarned": 18734,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
-    },
-    {
-      "name": "kale96",
-      "balance": 17686,
-      "totalEarned": 24236,
-      "totalSpent": 6550,
-      "gamesPlayed": 6,
-      "gamesWon": 0,
-      "streak": 3
     },
     {
       "name": "zeepzeep",
@@ -227,8 +227,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 12490,
-      "totalEarned": 12490,
+      "balance": 12492,
+      "totalEarned": 12492,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -281,8 +281,8 @@
     },
     {
       "name": "tonynairobi",
-      "balance": 11380,
-      "totalEarned": 11380,
+      "balance": 11392,
+      "totalEarned": 11392,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -317,8 +317,8 @@
     },
     {
       "name": "lena_xc",
-      "balance": 10863,
-      "totalEarned": 10863,
+      "balance": 10871,
+      "totalEarned": 10871,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -344,8 +344,8 @@
     },
     {
       "name": "lecto",
-      "balance": 10293,
-      "totalEarned": 10293,
+      "balance": 10295,
+      "totalEarned": 10295,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -388,6 +388,15 @@
       "streak": 4
     },
     {
+      "name": "bushybrauz",
+      "balance": 9676,
+      "totalEarned": 9676,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 9
+    },
+    {
       "name": "zz_nz",
       "balance": 9629,
       "totalEarned": 9629,
@@ -397,18 +406,9 @@
       "streak": 5
     },
     {
-      "name": "bushybrauz",
-      "balance": 9563,
-      "totalEarned": 9563,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 8
-    },
-    {
       "name": "med1cinee",
-      "balance": 9285,
-      "totalEarned": 9285,
+      "balance": 9291,
+      "totalEarned": 9291,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -416,12 +416,12 @@
     },
     {
       "name": "gusha",
-      "balance": 9150,
-      "totalEarned": 9150,
+      "balance": 9227,
+      "totalEarned": 9227,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "comradeahmed1",
@@ -443,8 +443,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 8914,
-      "totalEarned": 26152,
+      "balance": 8924,
+      "totalEarned": 26162,
       "totalSpent": 17238,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3360,
-    "totalCirculating": 3118542,
-    "totalGames": 27637,
+    "totalCirculating": 3120076,
+    "totalGames": 27639,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-09T16:22:36.227Z"
+  "lastUpdated": "2026-07-09T16:52:36.228Z"
 }
