@@ -1,10 +1,10 @@
 {
   "totalSessions": 145,
   "totalDays": 127,
-  "totalSegments": 6445,
+  "totalSegments": 6448,
   "allTimePeak": 17991,
   "allTimeAvg": 616,
-  "totalMessages": 1189959,
+  "totalMessages": 1190483,
   "categories": [
     {
       "name": "Rust",
@@ -276,8 +276,8 @@
       "name": "Just Chatting",
       "avgViewers": 578,
       "peakViewers": 903,
-      "sampleCount": 2487,
-      "totalMsgs": 467316
+      "sampleCount": 2490,
+      "totalMsgs": 467840
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -474,14 +474,14 @@
       "totalMsgs": 55631
     },
     "15": {
-      "avgViewers": 521,
-      "sampleCount": 521,
-      "totalMsgs": 91927
+      "avgViewers": 520,
+      "sampleCount": 522,
+      "totalMsgs": 92065
     },
     "16": {
-      "avgViewers": 631,
-      "sampleCount": 595,
-      "totalMsgs": 110542
+      "avgViewers": 630,
+      "sampleCount": 597,
+      "totalMsgs": 110928
     },
     "17": {
       "avgViewers": 683,
@@ -681,9 +681,9 @@
     },
     {
       "date": "2026-07-09",
-      "avgViewers": 169,
-      "peakViewers": 286,
-      "totalMsgs": 369,
+      "avgViewers": 280,
+      "peakViewers": 461,
+      "totalMsgs": 893,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting"
@@ -691,5 +691,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-09T15:52:36.213Z"
+  "lastUpdated": "2026-07-09T16:22:36.216Z"
 }
