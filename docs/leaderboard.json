@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 52942,
-      "totalEarned": 1103024,
+      "balance": 52944,
+      "totalEarned": 1103026,
       "totalSpent": 1131591,
       "gamesPlayed": 579,
       "gamesWon": 216,
@@ -29,8 +29,8 @@
     },
     {
       "name": "zuyu",
-      "balance": 45004,
-      "totalEarned": 135017,
+      "balance": 45006,
+      "totalEarned": 135019,
       "totalSpent": 90013,
       "gamesPlayed": 44,
       "gamesWon": 19,
@@ -38,8 +38,8 @@
     },
     {
       "name": "weppss",
-      "balance": 25777,
-      "totalEarned": 31672,
+      "balance": 25779,
+      "totalEarned": 31674,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -83,8 +83,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 18714,
-      "totalEarned": 18714,
+      "balance": 18730,
+      "totalEarned": 18730,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3362,
-    "totalCirculating": 3132859,
+    "totalCirculating": 3133009,
     "totalGames": 27639,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-09T20:22:36.231Z"
+  "lastUpdated": "2026-07-09T20:52:36.247Z"
 }
