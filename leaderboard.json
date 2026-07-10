@@ -370,6 +370,15 @@
       "streak": 2
     },
     {
+      "name": "bushybrauz",
+      "balance": 9796,
+      "totalEarned": 9796,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 10
+    },
+    {
       "name": "donixo",
       "balance": 9786,
       "totalEarned": 9786,
@@ -386,15 +395,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 4
-    },
-    {
-      "name": "bushybrauz",
-      "balance": 9688,
-      "totalEarned": 9688,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 9
     },
     {
       "name": "zz_nz",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3363,
-    "totalCirculating": 3136228,
+    "totalCirculating": 3136393,
     "totalGames": 27641,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-10T16:52:36.253Z"
+  "lastUpdated": "2026-07-10T17:22:36.262Z"
 }
