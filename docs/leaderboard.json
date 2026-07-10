@@ -65,12 +65,12 @@
     },
     {
       "name": "faridlamm",
-      "balance": 19490,
-      "totalEarned": 19591,
+      "balance": 19578,
+      "totalEarned": 19679,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 5
+      "streak": 6
     },
     {
       "name": "schitt",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3363,
-    "totalCirculating": 3136393,
+    "totalCirculating": 3136542,
     "totalGames": 27641,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-10T17:22:36.262Z"
+  "lastUpdated": "2026-07-10T17:52:36.251Z"
 }
