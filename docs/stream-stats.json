@@ -1,10 +1,10 @@
 {
-  "totalSessions": 145,
-  "totalDays": 127,
-  "totalSegments": 6483,
+  "totalSessions": 146,
+  "totalDays": 128,
+  "totalSegments": 6486,
   "allTimePeak": 17991,
   "allTimeAvg": 616,
-  "totalMessages": 1196161,
+  "totalMessages": 1196623,
   "categories": [
     {
       "name": "Rust",
@@ -273,13 +273,6 @@
       "totalMsgs": 487
     },
     {
-      "name": "Just Chatting",
-      "avgViewers": 578,
-      "peakViewers": 903,
-      "sampleCount": 2497,
-      "totalMsgs": 468943
-    },
-    {
       "name": "PUBG: Battlegrounds",
       "avgViewers": 578,
       "peakViewers": 748,
@@ -292,6 +285,13 @@
       "peakViewers": 734,
       "sampleCount": 45,
       "totalMsgs": 3394
+    },
+    {
+      "name": "Just Chatting",
+      "avgViewers": 577,
+      "peakViewers": 903,
+      "sampleCount": 2500,
+      "totalMsgs": 469405
     },
     {
       "name": "Fears to Fathom: Scratch Creek",
@@ -474,9 +474,9 @@
       "totalMsgs": 55631
     },
     "15": {
-      "avgViewers": 520,
-      "sampleCount": 522,
-      "totalMsgs": 92065
+      "avgViewers": 518,
+      "sampleCount": 525,
+      "totalMsgs": 92527
     },
     "16": {
       "avgViewers": 630,
@@ -520,21 +520,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-20",
-      "avgViewers": 602,
-      "peakViewers": 681,
-      "totalMsgs": 10742,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "VALORANT",
-        "Counter-Strike 2",
-        "Chat Roulette",
-        "Meccha Chameleon",
-        "IRL"
-      ]
-    },
     {
       "date": "2026-06-21",
       "avgViewers": 530,
@@ -689,8 +674,17 @@
         "Just Chatting",
         "Chat Roulette"
       ]
+    },
+    {
+      "date": "2026-07-11",
+      "avgViewers": 174,
+      "peakViewers": 250,
+      "totalMsgs": 462,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-11T15:22:36.233Z"
+  "lastUpdated": "2026-07-11T15:52:36.241Z"
 }
