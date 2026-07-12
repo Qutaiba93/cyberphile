@@ -29,12 +29,12 @@
     },
     {
       "name": "zuyu",
-      "balance": 45451,
-      "totalEarned": 135464,
+      "balance": 45565,
+      "totalEarned": 135578,
       "totalSpent": 90013,
       "gamesPlayed": 44,
       "gamesWon": 19,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "weppss",
@@ -65,8 +65,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 19813,
-      "totalEarned": 19914,
+      "balance": 19821,
+      "totalEarned": 19922,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -74,8 +74,8 @@
     },
     {
       "name": "schitt",
-      "balance": 19753,
-      "totalEarned": 19753,
+      "balance": 19757,
+      "totalEarned": 19757,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -101,8 +101,8 @@
     },
     {
       "name": "kale96",
-      "balance": 17960,
-      "totalEarned": 24510,
+      "balance": 17962,
+      "totalEarned": 24512,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -119,8 +119,8 @@
     },
     {
       "name": "upkey",
-      "balance": 16380,
-      "totalEarned": 16380,
+      "balance": 16390,
+      "totalEarned": 16390,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -128,8 +128,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 15819,
-      "totalEarned": 15819,
+      "balance": 15823,
+      "totalEarned": 15823,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,8 +146,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 15352,
-      "totalEarned": 58217,
+      "balance": 15358,
+      "totalEarned": 58223,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -164,8 +164,8 @@
     },
     {
       "name": "bbalint320",
-      "balance": 14882,
-      "totalEarned": 15022,
+      "balance": 14902,
+      "totalEarned": 15042,
       "totalSpent": 140,
       "gamesPlayed": 14,
       "gamesWon": 1,
@@ -263,8 +263,8 @@
     },
     {
       "name": "tonynairobi",
-      "balance": 11847,
-      "totalEarned": 11847,
+      "balance": 11855,
+      "totalEarned": 11855,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -281,8 +281,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 11742,
-      "totalEarned": 11742,
+      "balance": 11744,
+      "totalEarned": 11744,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3397,
-    "totalCirculating": 3186585,
+    "totalCirculating": 3187404,
     "totalGames": 27648,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-12T16:52:36.274Z"
+  "lastUpdated": "2026-07-12T17:22:36.273Z"
 }
