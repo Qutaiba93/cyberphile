@@ -65,8 +65,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 19803,
-      "totalEarned": 19904,
+      "balance": 19805,
+      "totalEarned": 19906,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -74,12 +74,12 @@
     },
     {
       "name": "schitt",
-      "balance": 19655,
-      "totalEarned": 19655,
+      "balance": 19717,
+      "totalEarned": 19717,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "juggin247",
@@ -146,12 +146,12 @@
     },
     {
       "name": "arabicoj",
-      "balance": 15268,
-      "totalEarned": 58133,
+      "balance": 15330,
+      "totalEarned": 58195,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "5pray",
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3390,
-    "totalCirculating": 3175140,
+    "totalPlayers": 3391,
+    "totalCirculating": 3176546,
     "totalGames": 27648,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-12T13:52:36.266Z"
+  "lastUpdated": "2026-07-12T14:22:36.273Z"
 }
