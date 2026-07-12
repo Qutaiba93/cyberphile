@@ -1,10 +1,10 @@
 {
   "totalSessions": 147,
   "totalDays": 129,
-  "totalSegments": 6570,
+  "totalSegments": 6573,
   "allTimePeak": 17991,
   "allTimeAvg": 615,
-  "totalMessages": 1214862,
+  "totalMessages": 1215881,
   "categories": [
     {
       "name": "Rust",
@@ -196,18 +196,18 @@
       "totalMsgs": 3536
     },
     {
+      "name": "Counter-Strike 2",
+      "avgViewers": 620,
+      "peakViewers": 898,
+      "sampleCount": 754,
+      "totalMsgs": 116085
+    },
+    {
       "name": "Minecraft",
       "avgViewers": 619,
       "peakViewers": 788,
       "sampleCount": 199,
       "totalMsgs": 34171
-    },
-    {
-      "name": "Counter-Strike 2",
-      "avgViewers": 619,
-      "peakViewers": 898,
-      "sampleCount": 753,
-      "totalMsgs": 115770
     },
     {
       "name": "Trees Hate You",
@@ -276,8 +276,8 @@
       "name": "Just Chatting",
       "avgViewers": 578,
       "peakViewers": 903,
-      "sampleCount": 2563,
-      "totalMsgs": 482847
+      "sampleCount": 2565,
+      "totalMsgs": 483551
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -495,13 +495,13 @@
     },
     "19": {
       "avgViewers": 679,
-      "sampleCount": 663,
-      "totalMsgs": 133502
+      "sampleCount": 664,
+      "totalMsgs": 133817
     },
     "20": {
       "avgViewers": 668,
-      "sampleCount": 680,
-      "totalMsgs": 143363
+      "sampleCount": 682,
+      "totalMsgs": 144067
     },
     "21": {
       "avgViewers": 676,
@@ -676,9 +676,9 @@
     },
     {
       "date": "2026-07-12",
-      "avgViewers": 541,
-      "peakViewers": 682,
-      "totalMsgs": 6550,
+      "avgViewers": 554,
+      "peakViewers": 708,
+      "totalMsgs": 7569,
       "categories": [
         "Chat Roulette",
         "Just Chatting",
@@ -687,5 +687,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-12T19:52:36.255Z"
+  "lastUpdated": "2026-07-12T20:22:36.262Z"
 }
