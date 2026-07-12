@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 53087,
-      "totalEarned": 1103169,
+      "balance": 53095,
+      "totalEarned": 1103177,
       "totalSpent": 1131591,
       "gamesPlayed": 579,
       "gamesWon": 216,
@@ -74,8 +74,8 @@
     },
     {
       "name": "schitt",
-      "balance": 19735,
-      "totalEarned": 19735,
+      "balance": 19739,
+      "totalEarned": 19739,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -101,12 +101,12 @@
     },
     {
       "name": "kale96",
-      "balance": 17856,
-      "totalEarned": 24406,
+      "balance": 17918,
+      "totalEarned": 24468,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "zeepzeep",
@@ -128,8 +128,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 15771,
-      "totalEarned": 15771,
+      "balance": 15775,
+      "totalEarned": 15775,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,8 +146,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 15330,
-      "totalEarned": 58195,
+      "balance": 15332,
+      "totalEarned": 58197,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -272,8 +272,8 @@
     },
     {
       "name": "tonynairobi",
-      "balance": 11773,
-      "totalEarned": 11773,
+      "balance": 11775,
+      "totalEarned": 11775,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3393,
-    "totalCirculating": 3179532,
+    "totalCirculating": 3180844,
     "totalGames": 27648,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-12T14:52:36.269Z"
+  "lastUpdated": "2026-07-12T15:22:36.281Z"
 }
