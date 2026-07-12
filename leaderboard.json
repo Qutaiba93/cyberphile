@@ -64,6 +64,15 @@
       "streak": 0
     },
     {
+      "name": "faridlamm",
+      "balance": 19881,
+      "totalEarned": 19982,
+      "totalSpent": 101,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 8
+    },
+    {
       "name": "schitt",
       "balance": 19879,
       "totalEarned": 19879,
@@ -73,18 +82,9 @@
       "streak": 2
     },
     {
-      "name": "faridlamm",
-      "balance": 19873,
-      "totalEarned": 19974,
-      "totalSpent": 101,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 8
-    },
-    {
       "name": "juggin247",
-      "balance": 19479,
-      "totalEarned": 19479,
+      "balance": 19481,
+      "totalEarned": 19481,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -227,8 +227,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 12817,
-      "totalEarned": 12817,
+      "balance": 12823,
+      "totalEarned": 12823,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -380,8 +380,8 @@
     },
     {
       "name": "zz_nz",
-      "balance": 9952,
-      "totalEarned": 9952,
+      "balance": 9954,
+      "totalEarned": 9954,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3409,
-    "totalCirculating": 3204818,
+    "totalCirculating": 3204966,
     "totalGames": 27650,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-12T22:52:36.265Z"
+  "lastUpdated": "2026-07-12T23:22:36.299Z"
 }
