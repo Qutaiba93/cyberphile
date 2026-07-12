@@ -1,10 +1,10 @@
 {
   "totalSessions": 147,
   "totalDays": 129,
-  "totalSegments": 6564,
+  "totalSegments": 6567,
   "allTimePeak": 17991,
   "allTimeAvg": 615,
-  "totalMessages": 1213267,
+  "totalMessages": 1213701,
   "categories": [
     {
       "name": "Rust",
@@ -206,8 +206,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 619,
       "peakViewers": 898,
-      "sampleCount": 747,
-      "totalMsgs": 114175
+      "sampleCount": 750,
+      "totalMsgs": 114609
     },
     {
       "name": "Trees Hate You",
@@ -490,13 +490,13 @@
     },
     "18": {
       "avgViewers": 677,
-      "sampleCount": 662,
-      "totalMsgs": 133063
+      "sampleCount": 663,
+      "totalMsgs": 133296
     },
     "19": {
       "avgViewers": 679,
-      "sampleCount": 658,
-      "totalMsgs": 132140
+      "sampleCount": 660,
+      "totalMsgs": 132341
     },
     "20": {
       "avgViewers": 668,
@@ -676,9 +676,9 @@
     },
     {
       "date": "2026-07-12",
-      "avgViewers": 516,
-      "peakViewers": 659,
-      "totalMsgs": 4955,
+      "avgViewers": 528,
+      "peakViewers": 680,
+      "totalMsgs": 5389,
       "categories": [
         "Chat Roulette",
         "Just Chatting",
@@ -687,5 +687,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-12T18:52:36.255Z"
+  "lastUpdated": "2026-07-12T19:22:36.262Z"
 }
