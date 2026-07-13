@@ -1,10 +1,10 @@
 {
   "totalSessions": 148,
   "totalDays": 130,
-  "totalSegments": 6620,
+  "totalSegments": 6623,
   "allTimePeak": 17991,
   "allTimeAvg": 615,
-  "totalMessages": 1224290,
+  "totalMessages": 1224682,
   "categories": [
     {
       "name": "Rust",
@@ -64,10 +64,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 704,
+      "avgViewers": 703,
       "peakViewers": 916,
-      "sampleCount": 639,
-      "totalMsgs": 137512
+      "sampleCount": 641,
+      "totalMsgs": 137755
     },
     {
       "name": "Trash Horror Collection",
@@ -80,8 +80,8 @@
       "name": "IRL",
       "avgViewers": 692,
       "peakViewers": 886,
-      "sampleCount": 308,
-      "totalMsgs": 101759
+      "sampleCount": 309,
+      "totalMsgs": 101908
     },
     {
       "name": "Summer Game Fest 2026",
@@ -499,9 +499,9 @@
       "totalMsgs": 134912
     },
     "20": {
-      "avgViewers": 669,
-      "sampleCount": 688,
-      "totalMsgs": 144901
+      "avgViewers": 668,
+      "sampleCount": 691,
+      "totalMsgs": 145293
     },
     "21": {
       "avgViewers": 677,
@@ -675,13 +675,14 @@
       "date": "2026-07-13",
       "avgViewers": 584,
       "peakViewers": 783,
-      "totalMsgs": 5521,
+      "totalMsgs": 5913,
       "categories": [
         "Chat Roulette",
-        "Just Chatting"
+        "Just Chatting",
+        "IRL"
       ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-13T20:22:36.270Z"
+  "lastUpdated": "2026-07-13T20:52:36.270Z"
 }
