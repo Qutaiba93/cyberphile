@@ -1,10 +1,10 @@
 {
   "totalSessions": 148,
   "totalDays": 130,
-  "totalSegments": 6599,
+  "totalSegments": 6602,
   "allTimePeak": 17991,
   "allTimeAvg": 615,
-  "totalMessages": 1219860,
+  "totalMessages": 1220399,
   "categories": [
     {
       "name": "Rust",
@@ -273,6 +273,13 @@
       "totalMsgs": 487
     },
     {
+      "name": "Just Chatting",
+      "avgViewers": 578,
+      "peakViewers": 903,
+      "sampleCount": 2579,
+      "totalMsgs": 485547
+    },
+    {
       "name": "PUBG: Battlegrounds",
       "avgViewers": 578,
       "peakViewers": 748,
@@ -285,13 +292,6 @@
       "peakViewers": 734,
       "sampleCount": 45,
       "totalMsgs": 3394
-    },
-    {
-      "name": "Just Chatting",
-      "avgViewers": 577,
-      "peakViewers": 903,
-      "sampleCount": 2576,
-      "totalMsgs": 485008
     },
     {
       "name": "Fears to Fathom: Scratch Creek",
@@ -480,13 +480,13 @@
     },
     "16": {
       "avgViewers": 627,
-      "sampleCount": 618,
-      "totalMsgs": 114530
+      "sampleCount": 619,
+      "totalMsgs": 114663
     },
     "17": {
       "avgViewers": 680,
-      "sampleCount": 637,
-      "totalMsgs": 119545
+      "sampleCount": 639,
+      "totalMsgs": 119951
     },
     "18": {
       "avgViewers": 677,
@@ -673,9 +673,9 @@
     },
     {
       "date": "2026-07-13",
-      "avgViewers": 388,
-      "peakViewers": 643,
-      "totalMsgs": 1091,
+      "avgViewers": 448,
+      "peakViewers": 684,
+      "totalMsgs": 1630,
       "categories": [
         "Chat Roulette",
         "Just Chatting"
@@ -683,5 +683,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-13T16:52:36.265Z"
+  "lastUpdated": "2026-07-13T17:22:36.257Z"
 }
