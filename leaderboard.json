@@ -290,8 +290,8 @@
     },
     {
       "name": "lena_xc",
-      "balance": 11465,
-      "totalEarned": 11465,
+      "balance": 11467,
+      "totalEarned": 11467,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3421,
-    "totalCirculating": 3228189,
+    "totalCirculating": 3228195,
     "totalGames": 27653,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-13T20:52:36.286Z"
+  "lastUpdated": "2026-07-13T21:22:36.303Z"
 }
