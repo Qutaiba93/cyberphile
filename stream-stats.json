@@ -1,10 +1,10 @@
 {
-  "totalSessions": 147,
-  "totalDays": 129,
-  "totalSegments": 6589,
+  "totalSessions": 148,
+  "totalDays": 130,
+  "totalSegments": 6590,
   "allTimePeak": 17991,
   "allTimeAvg": 616,
-  "totalMessages": 1218769,
+  "totalMessages": 1218884,
   "categories": [
     {
       "name": "Rust",
@@ -64,10 +64,10 @@
     },
     {
       "name": "Chat Roulette",
-      "avgViewers": 706,
+      "avgViewers": 704,
       "peakViewers": 916,
-      "sampleCount": 623,
-      "totalMsgs": 134016
+      "sampleCount": 624,
+      "totalMsgs": 134131
     },
     {
       "name": "Trash Horror Collection",
@@ -474,9 +474,9 @@
       "totalMsgs": 56450
     },
     "15": {
-      "avgViewers": 518,
-      "sampleCount": 532,
-      "totalMsgs": 93495
+      "avgViewers": 517,
+      "sampleCount": 533,
+      "totalMsgs": 93610
     },
     "16": {
       "avgViewers": 628,
@@ -520,20 +520,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-22",
-      "avgViewers": 577,
-      "peakViewers": 653,
-      "totalMsgs": 4912,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "Chat Roulette",
-        "Counter-Strike 2",
-        "Minecraft",
-        "World Cup 2026"
-      ]
-    },
     {
       "date": "2026-06-23",
       "avgViewers": 495,
@@ -684,8 +670,17 @@
         "Just Chatting",
         "Counter-Strike 2"
       ]
+    },
+    {
+      "date": "2026-07-13",
+      "avgViewers": 54,
+      "peakViewers": 54,
+      "totalMsgs": 115,
+      "categories": [
+        "Chat Roulette"
+      ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-13T14:52:36.261Z"
+  "lastUpdated": "2026-07-13T15:22:36.259Z"
 }

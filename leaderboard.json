@@ -128,12 +128,12 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 15921,
-      "totalEarned": 15921,
+      "balance": 15988,
+      "totalEarned": 15988,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "twilighty",
@@ -281,12 +281,12 @@
     },
     {
       "name": "ganndz",
-      "balance": 11776,
-      "totalEarned": 11776,
+      "balance": 11840,
+      "totalEarned": 11840,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "lena_xc",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3409,
-    "totalCirculating": 3205082,
+    "totalCirculating": 3206308,
     "totalGames": 27651,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-13T14:52:36.280Z"
+  "lastUpdated": "2026-07-13T15:22:36.274Z"
 }
