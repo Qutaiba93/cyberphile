@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 53408,
-      "totalEarned": 1105490,
+      "balance": 53424,
+      "totalEarned": 1105506,
       "totalSpent": 1133591,
       "gamesPlayed": 581,
       "gamesWon": 217,
@@ -65,8 +65,8 @@
     },
     {
       "name": "schitt",
-      "balance": 20092,
-      "totalEarned": 20092,
+      "balance": 20100,
+      "totalEarned": 20100,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -101,8 +101,8 @@
     },
     {
       "name": "kale96",
-      "balance": 18273,
-      "totalEarned": 24823,
+      "balance": 18297,
+      "totalEarned": 24847,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -128,8 +128,8 @@
     },
     {
       "name": "ahmet_uk",
-      "balance": 16094,
-      "totalEarned": 16094,
+      "balance": 16104,
+      "totalEarned": 16104,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,8 +146,8 @@
     },
     {
       "name": "arabicoj",
-      "balance": 15717,
-      "totalEarned": 58582,
+      "balance": 15719,
+      "totalEarned": 58584,
       "totalSpent": 42865,
       "gamesPlayed": 41,
       "gamesWon": 15,
@@ -290,8 +290,8 @@
     },
     {
       "name": "lena_xc",
-      "balance": 11613,
-      "totalEarned": 11613,
+      "balance": 11619,
+      "totalEarned": 11619,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,8 +299,8 @@
     },
     {
       "name": "politecatt",
-      "balance": 11384,
-      "totalEarned": 11434,
+      "balance": 11386,
+      "totalEarned": 11436,
       "totalSpent": 50,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -335,8 +335,8 @@
     },
     {
       "name": "lecto",
-      "balance": 10701,
-      "totalEarned": 10701,
+      "balance": 10709,
+      "totalEarned": 10709,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -406,19 +406,19 @@
       "streak": 1
     },
     {
-      "name": "neincs",
-      "balance": 9745,
-      "totalEarned": 9745,
-      "totalSpent": 0,
+      "name": "patwifi",
+      "balance": 9778,
+      "totalEarned": 27016,
+      "totalSpent": 17238,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 4
     },
     {
-      "name": "patwifi",
-      "balance": 9710,
-      "totalEarned": 26948,
-      "totalSpent": 17238,
+      "name": "neincs",
+      "balance": 9745,
+      "totalEarned": 9745,
+      "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 4
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3423,
-    "totalCirculating": 3243082,
-    "totalGames": 27657,
+    "totalPlayers": 3425,
+    "totalCirculating": 3243614,
+    "totalGames": 27661,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-14T18:22:36.283Z"
+  "lastUpdated": "2026-07-14T18:52:36.267Z"
 }
