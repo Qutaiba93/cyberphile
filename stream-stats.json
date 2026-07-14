@@ -1,10 +1,10 @@
 {
   "totalSessions": 149,
   "totalDays": 131,
-  "totalSegments": 6627,
+  "totalSegments": 6630,
   "allTimePeak": 17991,
   "allTimeAvg": 615,
-  "totalMessages": 1225281,
+  "totalMessages": 1225697,
   "categories": [
     {
       "name": "Rust",
@@ -290,8 +290,8 @@
       "name": "Just Chatting",
       "avgViewers": 577,
       "peakViewers": 903,
-      "sampleCount": 2587,
-      "totalMsgs": 486736
+      "sampleCount": 2590,
+      "totalMsgs": 487152
     },
     {
       "name": "Fears to Fathom: Scratch Creek",
@@ -474,9 +474,9 @@
       "totalMsgs": 56688
     },
     "15": {
-      "avgViewers": 514,
-      "sampleCount": 539,
-      "totalMsgs": 94324
+      "avgViewers": 513,
+      "sampleCount": 542,
+      "totalMsgs": 94740
     },
     "16": {
       "avgViewers": 627,
@@ -668,14 +668,14 @@
     },
     {
       "date": "2026-07-14",
-      "avgViewers": 178,
-      "peakViewers": 252,
-      "totalMsgs": 599,
+      "avgViewers": 230,
+      "peakViewers": 324,
+      "totalMsgs": 1015,
       "categories": [
         "Just Chatting"
       ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-14T15:22:36.273Z"
+  "lastUpdated": "2026-07-14T15:52:36.262Z"
 }
