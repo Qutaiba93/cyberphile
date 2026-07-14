@@ -11,8 +11,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 75391,
-      "totalEarned": 1946789,
+      "balance": 75413,
+      "totalEarned": 1946811,
       "totalSpent": 1967319,
       "gamesPlayed": 1673,
       "gamesWon": 681,
@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 53480,
-      "totalEarned": 1105562,
+      "balance": 53536,
+      "totalEarned": 1105618,
       "totalSpent": 1133591,
       "gamesPlayed": 581,
       "gamesWon": 217,
@@ -38,8 +38,8 @@
     },
     {
       "name": "weppss",
-      "balance": 26871,
-      "totalEarned": 32766,
+      "balance": 26873,
+      "totalEarned": 32768,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -56,8 +56,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 20174,
-      "totalEarned": 20275,
+      "balance": 20180,
+      "totalEarned": 20281,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -281,8 +281,8 @@
     },
     {
       "name": "lena_xc",
-      "balance": 11619,
-      "totalEarned": 11619,
+      "balance": 11621,
+      "totalEarned": 11621,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3426,
-    "totalCirculating": 3222902,
+    "totalCirculating": 3223481,
     "totalGames": 27677,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-14T21:22:36.291Z"
+  "lastUpdated": "2026-07-14T21:52:36.301Z"
 }
