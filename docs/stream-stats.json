@@ -1,10 +1,10 @@
 {
   "totalSessions": 149,
   "totalDays": 131,
-  "totalSegments": 6660,
+  "totalSegments": 6663,
   "allTimePeak": 17991,
   "allTimeAvg": 615,
-  "totalMessages": 1230221,
+  "totalMessages": 1230861,
   "categories": [
     {
       "name": "Rust",
@@ -204,10 +204,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 617,
+      "avgViewers": 616,
       "peakViewers": 898,
-      "sampleCount": 779,
-      "totalMsgs": 119961
+      "sampleCount": 781,
+      "totalMsgs": 120315
     },
     {
       "name": "Trees Hate You",
@@ -273,18 +273,18 @@
       "totalMsgs": 487
     },
     {
+      "name": "World Cup 2026",
+      "avgViewers": 580,
+      "peakViewers": 734,
+      "sampleCount": 46,
+      "totalMsgs": 3680
+    },
+    {
       "name": "PUBG: Battlegrounds",
       "avgViewers": 578,
       "peakViewers": 748,
       "sampleCount": 145,
       "totalMsgs": 21653
-    },
-    {
-      "name": "World Cup 2026",
-      "avgViewers": 578,
-      "peakViewers": 734,
-      "sampleCount": 45,
-      "totalMsgs": 3394
     },
     {
       "name": "Just Chatting",
@@ -500,13 +500,13 @@
     },
     "20": {
       "avgViewers": 667,
-      "sampleCount": 696,
-      "totalMsgs": 146140
+      "sampleCount": 697,
+      "totalMsgs": 146339
     },
     "21": {
-      "avgViewers": 677,
-      "sampleCount": 655,
-      "totalMsgs": 129956
+      "avgViewers": 676,
+      "sampleCount": 657,
+      "totalMsgs": 130397
     },
     "22": {
       "avgViewers": 658,
@@ -668,15 +668,16 @@
     },
     {
       "date": "2026-07-14",
-      "avgViewers": 468,
-      "peakViewers": 644,
-      "totalMsgs": 5539,
+      "avgViewers": 475,
+      "peakViewers": 656,
+      "totalMsgs": 6179,
       "categories": [
         "Just Chatting",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "World Cup 2026"
       ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-14T20:52:36.276Z"
+  "lastUpdated": "2026-07-14T21:22:36.274Z"
 }
