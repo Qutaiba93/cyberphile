@@ -1,10 +1,10 @@
 {
   "totalSessions": 149,
   "totalDays": 131,
-  "totalSegments": 6633,
+  "totalSegments": 6636,
   "allTimePeak": 17991,
   "allTimeAvg": 615,
-  "totalMessages": 1226054,
+  "totalMessages": 1226469,
   "categories": [
     {
       "name": "Rust",
@@ -196,18 +196,18 @@
       "totalMsgs": 3536
     },
     {
-      "name": "Counter-Strike 2",
-      "avgViewers": 620,
-      "peakViewers": 898,
-      "sampleCount": 754,
-      "totalMsgs": 116085
-    },
-    {
       "name": "Minecraft",
       "avgViewers": 619,
       "peakViewers": 788,
       "sampleCount": 199,
       "totalMsgs": 34171
+    },
+    {
+      "name": "Counter-Strike 2",
+      "avgViewers": 619,
+      "peakViewers": 898,
+      "sampleCount": 755,
+      "totalMsgs": 116209
     },
     {
       "name": "Trees Hate You",
@@ -290,8 +290,8 @@
       "name": "Just Chatting",
       "avgViewers": 577,
       "peakViewers": 903,
-      "sampleCount": 2593,
-      "totalMsgs": 487509
+      "sampleCount": 2595,
+      "totalMsgs": 487800
     },
     {
       "name": "Fears to Fathom: Scratch Creek",
@@ -480,8 +480,8 @@
     },
     "16": {
       "avgViewers": 626,
-      "sampleCount": 621,
-      "totalMsgs": 114903
+      "sampleCount": 624,
+      "totalMsgs": 115318
     },
     "17": {
       "avgViewers": 680,
@@ -668,14 +668,15 @@
     },
     {
       "date": "2026-07-14",
-      "avgViewers": 297,
-      "peakViewers": 463,
-      "totalMsgs": 1372,
+      "avgViewers": 346,
+      "peakViewers": 577,
+      "totalMsgs": 1787,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-14T16:22:36.271Z"
+  "lastUpdated": "2026-07-14T16:52:36.269Z"
 }
