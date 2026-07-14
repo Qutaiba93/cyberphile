@@ -1,10 +1,10 @@
 {
-  "totalSessions": 148,
-  "totalDays": 130,
-  "totalSegments": 6623,
+  "totalSessions": 149,
+  "totalDays": 131,
+  "totalSegments": 6624,
   "allTimePeak": 17991,
   "allTimeAvg": 615,
-  "totalMessages": 1224682,
+  "totalMessages": 1224807,
   "categories": [
     {
       "name": "Rust",
@@ -273,13 +273,6 @@
       "totalMsgs": 487
     },
     {
-      "name": "Just Chatting",
-      "avgViewers": 578,
-      "peakViewers": 903,
-      "sampleCount": 2583,
-      "totalMsgs": 486137
-    },
-    {
       "name": "PUBG: Battlegrounds",
       "avgViewers": 578,
       "peakViewers": 748,
@@ -292,6 +285,13 @@
       "peakViewers": 734,
       "sampleCount": 45,
       "totalMsgs": 3394
+    },
+    {
+      "name": "Just Chatting",
+      "avgViewers": 577,
+      "peakViewers": 903,
+      "sampleCount": 2584,
+      "totalMsgs": 486262
     },
     {
       "name": "Fears to Fathom: Scratch Creek",
@@ -470,8 +470,8 @@
     },
     "14": {
       "avgViewers": 377,
-      "sampleCount": 374,
-      "totalMsgs": 56450
+      "sampleCount": 375,
+      "totalMsgs": 56575
     },
     "15": {
       "avgViewers": 516,
@@ -520,22 +520,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-23",
-      "avgViewers": 495,
-      "peakViewers": 564,
-      "totalMsgs": 3267,
-      "categories": [
-        "World Cup 2026",
-        "Just Chatting",
-        "Slots & Casino",
-        "Counter-Strike 2",
-        "Minecraft",
-        "Meccha Chameleon",
-        "Crab Game",
-        "Grand Theft Auto V (GTA)"
-      ]
-    },
     {
       "date": "2026-06-24",
       "avgViewers": 524,
@@ -681,8 +665,17 @@
         "Just Chatting",
         "IRL"
       ]
+    },
+    {
+      "date": "2026-07-14",
+      "avgViewers": 90,
+      "peakViewers": 90,
+      "totalMsgs": 125,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-14T14:22:36.279Z"
+  "lastUpdated": "2026-07-14T14:52:36.269Z"
 }
