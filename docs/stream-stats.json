@@ -1,10 +1,10 @@
 {
   "totalSessions": 150,
   "totalDays": 132,
-  "totalSegments": 6693,
+  "totalSegments": 6696,
   "allTimePeak": 17991,
   "allTimeAvg": 614,
-  "totalMessages": 1234972,
+  "totalMessages": 1235984,
   "categories": [
     {
       "name": "Rust",
@@ -78,10 +78,10 @@
     },
     {
       "name": "IRL",
-      "avgViewers": 690,
+      "avgViewers": 688,
       "peakViewers": 886,
-      "sampleCount": 313,
-      "totalMsgs": 102414
+      "sampleCount": 316,
+      "totalMsgs": 103426
     },
     {
       "name": "Summer Game Fest 2026",
@@ -489,14 +489,14 @@
       "totalMsgs": 122647
     },
     "18": {
-      "avgViewers": 675,
-      "sampleCount": 680,
-      "totalMsgs": 136653
+      "avgViewers": 674,
+      "sampleCount": 681,
+      "totalMsgs": 137153
     },
     "19": {
       "avgViewers": 678,
-      "sampleCount": 676,
-      "totalMsgs": 135890
+      "sampleCount": 678,
+      "totalMsgs": 136402
     },
     "20": {
       "avgViewers": 667,
@@ -665,9 +665,9 @@
     },
     {
       "date": "2026-07-15",
-      "avgViewers": 453,
+      "avgViewers": 462,
       "peakViewers": 587,
-      "totalMsgs": 3674,
+      "totalMsgs": 4686,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -676,5 +676,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-15T18:52:36.287Z"
+  "lastUpdated": "2026-07-15T19:22:36.290Z"
 }
