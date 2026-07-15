@@ -1,10 +1,10 @@
 {
   "totalSessions": 150,
   "totalDays": 132,
-  "totalSegments": 6699,
+  "totalSegments": 6702,
   "allTimePeak": 17991,
   "allTimeAvg": 614,
-  "totalMessages": 1236239,
+  "totalMessages": 1236874,
   "categories": [
     {
       "name": "Rust",
@@ -77,18 +77,18 @@
       "totalMsgs": 3389
     },
     {
-      "name": "IRL",
-      "avgViewers": 687,
-      "peakViewers": 886,
-      "sampleCount": 319,
-      "totalMsgs": 103681
-    },
-    {
       "name": "Summer Game Fest 2026",
       "avgViewers": 687,
       "peakViewers": 727,
       "sampleCount": 9,
       "totalMsgs": 4135
+    },
+    {
+      "name": "IRL",
+      "avgViewers": 686,
+      "peakViewers": 886,
+      "sampleCount": 322,
+      "totalMsgs": 104316
     },
     {
       "name": "Sea of Thieves",
@@ -494,14 +494,14 @@
       "totalMsgs": 137153
     },
     "19": {
-      "avgViewers": 678,
-      "sampleCount": 681,
-      "totalMsgs": 136657
+      "avgViewers": 677,
+      "sampleCount": 682,
+      "totalMsgs": 136782
     },
     "20": {
       "avgViewers": 667,
-      "sampleCount": 697,
-      "totalMsgs": 146339
+      "sampleCount": 699,
+      "totalMsgs": 146849
     },
     "21": {
       "avgViewers": 676,
@@ -665,9 +665,9 @@
     },
     {
       "date": "2026-07-15",
-      "avgViewers": 472,
+      "avgViewers": 482,
       "peakViewers": 613,
-      "totalMsgs": 4941,
+      "totalMsgs": 5576,
       "categories": [
         "Just Chatting",
         "Minecraft",
@@ -676,5 +676,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-15T19:52:36.285Z"
+  "lastUpdated": "2026-07-15T20:22:36.287Z"
 }
