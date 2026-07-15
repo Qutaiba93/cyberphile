@@ -1,10 +1,10 @@
 {
-  "totalSessions": 149,
-  "totalDays": 131,
-  "totalSegments": 6667,
+  "totalSessions": 150,
+  "totalDays": 132,
+  "totalSegments": 6669,
   "allTimePeak": 17991,
   "allTimeAvg": 615,
-  "totalMessages": 1231298,
+  "totalMessages": 1231605,
   "categories": [
     {
       "name": "Rust",
@@ -287,18 +287,18 @@
       "totalMsgs": 21653
     },
     {
-      "name": "Just Chatting",
-      "avgViewers": 577,
-      "peakViewers": 903,
-      "sampleCount": 2595,
-      "totalMsgs": 487800
-    },
-    {
       "name": "Fears to Fathom: Scratch Creek",
       "avgViewers": 577,
       "peakViewers": 610,
       "sampleCount": 19,
       "totalMsgs": 2094
+    },
+    {
+      "name": "Just Chatting",
+      "avgViewers": 576,
+      "peakViewers": 903,
+      "sampleCount": 2597,
+      "totalMsgs": 488107
     },
     {
       "name": "007 First Light",
@@ -469,9 +469,9 @@
       "totalMsgs": 10817
     },
     "14": {
-      "avgViewers": 376,
-      "sampleCount": 376,
-      "totalMsgs": 56688
+      "avgViewers": 375,
+      "sampleCount": 378,
+      "totalMsgs": 56995
     },
     "15": {
       "avgViewers": 513,
@@ -520,20 +520,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-24",
-      "avgViewers": 524,
-      "peakViewers": 685,
-      "totalMsgs": 6602,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "Meccha Chameleon",
-        "Counter-Strike 2",
-        "Chat Roulette",
-        "Grand Theft Auto V (GTA)"
-      ]
-    },
     {
       "date": "2026-06-25",
       "avgViewers": 498,
@@ -676,8 +662,17 @@
         "Counter-Strike 2",
         "World Cup 2026"
       ]
+    },
+    {
+      "date": "2026-07-15",
+      "avgViewers": 190,
+      "peakViewers": 270,
+      "totalMsgs": 307,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-15T14:22:36.284Z"
+  "lastUpdated": "2026-07-15T14:52:36.275Z"
 }

@@ -38,12 +38,12 @@
     },
     {
       "name": "weppss",
-      "balance": 26877,
-      "totalEarned": 32772,
+      "balance": 26964,
+      "totalEarned": 32859,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "nick6",
@@ -55,6 +55,15 @@
       "streak": 2
     },
     {
+      "name": "schitt",
+      "balance": 20209,
+      "totalEarned": 20209,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 5
+    },
+    {
       "name": "faridlamm",
       "balance": 20184,
       "totalEarned": 20285,
@@ -62,15 +71,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 10
-    },
-    {
-      "name": "schitt",
-      "balance": 20124,
-      "totalEarned": 20124,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 4
     },
     {
       "name": "eyla_vanel",
@@ -101,12 +101,12 @@
     },
     {
       "name": "kale96",
-      "balance": 18347,
-      "totalEarned": 24897,
+      "balance": 18430,
+      "totalEarned": 24980,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "zeepzeep",
@@ -245,8 +245,8 @@
     },
     {
       "name": "iam_umii",
-      "balance": 12222,
-      "totalEarned": 12222,
+      "balance": 12228,
+      "totalEarned": 12228,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -272,12 +272,12 @@
     },
     {
       "name": "tonynairobi",
-      "balance": 11859,
-      "totalEarned": 11859,
+      "balance": 11916,
+      "totalEarned": 11916,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 1
     },
     {
       "name": "lena_xc",
@@ -425,12 +425,12 @@
     },
     {
       "name": "comradeahmed1",
-      "balance": 9492,
-      "totalEarned": 9492,
+      "balance": 9571,
+      "totalEarned": 9571,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "chronny42",
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3426,
-    "totalCirculating": 3224914,
+    "totalPlayers": 3427,
+    "totalCirculating": 3227856,
     "totalGames": 27677,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-15T14:22:36.303Z"
+  "lastUpdated": "2026-07-15T14:52:36.292Z"
 }
