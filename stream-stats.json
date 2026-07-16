@@ -1,10 +1,10 @@
 {
   "totalSessions": 151,
   "totalDays": 133,
-  "totalSegments": 6722,
+  "totalSegments": 6724,
   "allTimePeak": 17991,
   "allTimeAvg": 614,
-  "totalMessages": 1241920,
+  "totalMessages": 1242121,
   "categories": [
     {
       "name": "Rust",
@@ -197,10 +197,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 617,
+      "avgViewers": 616,
       "peakViewers": 898,
-      "sampleCount": 785,
-      "totalMsgs": 120752
+      "sampleCount": 787,
+      "totalMsgs": 120953
     },
     {
       "name": "Minecraft",
@@ -505,13 +505,13 @@
     },
     "21": {
       "avgViewers": 675,
-      "sampleCount": 669,
-      "totalMsgs": 133602
+      "sampleCount": 670,
+      "totalMsgs": 133712
     },
     "22": {
-      "avgViewers": 658,
-      "sampleCount": 559,
-      "totalMsgs": 114034
+      "avgViewers": 657,
+      "sampleCount": 560,
+      "totalMsgs": 114125
     },
     "23": {
       "avgViewers": 624,
@@ -665,14 +665,15 @@
     },
     {
       "date": "2026-07-16",
-      "avgViewers": 454,
+      "avgViewers": 459,
       "peakViewers": 582,
-      "totalMsgs": 2545,
+      "totalMsgs": 2746,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-16T21:52:36.342Z"
+  "lastUpdated": "2026-07-16T22:22:36.341Z"
 }
