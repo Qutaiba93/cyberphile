@@ -1,10 +1,10 @@
 {
   "totalSessions": 151,
   "totalDays": 133,
-  "totalSegments": 6727,
+  "totalSegments": 6730,
   "allTimePeak": 17991,
-  "allTimeAvg": 614,
-  "totalMessages": 1242498,
+  "allTimeAvg": 613,
+  "totalMessages": 1243040,
   "categories": [
     {
       "name": "Rust",
@@ -197,10 +197,10 @@
     },
     {
       "name": "Counter-Strike 2",
-      "avgViewers": 616,
+      "avgViewers": 615,
       "peakViewers": 898,
-      "sampleCount": 790,
-      "totalMsgs": 121330
+      "sampleCount": 791,
+      "totalMsgs": 121445
     },
     {
       "name": "Minecraft",
@@ -297,8 +297,8 @@
       "name": "Just Chatting",
       "avgViewers": 575,
       "peakViewers": 903,
-      "sampleCount": 2621,
-      "totalMsgs": 492146
+      "sampleCount": 2623,
+      "totalMsgs": 492573
     },
     {
       "name": "007 First Light",
@@ -510,13 +510,13 @@
     },
     "22": {
       "avgViewers": 656,
-      "sampleCount": 563,
-      "totalMsgs": 114502
+      "sampleCount": 564,
+      "totalMsgs": 114617
     },
     "23": {
-      "avgViewers": 624,
-      "sampleCount": 435,
-      "totalMsgs": 77497
+      "avgViewers": 623,
+      "sampleCount": 437,
+      "totalMsgs": 77924
     }
   },
   "dailyHistory": [
@@ -665,9 +665,9 @@
     },
     {
       "date": "2026-07-16",
-      "avgViewers": 455,
+      "avgViewers": 453,
       "peakViewers": 582,
-      "totalMsgs": 3123,
+      "totalMsgs": 3665,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2"
@@ -675,5 +675,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-16T22:52:36.343Z"
+  "lastUpdated": "2026-07-16T23:22:36.341Z"
 }
