@@ -1,10 +1,10 @@
 {
   "totalSessions": 151,
   "totalDays": 133,
-  "totalSegments": 6730,
+  "totalSegments": 6733,
   "allTimePeak": 17991,
   "allTimeAvg": 613,
-  "totalMessages": 1243040,
+  "totalMessages": 1243276,
   "categories": [
     {
       "name": "Rust",
@@ -119,18 +119,18 @@
       "totalMsgs": 225
     },
     {
-      "name": "Call of Duty: Black Ops III",
-      "avgViewers": 663,
-      "peakViewers": 861,
-      "sampleCount": 63,
-      "totalMsgs": 11357
-    },
-    {
       "name": "Call of Duty: Black Ops II",
       "avgViewers": 660,
       "peakViewers": 725,
       "sampleCount": 30,
       "totalMsgs": 4208
+    },
+    {
+      "name": "Call of Duty: Black Ops III",
+      "avgViewers": 659,
+      "peakViewers": 861,
+      "sampleCount": 64,
+      "totalMsgs": 11403
     },
     {
       "name": "ARC Raiders",
@@ -297,8 +297,8 @@
       "name": "Just Chatting",
       "avgViewers": 575,
       "peakViewers": 903,
-      "sampleCount": 2623,
-      "totalMsgs": 492573
+      "sampleCount": 2625,
+      "totalMsgs": 492763
     },
     {
       "name": "007 First Light",
@@ -514,9 +514,9 @@
       "totalMsgs": 114617
     },
     "23": {
-      "avgViewers": 623,
-      "sampleCount": 437,
-      "totalMsgs": 77924
+      "avgViewers": 622,
+      "sampleCount": 440,
+      "totalMsgs": 78160
     }
   },
   "dailyHistory": [
@@ -667,13 +667,14 @@
       "date": "2026-07-16",
       "avgViewers": 453,
       "peakViewers": 582,
-      "totalMsgs": 3665,
+      "totalMsgs": 3901,
       "categories": [
         "Just Chatting",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Call of Duty: Black Ops III"
       ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-16T23:22:36.341Z"
+  "lastUpdated": "2026-07-16T23:52:36.339Z"
 }
