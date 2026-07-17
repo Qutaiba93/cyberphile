@@ -1,10 +1,10 @@
 {
   "totalSessions": 151,
   "totalDays": 133,
-  "totalSegments": 6735,
+  "totalSegments": 6738,
   "allTimePeak": 17991,
   "allTimeAvg": 613,
-  "totalMessages": 1243379,
+  "totalMessages": 1243510,
   "categories": [
     {
       "name": "Rust",
@@ -133,13 +133,6 @@
       "totalMsgs": 11524
     },
     {
-      "name": "Call of Duty: Black Ops III",
-      "avgViewers": 652,
-      "peakViewers": 861,
-      "sampleCount": 66,
-      "totalMsgs": 11506
-    },
-    {
       "name": "League of Legends",
       "avgViewers": 650,
       "peakViewers": 732,
@@ -152,6 +145,13 @@
       "peakViewers": 744,
       "sampleCount": 30,
       "totalMsgs": 5736
+    },
+    {
+      "name": "Call of Duty: Black Ops III",
+      "avgViewers": 644,
+      "peakViewers": 861,
+      "sampleCount": 69,
+      "totalMsgs": 11637
     },
     {
       "name": "VRChat",
@@ -429,9 +429,9 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 579,
-      "sampleCount": 324,
-      "totalMsgs": 47403
+      "avgViewers": 578,
+      "sampleCount": 327,
+      "totalMsgs": 47534
     },
     "1": {
       "avgViewers": 531,
@@ -665,9 +665,9 @@
     },
     {
       "date": "2026-07-16",
-      "avgViewers": 451,
+      "avgViewers": 452,
       "peakViewers": 582,
-      "totalMsgs": 4004,
+      "totalMsgs": 4135,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -676,5 +676,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-17T00:22:36.347Z"
+  "lastUpdated": "2026-07-17T00:52:36.320Z"
 }
