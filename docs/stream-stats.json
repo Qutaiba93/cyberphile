@@ -1,10 +1,10 @@
 {
   "totalSessions": 152,
   "totalDays": 134,
-  "totalSegments": 6765,
+  "totalSegments": 6768,
   "allTimePeak": 17991,
   "allTimeAvg": 613,
-  "totalMessages": 1246586,
+  "totalMessages": 1247080,
   "categories": [
     {
       "name": "Rust",
@@ -66,8 +66,8 @@
       "name": "Chat Roulette",
       "avgViewers": 703,
       "peakViewers": 916,
-      "sampleCount": 641,
-      "totalMsgs": 137755
+      "sampleCount": 642,
+      "totalMsgs": 137917
     },
     {
       "name": "Trash Horror Collection",
@@ -297,8 +297,8 @@
       "name": "Just Chatting",
       "avgViewers": 575,
       "peakViewers": 903,
-      "sampleCount": 2644,
-      "totalMsgs": 494939
+      "sampleCount": 2646,
+      "totalMsgs": 495271
     },
     {
       "name": "007 First Light",
@@ -505,13 +505,13 @@
     },
     "21": {
       "avgViewers": 674,
-      "sampleCount": 675,
-      "totalMsgs": 134903
+      "sampleCount": 676,
+      "totalMsgs": 135044
     },
     "22": {
       "avgViewers": 656,
-      "sampleCount": 564,
-      "totalMsgs": 114617
+      "sampleCount": 566,
+      "totalMsgs": 114970
     },
     "23": {
       "avgViewers": 622,
@@ -665,14 +665,15 @@
     },
     {
       "date": "2026-07-17",
-      "avgViewers": 439,
-      "peakViewers": 643,
-      "totalMsgs": 1705,
+      "avgViewers": 483,
+      "peakViewers": 644,
+      "totalMsgs": 2199,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-17T21:52:36.341Z"
+  "lastUpdated": "2026-07-17T22:22:36.342Z"
 }
