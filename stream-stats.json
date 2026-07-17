@@ -1,10 +1,10 @@
 {
-  "totalSessions": 151,
-  "totalDays": 133,
-  "totalSegments": 6755,
+  "totalSessions": 152,
+  "totalDays": 134,
+  "totalSegments": 6756,
   "allTimePeak": 17991,
   "allTimeAvg": 613,
-  "totalMessages": 1244881,
+  "totalMessages": 1244896,
   "categories": [
     {
       "name": "Rust",
@@ -297,8 +297,8 @@
       "name": "Just Chatting",
       "avgViewers": 575,
       "peakViewers": 903,
-      "sampleCount": 2634,
-      "totalMsgs": 493234
+      "sampleCount": 2635,
+      "totalMsgs": 493249
     },
     {
       "name": "007 First Light",
@@ -499,9 +499,9 @@
       "totalMsgs": 137092
     },
     "20": {
-      "avgViewers": 665,
-      "sampleCount": 709,
-      "totalMsgs": 148817
+      "avgViewers": 664,
+      "sampleCount": 710,
+      "totalMsgs": 148832
     },
     "21": {
       "avgViewers": 675,
@@ -520,17 +520,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-26",
-      "avgViewers": 530,
-      "peakViewers": 693,
-      "totalMsgs": 6665,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "Chat Roulette"
-      ]
-    },
     {
       "date": "2026-06-27",
       "avgViewers": 503,
@@ -673,8 +662,17 @@
         "Counter-Strike 2",
         "Call of Duty: Black Ops III"
       ]
+    },
+    {
+      "date": "2026-07-17",
+      "avgViewers": 76,
+      "peakViewers": 76,
+      "totalMsgs": 15,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-17T19:52:36.346Z"
+  "lastUpdated": "2026-07-17T20:22:36.316Z"
 }
