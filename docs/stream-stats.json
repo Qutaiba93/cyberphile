@@ -1,10 +1,10 @@
 {
   "totalSessions": 151,
   "totalDays": 133,
-  "totalSegments": 6741,
+  "totalSegments": 6744,
   "allTimePeak": 17991,
   "allTimeAvg": 613,
-  "totalMessages": 1243755,
+  "totalMessages": 1244171,
   "categories": [
     {
       "name": "Rust",
@@ -161,18 +161,18 @@
       "totalMsgs": 7649
     },
     {
-      "name": "Call of Duty: Black Ops III",
-      "avgViewers": 635,
-      "peakViewers": 861,
-      "sampleCount": 72,
-      "totalMsgs": 11882
-    },
-    {
       "name": "Sons of the Forest",
       "avgViewers": 631,
       "peakViewers": 693,
       "sampleCount": 23,
       "totalMsgs": 3485
+    },
+    {
+      "name": "Call of Duty: Black Ops III",
+      "avgViewers": 626,
+      "peakViewers": 861,
+      "sampleCount": 75,
+      "totalMsgs": 12298
     },
     {
       "name": "Psalm 5:9-13",
@@ -434,9 +434,9 @@
       "totalMsgs": 47608
     },
     "1": {
-      "avgViewers": 530,
-      "sampleCount": 185,
-      "totalMsgs": 27605
+      "avgViewers": 528,
+      "sampleCount": 188,
+      "totalMsgs": 28021
     },
     "2": {
       "avgViewers": 496,
@@ -665,9 +665,9 @@
     },
     {
       "date": "2026-07-16",
-      "avgViewers": 449,
+      "avgViewers": 446,
       "peakViewers": 582,
-      "totalMsgs": 4380,
+      "totalMsgs": 4796,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -676,5 +676,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-17T01:22:36.344Z"
+  "lastUpdated": "2026-07-17T01:52:36.341Z"
 }
