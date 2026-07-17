@@ -1,10 +1,10 @@
 {
   "totalSessions": 151,
   "totalDays": 133,
-  "totalSegments": 6738,
+  "totalSegments": 6741,
   "allTimePeak": 17991,
   "allTimeAvg": 613,
-  "totalMessages": 1243510,
+  "totalMessages": 1243755,
   "categories": [
     {
       "name": "Rust",
@@ -147,13 +147,6 @@
       "totalMsgs": 5736
     },
     {
-      "name": "Call of Duty: Black Ops III",
-      "avgViewers": 644,
-      "peakViewers": 861,
-      "sampleCount": 69,
-      "totalMsgs": 11637
-    },
-    {
       "name": "VRChat",
       "avgViewers": 640,
       "peakViewers": 796,
@@ -166,6 +159,13 @@
       "peakViewers": 756,
       "sampleCount": 32,
       "totalMsgs": 7649
+    },
+    {
+      "name": "Call of Duty: Black Ops III",
+      "avgViewers": 635,
+      "peakViewers": 861,
+      "sampleCount": 72,
+      "totalMsgs": 11882
     },
     {
       "name": "Sons of the Forest",
@@ -429,14 +429,14 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 578,
-      "sampleCount": 327,
-      "totalMsgs": 47534
+      "avgViewers": 577,
+      "sampleCount": 328,
+      "totalMsgs": 47608
     },
     "1": {
-      "avgViewers": 531,
-      "sampleCount": 183,
-      "totalMsgs": 27434
+      "avgViewers": 530,
+      "sampleCount": 185,
+      "totalMsgs": 27605
     },
     "2": {
       "avgViewers": 496,
@@ -665,9 +665,9 @@
     },
     {
       "date": "2026-07-16",
-      "avgViewers": 452,
+      "avgViewers": 449,
       "peakViewers": 582,
-      "totalMsgs": 4135,
+      "totalMsgs": 4380,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -676,5 +676,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-17T00:52:36.320Z"
+  "lastUpdated": "2026-07-17T01:22:36.344Z"
 }

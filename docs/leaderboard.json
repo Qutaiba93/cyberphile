@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 54150,
-      "totalEarned": 1106282,
+      "balance": 54152,
+      "totalEarned": 1106284,
       "totalSpent": 1133641,
       "gamesPlayed": 583,
       "gamesWon": 219,
@@ -38,8 +38,8 @@
     },
     {
       "name": "nick6",
-      "balance": 25525,
-      "totalEarned": 25529,
+      "balance": 25561,
+      "totalEarned": 25565,
       "totalSpent": 4,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -65,12 +65,12 @@
     },
     {
       "name": "juggin247",
-      "balance": 20403,
-      "totalEarned": 20403,
+      "balance": 20496,
+      "totalEarned": 20496,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 6
+      "streak": 7
     },
     {
       "name": "eyla_vanel",
@@ -317,12 +317,12 @@
     },
     {
       "name": "lecto",
-      "balance": 10948,
-      "totalEarned": 10948,
+      "balance": 11035,
+      "totalEarned": 11035,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 6
+      "streak": 7
     },
     {
       "name": "zz_nz",
@@ -425,8 +425,8 @@
     },
     {
       "name": "shahin",
-      "balance": 9638,
-      "totalEarned": 231689,
+      "balance": 9662,
+      "totalEarned": 231713,
       "totalSpent": 222051,
       "gamesPlayed": 100,
       "gamesWon": 28,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3439,
-    "totalCirculating": 3224175,
+    "totalPlayers": 3440,
+    "totalCirculating": 3225225,
     "totalGames": 27760,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-17T00:52:36.333Z"
+  "lastUpdated": "2026-07-17T01:22:36.359Z"
 }
