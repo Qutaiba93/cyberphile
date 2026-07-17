@@ -38,8 +38,8 @@
     },
     {
       "name": "nick6",
-      "balance": 25701,
-      "totalEarned": 25705,
+      "balance": 25703,
+      "totalEarned": 25707,
       "totalSpent": 4,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -227,12 +227,12 @@
     },
     {
       "name": "xaqin",
-      "balance": 12705,
-      "totalEarned": 12705,
+      "balance": 12792,
+      "totalEarned": 12792,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 6
+      "streak": 7
     },
     {
       "name": "iam_umii",
@@ -334,6 +334,15 @@
       "streak": 7
     },
     {
+      "name": "bushybrauz",
+      "balance": 10463,
+      "totalEarned": 10463,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "nitro_st",
       "balance": 10454,
       "totalEarned": 10454,
@@ -350,15 +359,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 7
-    },
-    {
-      "name": "bushybrauz",
-      "balance": 10406,
-      "totalEarned": 10406,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 15
     },
     {
       "name": "ericlamontjr",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3442,
-    "totalCirculating": 3232297,
+    "totalCirculating": 3232445,
     "totalGames": 27800,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-17T15:52:36.364Z"
+  "lastUpdated": "2026-07-17T16:22:36.365Z"
 }
