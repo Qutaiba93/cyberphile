@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 54156,
-      "totalEarned": 1106288,
+      "balance": 54178,
+      "totalEarned": 1106310,
       "totalSpent": 1133641,
       "gamesPlayed": 583,
       "gamesWon": 219,
@@ -38,8 +38,8 @@
     },
     {
       "name": "nick6",
-      "balance": 25669,
-      "totalEarned": 25673,
+      "balance": 25687,
+      "totalEarned": 25691,
       "totalSpent": 4,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -47,8 +47,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 20740,
-      "totalEarned": 20841,
+      "balance": 20754,
+      "totalEarned": 20855,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -65,8 +65,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 20496,
-      "totalEarned": 20496,
+      "balance": 20498,
+      "totalEarned": 20498,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -83,12 +83,12 @@
     },
     {
       "name": "papaah",
-      "balance": 18766,
-      "totalEarned": 19767,
+      "balance": 18853,
+      "totalEarned": 19854,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 6
+      "streak": 7
     },
     {
       "name": "kale96",
@@ -344,8 +344,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 10426,
-      "totalEarned": 27664,
+      "balance": 10442,
+      "totalEarned": 27680,
       "totalSpent": 17238,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -425,8 +425,8 @@
     },
     {
       "name": "shahin",
-      "balance": 9682,
-      "totalEarned": 231733,
+      "balance": 9686,
+      "totalEarned": 231737,
       "totalSpent": 222051,
       "gamesPlayed": 100,
       "gamesWon": 28,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3440,
-    "totalCirculating": 3226500,
+    "totalPlayers": 3441,
+    "totalCirculating": 3227805,
     "totalGames": 27760,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-17T01:52:36.365Z"
+  "lastUpdated": "2026-07-17T02:22:36.358Z"
 }
