@@ -388,15 +388,6 @@
       "streak": 3
     },
     {
-      "name": "soonii",
-      "balance": 10099,
-      "totalEarned": 251850,
-      "totalSpent": 241751,
-      "gamesPlayed": 666,
-      "gamesWon": 261,
-      "streak": 10
-    },
-    {
       "name": "donixo",
       "balance": 10060,
       "totalEarned": 10060,
@@ -449,12 +440,21 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
+    },
+    {
+      "name": "s3d121",
+      "balance": 9072,
+      "totalEarned": 9072,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 6
     }
   ],
   "stats": {
     "totalPlayers": 3442,
-    "totalCirculating": 3232181,
-    "totalGames": 27770,
+    "totalCirculating": 3222084,
+    "totalGames": 27777,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-17T07:52:36.363Z"
+  "lastUpdated": "2026-07-17T08:22:36.354Z"
 }
