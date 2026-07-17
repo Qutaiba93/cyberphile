@@ -1,10 +1,10 @@
 {
   "totalSessions": 152,
   "totalDays": 134,
-  "totalSegments": 6774,
+  "totalSegments": 6777,
   "allTimePeak": 17991,
   "allTimeAvg": 613,
-  "totalMessages": 1248230,
+  "totalMessages": 1248832,
   "categories": [
     {
       "name": "Rust",
@@ -66,8 +66,8 @@
       "name": "Chat Roulette",
       "avgViewers": 703,
       "peakViewers": 916,
-      "sampleCount": 648,
-      "totalMsgs": 139067
+      "sampleCount": 649,
+      "totalMsgs": 139446
     },
     {
       "name": "Trash Horror Collection",
@@ -148,10 +148,10 @@
     },
     {
       "name": "VRChat",
-      "avgViewers": 640,
+      "avgViewers": 639,
       "peakViewers": 796,
-      "sampleCount": 34,
-      "totalMsgs": 5648
+      "sampleCount": 35,
+      "totalMsgs": 5736
     },
     {
       "name": "Rocket League",
@@ -379,10 +379,10 @@
     },
     {
       "name": "Slots & Casino",
-      "avgViewers": 508,
+      "avgViewers": 509,
       "peakViewers": 786,
-      "sampleCount": 211,
-      "totalMsgs": 37664
+      "sampleCount": 212,
+      "totalMsgs": 37799
     },
     {
       "name": "Scam Line",
@@ -514,9 +514,9 @@
       "totalMsgs": 115649
     },
     "23": {
-      "avgViewers": 622,
-      "sampleCount": 442,
-      "totalMsgs": 78631
+      "avgViewers": 623,
+      "sampleCount": 445,
+      "totalMsgs": 79233
     }
   },
   "dailyHistory": [
@@ -665,15 +665,17 @@
     },
     {
       "date": "2026-07-17",
-      "avgViewers": 548,
+      "avgViewers": 562,
       "peakViewers": 726,
-      "totalMsgs": 3349,
+      "totalMsgs": 3951,
       "categories": [
         "Just Chatting",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Slots & Casino",
+        "VRChat"
       ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-17T23:22:36.342Z"
+  "lastUpdated": "2026-07-17T23:52:36.342Z"
 }
