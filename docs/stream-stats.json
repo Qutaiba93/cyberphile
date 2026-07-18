@@ -1,10 +1,10 @@
 {
-  "totalSessions": 152,
-  "totalDays": 134,
-  "totalSegments": 6785,
+  "totalSessions": 153,
+  "totalDays": 135,
+  "totalSegments": 6788,
   "allTimePeak": 17991,
   "allTimeAvg": 613,
-  "totalMessages": 1249766,
+  "totalMessages": 1250258,
   "categories": [
     {
       "name": "Rust",
@@ -295,10 +295,10 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 575,
+      "avgViewers": 574,
       "peakViewers": 903,
-      "sampleCount": 2646,
-      "totalMsgs": 495271
+      "sampleCount": 2649,
+      "totalMsgs": 495763
     },
     {
       "name": "007 First Light",
@@ -479,14 +479,14 @@
       "totalMsgs": 95721
     },
     "16": {
-      "avgViewers": 624,
-      "sampleCount": 631,
-      "totalMsgs": 116198
+      "avgViewers": 623,
+      "sampleCount": 632,
+      "totalMsgs": 116389
     },
     "17": {
-      "avgViewers": 677,
-      "sampleCount": 655,
-      "totalMsgs": 122647
+      "avgViewers": 676,
+      "sampleCount": 657,
+      "totalMsgs": 122948
     },
     "18": {
       "avgViewers": 674,
@@ -520,17 +520,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-06-27",
-      "avgViewers": 503,
-      "peakViewers": 657,
-      "totalMsgs": 3906,
-      "categories": [
-        "Just Chatting",
-        "Slots & Casino",
-        "Chat Roulette"
-      ]
-    },
     {
       "date": "2026-06-29",
       "avgViewers": 540,
@@ -674,8 +663,17 @@
         "Slots & Casino",
         "VRChat"
       ]
+    },
+    {
+      "date": "2026-07-18",
+      "avgViewers": 241,
+      "peakViewers": 356,
+      "totalMsgs": 492,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-18T16:52:36.337Z"
+  "lastUpdated": "2026-07-18T17:22:36.343Z"
 }
