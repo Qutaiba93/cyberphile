@@ -1,10 +1,10 @@
 {
   "totalSessions": 153,
   "totalDays": 135,
-  "totalSegments": 6806,
+  "totalSegments": 6809,
   "allTimePeak": 17991,
   "allTimeAvg": 613,
-  "totalMessages": 1253593,
+  "totalMessages": 1254533,
   "categories": [
     {
       "name": "Rust",
@@ -66,8 +66,8 @@
       "name": "Chat Roulette",
       "avgViewers": 703,
       "peakViewers": 916,
-      "sampleCount": 654,
-      "totalMsgs": 140492
+      "sampleCount": 657,
+      "totalMsgs": 141432
     },
     {
       "name": "Trash Horror Collection",
@@ -500,8 +500,8 @@
     },
     "20": {
       "avgViewers": 662,
-      "sampleCount": 716,
-      "totalMsgs": 149770
+      "sampleCount": 719,
+      "totalMsgs": 150710
     },
     "21": {
       "avgViewers": 674,
@@ -666,9 +666,9 @@
     },
     {
       "date": "2026-07-18",
-      "avgViewers": 562,
-      "peakViewers": 741,
-      "totalMsgs": 3827,
+      "avgViewers": 586,
+      "peakViewers": 759,
+      "totalMsgs": 4767,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -677,5 +677,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-18T20:22:36.333Z"
+  "lastUpdated": "2026-07-18T20:52:36.340Z"
 }
