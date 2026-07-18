@@ -65,8 +65,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 20954,
-      "totalEarned": 21055,
+      "balance": 20960,
+      "totalEarned": 21061,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -218,8 +218,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 13568,
-      "totalEarned": 13568,
+      "balance": 13576,
+      "totalEarned": 13576,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -227,8 +227,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 13224,
-      "totalEarned": 13224,
+      "balance": 13230,
+      "totalEarned": 13230,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -242,15 +242,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 8
-    },
-    {
-      "name": "soonii",
-      "balance": 12456,
-      "totalEarned": 444729,
-      "totalSpent": 432273,
-      "gamesPlayed": 765,
-      "gamesWon": 302,
-      "streak": 11
     },
     {
       "name": "iam_umii",
@@ -344,8 +335,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 10768,
-      "totalEarned": 28006,
+      "balance": 10776,
+      "totalEarned": 28014,
       "totalSpent": 17238,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -449,12 +440,21 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 8
+    },
+    {
+      "name": "hittittt",
+      "balance": 9293,
+      "totalEarned": 9293,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 5
     }
   ],
   "stats": {
     "totalPlayers": 3460,
-    "totalCirculating": 3300200,
-    "totalGames": 27934,
+    "totalCirculating": 3288219,
+    "totalGames": 27948,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-18T23:22:36.359Z"
+  "lastUpdated": "2026-07-18T23:52:36.359Z"
 }
