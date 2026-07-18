@@ -1,10 +1,10 @@
 {
   "totalSessions": 153,
   "totalDays": 135,
-  "totalSegments": 6812,
+  "totalSegments": 6815,
   "allTimePeak": 17991,
   "allTimeAvg": 613,
-  "totalMessages": 1255359,
+  "totalMessages": 1255762,
   "categories": [
     {
       "name": "Rust",
@@ -66,8 +66,8 @@
       "name": "Chat Roulette",
       "avgViewers": 703,
       "peakViewers": 916,
-      "sampleCount": 660,
-      "totalMsgs": 142258
+      "sampleCount": 661,
+      "totalMsgs": 142427
     },
     {
       "name": "Trash Horror Collection",
@@ -274,10 +274,10 @@
     },
     {
       "name": "World Cup 2026",
-      "avgViewers": 580,
+      "avgViewers": 581,
       "peakViewers": 734,
-      "sampleCount": 46,
-      "totalMsgs": 3680
+      "sampleCount": 48,
+      "totalMsgs": 3914
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -505,8 +505,8 @@
     },
     "21": {
       "avgViewers": 674,
-      "sampleCount": 678,
-      "totalMsgs": 135475
+      "sampleCount": 681,
+      "totalMsgs": 135878
     },
     "22": {
       "avgViewers": 656,
@@ -666,16 +666,17 @@
     },
     {
       "date": "2026-07-18",
-      "avgViewers": 598,
+      "avgViewers": 599,
       "peakViewers": 759,
-      "totalMsgs": 5593,
+      "totalMsgs": 5996,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
-        "Chat Roulette"
+        "Chat Roulette",
+        "World Cup 2026"
       ]
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-18T21:22:36.340Z"
+  "lastUpdated": "2026-07-18T21:52:36.346Z"
 }
