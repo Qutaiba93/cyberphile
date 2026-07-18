@@ -82,6 +82,15 @@
       "streak": 7
     },
     {
+      "name": "soonii",
+      "balance": 20050,
+      "totalEarned": 366541,
+      "totalSpent": 346491,
+      "gamesPlayed": 731,
+      "gamesWon": 288,
+      "streak": 11
+    },
+    {
       "name": "eyla_vanel",
       "balance": 19905,
       "totalEarned": 19905,
@@ -233,15 +242,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 7
-    },
-    {
-      "name": "soonii",
-      "balance": 13034,
-      "totalEarned": 348525,
-      "totalSpent": 335491,
-      "gamesPlayed": 726,
-      "gamesWon": 286,
-      "streak": 11
     },
     {
       "name": "xaqin",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3450,
-    "totalCirculating": 3295860,
-    "totalGames": 27884,
+    "totalCirculating": 3302876,
+    "totalGames": 27889,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-18T13:52:36.358Z"
+  "lastUpdated": "2026-07-18T14:22:36.369Z"
 }
