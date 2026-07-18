@@ -38,9 +38,9 @@
     },
     {
       "name": "nick6",
-      "balance": 25792,
-      "totalEarned": 25796,
-      "totalSpent": 4,
+      "balance": 25799,
+      "totalEarned": 25804,
+      "totalSpent": 5,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 3
@@ -236,11 +236,11 @@
     },
     {
       "name": "soonii",
-      "balance": 13026,
-      "totalEarned": 342515,
-      "totalSpent": 329489,
-      "gamesPlayed": 725,
-      "gamesWon": 285,
+      "balance": 13034,
+      "totalEarned": 348525,
+      "totalSpent": 335491,
+      "gamesPlayed": 726,
+      "gamesWon": 286,
       "streak": 11
     },
     {
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3450,
-    "totalCirculating": 3295842,
-    "totalGames": 27883,
+    "totalCirculating": 3295860,
+    "totalGames": 27884,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-18T13:22:36.390Z"
+  "lastUpdated": "2026-07-18T13:52:36.358Z"
 }
