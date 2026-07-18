@@ -38,12 +38,12 @@
     },
     {
       "name": "nick6",
-      "balance": 25725,
-      "totalEarned": 25729,
+      "balance": 25792,
+      "totalEarned": 25796,
       "totalSpent": 4,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "shahin",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3450,
-    "totalCirculating": 3295718,
+    "totalCirculating": 3295842,
     "totalGames": 27883,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-18T12:52:36.351Z"
+  "lastUpdated": "2026-07-18T13:22:36.390Z"
 }
