@@ -235,6 +235,15 @@
       "streak": 7
     },
     {
+      "name": "soonii",
+      "balance": 13026,
+      "totalEarned": 342515,
+      "totalSpent": 329489,
+      "gamesPlayed": 725,
+      "gamesWon": 285,
+      "streak": 11
+    },
+    {
       "name": "xaqin",
       "balance": 12806,
       "totalEarned": 12806,
@@ -352,15 +361,6 @@
       "streak": 8
     },
     {
-      "name": "soonii",
-      "balance": 10504,
-      "totalEarned": 323871,
-      "totalSpent": 313367,
-      "gamesPlayed": 718,
-      "gamesWon": 282,
-      "streak": 11
-    },
-    {
       "name": "bushybrauz",
       "balance": 10485,
       "totalEarned": 10485,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3450,
-    "totalCirculating": 3293196,
-    "totalGames": 27876,
+    "totalCirculating": 3295718,
+    "totalGames": 27883,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-18T12:22:36.342Z"
+  "lastUpdated": "2026-07-18T12:52:36.351Z"
 }
