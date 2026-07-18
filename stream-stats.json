@@ -1,10 +1,10 @@
 {
   "totalSessions": 152,
   "totalDays": 134,
-  "totalSegments": 6780,
+  "totalSegments": 6783,
   "allTimePeak": 17991,
   "allTimeAvg": 613,
-  "totalMessages": 1249119,
+  "totalMessages": 1249463,
   "categories": [
     {
       "name": "Rust",
@@ -147,18 +147,18 @@
       "totalMsgs": 5736
     },
     {
-      "name": "VRChat",
-      "avgViewers": 638,
-      "peakViewers": 796,
-      "sampleCount": 38,
-      "totalMsgs": 6023
-    },
-    {
       "name": "Rocket League",
       "avgViewers": 638,
       "peakViewers": 756,
       "sampleCount": 32,
       "totalMsgs": 7649
+    },
+    {
+      "name": "VRChat",
+      "avgViewers": 637,
+      "peakViewers": 796,
+      "sampleCount": 41,
+      "totalMsgs": 6367
     },
     {
       "name": "Sons of the Forest",
@@ -430,8 +430,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 578,
-      "sampleCount": 330,
-      "totalMsgs": 47789
+      "sampleCount": 333,
+      "totalMsgs": 48133
     },
     "1": {
       "avgViewers": 527,
@@ -665,9 +665,9 @@
     },
     {
       "date": "2026-07-17",
-      "avgViewers": 569,
+      "avgViewers": 575,
       "peakViewers": 726,
-      "totalMsgs": 4238,
+      "totalMsgs": 4582,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -677,5 +677,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-18T00:22:36.347Z"
+  "lastUpdated": "2026-07-18T00:52:36.344Z"
 }
