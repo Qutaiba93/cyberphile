@@ -1,10 +1,10 @@
 {
   "totalSessions": 153,
   "totalDays": 135,
-  "totalSegments": 6821,
+  "totalSegments": 6824,
   "allTimePeak": 17991,
   "allTimeAvg": 613,
-  "totalMessages": 1256618,
+  "totalMessages": 1257287,
   "categories": [
     {
       "name": "Rust",
@@ -266,18 +266,18 @@
       "totalMsgs": 6916
     },
     {
+      "name": "World Cup 2026",
+      "avgViewers": 586,
+      "peakViewers": 734,
+      "sampleCount": 56,
+      "totalMsgs": 5075
+    },
+    {
       "name": "Dread Neighbor",
       "avgViewers": 585,
       "peakViewers": 618,
       "sampleCount": 7,
       "totalMsgs": 487
-    },
-    {
-      "name": "World Cup 2026",
-      "avgViewers": 584,
-      "peakViewers": 734,
-      "sampleCount": 54,
-      "totalMsgs": 4770
     },
     {
       "name": "PUBG: Battlegrounds",
@@ -297,8 +297,8 @@
       "name": "Just Chatting",
       "avgViewers": 574,
       "peakViewers": 903,
-      "sampleCount": 2658,
-      "totalMsgs": 497556
+      "sampleCount": 2659,
+      "totalMsgs": 497920
     },
     {
       "name": "007 First Light",
@@ -510,13 +510,13 @@
     },
     "22": {
       "avgViewers": 656,
-      "sampleCount": 575,
-      "totalMsgs": 116325
+      "sampleCount": 576,
+      "totalMsgs": 116469
     },
     "23": {
       "avgViewers": 623,
-      "sampleCount": 446,
-      "totalMsgs": 79339
+      "sampleCount": 448,
+      "totalMsgs": 79864
     }
   },
   "dailyHistory": [
@@ -666,9 +666,9 @@
     },
     {
       "date": "2026-07-18",
-      "avgViewers": 601,
+      "avgViewers": 604,
       "peakViewers": 759,
-      "totalMsgs": 6852,
+      "totalMsgs": 7521,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -678,5 +678,5 @@
     }
   ],
   "botStartedAt": "2026-06-27T18:22:34.123Z",
-  "lastUpdated": "2026-07-18T22:52:36.331Z"
+  "lastUpdated": "2026-07-18T23:22:36.341Z"
 }
