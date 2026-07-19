@@ -38,8 +38,8 @@
     },
     {
       "name": "nick6",
-      "balance": 25975,
-      "totalEarned": 25980,
+      "balance": 25977,
+      "totalEarned": 25982,
       "totalSpent": 5,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -353,12 +353,12 @@
     },
     {
       "name": "bushybrauz",
-      "balance": 10559,
-      "totalEarned": 10559,
+      "balance": 10626,
+      "totalEarned": 10626,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "nitro_st",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3460,
-    "totalCirculating": 3287670,
+    "totalCirculating": 3287743,
     "totalGames": 27951,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-19T14:22:36.400Z"
+  "lastUpdated": "2026-07-19T14:52:36.349Z"
 }
