@@ -1,6 +1,15 @@
 {
   "leaderboard": [
     {
+      "name": "meliziana",
+      "balance": 100715,
+      "totalEarned": 2322633,
+      "totalSpent": 2317839,
+      "gamesPlayed": 1758,
+      "gamesWon": 723,
+      "streak": 7
+    },
+    {
       "name": "daecs",
       "balance": 100212,
       "totalEarned": 456962,
@@ -10,18 +19,9 @@
       "streak": 10
     },
     {
-      "name": "meliziana",
-      "balance": 77647,
-      "totalEarned": 2269065,
-      "totalSpent": 2287339,
-      "gamesPlayed": 1750,
-      "gamesWon": 718,
-      "streak": 7
-    },
-    {
       "name": "shance",
-      "balance": 54982,
-      "totalEarned": 1107289,
+      "balance": 54986,
+      "totalEarned": 1107293,
       "totalSpent": 1133816,
       "gamesPlayed": 590,
       "gamesWon": 221,
@@ -74,8 +74,8 @@
     },
     {
       "name": "schitt",
-      "balance": 21035,
-      "totalEarned": 21035,
+      "balance": 21037,
+      "totalEarned": 21037,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -92,8 +92,8 @@
     },
     {
       "name": "papaah",
-      "balance": 19386,
-      "totalEarned": 20387,
+      "balance": 19388,
+      "totalEarned": 20389,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -110,12 +110,12 @@
     },
     {
       "name": "zeepzeep",
-      "balance": 17542,
-      "totalEarned": 60526,
+      "balance": 17611,
+      "totalEarned": 60595,
       "totalSpent": 42984,
       "gamesPlayed": 143,
       "gamesWon": 53,
-      "streak": 4
+      "streak": 1
     },
     {
       "name": "upkey",
@@ -209,8 +209,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 13901,
-      "totalEarned": 13901,
+      "balance": 13927,
+      "totalEarned": 13927,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -236,8 +236,8 @@
     },
     {
       "name": "xaqin",
-      "balance": 13279,
-      "totalEarned": 13279,
+      "balance": 13281,
+      "totalEarned": 13281,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -326,12 +326,12 @@
     },
     {
       "name": "confusion",
-      "balance": 11219,
-      "totalEarned": 11734,
+      "balance": 11288,
+      "totalEarned": 11803,
       "totalSpent": 515,
       "gamesPlayed": 11,
       "gamesWon": 4,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "intermediatewastakensadge",
@@ -434,8 +434,8 @@
     },
     {
       "name": "alcatru",
-      "balance": 9548,
-      "totalEarned": 9548,
+      "balance": 9550,
+      "totalEarned": 9550,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3478,
-    "totalCirculating": 3344796,
-    "totalGames": 28022,
+    "totalPlayers": 3480,
+    "totalCirculating": 3367122,
+    "totalGames": 28036,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-20T21:02:29.383Z"
+  "lastUpdated": "2026-07-20T21:32:29.379Z"
 }
