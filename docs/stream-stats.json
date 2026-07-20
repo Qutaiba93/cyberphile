@@ -1,10 +1,10 @@
 {
   "totalSessions": 155,
   "totalDays": 137,
-  "totalSegments": 6910,
+  "totalSegments": 6913,
   "allTimePeak": 17991,
   "allTimeAvg": 613,
-  "totalMessages": 1272369,
+  "totalMessages": 1272943,
   "categories": [
     {
       "name": "Rust",
@@ -96,6 +96,13 @@
       "peakViewers": 776,
       "sampleCount": 59,
       "totalMsgs": 10155
+    },
+    {
+      "name": "Welcome to the Game III",
+      "avgViewers": 671,
+      "peakViewers": 689,
+      "sampleCount": 3,
+      "totalMsgs": 574
     },
     {
       "name": "Grand Theft Auto V (GTA)",
@@ -500,8 +507,8 @@
     },
     "20": {
       "avgViewers": 663,
-      "sampleCount": 726,
-      "totalMsgs": 151810
+      "sampleCount": 729,
+      "totalMsgs": 152384
     },
     "21": {
       "avgViewers": 673,
@@ -664,15 +671,16 @@
     },
     {
       "date": "2026-07-20",
-      "avgViewers": 613,
+      "avgViewers": 618,
       "peakViewers": 778,
-      "totalMsgs": 5875,
+      "totalMsgs": 6449,
       "categories": [
         "Just Chatting",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Welcome to the Game III"
       ]
     }
   ],
   "botStartedAt": "2026-07-19T20:32:28.908Z",
-  "lastUpdated": "2026-07-20T20:32:29.374Z"
+  "lastUpdated": "2026-07-20T21:02:29.367Z"
 }
