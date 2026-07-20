@@ -1,10 +1,10 @@
 {
   "totalSessions": 155,
   "totalDays": 137,
-  "totalSegments": 6916,
+  "totalSegments": 6919,
   "allTimePeak": 17991,
   "allTimeAvg": 613,
-  "totalMessages": 1273600,
+  "totalMessages": 1274088,
   "categories": [
     {
       "name": "Rust",
@@ -133,13 +133,6 @@
       "totalMsgs": 11524
     },
     {
-      "name": "Welcome to the Game III",
-      "avgViewers": 653,
-      "peakViewers": 689,
-      "sampleCount": 6,
-      "totalMsgs": 1231
-    },
-    {
       "name": "League of Legends",
       "avgViewers": 650,
       "peakViewers": 732,
@@ -152,6 +145,13 @@
       "peakViewers": 744,
       "sampleCount": 30,
       "totalMsgs": 5736
+    },
+    {
+      "name": "Welcome to the Game III",
+      "avgViewers": 643,
+      "peakViewers": 689,
+      "sampleCount": 9,
+      "totalMsgs": 1719
     },
     {
       "name": "Rocket League",
@@ -512,8 +512,8 @@
     },
     "21": {
       "avgViewers": 673,
-      "sampleCount": 691,
-      "totalMsgs": 137908
+      "sampleCount": 694,
+      "totalMsgs": 138396
     },
     "22": {
       "avgViewers": 656,
@@ -673,7 +673,7 @@
       "date": "2026-07-20",
       "avgViewers": 619,
       "peakViewers": 778,
-      "totalMsgs": 7106,
+      "totalMsgs": 7594,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
@@ -682,5 +682,5 @@
     }
   ],
   "botStartedAt": "2026-07-19T20:32:28.908Z",
-  "lastUpdated": "2026-07-20T21:32:29.365Z"
+  "lastUpdated": "2026-07-20T22:02:29.370Z"
 }

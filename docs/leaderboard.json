@@ -65,8 +65,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 21450,
-      "totalEarned": 21551,
+      "balance": 21462,
+      "totalEarned": 21563,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -101,8 +101,8 @@
     },
     {
       "name": "kale96",
-      "balance": 19008,
-      "totalEarned": 25558,
+      "balance": 19012,
+      "totalEarned": 25562,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -209,8 +209,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 13927,
-      "totalEarned": 13927,
+      "balance": 13935,
+      "totalEarned": 13935,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -236,8 +236,8 @@
     },
     {
       "name": "xaqin",
-      "balance": 13281,
-      "totalEarned": 13281,
+      "balance": 13291,
+      "totalEarned": 13291,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -326,8 +326,8 @@
     },
     {
       "name": "confusion",
-      "balance": 11288,
-      "totalEarned": 11803,
+      "balance": 11290,
+      "totalEarned": 11805,
       "totalSpent": 515,
       "gamesPlayed": 11,
       "gamesWon": 4,
@@ -434,27 +434,27 @@
     },
     {
       "name": "alcatru",
-      "balance": 9550,
-      "totalEarned": 9550,
+      "balance": 9552,
+      "totalEarned": 9552,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 10
     },
     {
-      "name": "s3d121",
-      "balance": 9536,
-      "totalEarned": 9536,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
+      "name": "muzlamic",
+      "balance": 9543,
+      "totalEarned": 22293,
+      "totalSpent": 12750,
+      "gamesPlayed": 84,
+      "gamesWon": 31,
       "streak": 10
     }
   ],
   "stats": {
-    "totalPlayers": 3480,
-    "totalCirculating": 3367122,
-    "totalGames": 28036,
+    "totalPlayers": 3481,
+    "totalCirculating": 3362559,
+    "totalGames": 28042,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-20T21:32:29.379Z"
+  "lastUpdated": "2026-07-20T22:02:29.391Z"
 }
