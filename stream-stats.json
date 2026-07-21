@@ -1,10 +1,10 @@
 {
-  "totalSessions": 155,
-  "totalDays": 137,
-  "totalSegments": 6919,
+  "totalSessions": 156,
+  "totalDays": 138,
+  "totalSegments": 6920,
   "allTimePeak": 17991,
   "allTimeAvg": 613,
-  "totalMessages": 1274088,
+  "totalMessages": 1274164,
   "categories": [
     {
       "name": "Rust",
@@ -147,13 +147,6 @@
       "totalMsgs": 5736
     },
     {
-      "name": "Welcome to the Game III",
-      "avgViewers": 643,
-      "peakViewers": 689,
-      "sampleCount": 9,
-      "totalMsgs": 1719
-    },
-    {
       "name": "Rocket League",
       "avgViewers": 638,
       "peakViewers": 756,
@@ -264,6 +257,13 @@
       "peakViewers": 748,
       "sampleCount": 16,
       "totalMsgs": 2802
+    },
+    {
+      "name": "Welcome to the Game III",
+      "avgViewers": 590,
+      "peakViewers": 689,
+      "sampleCount": 10,
+      "totalMsgs": 1795
     },
     {
       "name": "Lies of P",
@@ -476,9 +476,9 @@
       "totalMsgs": 10817
     },
     "14": {
-      "avgViewers": 374,
-      "sampleCount": 380,
-      "totalMsgs": 57292
+      "avgViewers": 373,
+      "sampleCount": 381,
+      "totalMsgs": 57368
     },
     "15": {
       "avgViewers": 511,
@@ -527,17 +527,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-07-06",
-      "avgViewers": 538,
-      "peakViewers": 671,
-      "totalMsgs": 4144,
-      "categories": [
-        "Just Chatting",
-        "Counter-Strike 2",
-        "World Cup 2026"
-      ]
-    },
     {
       "date": "2026-07-07",
       "avgViewers": 511,
@@ -679,8 +668,17 @@
         "Chat Roulette",
         "Welcome to the Game III"
       ]
+    },
+    {
+      "date": "2026-07-21",
+      "avgViewers": 113,
+      "peakViewers": 113,
+      "totalMsgs": 76,
+      "categories": [
+        "Welcome to the Game III"
+      ]
     }
   ],
   "botStartedAt": "2026-07-19T20:32:28.908Z",
-  "lastUpdated": "2026-07-21T14:32:29.430Z"
+  "lastUpdated": "2026-07-21T15:02:29.409Z"
 }
