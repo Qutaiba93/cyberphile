@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 55147,
-      "totalEarned": 1107479,
+      "balance": 55151,
+      "totalEarned": 1107483,
       "totalSpent": 1133841,
       "gamesPlayed": 591,
       "gamesWon": 222,
@@ -65,8 +65,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 21586,
-      "totalEarned": 21687,
+      "balance": 21588,
+      "totalEarned": 21689,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -326,12 +326,12 @@
     },
     {
       "name": "confusion",
-      "balance": 11290,
-      "totalEarned": 11805,
+      "balance": 11362,
+      "totalEarned": 11877,
       "totalSpent": 515,
       "gamesPlayed": 11,
       "gamesWon": 4,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "intermediatewastakensadge",
@@ -353,8 +353,8 @@
     },
     {
       "name": "bushybrauz",
-      "balance": 10827,
-      "totalEarned": 10827,
+      "balance": 10829,
+      "totalEarned": 10829,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3485,
-    "totalCirculating": 3373931,
+    "totalCirculating": 3374442,
     "totalGames": 28047,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-21T22:02:29.511Z"
+  "lastUpdated": "2026-07-21T22:32:29.499Z"
 }
