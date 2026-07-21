@@ -1,10 +1,10 @@
 {
   "totalSessions": 157,
   "totalDays": 138,
-  "totalSegments": 6934,
+  "totalSegments": 6937,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1276153,
+  "totalMessages": 1276509,
   "categories": [
     {
       "name": "Rust",
@@ -259,13 +259,6 @@
       "totalMsgs": 2802
     },
     {
-      "name": "Welcome to the Game III",
-      "avgViewers": 590,
-      "peakViewers": 689,
-      "sampleCount": 10,
-      "totalMsgs": 1795
-    },
-    {
       "name": "Lies of P",
       "avgViewers": 587,
       "peakViewers": 716,
@@ -302,10 +295,17 @@
     },
     {
       "name": "Just Chatting",
-      "avgViewers": 574,
+      "avgViewers": 573,
       "peakViewers": 903,
-      "sampleCount": 2740,
-      "totalMsgs": 511674
+      "sampleCount": 2741,
+      "totalMsgs": 511789
+    },
+    {
+      "name": "Welcome to the Game III",
+      "avgViewers": 567,
+      "peakViewers": 689,
+      "sampleCount": 12,
+      "totalMsgs": 2036
     },
     {
       "name": "007 First Light",
@@ -521,9 +521,9 @@
       "totalMsgs": 118160
     },
     "23": {
-      "avgViewers": 623,
-      "sampleCount": 455,
-      "totalMsgs": 80847
+      "avgViewers": 622,
+      "sampleCount": 458,
+      "totalMsgs": 81203
     }
   },
   "dailyHistory": [
@@ -671,9 +671,9 @@
     },
     {
       "date": "2026-07-21",
-      "avgViewers": 431,
+      "avgViewers": 434,
       "peakViewers": 623,
-      "totalMsgs": 2065,
+      "totalMsgs": 2421,
       "categories": [
         "Welcome to the Game III",
         "Just Chatting"
@@ -681,5 +681,5 @@
     }
   ],
   "botStartedAt": "2026-07-19T20:32:28.908Z",
-  "lastUpdated": "2026-07-21T23:02:29.493Z"
+  "lastUpdated": "2026-07-21T23:32:29.488Z"
 }
