@@ -1,10 +1,10 @@
 {
   "totalSessions": 158,
   "totalDays": 139,
-  "totalSegments": 6980,
+  "totalSegments": 6983,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1282969,
+  "totalMessages": 1283897,
   "categories": [
     {
       "name": "Rust",
@@ -57,10 +57,10 @@
     },
     {
       "name": "Roblox",
-      "avgViewers": 712,
+      "avgViewers": 717,
       "peakViewers": 753,
-      "sampleCount": 9,
-      "totalMsgs": 1538
+      "sampleCount": 11,
+      "totalMsgs": 2259
     },
     {
       "name": "Log Riders",
@@ -162,10 +162,10 @@
     },
     {
       "name": "VRChat",
-      "avgViewers": 635,
+      "avgViewers": 637,
       "peakViewers": 796,
-      "sampleCount": 43,
-      "totalMsgs": 6670
+      "sampleCount": 44,
+      "totalMsgs": 6877
     },
     {
       "name": "Sons of the Forest",
@@ -514,8 +514,8 @@
     },
     "20": {
       "avgViewers": 663,
-      "sampleCount": 730,
-      "totalMsgs": 152647
+      "sampleCount": 733,
+      "totalMsgs": 153575
     },
     "21": {
       "avgViewers": 673,
@@ -678,15 +678,16 @@
     },
     {
       "date": "2026-07-22",
-      "avgViewers": 597,
+      "avgViewers": 609,
       "peakViewers": 753,
-      "totalMsgs": 4786,
+      "totalMsgs": 5714,
       "categories": [
         "Just Chatting",
-        "Roblox"
+        "Roblox",
+        "VRChat"
       ]
     }
   ],
   "botStartedAt": "2026-07-22T15:47:06.006Z",
-  "lastUpdated": "2026-07-22T20:17:06.387Z"
+  "lastUpdated": "2026-07-22T20:47:06.396Z"
 }
