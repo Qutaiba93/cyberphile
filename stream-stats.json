@@ -1,10 +1,10 @@
 {
   "totalSessions": 158,
   "totalDays": 139,
-  "totalSegments": 6983,
+  "totalSegments": 6986,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1283897,
+  "totalMessages": 1284569,
   "categories": [
     {
       "name": "Rust",
@@ -154,18 +154,18 @@
       "totalMsgs": 5736
     },
     {
+      "name": "VRChat",
+      "avgViewers": 643,
+      "peakViewers": 796,
+      "sampleCount": 47,
+      "totalMsgs": 7549
+    },
+    {
       "name": "Rocket League",
       "avgViewers": 638,
       "peakViewers": 756,
       "sampleCount": 32,
       "totalMsgs": 7649
-    },
-    {
-      "name": "VRChat",
-      "avgViewers": 637,
-      "peakViewers": 796,
-      "sampleCount": 44,
-      "totalMsgs": 6877
     },
     {
       "name": "Sons of the Forest",
@@ -514,13 +514,13 @@
     },
     "20": {
       "avgViewers": 663,
-      "sampleCount": 733,
-      "totalMsgs": 153575
+      "sampleCount": 735,
+      "totalMsgs": 153963
     },
     "21": {
       "avgViewers": 673,
-      "sampleCount": 694,
-      "totalMsgs": 138396
+      "sampleCount": 695,
+      "totalMsgs": 138680
     },
     "22": {
       "avgViewers": 653,
@@ -678,9 +678,9 @@
     },
     {
       "date": "2026-07-22",
-      "avgViewers": 609,
+      "avgViewers": 620,
       "peakViewers": 753,
-      "totalMsgs": 5714,
+      "totalMsgs": 6386,
       "categories": [
         "Just Chatting",
         "Roblox",
@@ -689,5 +689,5 @@
     }
   ],
   "botStartedAt": "2026-07-22T15:47:06.006Z",
-  "lastUpdated": "2026-07-22T20:47:06.396Z"
+  "lastUpdated": "2026-07-22T21:17:06.396Z"
 }
