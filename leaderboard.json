@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 57927,
-      "totalEarned": 1112759,
+      "balance": 57935,
+      "totalEarned": 1112767,
       "totalSpent": 1136341,
       "gamesPlayed": 593,
       "gamesWon": 224,
@@ -29,8 +29,8 @@
     },
     {
       "name": "weppss",
-      "balance": 28338,
-      "totalEarned": 34233,
+      "balance": 28342,
+      "totalEarned": 34237,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -65,8 +65,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 21802,
-      "totalEarned": 21903,
+      "balance": 21804,
+      "totalEarned": 21905,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -289,6 +289,15 @@
       "streak": 5
     },
     {
+      "name": "eatinsomtin",
+      "balance": 12048,
+      "totalEarned": 18923,
+      "totalSpent": 6875,
+      "gamesPlayed": 3,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "politecatt",
       "balance": 11998,
       "totalEarned": 12048,
@@ -305,15 +314,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 12
-    },
-    {
-      "name": "eatinsomtin",
-      "balance": 11724,
-      "totalEarned": 18599,
-      "totalSpent": 6875,
-      "gamesPlayed": 3,
-      "gamesWon": 0,
-      "streak": 1
     },
     {
       "name": "lecto",
@@ -344,8 +344,8 @@
     },
     {
       "name": "zz_nz",
-      "balance": 11312,
-      "totalEarned": 11312,
+      "balance": 11316,
+      "totalEarned": 11316,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -397,6 +397,15 @@
       "streak": 1
     },
     {
+      "name": "med1cinee",
+      "balance": 10434,
+      "totalEarned": 10434,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 3
+    },
+    {
       "name": "donixo",
       "balance": 10433,
       "totalEarned": 10433,
@@ -404,15 +413,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 5
-    },
-    {
-      "name": "med1cinee",
-      "balance": 10432,
-      "totalEarned": 10432,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 3
     },
     {
       "name": "gusha",
@@ -434,8 +434,8 @@
     },
     {
       "name": "rpcsgo",
-      "balance": 9938,
-      "totalEarned": 409823,
+      "balance": 9940,
+      "totalEarned": 409825,
       "totalSpent": 399885,
       "gamesPlayed": 376,
       "gamesWon": 163,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3494,
-    "totalCirculating": 3447362,
+    "totalCirculating": 3448246,
     "totalGames": 28144,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-22T23:17:06.467Z"
+  "lastUpdated": "2026-07-22T23:47:06.470Z"
 }
