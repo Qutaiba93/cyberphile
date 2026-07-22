@@ -1,10 +1,10 @@
 {
-  "totalSessions": 157,
-  "totalDays": 138,
-  "totalSegments": 6951,
+  "totalSessions": 158,
+  "totalDays": 139,
+  "totalSegments": 6954,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1278183,
+  "totalMessages": 1278429,
   "categories": [
     {
       "name": "Rust",
@@ -297,8 +297,8 @@
       "name": "Just Chatting",
       "avgViewers": 573,
       "peakViewers": 903,
-      "sampleCount": 2741,
-      "totalMsgs": 511789
+      "sampleCount": 2744,
+      "totalMsgs": 512035
     },
     {
       "name": "007 First Light",
@@ -481,9 +481,9 @@
       "totalMsgs": 57368
     },
     "15": {
-      "avgViewers": 510,
-      "sampleCount": 561,
-      "totalMsgs": 97210
+      "avgViewers": 508,
+      "sampleCount": 564,
+      "totalMsgs": 97456
     },
     "16": {
       "avgViewers": 622,
@@ -527,16 +527,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-07-07",
-      "avgViewers": 511,
-      "peakViewers": 645,
-      "totalMsgs": 4009,
-      "categories": [
-        "Counter-Strike 2",
-        "Just Chatting"
-      ]
-    },
     {
       "date": "2026-07-08",
       "avgViewers": 382,
@@ -678,8 +668,17 @@
         "Welcome to the Game III",
         "Just Chatting"
       ]
+    },
+    {
+      "date": "2026-07-22",
+      "avgViewers": 151,
+      "peakViewers": 243,
+      "totalMsgs": 246,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
-  "botStartedAt": "2026-07-19T20:32:28.908Z",
-  "lastUpdated": "2026-07-22T15:32:29.502Z"
+  "botStartedAt": "2026-07-22T15:47:06.006Z",
+  "lastUpdated": "2026-07-22T15:48:06.468Z"
 }
