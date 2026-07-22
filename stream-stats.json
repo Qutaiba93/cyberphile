@@ -1,10 +1,10 @@
 {
   "totalSessions": 158,
   "totalDays": 139,
-  "totalSegments": 6971,
+  "totalSegments": 6974,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1281431,
+  "totalMessages": 1281803,
   "categories": [
     {
       "name": "Rust",
@@ -82,6 +82,13 @@
       "peakViewers": 727,
       "sampleCount": 9,
       "totalMsgs": 4135
+    },
+    {
+      "name": "Roblox",
+      "avgViewers": 687,
+      "peakViewers": 699,
+      "sampleCount": 3,
+      "totalMsgs": 372
     },
     {
       "name": "IRL",
@@ -497,13 +504,13 @@
     },
     "18": {
       "avgViewers": 674,
-      "sampleCount": 703,
-      "totalMsgs": 141678
+      "sampleCount": 705,
+      "totalMsgs": 141887
     },
     "19": {
       "avgViewers": 676,
-      "sampleCount": 699,
-      "totalMsgs": 139921
+      "sampleCount": 700,
+      "totalMsgs": 140084
     },
     "20": {
       "avgViewers": 663,
@@ -671,14 +678,15 @@
     },
     {
       "date": "2026-07-22",
-      "avgViewers": 545,
+      "avgViewers": 563,
       "peakViewers": 716,
-      "totalMsgs": 3248,
+      "totalMsgs": 3620,
       "categories": [
-        "Just Chatting"
+        "Just Chatting",
+        "Roblox"
       ]
     }
   ],
   "botStartedAt": "2026-07-22T15:47:06.006Z",
-  "lastUpdated": "2026-07-22T18:47:06.391Z"
+  "lastUpdated": "2026-07-22T19:17:06.397Z"
 }
