@@ -1,10 +1,10 @@
 {
   "totalSessions": 157,
   "totalDays": 138,
-  "totalSegments": 6946,
+  "totalSegments": 6949,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1277462,
+  "totalMessages": 1277899,
   "categories": [
     {
       "name": "Rust",
@@ -378,18 +378,18 @@
       "totalMsgs": 2661
     },
     {
-      "name": "Welcome to the Game III",
-      "avgViewers": 517,
-      "peakViewers": 689,
-      "sampleCount": 21,
-      "totalMsgs": 2989
-    },
-    {
       "name": "Slots & Casino",
       "avgViewers": 509,
       "peakViewers": 786,
       "sampleCount": 212,
       "totalMsgs": 37799
+    },
+    {
+      "name": "Welcome to the Game III",
+      "avgViewers": 509,
+      "peakViewers": 689,
+      "sampleCount": 24,
+      "totalMsgs": 3426
     },
     {
       "name": "Scam Line",
@@ -441,9 +441,9 @@
       "totalMsgs": 50138
     },
     "1": {
-      "avgViewers": 528,
-      "sampleCount": 196,
-      "totalMsgs": 29463
+      "avgViewers": 527,
+      "sampleCount": 199,
+      "totalMsgs": 29900
     },
     "2": {
       "avgViewers": 503,
@@ -671,9 +671,9 @@
     },
     {
       "date": "2026-07-21",
-      "avgViewers": 439,
+      "avgViewers": 441,
       "peakViewers": 623,
-      "totalMsgs": 3374,
+      "totalMsgs": 3811,
       "categories": [
         "Welcome to the Game III",
         "Just Chatting"
@@ -681,5 +681,5 @@
     }
   ],
   "botStartedAt": "2026-07-19T20:32:28.908Z",
-  "lastUpdated": "2026-07-22T01:02:29.485Z"
+  "lastUpdated": "2026-07-22T01:32:29.493Z"
 }

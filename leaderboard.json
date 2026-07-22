@@ -29,8 +29,8 @@
     },
     {
       "name": "weppss",
-      "balance": 28126,
-      "totalEarned": 34021,
+      "balance": 28148,
+      "totalEarned": 34043,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -38,12 +38,12 @@
     },
     {
       "name": "nick6",
-      "balance": 26648,
-      "totalEarned": 26653,
+      "balance": 26801,
+      "totalEarned": 26806,
       "totalSpent": 5,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 6
+      "streak": 7
     },
     {
       "name": "shahin",
@@ -56,8 +56,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 22075,
-      "totalEarned": 22075,
+      "balance": 22077,
+      "totalEarned": 22077,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -65,8 +65,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 21720,
-      "totalEarned": 21821,
+      "balance": 21752,
+      "totalEarned": 21853,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -164,8 +164,8 @@
     },
     {
       "name": "furrreal",
-      "balance": 14517,
-      "totalEarned": 18017,
+      "balance": 14531,
+      "totalEarned": 18031,
       "totalSpent": 3500,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,8 +299,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 11711,
-      "totalEarned": 28949,
+      "balance": 11725,
+      "totalEarned": 28963,
       "totalSpent": 17238,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -389,8 +389,8 @@
     },
     {
       "name": "med1cinee",
-      "balance": 10408,
-      "totalEarned": 10408,
+      "balance": 10410,
+      "totalEarned": 10410,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3486,
-    "totalCirculating": 3383721,
+    "totalCirculating": 3384716,
     "totalGames": 28047,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-22T01:02:29.498Z"
+  "lastUpdated": "2026-07-22T01:32:29.516Z"
 }
