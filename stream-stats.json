@@ -1,10 +1,10 @@
 {
   "totalSessions": 157,
   "totalDays": 138,
-  "totalSegments": 6940,
+  "totalSegments": 6943,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1276808,
+  "totalMessages": 1277044,
   "categories": [
     {
       "name": "Rust",
@@ -364,13 +364,6 @@
       "totalMsgs": 4326
     },
     {
-      "name": "Welcome to the Game III",
-      "avgViewers": 546,
-      "peakViewers": 689,
-      "sampleCount": 15,
-      "totalMsgs": 2335
-    },
-    {
       "name": "Resident Evil Requiem",
       "avgViewers": 539,
       "peakViewers": 601,
@@ -383,6 +376,13 @@
       "peakViewers": 638,
       "sampleCount": 20,
       "totalMsgs": 2661
+    },
+    {
+      "name": "Welcome to the Game III",
+      "avgViewers": 528,
+      "peakViewers": 689,
+      "sampleCount": 18,
+      "totalMsgs": 2571
     },
     {
       "name": "Slots & Casino",
@@ -436,9 +436,9 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 577,
-      "sampleCount": 340,
-      "totalMsgs": 49484
+      "avgViewers": 576,
+      "sampleCount": 343,
+      "totalMsgs": 49720
     },
     "1": {
       "avgViewers": 528,
@@ -673,7 +673,7 @@
       "date": "2026-07-21",
       "avgViewers": 438,
       "peakViewers": 623,
-      "totalMsgs": 2720,
+      "totalMsgs": 2956,
       "categories": [
         "Welcome to the Game III",
         "Just Chatting"
@@ -681,5 +681,5 @@
     }
   ],
   "botStartedAt": "2026-07-19T20:32:28.908Z",
-  "lastUpdated": "2026-07-22T00:02:29.495Z"
+  "lastUpdated": "2026-07-22T00:32:29.495Z"
 }
