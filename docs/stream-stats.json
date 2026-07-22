@@ -1,10 +1,10 @@
 {
   "totalSessions": 158,
   "totalDays": 139,
-  "totalSegments": 6977,
+  "totalSegments": 6980,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1282261,
+  "totalMessages": 1282969,
   "categories": [
     {
       "name": "Rust",
@@ -56,6 +56,13 @@
       "totalMsgs": 86
     },
     {
+      "name": "Roblox",
+      "avgViewers": 712,
+      "peakViewers": 753,
+      "sampleCount": 9,
+      "totalMsgs": 1538
+    },
+    {
       "name": "Log Riders",
       "avgViewers": 710,
       "peakViewers": 713,
@@ -75,13 +82,6 @@
       "peakViewers": 737,
       "sampleCount": 14,
       "totalMsgs": 3389
-    },
-    {
-      "name": "Roblox",
-      "avgViewers": 696,
-      "peakViewers": 713,
-      "sampleCount": 6,
-      "totalMsgs": 830
     },
     {
       "name": "Summer Game Fest 2026",
@@ -508,14 +508,14 @@
       "totalMsgs": 141887
     },
     "19": {
-      "avgViewers": 676,
-      "sampleCount": 703,
-      "totalMsgs": 140542
+      "avgViewers": 677,
+      "sampleCount": 705,
+      "totalMsgs": 140987
     },
     "20": {
       "avgViewers": 663,
-      "sampleCount": 729,
-      "totalMsgs": 152384
+      "sampleCount": 730,
+      "totalMsgs": 152647
     },
     "21": {
       "avgViewers": 673,
@@ -678,9 +678,9 @@
     },
     {
       "date": "2026-07-22",
-      "avgViewers": 580,
-      "peakViewers": 716,
-      "totalMsgs": 4078,
+      "avgViewers": 597,
+      "peakViewers": 753,
+      "totalMsgs": 4786,
       "categories": [
         "Just Chatting",
         "Roblox"
@@ -688,5 +688,5 @@
     }
   ],
   "botStartedAt": "2026-07-22T15:47:06.006Z",
-  "lastUpdated": "2026-07-22T19:47:06.387Z"
+  "lastUpdated": "2026-07-22T20:17:06.387Z"
 }
