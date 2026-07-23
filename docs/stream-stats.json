@@ -1,10 +1,10 @@
 {
   "totalSessions": 159,
   "totalDays": 140,
-  "totalSegments": 7021,
+  "totalSegments": 7024,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1290727,
+  "totalMessages": 1291332,
   "categories": [
     {
       "name": "Rust",
@@ -94,8 +94,8 @@
       "name": "IRL",
       "avgViewers": 685,
       "peakViewers": 886,
-      "sampleCount": 329,
-      "totalMsgs": 106817
+      "sampleCount": 330,
+      "totalMsgs": 106937
     },
     {
       "name": "Sea of Thieves",
@@ -213,8 +213,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 614,
       "peakViewers": 898,
-      "sampleCount": 809,
-      "totalMsgs": 123682
+      "sampleCount": 811,
+      "totalMsgs": 124167
     },
     {
       "name": "Trees Hate You",
@@ -496,8 +496,8 @@
     },
     "15": {
       "avgViewers": 508,
-      "sampleCount": 566,
-      "totalMsgs": 97671
+      "sampleCount": 569,
+      "totalMsgs": 98276
     },
     "16": {
       "avgViewers": 621,
@@ -688,15 +688,16 @@
     },
     {
       "date": "2026-07-23",
-      "avgViewers": 435,
-      "peakViewers": 559,
-      "totalMsgs": 1848,
+      "avgViewers": 462,
+      "peakViewers": 589,
+      "totalMsgs": 2453,
       "categories": [
         "Just Chatting",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "IRL"
       ]
     }
   ],
   "botStartedAt": "2026-07-22T15:47:06.006Z",
-  "lastUpdated": "2026-07-23T15:17:06.447Z"
+  "lastUpdated": "2026-07-23T15:47:06.485Z"
 }
