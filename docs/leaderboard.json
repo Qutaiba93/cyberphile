@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 132492,
-      "totalEarned": 2541410,
+      "balance": 132586,
+      "totalEarned": 2541504,
       "totalSpent": 2504839,
       "gamesPlayed": 1795,
       "gamesWon": 741,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "daecs",
@@ -29,12 +29,12 @@
     },
     {
       "name": "weppss",
-      "balance": 28342,
-      "totalEarned": 34237,
+      "balance": 28462,
+      "totalEarned": 34357,
       "totalSpent": 5895,
       "gamesPlayed": 45,
       "gamesWon": 12,
-      "streak": 12
+      "streak": 13
     },
     {
       "name": "nick6",
@@ -47,8 +47,8 @@
     },
     {
       "name": "shahin",
-      "balance": 25056,
-      "totalEarned": 267107,
+      "balance": 25060,
+      "totalEarned": 267111,
       "totalSpent": 242051,
       "gamesPlayed": 103,
       "gamesWon": 30,
@@ -65,8 +65,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 21910,
-      "totalEarned": 22011,
+      "balance": 21918,
+      "totalEarned": 22019,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -74,12 +74,12 @@
     },
     {
       "name": "schitt",
-      "balance": 21309,
-      "totalEarned": 21309,
+      "balance": 21413,
+      "totalEarned": 21413,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 12
+      "streak": 13
     },
     {
       "name": "eyla_vanel",
@@ -308,12 +308,12 @@
     },
     {
       "name": "patwifi",
-      "balance": 11759,
-      "totalEarned": 28997,
+      "balance": 11883,
+      "totalEarned": 29121,
       "totalSpent": 17238,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 12
+      "streak": 13
     },
     {
       "name": "lecto",
@@ -344,8 +344,8 @@
     },
     {
       "name": "zz_nz",
-      "balance": 11420,
-      "totalEarned": 11420,
+      "balance": 11424,
+      "totalEarned": 11424,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,12 +434,12 @@
     },
     {
       "name": "rpcsgo",
-      "balance": 9940,
-      "totalEarned": 409825,
+      "balance": 10048,
+      "totalEarned": 409933,
       "totalSpent": 399885,
       "gamesPlayed": 376,
       "gamesWon": 163,
-      "streak": 18
+      "streak": 19
     },
     {
       "name": "alcatru",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3494,
-    "totalCirculating": 3450370,
-    "totalGames": 28144,
+    "totalCirculating": 3452911,
+    "totalGames": 28145,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-23T00:17:06.458Z"
+  "lastUpdated": "2026-07-23T00:47:06.464Z"
 }

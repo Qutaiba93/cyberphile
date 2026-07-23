@@ -1,10 +1,10 @@
 {
   "totalSessions": 158,
   "totalDays": 139,
-  "totalSegments": 7004,
+  "totalSegments": 7007,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1288398,
+  "totalMessages": 1288726,
   "categories": [
     {
       "name": "Rust",
@@ -280,13 +280,6 @@
       "totalMsgs": 5075
     },
     {
-      "name": "Photomaly",
-      "avgViewers": 586,
-      "peakViewers": 639,
-      "sampleCount": 7,
-      "totalMsgs": 1127
-    },
-    {
       "name": "Dread Neighbor",
       "avgViewers": 585,
       "peakViewers": 618,
@@ -313,6 +306,13 @@
       "peakViewers": 903,
       "sampleCount": 2765,
       "totalMsgs": 516397
+    },
+    {
+      "name": "Photomaly",
+      "avgViewers": 573,
+      "peakViewers": 639,
+      "sampleCount": 10,
+      "totalMsgs": 1455
     },
     {
       "name": "007 First Light",
@@ -451,8 +451,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 575,
-      "sampleCount": 347,
-      "totalMsgs": 50205
+      "sampleCount": 350,
+      "totalMsgs": 50533
     },
     "1": {
       "avgViewers": 526,
@@ -685,9 +685,9 @@
     },
     {
       "date": "2026-07-22",
-      "avgViewers": 629,
+      "avgViewers": 624,
       "peakViewers": 753,
-      "totalMsgs": 10215,
+      "totalMsgs": 10543,
       "categories": [
         "Just Chatting",
         "Roblox",
@@ -698,5 +698,5 @@
     }
   ],
   "botStartedAt": "2026-07-22T15:47:06.006Z",
-  "lastUpdated": "2026-07-23T00:17:06.444Z"
+  "lastUpdated": "2026-07-23T00:47:06.447Z"
 }
