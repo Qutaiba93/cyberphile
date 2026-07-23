@@ -20,12 +20,12 @@
     },
     {
       "name": "shance",
-      "balance": 57935,
-      "totalEarned": 1112767,
+      "balance": 58039,
+      "totalEarned": 1112871,
       "totalSpent": 1136341,
       "gamesPlayed": 593,
       "gamesWon": 224,
-      "streak": 12
+      "streak": 13
     },
     {
       "name": "weppss",
@@ -47,12 +47,12 @@
     },
     {
       "name": "shahin",
-      "balance": 24990,
-      "totalEarned": 267041,
+      "balance": 25056,
+      "totalEarned": 267107,
       "totalSpent": 242051,
       "gamesPlayed": 103,
       "gamesWon": 30,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "juggin247",
@@ -65,12 +65,12 @@
     },
     {
       "name": "faridlamm",
-      "balance": 21804,
-      "totalEarned": 21905,
+      "balance": 21910,
+      "totalEarned": 22011,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 18
+      "streak": 19
     },
     {
       "name": "schitt",
@@ -290,12 +290,12 @@
     },
     {
       "name": "eatinsomtin",
-      "balance": 12048,
-      "totalEarned": 18923,
+      "balance": 12218,
+      "totalEarned": 19093,
       "totalSpent": 6875,
       "gamesPlayed": 3,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "politecatt",
@@ -325,6 +325,15 @@
       "streak": 12
     },
     {
+      "name": "confusion",
+      "balance": 11563,
+      "totalEarned": 12078,
+      "totalSpent": 515,
+      "gamesPlayed": 11,
+      "gamesWon": 4,
+      "streak": 6
+    },
+    {
       "name": "quantik",
       "balance": 11544,
       "totalEarned": 11544,
@@ -334,22 +343,13 @@
       "streak": 7
     },
     {
-      "name": "confusion",
-      "balance": 11481,
-      "totalEarned": 11996,
-      "totalSpent": 515,
-      "gamesPlayed": 11,
-      "gamesWon": 4,
-      "streak": 5
-    },
-    {
       "name": "zz_nz",
-      "balance": 11316,
-      "totalEarned": 11316,
+      "balance": 11420,
+      "totalEarned": 11420,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 12
+      "streak": 13
     },
     {
       "name": "intermediatewastakensadge",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3494,
-    "totalCirculating": 3448246,
+    "totalCirculating": 3450370,
     "totalGames": 28144,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-22T23:47:06.470Z"
+  "lastUpdated": "2026-07-23T00:17:06.458Z"
 }
