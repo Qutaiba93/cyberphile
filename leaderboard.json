@@ -11,12 +11,12 @@
     },
     {
       "name": "daecs",
-      "balance": 100534,
-      "totalEarned": 457284,
+      "balance": 100636,
+      "totalEarned": 457386,
       "totalSpent": 356750,
       "gamesPlayed": 59,
       "gamesWon": 29,
-      "streak": 12
+      "streak": 13
     },
     {
       "name": "shance",
@@ -263,12 +263,12 @@
     },
     {
       "name": "iam_umii",
-      "balance": 12710,
-      "totalEarned": 12710,
+      "balance": 12778,
+      "totalEarned": 12778,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "damiybe",
@@ -388,6 +388,15 @@
       "streak": 1
     },
     {
+      "name": "med1cinee",
+      "balance": 10506,
+      "totalEarned": 10506,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 4
+    },
+    {
       "name": "ericlamontjr",
       "balance": 10461,
       "totalEarned": 10576,
@@ -404,15 +413,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "med1cinee",
-      "balance": 10434,
-      "totalEarned": 10434,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 3
     },
     {
       "name": "donixo",
@@ -434,12 +434,12 @@
     },
     {
       "name": "comradeahmed1",
-      "balance": 10312,
-      "totalEarned": 10312,
+      "balance": 10374,
+      "totalEarned": 10374,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "alcatru",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3494,
-    "totalCirculating": 3449015,
+    "totalCirculating": 3450416,
     "totalGames": 28166,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-23T12:47:06.503Z"
+  "lastUpdated": "2026-07-23T13:17:06.470Z"
 }
