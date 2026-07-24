@@ -119,6 +119,22 @@ section{padding:54px 0}
 .gcard .pp b{font-family:'JetBrains Mono';color:var(--green)}
 .gcard .pp b.cost{color:var(--pink)}
 
+/* CLIPS */
+.clipgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(258px,1fr));gap:16px}
+.clipcard{display:block;background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden;transition:.2s}
+.clipcard:hover{transform:translateY(-4px);border-color:var(--cyan);box-shadow:var(--glow) #2de2e622}
+.clipcard .thumb{position:relative;aspect-ratio:16/9;background:linear-gradient(135deg,#12122a,#0c0c1a);overflow:hidden}
+.clipcard .thumb img{width:100%;height:100%;object-fit:cover;display:block}
+.clipcard .thumb .ph{position:absolute;inset:0;display:grid;place-items:center;font-size:30px;opacity:.35}
+.clipcard .thumb .play{position:absolute;inset:0;display:grid;place-items:center;font-size:40px;color:#fff;background:#0006;opacity:0;transition:.2s}
+.clipcard:hover .thumb .play{opacity:1}
+.clipcard .thumb .dur{position:absolute;bottom:8px;right:8px;background:#000b;padding:2px 8px;border-radius:7px;font-family:'JetBrains Mono';font-size:12px;font-weight:700}
+.clipcard .cbody{padding:12px 14px}
+.clipcard .cbody .t{font-weight:600;font-size:14.5px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.clipcard .cbody .m{font-size:12px;color:var(--muted);margin-top:6px;display:flex;justify-content:space-between}
+.clipcard .cbody .m .v{color:var(--cyan);font-family:'JetBrains Mono'}
+.clips-empty{grid-column:1/-1;text-align:center;color:var(--muted);padding:40px 0;font-size:15px}
+
 /* COMMANDS */
 .cmdsearch{display:block;width:100%;max-width:420px;margin:0 auto 30px;padding:13px 18px;border-radius:12px;
   background:var(--card-solid);border:1px solid var(--line);color:#fff;font-size:15px;font-family:inherit;outline:none}
@@ -182,6 +198,7 @@ footer .up{font-family:'JetBrains Mono';font-size:12px;margin-top:8px;opacity:.7
   <div class="navlinks">
     <a href="#leaderboard">Leaderboard</a>
     <a href="#games">Games</a>
+    <a href="#clips">Clips</a>
     <a href="#commands">Commands</a>
     <a href="#features">Features</a>
     <a href="#stream">Stream Stats</a>
@@ -222,6 +239,11 @@ footer .up{font-family:'JetBrains Mono';font-size:12px;margin-top:8px;opacity:.7
 <section id="games"><div class="wrap">
   <div class="sec-h fade"><div class="k">The Casino</div><h2>🎰 Games</h2><p>Bet your points. House always has a small edge — gamble responsibly (it's fake money 😎).</p></div>
   <div class="ggrid fade" id="games-grid"></div>
+</div></section>
+
+<section id="clips"><div class="wrap">
+  <div class="sec-h fade"><div class="k">Auto-Clipped</div><h2>🎬 Clips</h2><p>The bot clips big moments on stream automatically — and anyone can grab one with <code style="font-family:'JetBrains Mono';color:var(--cyan)">!clip</code>. Newest first.</p></div>
+  <div class="clipgrid fade" id="clipgrid"><div class="clips-empty">Loading clips…</div></div>
 </div></section>
 
 <section id="commands"><div class="wrap">
@@ -419,6 +441,23 @@ function renderStream(d){
       <div class="catbar"><i style="width:${Math.round(c.avgViewers/max*100)}%"></i></div></div>`).join('')||'<p style="color:var(--muted)">No data yet</p>';
 }
 
+/* ---- CLIPS ---- */
+function renderClips(d){
+  const clips=(d.clips||[]);
+  const g=document.getElementById('clipgrid');
+  if(!clips.length){ g.innerHTML='<div class="clips-empty">No clips yet — the bot auto-clips big moments while Sliker is live. 🎬</div>'; return; }
+  g.innerHTML=clips.map(c=>{
+    const thumb=c.thumbnail?`<img src="${esc(c.thumbnail)}" loading="lazy" alt="" onerror="this.remove()">`:'';
+    const dur=c.duration?`<span class="dur">${Math.round(c.duration)}s</span>`:'';
+    const date=c.created_at?new Date(c.created_at).toLocaleDateString(undefined,{month:'short',day:'numeric'}):'';
+    const views=(c.views!=null)?`<span class="v">${full(c.views)} views</span>`:'<span></span>';
+    return `<a class="clipcard" href="${esc(c.url)}" target="_blank" rel="noopener">
+      <div class="thumb"><div class="ph">🎬</div>${thumb}<div class="play">▶</div>${dur}</div>
+      <div class="cbody"><div class="t">${esc(c.title||'Clip')}</div>
+        <div class="m"><span>${date}</span>${views}</div></div></a>`;
+  }).join('');
+}
+
 /* ---- helpers + animated counters ---- */
 function esc(s){return String(s??'').replace(/[<>&"]/g,c=>({'<':'&lt;','>':'&gt;','&':'&amp;','"':'&quot;'}[c]))}
 const statTargets={};
@@ -433,6 +472,7 @@ function setStat(key,val){
 
 async function load(){
   try{const r=await fetch('leaderboard.json?_='+Date.now());if(r.ok)renderBoard(await r.json());}catch(e){}
+  try{const r=await fetch('clips.json?_='+Date.now());if(r.ok)renderClips(await r.json());}catch(e){}
   try{const r=await fetch('stream-stats.json?_='+Date.now());if(r.ok){const d=await r.json();renderStream(d);
     document.getElementById('updated').textContent='Live data · last updated '+new Date(d.lastUpdated||Date.now()).toLocaleString();}}catch(e){}
 }
