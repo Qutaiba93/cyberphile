@@ -190,6 +190,15 @@
       "streak": 3
     },
     {
+      "name": "parlaybuster",
+      "balance": 14407,
+      "totalEarned": 14407,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 14
+    },
+    {
       "name": "pitapan",
       "balance": 14399,
       "totalEarned": 14424,
@@ -206,15 +215,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 3
-    },
-    {
-      "name": "parlaybuster",
-      "balance": 14305,
-      "totalEarned": 14305,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 13
     },
     {
       "name": "cuuula",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3509,
-    "totalCirculating": 3468686,
+    "totalCirculating": 3468790,
     "totalGames": 28182,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-24T21:28:32.686Z"
+  "lastUpdated": "2026-07-24T21:37:55.833Z"
 }
