@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 58185,
-      "totalEarned": 1113067,
+      "balance": 58189,
+      "totalEarned": 1113071,
       "totalSpent": 1136391,
       "gamesPlayed": 595,
       "gamesWon": 225,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3509,
-    "totalCirculating": 3468678,
+    "totalCirculating": 3468686,
     "totalGames": 28182,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-24T21:13:10.074Z"
+  "lastUpdated": "2026-07-24T21:28:32.686Z"
 }
