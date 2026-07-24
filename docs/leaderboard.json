@@ -254,12 +254,12 @@
     },
     {
       "name": "ganndz",
-      "balance": 13094,
-      "totalEarned": 13094,
+      "balance": 13196,
+      "totalEarned": 13196,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 12
+      "streak": 13
     },
     {
       "name": "tonynairobi",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3509,
-    "totalCirculating": 3468790,
+    "totalCirculating": 3469031,
     "totalGames": 28182,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-24T21:52:25.596Z"
+  "lastUpdated": "2026-07-24T22:04:55.131Z"
 }
