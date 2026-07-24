@@ -1,10 +1,10 @@
 {
   "totalSessions": 160,
   "totalDays": 141,
-  "totalSegments": 7061,
+  "totalSegments": 7064,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1297787,
+  "totalMessages": 1298349,
   "categories": [
     {
       "name": "Rust",
@@ -304,8 +304,8 @@
       "name": "Just Chatting",
       "avgViewers": 573,
       "peakViewers": 903,
-      "sampleCount": 2777,
-      "totalMsgs": 518574
+      "sampleCount": 2780,
+      "totalMsgs": 519136
     },
     {
       "name": "Photomaly",
@@ -535,9 +535,9 @@
       "totalMsgs": 120011
     },
     "23": {
-      "avgViewers": 619,
-      "sampleCount": 470,
-      "totalMsgs": 83034
+      "avgViewers": 618,
+      "sampleCount": 473,
+      "totalMsgs": 83596
     }
   },
   "dailyHistory": [
@@ -690,15 +690,15 @@
     },
     {
       "date": "2026-07-24",
-      "avgViewers": 279,
-      "peakViewers": 520,
-      "totalMsgs": 815,
+      "avgViewers": 374,
+      "peakViewers": 549,
+      "totalMsgs": 1377,
       "categories": [
         "Chat Roulette",
         "Just Chatting"
       ]
     }
   ],
-  "botStartedAt": "2026-07-24T23:09:35.110Z",
-  "lastUpdated": "2026-07-24T23:39:35.778Z"
+  "botStartedAt": "2026-07-24T23:52:38.778Z",
+  "lastUpdated": "2026-07-24T23:53:39.544Z"
 }
