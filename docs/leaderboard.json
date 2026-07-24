@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 58195,
-      "totalEarned": 1113077,
+      "balance": 58197,
+      "totalEarned": 1113079,
       "totalSpent": 1136391,
       "gamesPlayed": 595,
       "gamesWon": 225,
@@ -65,8 +65,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 22098,
-      "totalEarned": 22199,
+      "balance": 22100,
+      "totalEarned": 22201,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -92,8 +92,8 @@
     },
     {
       "name": "kale96",
-      "balance": 19576,
-      "totalEarned": 26126,
+      "balance": 19582,
+      "totalEarned": 26132,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -182,8 +182,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 14449,
-      "totalEarned": 14449,
+      "balance": 14451,
+      "totalEarned": 14451,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -235,6 +235,15 @@
       "streak": 0
     },
     {
+      "name": "eatinsomtin",
+      "balance": 13539,
+      "totalEarned": 20414,
+      "totalSpent": 6875,
+      "gamesPlayed": 3,
+      "gamesWon": 0,
+      "streak": 3
+    },
+    {
       "name": "xaqin",
       "balance": 13534,
       "totalEarned": 13534,
@@ -242,15 +251,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
-    },
-    {
-      "name": "eatinsomtin",
-      "balance": 13533,
-      "totalEarned": 20408,
-      "totalSpent": 6875,
-      "gamesPlayed": 3,
-      "gamesWon": 0,
-      "streak": 3
     },
     {
       "name": "ganndz",
@@ -299,8 +299,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 12283,
-      "totalEarned": 29521,
+      "balance": 12289,
+      "totalEarned": 29527,
       "totalSpent": 17238,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -317,12 +317,12 @@
     },
     {
       "name": "lecto",
-      "balance": 11822,
-      "totalEarned": 11822,
+      "balance": 11924,
+      "totalEarned": 11924,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 13
+      "streak": 14
     },
     {
       "name": "quantik",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3509,
-    "totalCirculating": 3473167,
+    "totalCirculating": 3473620,
     "totalGames": 28185,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-24T23:06:07.251Z"
+  "lastUpdated": "2026-07-24T23:10:35.877Z"
 }
