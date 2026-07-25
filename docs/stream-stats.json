@@ -1,10 +1,10 @@
 {
   "totalSessions": 161,
   "totalDays": 142,
-  "totalSegments": 7092,
+  "totalSegments": 7094,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
-  "totalMessages": 1302241,
+  "totalMessages": 1302347,
   "categories": [
     {
       "name": "Rust",
@@ -206,8 +206,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 614,
       "peakViewers": 898,
-      "sampleCount": 818,
-      "totalMsgs": 125761
+      "sampleCount": 819,
+      "totalMsgs": 125865
     },
     {
       "name": "Trees Hate You",
@@ -301,18 +301,18 @@
       "totalMsgs": 2094
     },
     {
+      "name": "Just Chatting",
+      "avgViewers": 573,
+      "peakViewers": 903,
+      "sampleCount": 2794,
+      "totalMsgs": 520854
+    },
+    {
       "name": "Photomaly",
       "avgViewers": 573,
       "peakViewers": 639,
       "sampleCount": 10,
       "totalMsgs": 1455
-    },
-    {
-      "name": "Just Chatting",
-      "avgViewers": 572,
-      "peakViewers": 903,
-      "sampleCount": 2793,
-      "totalMsgs": 520852
     },
     {
       "name": "007 First Light",
@@ -511,8 +511,8 @@
     },
     "18": {
       "avgViewers": 674,
-      "sampleCount": 712,
-      "totalMsgs": 142894
+      "sampleCount": 714,
+      "totalMsgs": 143000
     },
     "19": {
       "avgViewers": 676,
@@ -691,9 +691,9 @@
     },
     {
       "date": "2026-07-25",
-      "avgViewers": 495,
+      "avgViewers": 510,
       "peakViewers": 658,
-      "totalMsgs": 3184,
+      "totalMsgs": 3290,
       "categories": [
         "Call of Duty: Black Ops III",
         "Just Chatting",
@@ -701,6 +701,6 @@
       ]
     }
   ],
-  "botStartedAt": "2026-07-25T00:41:44.530Z",
-  "lastUpdated": "2026-07-25T18:11:45.400Z"
+  "botStartedAt": "2026-07-25T18:17:45.009Z",
+  "lastUpdated": "2026-07-25T18:18:45.837Z"
 }
