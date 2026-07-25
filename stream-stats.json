@@ -1,10 +1,10 @@
 {
   "totalSessions": 160,
   "totalDays": 141,
-  "totalSegments": 7071,
+  "totalSegments": 7073,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1298707,
+  "totalMessages": 1298885,
   "categories": [
     {
       "name": "Rust",
@@ -203,13 +203,6 @@
       "totalMsgs": 36086
     },
     {
-      "name": "Call of Duty: Black Ops III",
-      "avgViewers": 615,
-      "peakViewers": 861,
-      "sampleCount": 81,
-      "totalMsgs": 12694
-    },
-    {
       "name": "Counter-Strike 2",
       "avgViewers": 614,
       "peakViewers": 898,
@@ -222,6 +215,13 @@
       "peakViewers": 614,
       "sampleCount": 1,
       "totalMsgs": 107
+    },
+    {
+      "name": "Call of Duty: Black Ops III",
+      "avgViewers": 612,
+      "peakViewers": 861,
+      "sampleCount": 83,
+      "totalMsgs": 12872
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -451,13 +451,13 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 574,
-      "sampleCount": 356,
-      "totalMsgs": 51017
+      "sampleCount": 357,
+      "totalMsgs": 51121
     },
     "1": {
       "avgViewers": 526,
-      "sampleCount": 201,
-      "totalMsgs": 30184
+      "sampleCount": 202,
+      "totalMsgs": 30258
     },
     "2": {
       "avgViewers": 503,
@@ -690,9 +690,9 @@
     },
     {
       "date": "2026-07-24",
-      "avgViewers": 443,
+      "avgViewers": 448,
       "peakViewers": 556,
-      "totalMsgs": 1735,
+      "totalMsgs": 1913,
       "categories": [
         "Chat Roulette",
         "Just Chatting",
@@ -701,5 +701,5 @@
     }
   ],
   "botStartedAt": "2026-07-25T00:41:44.530Z",
-  "lastUpdated": "2026-07-25T00:42:45.349Z"
+  "lastUpdated": "2026-07-25T01:07:28.755Z"
 }
