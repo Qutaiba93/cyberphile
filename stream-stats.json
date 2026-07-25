@@ -1,10 +1,10 @@
 {
   "totalSessions": 161,
   "totalDays": 142,
-  "totalSegments": 7100,
+  "totalSegments": 7103,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
-  "totalMessages": 1303541,
+  "totalMessages": 1304120,
   "categories": [
     {
       "name": "Rust",
@@ -73,8 +73,8 @@
       "name": "Chat Roulette",
       "avgViewers": 702,
       "peakViewers": 916,
-      "sampleCount": 694,
-      "totalMsgs": 148546
+      "sampleCount": 696,
+      "totalMsgs": 148981
     },
     {
       "name": "Trash Horror Collection",
@@ -206,8 +206,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 614,
       "peakViewers": 898,
-      "sampleCount": 822,
-      "totalMsgs": 126366
+      "sampleCount": 823,
+      "totalMsgs": 126510
     },
     {
       "name": "Trees Hate You",
@@ -516,8 +516,8 @@
     },
     "19": {
       "avgViewers": 676,
-      "sampleCount": 713,
-      "totalMsgs": 141900
+      "sampleCount": 716,
+      "totalMsgs": 142479
     },
     "20": {
       "avgViewers": 663,
@@ -691,16 +691,17 @@
     },
     {
       "date": "2026-07-25",
-      "avgViewers": 542,
-      "peakViewers": 661,
-      "totalMsgs": 4484,
+      "avgViewers": 557,
+      "peakViewers": 724,
+      "totalMsgs": 5063,
       "categories": [
         "Call of Duty: Black Ops III",
         "Just Chatting",
-        "Counter-Strike 2"
+        "Counter-Strike 2",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-07-25T18:24:56.101Z",
-  "lastUpdated": "2026-07-25T19:24:56.918Z"
+  "lastUpdated": "2026-07-25T19:54:56.844Z"
 }
