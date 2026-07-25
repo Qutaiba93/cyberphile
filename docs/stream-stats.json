@@ -1,10 +1,10 @@
 {
   "totalSessions": 161,
   "totalDays": 142,
-  "totalSegments": 7103,
+  "totalSegments": 7106,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
-  "totalMessages": 1304120,
+  "totalMessages": 1305599,
   "categories": [
     {
       "name": "Rust",
@@ -73,8 +73,8 @@
       "name": "Chat Roulette",
       "avgViewers": 702,
       "peakViewers": 916,
-      "sampleCount": 696,
-      "totalMsgs": 148981
+      "sampleCount": 699,
+      "totalMsgs": 150460
     },
     {
       "name": "Trash Horror Collection",
@@ -515,14 +515,14 @@
       "totalMsgs": 143991
     },
     "19": {
-      "avgViewers": 676,
-      "sampleCount": 716,
-      "totalMsgs": 142479
+      "avgViewers": 677,
+      "sampleCount": 717,
+      "totalMsgs": 142765
     },
     "20": {
-      "avgViewers": 663,
-      "sampleCount": 741,
-      "totalMsgs": 154604
+      "avgViewers": 664,
+      "sampleCount": 743,
+      "totalMsgs": 155797
     },
     "21": {
       "avgViewers": 673,
@@ -691,9 +691,9 @@
     },
     {
       "date": "2026-07-25",
-      "avgViewers": 557,
-      "peakViewers": 724,
-      "totalMsgs": 5063,
+      "avgViewers": 577,
+      "peakViewers": 776,
+      "totalMsgs": 6542,
       "categories": [
         "Call of Duty: Black Ops III",
         "Just Chatting",
@@ -703,5 +703,5 @@
     }
   ],
   "botStartedAt": "2026-07-25T18:24:56.101Z",
-  "lastUpdated": "2026-07-25T19:54:56.844Z"
+  "lastUpdated": "2026-07-25T20:24:56.928Z"
 }
