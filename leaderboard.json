@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 58406,
-      "totalEarned": 1113513,
+      "balance": 58410,
+      "totalEarned": 1113517,
       "totalSpent": 1136616,
       "gamesPlayed": 603,
       "gamesWon": 228,
@@ -299,8 +299,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 12487,
-      "totalEarned": 29725,
+      "balance": 12489,
+      "totalEarned": 29727,
       "totalSpent": 17238,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3509,
-    "totalCirculating": 3483103,
+    "totalCirculating": 3483519,
     "totalGames": 28198,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-25T00:27:40.073Z"
+  "lastUpdated": "2026-07-25T00:32:18.293Z"
 }
