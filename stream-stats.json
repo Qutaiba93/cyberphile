@@ -1,10 +1,10 @@
 {
   "totalSessions": 160,
   "totalDays": 141,
-  "totalSegments": 7070,
+  "totalSegments": 7071,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1298703,
+  "totalMessages": 1298707,
   "categories": [
     {
       "name": "Rust",
@@ -196,18 +196,18 @@
       "totalMsgs": 3536
     },
     {
-      "name": "Call of Duty: Black Ops III",
-      "avgViewers": 616,
-      "peakViewers": 861,
-      "sampleCount": 80,
-      "totalMsgs": 12690
-    },
-    {
       "name": "Minecraft",
       "avgViewers": 615,
       "peakViewers": 788,
       "sampleCount": 213,
       "totalMsgs": 36086
+    },
+    {
+      "name": "Call of Duty: Black Ops III",
+      "avgViewers": 615,
+      "peakViewers": 861,
+      "sampleCount": 81,
+      "totalMsgs": 12694
     },
     {
       "name": "Counter-Strike 2",
@@ -451,8 +451,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 574,
-      "sampleCount": 355,
-      "totalMsgs": 51013
+      "sampleCount": 356,
+      "totalMsgs": 51017
     },
     "1": {
       "avgViewers": 526,
@@ -690,9 +690,9 @@
     },
     {
       "date": "2026-07-24",
-      "avgViewers": 440,
+      "avgViewers": 443,
       "peakViewers": 556,
-      "totalMsgs": 1731,
+      "totalMsgs": 1735,
       "categories": [
         "Chat Roulette",
         "Just Chatting",
@@ -700,6 +700,6 @@
       ]
     }
   ],
-  "botStartedAt": "2026-07-25T00:32:33.510Z",
-  "lastUpdated": "2026-07-25T00:33:34.428Z"
+  "botStartedAt": "2026-07-25T00:41:44.530Z",
+  "lastUpdated": "2026-07-25T00:42:45.349Z"
 }

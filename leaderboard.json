@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 58410,
-      "totalEarned": 1113517,
+      "balance": 58412,
+      "totalEarned": 1113519,
       "totalSpent": 1136616,
       "gamesPlayed": 603,
       "gamesWon": 228,
@@ -172,6 +172,15 @@
       "streak": 2
     },
     {
+      "name": "parlaybuster",
+      "balance": 14611,
+      "totalEarned": 14611,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 15
+    },
+    {
       "name": "furrreal",
       "balance": 14605,
       "totalEarned": 18105,
@@ -179,15 +188,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 2
-    },
-    {
-      "name": "parlaybuster",
-      "balance": 14601,
-      "totalEarned": 14601,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 15
     },
     {
       "name": "alexmesq",
@@ -299,8 +299,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 12489,
-      "totalEarned": 29727,
+      "balance": 12491,
+      "totalEarned": 29729,
       "totalSpent": 17238,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,12 +434,12 @@
     },
     {
       "name": "alcatru",
-      "balance": 10082,
-      "totalEarned": 10082,
+      "balance": 10184,
+      "totalEarned": 10184,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 14
+      "streak": 15
     },
     {
       "name": "muzlamic",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3509,
-    "totalCirculating": 3483515,
+    "totalCirculating": 3483874,
     "totalGames": 28198,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-25T00:33:34.437Z"
+  "lastUpdated": "2026-07-25T00:42:45.358Z"
 }
