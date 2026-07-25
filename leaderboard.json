@@ -2,38 +2,29 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 147331,
-      "totalEarned": 2774249,
-      "totalSpent": 2722839,
-      "gamesPlayed": 1813,
-      "gamesWon": 750,
+      "balance": 151413,
+      "totalEarned": 2803331,
+      "totalSpent": 2747839,
+      "gamesPlayed": 1815,
+      "gamesWon": 751,
       "streak": 4
     },
     {
       "name": "daecs",
-      "balance": 100803,
-      "totalEarned": 457553,
-      "totalSpent": 356750,
-      "gamesPlayed": 59,
-      "gamesWon": 29,
+      "balance": 95867,
+      "totalEarned": 490617,
+      "totalSpent": 394750,
+      "gamesPlayed": 61,
+      "gamesWon": 30,
       "streak": 1
     },
     {
       "name": "shance",
-      "balance": 58494,
-      "totalEarned": 1113601,
+      "balance": 58534,
+      "totalEarned": 1113641,
       "totalSpent": 1136616,
       "gamesPlayed": 603,
       "gamesWon": 228,
-      "streak": 15
-    },
-    {
-      "name": "cheesee6969",
-      "balance": 37542,
-      "totalEarned": 4787186,
-      "totalSpent": 4789578,
-      "gamesPlayed": 1165,
-      "gamesWon": 482,
       "streak": 15
     },
     {
@@ -65,8 +56,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 22523,
-      "totalEarned": 22523,
+      "balance": 22535,
+      "totalEarned": 22535,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -83,12 +74,12 @@
     },
     {
       "name": "schitt",
-      "balance": 21509,
-      "totalEarned": 21509,
+      "balance": 21566,
+      "totalEarned": 21566,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 13
+      "streak": 1
     },
     {
       "name": "eyla_vanel",
@@ -173,8 +164,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 14641,
-      "totalEarned": 14641,
+      "balance": 14657,
+      "totalEarned": 14657,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -254,8 +245,8 @@
     },
     {
       "name": "xaqin",
-      "balance": 13689,
-      "totalEarned": 13689,
+      "balance": 13695,
+      "totalEarned": 13695,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -308,8 +299,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 12491,
-      "totalEarned": 29729,
+      "balance": 12513,
+      "totalEarned": 29751,
       "totalSpent": 17238,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -449,12 +440,21 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 15
+    },
+    {
+      "name": "s3d121",
+      "balance": 9961,
+      "totalEarned": 9961,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
     }
   ],
   "stats": {
-    "totalPlayers": 3511,
-    "totalCirculating": 3535095,
-    "totalGames": 28296,
+    "totalPlayers": 3512,
+    "totalCirculating": 3500554,
+    "totalGames": 28335,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-25T17:41:45.298Z"
+  "lastUpdated": "2026-07-25T18:11:45.303Z"
 }
