@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 129017,
-      "totalEarned": 2701935,
+      "balance": 129027,
+      "totalEarned": 2701945,
       "totalSpent": 2668839,
       "gamesPlayed": 1804,
       "gamesWon": 745,
@@ -65,8 +65,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 22254,
-      "totalEarned": 22355,
+      "balance": 22258,
+      "totalEarned": 22359,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -92,12 +92,12 @@
     },
     {
       "name": "kale96",
-      "balance": 19652,
-      "totalEarned": 26202,
+      "balance": 19754,
+      "totalEarned": 26304,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
-      "streak": 14
+      "streak": 15
     },
     {
       "name": "papaah",
@@ -137,8 +137,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 16679,
-      "totalEarned": 16679,
+      "balance": 16685,
+      "totalEarned": 16685,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -272,8 +272,8 @@
     },
     {
       "name": "lena_xc",
-      "balance": 12952,
-      "totalEarned": 12952,
+      "balance": 12954,
+      "totalEarned": 12954,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -317,8 +317,8 @@
     },
     {
       "name": "lecto",
-      "balance": 12042,
-      "totalEarned": 12042,
+      "balance": 12050,
+      "totalEarned": 12050,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -415,6 +415,15 @@
       "streak": 6
     },
     {
+      "name": "comradeahmed1",
+      "balance": 10465,
+      "totalEarned": 10465,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
+    },
+    {
       "name": "nitro_st",
       "balance": 10454,
       "totalEarned": 10454,
@@ -422,15 +431,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "comradeahmed1",
-      "balance": 10408,
-      "totalEarned": 10408,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
     },
     {
       "name": "alcatru",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3511,
-    "totalCirculating": 3490198,
+    "totalCirculating": 3490800,
     "totalGames": 28205,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-25T15:41:45.260Z"
+  "lastUpdated": "2026-07-25T15:47:17.706Z"
 }
