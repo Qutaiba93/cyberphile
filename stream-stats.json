@@ -1,10 +1,10 @@
 {
   "totalSessions": 161,
   "totalDays": 142,
-  "totalSegments": 7086,
+  "totalSegments": 7089,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
-  "totalMessages": 1300808,
+  "totalMessages": 1301327,
   "categories": [
     {
       "name": "Rust",
@@ -206,8 +206,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 614,
       "peakViewers": 898,
-      "sampleCount": 812,
-      "totalMsgs": 124328
+      "sampleCount": 815,
+      "totalMsgs": 124847
     },
     {
       "name": "Trees Hate You",
@@ -506,8 +506,8 @@
     },
     "17": {
       "avgViewers": 674,
-      "sampleCount": 686,
-      "totalMsgs": 128386
+      "sampleCount": 689,
+      "totalMsgs": 128905
     },
     "18": {
       "avgViewers": 674,
@@ -691,9 +691,9 @@
     },
     {
       "date": "2026-07-25",
-      "avgViewers": 423,
+      "avgViewers": 465,
       "peakViewers": 643,
-      "totalMsgs": 1751,
+      "totalMsgs": 2270,
       "categories": [
         "Call of Duty: Black Ops III",
         "Just Chatting",
@@ -702,5 +702,5 @@
     }
   ],
   "botStartedAt": "2026-07-25T00:41:44.530Z",
-  "lastUpdated": "2026-07-25T17:11:45.366Z"
+  "lastUpdated": "2026-07-25T17:33:21.496Z"
 }
