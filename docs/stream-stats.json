@@ -1,10 +1,10 @@
 {
   "totalSessions": 160,
   "totalDays": 141,
-  "totalSegments": 7066,
+  "totalSegments": 7069,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1298376,
+  "totalMessages": 1298700,
   "categories": [
     {
       "name": "Rust",
@@ -197,10 +197,10 @@
     },
     {
       "name": "Call of Duty: Black Ops III",
-      "avgViewers": 620,
+      "avgViewers": 618,
       "peakViewers": 861,
-      "sampleCount": 77,
-      "totalMsgs": 12537
+      "sampleCount": 79,
+      "totalMsgs": 12687
     },
     {
       "name": "Minecraft",
@@ -304,8 +304,8 @@
       "name": "Just Chatting",
       "avgViewers": 573,
       "peakViewers": 903,
-      "sampleCount": 2782,
-      "totalMsgs": 519163
+      "sampleCount": 2783,
+      "totalMsgs": 519337
     },
     {
       "name": "Photomaly",
@@ -450,9 +450,9 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 575,
-      "sampleCount": 351,
-      "totalMsgs": 50686
+      "avgViewers": 574,
+      "sampleCount": 354,
+      "totalMsgs": 51010
     },
     "1": {
       "avgViewers": 526,
@@ -690,15 +690,16 @@
     },
     {
       "date": "2026-07-24",
-      "avgViewers": 410,
+      "avgViewers": 435,
       "peakViewers": 556,
-      "totalMsgs": 1404,
+      "totalMsgs": 1728,
       "categories": [
         "Chat Roulette",
-        "Just Chatting"
+        "Just Chatting",
+        "Call of Duty: Black Ops III"
       ]
     }
   ],
-  "botStartedAt": "2026-07-24T23:57:17.320Z",
-  "lastUpdated": "2026-07-25T00:00:41.380Z"
+  "botStartedAt": "2026-07-25T00:26:39.165Z",
+  "lastUpdated": "2026-07-25T00:27:40.059Z"
 }
