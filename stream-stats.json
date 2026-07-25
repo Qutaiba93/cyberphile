@@ -1,10 +1,10 @@
 {
-  "totalSessions": 160,
-  "totalDays": 141,
-  "totalSegments": 7074,
+  "totalSessions": 161,
+  "totalDays": 142,
+  "totalSegments": 7077,
   "allTimePeak": 17991,
-  "allTimeAvg": 612,
-  "totalMessages": 1299057,
+  "allTimeAvg": 611,
+  "totalMessages": 1299324,
   "categories": [
     {
       "name": "Rust",
@@ -217,18 +217,18 @@
       "totalMsgs": 107
     },
     {
-      "name": "Call of Duty: Black Ops III",
-      "avgViewers": 610,
-      "peakViewers": 861,
-      "sampleCount": 84,
-      "totalMsgs": 13044
-    },
-    {
       "name": "Creepy Shift: House for Sale",
       "avgViewers": 605,
       "peakViewers": 611,
       "sampleCount": 2,
       "totalMsgs": 352
+    },
+    {
+      "name": "Call of Duty: Black Ops III",
+      "avgViewers": 603,
+      "peakViewers": 861,
+      "sampleCount": 85,
+      "totalMsgs": 13119
     },
     {
       "name": "Call of Duty: Modern Warfare 2",
@@ -304,8 +304,8 @@
       "name": "Just Chatting",
       "avgViewers": 573,
       "peakViewers": 903,
-      "sampleCount": 2783,
-      "totalMsgs": 519337
+      "sampleCount": 2785,
+      "totalMsgs": 519529
     },
     {
       "name": "Photomaly",
@@ -495,9 +495,9 @@
       "totalMsgs": 58293
     },
     "15": {
-      "avgViewers": 509,
-      "sampleCount": 571,
-      "totalMsgs": 98761
+      "avgViewers": 507,
+      "sampleCount": 574,
+      "totalMsgs": 99028
     },
     "16": {
       "avgViewers": 621,
@@ -541,16 +541,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-07-11",
-      "avgViewers": 584,
-      "peakViewers": 713,
-      "totalMsgs": 12151,
-      "categories": [
-        "Just Chatting",
-        "Chat Roulette"
-      ]
-    },
     {
       "date": "2026-07-12",
       "avgViewers": 598,
@@ -698,8 +688,18 @@
         "Just Chatting",
         "Call of Duty: Black Ops III"
       ]
+    },
+    {
+      "date": "2026-07-25",
+      "avgViewers": 143,
+      "peakViewers": 243,
+      "totalMsgs": 267,
+      "categories": [
+        "Call of Duty: Black Ops III",
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-07-25T00:41:44.530Z",
-  "lastUpdated": "2026-07-25T15:11:45.369Z"
+  "lastUpdated": "2026-07-25T15:41:45.248Z"
 }
