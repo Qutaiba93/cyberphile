@@ -56,8 +56,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 22521,
-      "totalEarned": 22521,
+      "balance": 22523,
+      "totalEarned": 22523,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -65,8 +65,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 22230,
-      "totalEarned": 22331,
+      "balance": 22234,
+      "totalEarned": 22335,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3510,
-    "totalCirculating": 3484974,
+    "totalCirculating": 3485379,
     "totalGames": 28198,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-25T01:11:45.253Z"
+  "lastUpdated": "2026-07-25T01:41:45.315Z"
 }
