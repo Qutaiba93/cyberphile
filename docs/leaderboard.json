@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 187073,
-      "totalEarned": 3244941,
+      "balance": 190367,
+      "totalEarned": 3248235,
       "totalSpent": 3153777,
       "gamesPlayed": 1881,
       "gamesWon": 781,
@@ -11,8 +11,8 @@
     },
     {
       "name": "daecs",
-      "balance": 95997,
-      "totalEarned": 490747,
+      "balance": 96003,
+      "totalEarned": 490753,
       "totalSpent": 394750,
       "gamesPlayed": 61,
       "gamesWon": 30,
@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 58834,
-      "totalEarned": 1114066,
+      "balance": 58842,
+      "totalEarned": 1114074,
       "totalSpent": 1136741,
       "gamesPlayed": 604,
       "gamesWon": 229,
@@ -352,15 +352,6 @@
       "streak": 1
     },
     {
-      "name": "rpcsgo",
-      "balance": 11353,
-      "totalEarned": 429515,
-      "totalSpent": 417560,
-      "gamesPlayed": 390,
-      "gamesWon": 170,
-      "streak": 22
-    },
-    {
       "name": "intermediatewastakensadge",
       "balance": 11200,
       "totalEarned": 11200,
@@ -449,12 +440,21 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
+    },
+    {
+      "name": "alcatru",
+      "balance": 10354,
+      "totalEarned": 10354,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 16
     }
   ],
   "stats": {
     "totalPlayers": 3516,
-    "totalCirculating": 3589409,
-    "totalGames": 28442,
+    "totalCirculating": 3582648,
+    "totalGames": 28459,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-26T16:46:14.106Z"
+  "lastUpdated": "2026-07-26T16:50:12.704Z"
 }
