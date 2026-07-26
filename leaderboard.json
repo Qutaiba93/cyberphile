@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 189029,
-      "totalEarned": 3258204,
+      "balance": 189034,
+      "totalEarned": 3258209,
       "totalSpent": 3165084,
       "gamesPlayed": 1881,
       "gamesWon": 781,
@@ -29,8 +29,8 @@
     },
     {
       "name": "nick6",
-      "balance": 27744,
-      "totalEarned": 27749,
+      "balance": 27754,
+      "totalEarned": 27759,
       "totalSpent": 5,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -56,8 +56,8 @@
     },
     {
       "name": "schitt",
-      "balance": 21700,
-      "totalEarned": 21700,
+      "balance": 21708,
+      "totalEarned": 21708,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -110,8 +110,8 @@
     },
     {
       "name": "bbalint320",
-      "balance": 16978,
-      "totalEarned": 17118,
+      "balance": 16984,
+      "totalEarned": 17124,
       "totalSpent": 140,
       "gamesPlayed": 14,
       "gamesWon": 1,
@@ -146,8 +146,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 14961,
-      "totalEarned": 14961,
+      "balance": 14983,
+      "totalEarned": 14983,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -290,8 +290,8 @@
     },
     {
       "name": "politecatt",
-      "balance": 12339,
-      "totalEarned": 12389,
+      "balance": 12351,
+      "totalEarned": 12401,
       "totalSpent": 50,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -442,18 +442,18 @@
       "streak": 3
     },
     {
-      "name": "s3d121",
-      "balance": 10087,
-      "totalEarned": 10087,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
+      "name": "flowtuts",
+      "balance": 10091,
+      "totalEarned": 10436,
+      "totalSpent": 345,
+      "gamesPlayed": 1,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 16
     }
   ],
   "stats": {
     "totalPlayers": 3521,
-    "totalCirculating": 3428309,
+    "totalCirculating": 3428616,
     "totalGames": 28611,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-26T21:15:47.117Z"
+  "lastUpdated": "2026-07-26T21:21:48.154Z"
 }
