@@ -2,17 +2,17 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 193924,
-      "totalEarned": 3251792,
-      "totalSpent": 3153777,
+      "balance": 193764,
+      "totalEarned": 3251889,
+      "totalSpent": 3154034,
       "gamesPlayed": 1881,
       "gamesWon": 781,
       "streak": 5
     },
     {
       "name": "daecs",
-      "balance": 161021,
-      "totalEarned": 615771,
+      "balance": 161031,
+      "totalEarned": 615781,
       "totalSpent": 454750,
       "gamesPlayed": 62,
       "gamesWon": 31,
@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 58848,
-      "totalEarned": 1114080,
+      "balance": 58856,
+      "totalEarned": 1114088,
       "totalSpent": 1136741,
       "gamesPlayed": 604,
       "gamesWon": 229,
@@ -433,15 +433,6 @@
       "streak": 1
     },
     {
-      "name": "cheesee6969",
-      "balance": 10494,
-      "totalEarned": 4882815,
-      "totalSpent": 4905810,
-      "gamesPlayed": 1211,
-      "gamesWon": 502,
-      "streak": 16
-    },
-    {
       "name": "nitro_st",
       "balance": 10454,
       "totalEarned": 10454,
@@ -449,12 +440,21 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
+    },
+    {
+      "name": "alcatru",
+      "balance": 10354,
+      "totalEarned": 10354,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 16
     }
   ],
   "stats": {
     "totalPlayers": 3516,
-    "totalCirculating": 3656264,
-    "totalGames": 28484,
+    "totalCirculating": 3645897,
+    "totalGames": 28487,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-26T16:54:26.939Z"
+  "lastUpdated": "2026-07-26T17:02:56.069Z"
 }

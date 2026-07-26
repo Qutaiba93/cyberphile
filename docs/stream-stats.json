@@ -1,7 +1,7 @@
 {
   "totalSessions": 162,
   "totalDays": 143,
-  "totalSegments": 7133,
+  "totalSegments": 7134,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
   "totalMessages": 1311430,
@@ -206,7 +206,7 @@
       "name": "Counter-Strike 2",
       "avgViewers": 614,
       "peakViewers": 898,
-      "sampleCount": 827,
+      "sampleCount": 828,
       "totalMsgs": 126869
     },
     {
@@ -506,7 +506,7 @@
     },
     "17": {
       "avgViewers": 674,
-      "sampleCount": 691,
+      "sampleCount": 692,
       "totalMsgs": 129658
     },
     "18": {
@@ -692,7 +692,7 @@
     },
     {
       "date": "2026-07-26",
-      "avgViewers": 541,
+      "avgViewers": 547,
       "peakViewers": 670,
       "totalMsgs": 2972,
       "categories": [
@@ -701,6 +701,6 @@
       ]
     }
   ],
-  "botStartedAt": "2026-07-26T16:49:11.254Z",
-  "lastUpdated": "2026-07-26T16:54:26.921Z"
+  "botStartedAt": "2026-07-26T17:01:55.126Z",
+  "lastUpdated": "2026-07-26T17:02:56.051Z"
 }
