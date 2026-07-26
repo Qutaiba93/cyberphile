@@ -1,27 +1,27 @@
 {
   "leaderboard": [
     {
+      "name": "daecs",
+      "balance": 200085,
+      "totalEarned": 955835,
+      "totalSpent": 755750,
+      "gamesPlayed": 66,
+      "gamesWon": 33,
+      "streak": 2
+    },
+    {
       "name": "meliziana",
-      "balance": 195856,
-      "totalEarned": 3253981,
-      "totalSpent": 3154034,
+      "balance": 199831,
+      "totalEarned": 3258006,
+      "totalSpent": 3154084,
       "gamesPlayed": 1881,
       "gamesWon": 781,
       "streak": 5
     },
     {
-      "name": "daecs",
-      "balance": 161037,
-      "totalEarned": 615787,
-      "totalSpent": 454750,
-      "gamesPlayed": 62,
-      "gamesWon": 31,
-      "streak": 2
-    },
-    {
       "name": "shance",
-      "balance": 58873,
-      "totalEarned": 1114180,
+      "balance": 58875,
+      "totalEarned": 1114182,
       "totalSpent": 1136816,
       "gamesPlayed": 607,
       "gamesWon": 230,
@@ -101,8 +101,8 @@
     },
     {
       "name": "papaah",
-      "balance": 19772,
-      "totalEarned": 20773,
+      "balance": 19778,
+      "totalEarned": 20779,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -227,8 +227,8 @@
     },
     {
       "name": "xaqin",
-      "balance": 13908,
-      "totalEarned": 13908,
+      "balance": 13920,
+      "totalEarned": 13920,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3518,
-    "totalCirculating": 3645241,
-    "totalGames": 28502,
+    "totalPlayers": 3519,
+    "totalCirculating": 3685053,
+    "totalGames": 28522,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-26T19:44:42.848Z"
+  "lastUpdated": "2026-07-26T19:58:36.271Z"
 }
