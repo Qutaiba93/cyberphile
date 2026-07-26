@@ -2,17 +2,17 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 195359,
-      "totalEarned": 3213223,
-      "totalSpent": 3113777,
-      "gamesPlayed": 1877,
-      "gamesWon": 779,
+      "balance": 184883,
+      "totalEarned": 3224751,
+      "totalSpent": 3135777,
+      "gamesPlayed": 1878,
+      "gamesWon": 780,
       "streak": 5
     },
     {
       "name": "daecs",
-      "balance": 95983,
-      "totalEarned": 490733,
+      "balance": 95987,
+      "totalEarned": 490737,
       "totalSpent": 394750,
       "gamesPlayed": 61,
       "gamesWon": 30,
@@ -20,8 +20,8 @@
     },
     {
       "name": "shance",
-      "balance": 58797,
-      "totalEarned": 1114004,
+      "balance": 58805,
+      "totalEarned": 1114012,
       "totalSpent": 1136716,
       "gamesPlayed": 603,
       "gamesWon": 228,
@@ -119,8 +119,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 16987,
-      "totalEarned": 16987,
+      "balance": 16989,
+      "totalEarned": 16989,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -272,8 +272,8 @@
     },
     {
       "name": "lena_xc",
-      "balance": 13159,
-      "totalEarned": 13159,
+      "balance": 13165,
+      "totalEarned": 13165,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -352,6 +352,15 @@
       "streak": 1
     },
     {
+      "name": "rpcsgo",
+      "balance": 11234,
+      "totalEarned": 429041,
+      "totalSpent": 417325,
+      "gamesPlayed": 389,
+      "gamesWon": 169,
+      "streak": 22
+    },
+    {
       "name": "intermediatewastakensadge",
       "balance": 11200,
       "totalEarned": 11200,
@@ -377,6 +386,15 @@
       "gamesPlayed": 6,
       "gamesWon": 2,
       "streak": 4
+    },
+    {
+      "name": "anansidagyuki",
+      "balance": 10773,
+      "totalEarned": 51780,
+      "totalSpent": 40502,
+      "gamesPlayed": 34,
+      "gamesWon": 9,
+      "streak": 18
     },
     {
       "name": "chicitylol",
@@ -431,30 +449,12 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "alcatru",
-      "balance": 10354,
-      "totalEarned": 10354,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 16
-    },
-    {
-      "name": "s3d121",
-      "balance": 10083,
-      "totalEarned": 10083,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
     }
   ],
   "stats": {
     "totalPlayers": 3516,
-    "totalCirculating": 3585511,
-    "totalGames": 28422,
+    "totalCirculating": 3595722,
+    "totalGames": 28432,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-26T16:30:01.203Z"
+  "lastUpdated": "2026-07-26T16:37:24.906Z"
 }
