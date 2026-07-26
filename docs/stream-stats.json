@@ -1,10 +1,10 @@
 {
   "totalSessions": 162,
   "totalDays": 143,
-  "totalSegments": 7152,
+  "totalSegments": 7154,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1314298,
+  "totalMessages": 1314499,
   "categories": [
     {
       "name": "Rust",
@@ -57,10 +57,10 @@
     },
     {
       "name": "Roblox",
-      "avgViewers": 718,
+      "avgViewers": 717,
       "peakViewers": 753,
-      "sampleCount": 17,
-      "totalMsgs": 3430
+      "sampleCount": 19,
+      "totalMsgs": 3631
     },
     {
       "name": "Log Riders",
@@ -516,8 +516,8 @@
     },
     "19": {
       "avgViewers": 677,
-      "sampleCount": 721,
-      "totalMsgs": 143326
+      "sampleCount": 723,
+      "totalMsgs": 143527
     },
     "20": {
       "avgViewers": 664,
@@ -692,9 +692,9 @@
     },
     {
       "date": "2026-07-26",
-      "avgViewers": 623,
+      "avgViewers": 628,
       "peakViewers": 734,
-      "totalMsgs": 5840,
+      "totalMsgs": 6041,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -702,6 +702,6 @@
       ]
     }
   ],
-  "botStartedAt": "2026-07-26T19:01:49.158Z",
-  "lastUpdated": "2026-07-26T19:37:30.881Z"
+  "botStartedAt": "2026-07-26T19:42:05.153Z",
+  "lastUpdated": "2026-07-26T19:43:06.843Z"
 }
