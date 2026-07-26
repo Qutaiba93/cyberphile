@@ -2,21 +2,30 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 190892,
-      "totalEarned": 3265067,
-      "totalSpent": 3170084,
+      "balance": 186488,
+      "totalEarned": 3265107,
+      "totalSpent": 3174528,
       "gamesPlayed": 1882,
       "gamesWon": 782,
       "streak": 5
     },
     {
       "name": "shance",
-      "balance": 58975,
-      "totalEarned": 1114282,
+      "balance": 58983,
+      "totalEarned": 1114290,
       "totalSpent": 1136816,
       "gamesPlayed": 607,
       "gamesWon": 230,
       "streak": 16
+    },
+    {
+      "name": "anansidagyuki",
+      "balance": 50866,
+      "totalEarned": 175436,
+      "totalSpent": 124040,
+      "gamesPlayed": 58,
+      "gamesWon": 25,
+      "streak": 18
     },
     {
       "name": "weppss",
@@ -155,8 +164,8 @@
     },
     {
       "name": "machamp1",
-      "balance": 14675,
-      "totalEarned": 14900,
+      "balance": 14677,
+      "totalEarned": 14902,
       "totalSpent": 225,
       "gamesPlayed": 5,
       "gamesWon": 1,
@@ -307,15 +316,6 @@
       "streak": 16
     },
     {
-      "name": "anansidagyuki",
-      "balance": 11921,
-      "totalEarned": 78324,
-      "totalSpent": 65873,
-      "gamesPlayed": 47,
-      "gamesWon": 17,
-      "streak": 18
-    },
-    {
       "name": "zz_nz",
       "balance": 11816,
       "totalEarned": 11816,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3521,
-    "totalCirculating": 3440461,
-    "totalGames": 28654,
+    "totalCirculating": 3472450,
+    "totalGames": 28708,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-26T23:20:47.980Z"
+  "lastUpdated": "2026-07-26T23:39:45.840Z"
 }
