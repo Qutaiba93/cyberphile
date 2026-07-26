@@ -2,17 +2,17 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 191676,
-      "totalEarned": 3262851,
-      "totalSpent": 3167084,
+      "balance": 190892,
+      "totalEarned": 3265067,
+      "totalSpent": 3170084,
       "gamesPlayed": 1882,
       "gamesWon": 782,
       "streak": 5
     },
     {
       "name": "shance",
-      "balance": 58953,
-      "totalEarned": 1114260,
+      "balance": 58975,
+      "totalEarned": 1114282,
       "totalSpent": 1136816,
       "gamesPlayed": 607,
       "gamesWon": 230,
@@ -128,8 +128,8 @@
     },
     {
       "name": "upkey",
-      "balance": 16772,
-      "totalEarned": 16772,
+      "balance": 16776,
+      "totalEarned": 16776,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -154,6 +154,15 @@
       "streak": 16
     },
     {
+      "name": "machamp1",
+      "balance": 14675,
+      "totalEarned": 14900,
+      "totalSpent": 225,
+      "gamesPlayed": 5,
+      "gamesWon": 1,
+      "streak": 1
+    },
+    {
       "name": "furrreal",
       "balance": 14664,
       "totalEarned": 18164,
@@ -161,15 +170,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "machamp1",
-      "balance": 14618,
-      "totalEarned": 14843,
-      "totalSpent": 225,
-      "gamesPlayed": 5,
-      "gamesWon": 1,
-      "streak": 2
     },
     {
       "name": "alexmesq",
@@ -307,6 +307,15 @@
       "streak": 16
     },
     {
+      "name": "anansidagyuki",
+      "balance": 11921,
+      "totalEarned": 78324,
+      "totalSpent": 65873,
+      "gamesPlayed": 47,
+      "gamesWon": 17,
+      "streak": 18
+    },
+    {
       "name": "zz_nz",
       "balance": 11816,
       "totalEarned": 11816,
@@ -370,18 +379,9 @@
       "streak": 4
     },
     {
-      "name": "anansidagyuki",
-      "balance": 10795,
-      "totalEarned": 51824,
-      "totalSpent": 40502,
-      "gamesPlayed": 34,
-      "gamesWon": 9,
-      "streak": 18
-    },
-    {
       "name": "gusha",
-      "balance": 10663,
-      "totalEarned": 10663,
+      "balance": 10665,
+      "totalEarned": 10665,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -443,8 +443,8 @@
     },
     {
       "name": "flowtuts",
-      "balance": 10163,
-      "totalEarned": 10508,
+      "balance": 10165,
+      "totalEarned": 10510,
       "totalSpent": 345,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3521,
-    "totalCirculating": 3434968,
-    "totalGames": 28617,
+    "totalCirculating": 3440461,
+    "totalGames": 28654,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-26T22:57:11.860Z"
+  "lastUpdated": "2026-07-26T23:20:47.980Z"
 }

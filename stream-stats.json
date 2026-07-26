@@ -1,10 +1,10 @@
 {
   "totalSessions": 162,
   "totalDays": 143,
-  "totalSegments": 7175,
+  "totalSegments": 7177,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1319396,
+  "totalMessages": 1319729,
   "categories": [
     {
       "name": "Rust",
@@ -215,6 +215,13 @@
       "peakViewers": 614,
       "sampleCount": 1,
       "totalMsgs": 107
+    },
+    {
+      "name": "Captured 2",
+      "avgViewers": 610,
+      "peakViewers": 618,
+      "sampleCount": 2,
+      "totalMsgs": 333
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -536,8 +543,8 @@
     },
     "23": {
       "avgViewers": 618,
-      "sampleCount": 475,
-      "totalMsgs": 83623
+      "sampleCount": 477,
+      "totalMsgs": 83956
     }
   },
   "dailyHistory": [
@@ -692,17 +699,18 @@
     },
     {
       "date": "2026-07-26",
-      "avgViewers": 667,
+      "avgViewers": 665,
       "peakViewers": 825,
-      "totalMsgs": 10938,
+      "totalMsgs": 11271,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
         "Roblox",
-        "Chat Roulette"
+        "Chat Roulette",
+        "Captured 2"
       ]
     }
   ],
   "botStartedAt": "2026-07-26T21:20:47.276Z",
-  "lastUpdated": "2026-07-26T22:57:11.846Z"
+  "lastUpdated": "2026-07-26T23:20:48.043Z"
 }
