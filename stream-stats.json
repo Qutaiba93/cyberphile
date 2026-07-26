@@ -1,10 +1,10 @@
 {
   "totalSessions": 162,
   "totalDays": 143,
-  "totalSegments": 7145,
+  "totalSegments": 7146,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
-  "totalMessages": 1313115,
+  "totalMessages": 1313127,
   "categories": [
     {
       "name": "Rust",
@@ -304,8 +304,8 @@
       "name": "Just Chatting",
       "avgViewers": 573,
       "peakViewers": 903,
-      "sampleCount": 2822,
-      "totalMsgs": 526351
+      "sampleCount": 2823,
+      "totalMsgs": 526363
     },
     {
       "name": "Photomaly",
@@ -511,8 +511,8 @@
     },
     "18": {
       "avgViewers": 674,
-      "sampleCount": 724,
-      "totalMsgs": 144985
+      "sampleCount": 725,
+      "totalMsgs": 144997
     },
     "19": {
       "avgViewers": 677,
@@ -692,15 +692,15 @@
     },
     {
       "date": "2026-07-26",
-      "avgViewers": 600,
-      "peakViewers": 702,
-      "totalMsgs": 4657,
+      "avgViewers": 604,
+      "peakViewers": 706,
+      "totalMsgs": 4669,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2"
       ]
     }
   ],
-  "botStartedAt": "2026-07-26T18:35:07.617Z",
-  "lastUpdated": "2026-07-26T18:36:08.762Z"
+  "botStartedAt": "2026-07-26T18:39:24.989Z",
+  "lastUpdated": "2026-07-26T18:40:26.003Z"
 }
