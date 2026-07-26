@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "daecs",
-      "balance": 300137,
-      "totalEarned": 1645887,
+      "balance": 300141,
+      "totalEarned": 1645891,
       "totalSpent": 1345750,
       "gamesPlayed": 73,
       "gamesWon": 37,
@@ -11,21 +11,12 @@
     },
     {
       "name": "meliziana",
-      "balance": 199850,
-      "totalEarned": 3258025,
+      "balance": 199854,
+      "totalEarned": 3258029,
       "totalSpent": 3154084,
       "gamesPlayed": 1881,
       "gamesWon": 781,
       "streak": 5
-    },
-    {
-      "name": "cheesee6969",
-      "balance": 92422,
-      "totalEarned": 5087619,
-      "totalSpent": 5017143,
-      "gamesPlayed": 1223,
-      "gamesWon": 505,
-      "streak": 16
     },
     {
       "name": "shance",
@@ -227,8 +218,8 @@
     },
     {
       "name": "xaqin",
-      "balance": 13926,
-      "totalEarned": 13926,
+      "balance": 13930,
+      "totalEarned": 13930,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -272,8 +263,8 @@
     },
     {
       "name": "lena_xc",
-      "balance": 13183,
-      "totalEarned": 13183,
+      "balance": 13187,
+      "totalEarned": 13187,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -325,15 +316,6 @@
       "streak": 15
     },
     {
-      "name": "tevb0t",
-      "balance": 11914,
-      "totalEarned": 216827,
-      "totalSpent": 204913,
-      "gamesPlayed": 116,
-      "gamesWon": 55,
-      "streak": 10
-    },
-    {
       "name": "quantik",
       "balance": 11792,
       "totalEarned": 11792,
@@ -353,8 +335,8 @@
     },
     {
       "name": "confusion",
-      "balance": 11656,
-      "totalEarned": 12171,
+      "balance": 11658,
+      "totalEarned": 12173,
       "totalSpent": 515,
       "gamesPlayed": 11,
       "gamesWon": 4,
@@ -389,8 +371,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 10790,
-      "totalEarned": 51814,
+      "balance": 10791,
+      "totalEarned": 51816,
       "totalSpent": 40502,
       "gamesPlayed": 34,
       "gamesWon": 9,
@@ -449,12 +431,30 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
+    },
+    {
+      "name": "alcatru",
+      "balance": 10380,
+      "totalEarned": 10380,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 16
+    },
+    {
+      "name": "muzlamic",
+      "balance": 10195,
+      "totalEarned": 22945,
+      "totalSpent": 12750,
+      "gamesPlayed": 84,
+      "gamesWon": 31,
+      "streak": 3
     }
   ],
   "stats": {
     "totalPlayers": 3519,
-    "totalCirculating": 3839481,
-    "totalGames": 28556,
+    "totalCirculating": 3741694,
+    "totalGames": 28559,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-26T20:16:25.535Z"
+  "lastUpdated": "2026-07-26T20:19:02.269Z"
 }
