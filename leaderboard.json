@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 175752,
-      "totalEarned": 3152616,
+      "balance": 175772,
+      "totalEarned": 3152636,
       "totalSpent": 3072777,
       "gamesPlayed": 1869,
       "gamesWon": 775,
@@ -254,12 +254,12 @@
     },
     {
       "name": "ganndz",
-      "balance": 13352,
-      "totalEarned": 13352,
+      "balance": 13454,
+      "totalEarned": 13454,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 14
+      "streak": 15
     },
     {
       "name": "tonynairobi",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3515,
-    "totalCirculating": 3553466,
+    "totalCirculating": 3553869,
     "totalGames": 28407,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-26T13:37:24.923Z"
+  "lastUpdated": "2026-07-26T14:07:24.887Z"
 }
