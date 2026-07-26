@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "meliziana",
-      "balance": 169654,
-      "totalEarned": 3112518,
+      "balance": 169732,
+      "totalEarned": 3112596,
       "totalSpent": 3038777,
       "gamesPlayed": 1864,
       "gamesWon": 773,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "daecs",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3515,
-    "totalCirculating": 3546727,
-    "totalGames": 28399,
+    "totalCirculating": 3547446,
+    "totalGames": 28402,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-26T12:37:24.938Z"
+  "lastUpdated": "2026-07-26T13:07:24.908Z"
 }
