@@ -1,10 +1,10 @@
 {
   "totalSessions": 162,
   "totalDays": 143,
-  "totalSegments": 7156,
+  "totalSegments": 7158,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
-  "totalMessages": 1315057,
+  "totalMessages": 1315249,
   "categories": [
     {
       "name": "Rust",
@@ -57,10 +57,10 @@
     },
     {
       "name": "Roblox",
-      "avgViewers": 718,
+      "avgViewers": 716,
       "peakViewers": 753,
-      "sampleCount": 21,
-      "totalMsgs": 4189
+      "sampleCount": 22,
+      "totalMsgs": 4368
     },
     {
       "name": "Log Riders",
@@ -73,8 +73,8 @@
       "name": "Chat Roulette",
       "avgViewers": 703,
       "peakViewers": 916,
-      "sampleCount": 708,
-      "totalMsgs": 152813
+      "sampleCount": 709,
+      "totalMsgs": 152826
     },
     {
       "name": "Trash Horror Collection",
@@ -521,8 +521,8 @@
     },
     "20": {
       "avgViewers": 664,
-      "sampleCount": 749,
-      "totalMsgs": 157002
+      "sampleCount": 751,
+      "totalMsgs": 157194
     },
     "21": {
       "avgViewers": 673,
@@ -692,16 +692,17 @@
     },
     {
       "date": "2026-07-26",
-      "avgViewers": 632,
+      "avgViewers": 635,
       "peakViewers": 734,
-      "totalMsgs": 6599,
+      "totalMsgs": 6791,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
-        "Roblox"
+        "Roblox",
+        "Chat Roulette"
       ]
     }
   ],
-  "botStartedAt": "2026-07-26T19:42:05.153Z",
-  "lastUpdated": "2026-07-26T20:12:06.768Z"
+  "botStartedAt": "2026-07-26T20:15:24.809Z",
+  "lastUpdated": "2026-07-26T20:16:25.520Z"
 }
