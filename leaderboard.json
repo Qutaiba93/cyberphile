@@ -10,6 +10,15 @@
       "streak": 17
     },
     {
+      "name": "meliziana",
+      "balance": 29134,
+      "totalEarned": 3360253,
+      "totalSpent": 3427028,
+      "gamesPlayed": 1941,
+      "gamesWon": 799,
+      "streak": 6
+    },
+    {
       "name": "nick6",
       "balance": 28222,
       "totalEarned": 28227,
@@ -26,15 +35,6 @@
       "gamesPlayed": 45,
       "gamesWon": 12,
       "streak": 3
-    },
-    {
-      "name": "meliziana",
-      "balance": 24134,
-      "totalEarned": 3355253,
-      "totalSpent": 3427028,
-      "gamesPlayed": 1941,
-      "gamesWon": 799,
-      "streak": 6
     },
     {
       "name": "juggin247",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3526,
-    "totalCirculating": 3308033,
+    "totalCirculating": 3313033,
     "totalGames": 28926,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-27T19:07:21.555Z"
+  "lastUpdated": "2026-07-27T19:20:22.726Z"
 }
