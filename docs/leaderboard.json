@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 64647,
-      "totalEarned": 1139954,
+      "balance": 64653,
+      "totalEarned": 1139960,
       "totalSpent": 1156816,
       "gamesPlayed": 618,
       "gamesWon": 236,
@@ -11,8 +11,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 57932,
-      "totalEarned": 3297551,
+      "balance": 57937,
+      "totalEarned": 3297556,
       "totalSpent": 3335528,
       "gamesPlayed": 1898,
       "gamesWon": 784,
@@ -164,12 +164,12 @@
     },
     {
       "name": "machamp1",
-      "balance": 14677,
-      "totalEarned": 14902,
+      "balance": 14739,
+      "totalEarned": 14964,
       "totalSpent": 225,
       "gamesPlayed": 5,
       "gamesWon": 1,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "furrreal",
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3523,
-    "totalCirculating": 3319432,
+    "totalCirculating": 3319583,
     "totalGames": 28851,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-27T00:24:42.616Z"
+  "lastUpdated": "2026-07-27T00:28:30.959Z"
 }
