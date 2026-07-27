@@ -1,7 +1,7 @@
 {
-  "totalSessions": 162,
-  "totalDays": 143,
-  "totalSegments": 7190,
+  "totalSessions": 163,
+  "totalDays": 144,
+  "totalSegments": 7191,
   "allTimePeak": 17991,
   "allTimeAvg": 612,
   "totalMessages": 1320885,
@@ -311,7 +311,7 @@
       "name": "Just Chatting",
       "avgViewers": 573,
       "peakViewers": 903,
-      "sampleCount": 2828,
+      "sampleCount": 2829,
       "totalMsgs": 527937
     },
     {
@@ -503,7 +503,7 @@
     },
     "15": {
       "avgViewers": 507,
-      "sampleCount": 582,
+      "sampleCount": 583,
       "totalMsgs": 100239
     },
     "16": {
@@ -548,17 +548,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-07-13",
-      "avgViewers": 584,
-      "peakViewers": 783,
-      "totalMsgs": 5913,
-      "categories": [
-        "Chat Roulette",
-        "Just Chatting",
-        "IRL"
-      ]
-    },
     {
       "date": "2026-07-14",
       "avgViewers": 489,
@@ -709,8 +698,17 @@
         "Chat Roulette",
         "Captured 2"
       ]
+    },
+    {
+      "date": "2026-07-27",
+      "avgViewers": 190,
+      "peakViewers": 190,
+      "totalMsgs": 0,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-07-27T09:07:21.038Z",
-  "lastUpdated": "2026-07-27T15:07:21.591Z"
+  "lastUpdated": "2026-07-27T15:37:21.444Z"
 }
