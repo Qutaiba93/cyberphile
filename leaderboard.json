@@ -29,8 +29,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 23826,
-      "totalEarned": 3354945,
+      "balance": 23830,
+      "totalEarned": 3354949,
       "totalSpent": 3427028,
       "gamesPlayed": 1941,
       "gamesWon": 799,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3524,
-    "totalCirculating": 3291602,
+    "totalCirculating": 3291606,
     "totalGames": 28916,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-27T14:37:21.530Z"
+  "lastUpdated": "2026-07-27T15:07:21.524Z"
 }
