@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 65166,
-      "totalEarned": 1140523,
+      "balance": 65168,
+      "totalEarned": 1140525,
       "totalSpent": 1156866,
       "gamesPlayed": 620,
       "gamesWon": 236,
@@ -11,11 +11,11 @@
     },
     {
       "name": "meliziana",
-      "balance": 58952,
-      "totalEarned": 3299571,
-      "totalSpent": 3336528,
-      "gamesPlayed": 1900,
-      "gamesWon": 786,
+      "balance": 39034,
+      "totalEarned": 3321653,
+      "totalSpent": 3378528,
+      "gamesPlayed": 1918,
+      "gamesWon": 793,
       "streak": 6
     },
     {
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3524,
-    "totalCirculating": 3326640,
-    "totalGames": 28867,
+    "totalCirculating": 3306724,
+    "totalGames": 28885,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-27T09:08:21.447Z"
+  "lastUpdated": "2026-07-27T09:37:21.460Z"
 }
