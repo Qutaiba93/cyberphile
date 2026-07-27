@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 64653,
-      "totalEarned": 1139960,
+      "balance": 64659,
+      "totalEarned": 1139966,
       "totalSpent": 1156816,
       "gamesPlayed": 618,
       "gamesWon": 236,
@@ -29,8 +29,8 @@
     },
     {
       "name": "nick6",
-      "balance": 27980,
-      "totalEarned": 27985,
+      "balance": 28006,
+      "totalEarned": 28011,
       "totalSpent": 5,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3523,
-    "totalCirculating": 3319583,
+    "totalPlayers": 3524,
+    "totalCirculating": 3320466,
     "totalGames": 28851,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-27T00:28:30.959Z"
+  "lastUpdated": "2026-07-27T00:35:58.848Z"
 }
