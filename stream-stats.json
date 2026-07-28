@@ -1,10 +1,10 @@
 {
   "totalSessions": 164,
   "totalDays": 144,
-  "totalSegments": 7229,
+  "totalSegments": 7230,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
-  "totalMessages": 1327484,
+  "totalMessages": 1327595,
   "categories": [
     {
       "name": "Rust",
@@ -407,10 +407,10 @@
     },
     {
       "name": "Moldrise",
-      "avgViewers": 507,
+      "avgViewers": 506,
       "peakViewers": 528,
-      "sampleCount": 4,
-      "totalMsgs": 570
+      "sampleCount": 5,
+      "totalMsgs": 681
     },
     {
       "name": "Welcome to the Game III",
@@ -465,8 +465,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 574,
-      "sampleCount": 365,
-      "totalMsgs": 51580
+      "sampleCount": 366,
+      "totalMsgs": 51691
     },
     "1": {
       "avgViewers": 526,
@@ -710,7 +710,7 @@
       "date": "2026-07-27",
       "avgViewers": 505,
       "peakViewers": 776,
-      "totalMsgs": 6599,
+      "totalMsgs": 6710,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -721,5 +721,5 @@
     }
   ],
   "botStartedAt": "2026-07-27T21:19:28.723Z",
-  "lastUpdated": "2026-07-28T00:06:49.947Z"
+  "lastUpdated": "2026-07-28T00:19:29.152Z"
 }

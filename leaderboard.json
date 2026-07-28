@@ -2,19 +2,19 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 124659,
-      "totalEarned": 1265241,
-      "totalSpent": 1222091,
+      "balance": 117029,
+      "totalEarned": 1267611,
+      "totalSpent": 1232091,
       "gamesPlayed": 631,
       "gamesWon": 239,
-      "streak": 17
+      "streak": 18
     },
     {
       "name": "meliziana",
-      "balance": 71561,
-      "totalEarned": 3415361,
-      "totalSpent": 3460538,
-      "gamesPlayed": 1953,
+      "balance": 68729,
+      "totalEarned": 3417529,
+      "totalSpent": 3465538,
+      "gamesPlayed": 1954,
       "gamesWon": 807,
       "streak": 7
     },
@@ -145,6 +145,15 @@
       "streak": 2
     },
     {
+      "name": "parlaybuster",
+      "balance": 15291,
+      "totalEarned": 15291,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 18
+    },
+    {
       "name": "5pray",
       "balance": 15219,
       "totalEarned": 15219,
@@ -152,15 +161,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "parlaybuster",
-      "balance": 15181,
-      "totalEarned": 15181,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 17
     },
     {
       "name": "machamp1",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3530,
-    "totalCirculating": 3411500,
-    "totalGames": 29032,
+    "totalCirculating": 3404236,
+    "totalGames": 29075,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-28T00:06:49.968Z"
+  "lastUpdated": "2026-07-28T00:19:29.166Z"
 }
