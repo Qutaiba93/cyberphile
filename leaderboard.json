@@ -2,17 +2,17 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 117029,
-      "totalEarned": 1267611,
-      "totalSpent": 1232091,
+      "balance": 122814,
+      "totalEarned": 1276396,
+      "totalSpent": 1235091,
       "gamesPlayed": 631,
       "gamesWon": 239,
       "streak": 18
     },
     {
       "name": "meliziana",
-      "balance": 68729,
-      "totalEarned": 3417529,
+      "balance": 68766,
+      "totalEarned": 3417566,
       "totalSpent": 3465538,
       "gamesPlayed": 1954,
       "gamesWon": 807,
@@ -20,12 +20,12 @@
     },
     {
       "name": "weppss",
-      "balance": 28258,
-      "totalEarned": 35153,
+      "balance": 28350,
+      "totalEarned": 35245,
       "totalSpent": 6895,
       "gamesPlayed": 45,
       "gamesWon": 12,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "nick6",
@@ -37,6 +37,15 @@
       "streak": 2
     },
     {
+      "name": "faridlamm",
+      "balance": 22736,
+      "totalEarned": 22837,
+      "totalSpent": 101,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 24
+    },
+    {
       "name": "juggin247",
       "balance": 22651,
       "totalEarned": 22651,
@@ -44,15 +53,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 15
-    },
-    {
-      "name": "faridlamm",
-      "balance": 22628,
-      "totalEarned": 22729,
-      "totalSpent": 101,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 23
     },
     {
       "name": "schitt",
@@ -146,8 +146,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 15291,
-      "totalEarned": 15291,
+      "balance": 15311,
+      "totalEarned": 15311,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -272,12 +272,12 @@
     },
     {
       "name": "patwifi",
-      "balance": 13059,
-      "totalEarned": 30297,
+      "balance": 13173,
+      "totalEarned": 30411,
       "totalSpent": 17238,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 17
+      "streak": 18
     },
     {
       "name": "iam_umii",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3530,
-    "totalCirculating": 3404236,
-    "totalGames": 29075,
+    "totalCirculating": 3413887,
+    "totalGames": 29113,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-28T00:19:29.166Z"
+  "lastUpdated": "2026-07-28T00:49:29.179Z"
 }
