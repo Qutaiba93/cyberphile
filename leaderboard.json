@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 122893,
-      "totalEarned": 1276475,
+      "balance": 122922,
+      "totalEarned": 1276504,
       "totalSpent": 1235091,
       "gamesPlayed": 631,
       "gamesWon": 239,
@@ -11,10 +11,10 @@
     },
     {
       "name": "meliziana",
-      "balance": 70798,
-      "totalEarned": 3419598,
-      "totalSpent": 3465538,
-      "gamesPlayed": 1954,
+      "balance": 68942,
+      "totalEarned": 3419742,
+      "totalSpent": 3467538,
+      "gamesPlayed": 1955,
       "gamesWon": 807,
       "streak": 7
     },
@@ -56,12 +56,12 @@
     },
     {
       "name": "schitt",
-      "balance": 21805,
-      "totalEarned": 21805,
+      "balance": 21879,
+      "totalEarned": 21879,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "cheese",
@@ -218,8 +218,8 @@
     },
     {
       "name": "cuuula",
-      "balance": 14167,
-      "totalEarned": 14167,
+      "balance": 14169,
+      "totalEarned": 14169,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -263,12 +263,12 @@
     },
     {
       "name": "tonynairobi",
-      "balance": 13298,
-      "totalEarned": 13298,
+      "balance": 13367,
+      "totalEarned": 13367,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 2
+      "streak": 3
     },
     {
       "name": "patwifi",
@@ -398,8 +398,8 @@
     },
     {
       "name": "med1cinee",
-      "balance": 10693,
-      "totalEarned": 10693,
+      "balance": 10695,
+      "totalEarned": 10695,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3533,
-    "totalCirculating": 3417579,
-    "totalGames": 29123,
+    "totalCirculating": 3417084,
+    "totalGames": 29126,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-28T14:40:24.725Z"
+  "lastUpdated": "2026-07-28T15:10:24.751Z"
 }
