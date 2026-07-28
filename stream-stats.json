@@ -1,10 +1,10 @@
 {
   "totalSessions": 165,
   "totalDays": 145,
-  "totalSegments": 7278,
+  "totalSegments": 7281,
   "allTimePeak": 17991,
-  "allTimeAvg": 611,
-  "totalMessages": 1338318,
+  "allTimeAvg": 612,
+  "totalMessages": 1339043,
   "categories": [
     {
       "name": "Rust",
@@ -203,18 +203,18 @@
       "totalMsgs": 36086
     },
     {
+      "name": "Counter-Strike 2",
+      "avgViewers": 614,
+      "peakViewers": 898,
+      "sampleCount": 856,
+      "totalMsgs": 131487
+    },
+    {
       "name": "Trees Hate You",
       "avgViewers": 614,
       "peakViewers": 614,
       "sampleCount": 1,
       "totalMsgs": 107
-    },
-    {
-      "name": "Counter-Strike 2",
-      "avgViewers": 613,
-      "peakViewers": 898,
-      "sampleCount": 853,
-      "totalMsgs": 130762
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -547,8 +547,8 @@
     },
     "21": {
       "avgViewers": 671,
-      "sampleCount": 719,
-      "totalMsgs": 145241
+      "sampleCount": 722,
+      "totalMsgs": 145966
     },
     "22": {
       "avgViewers": 651,
@@ -718,16 +718,17 @@
     },
     {
       "date": "2026-07-28",
-      "avgViewers": 646,
+      "avgViewers": 647,
       "peakViewers": 914,
-      "totalMsgs": 9979,
+      "totalMsgs": 10704,
       "categories": [
         "Just Chatting",
         "Chat Roulette",
-        "IRL"
+        "IRL",
+        "Counter-Strike 2"
       ]
     }
   ],
   "botStartedAt": "2026-07-28T06:40:23.941Z",
-  "lastUpdated": "2026-07-28T21:10:24.707Z"
+  "lastUpdated": "2026-07-28T21:40:24.792Z"
 }
