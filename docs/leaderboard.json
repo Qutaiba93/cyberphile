@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 122963,
-      "totalEarned": 1276545,
+      "balance": 122989,
+      "totalEarned": 1276571,
       "totalSpent": 1235091,
       "gamesPlayed": 631,
       "gamesWon": 239,
@@ -11,11 +11,11 @@
     },
     {
       "name": "meliziana",
-      "balance": 71212,
-      "totalEarned": 3424012,
-      "totalSpent": 3469538,
-      "gamesPlayed": 1956,
-      "gamesWon": 808,
+      "balance": 68791,
+      "totalEarned": 3424116,
+      "totalSpent": 3472063,
+      "gamesPlayed": 1957,
+      "gamesWon": 809,
       "streak": 7
     },
     {
@@ -29,8 +29,8 @@
     },
     {
       "name": "nick6",
-      "balance": 28333,
-      "totalEarned": 28338,
+      "balance": 28345,
+      "totalEarned": 28350,
       "totalSpent": 5,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -56,8 +56,8 @@
     },
     {
       "name": "schitt",
-      "balance": 21895,
-      "totalEarned": 21895,
+      "balance": 21897,
+      "totalEarned": 21897,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -218,8 +218,8 @@
     },
     {
       "name": "xaqin",
-      "balance": 14265,
-      "totalEarned": 14265,
+      "balance": 14267,
+      "totalEarned": 14267,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -254,8 +254,8 @@
     },
     {
       "name": "lena_xc",
-      "balance": 13505,
-      "totalEarned": 13505,
+      "balance": 13553,
+      "totalEarned": 13553,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -308,8 +308,8 @@
     },
     {
       "name": "lecto",
-      "balance": 12376,
-      "totalEarned": 12376,
+      "balance": 12378,
+      "totalEarned": 12378,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -380,12 +380,12 @@
     },
     {
       "name": "ericlamontjr",
-      "balance": 10831,
-      "totalEarned": 10946,
+      "balance": 10892,
+      "totalEarned": 11007,
       "totalSpent": 115,
       "gamesPlayed": 6,
       "gamesWon": 2,
-      "streak": 4
+      "streak": 1
     },
     {
       "name": "gusha",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3534,
-    "totalCirculating": 3424631,
-    "totalGames": 29128,
+    "totalCirculating": 3418793,
+    "totalGames": 29143,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-28T16:10:24.711Z"
+  "lastUpdated": "2026-07-28T16:40:24.746Z"
 }
