@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 124793,
-      "totalEarned": 1300375,
+      "balance": 124795,
+      "totalEarned": 1300377,
       "totalSpent": 1257091,
       "gamesPlayed": 631,
       "gamesWon": 239,
@@ -11,11 +11,11 @@
     },
     {
       "name": "meliziana",
-      "balance": 79375,
-      "totalEarned": 3572400,
-      "totalSpent": 3598334,
-      "gamesPlayed": 1989,
-      "gamesWon": 826,
+      "balance": 106420,
+      "totalEarned": 3628445,
+      "totalSpent": 3627334,
+      "gamesPlayed": 1994,
+      "gamesWon": 830,
       "streak": 7
     },
     {
@@ -38,8 +38,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 22842,
-      "totalEarned": 22943,
+      "balance": 22848,
+      "totalEarned": 22949,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -83,8 +83,8 @@
     },
     {
       "name": "papaah",
-      "balance": 20025,
-      "totalEarned": 21026,
+      "balance": 20031,
+      "totalEarned": 21032,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -110,8 +110,8 @@
     },
     {
       "name": "twilighty",
-      "balance": 17698,
-      "totalEarned": 17698,
+      "balance": 17700,
+      "totalEarned": 17700,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3545,
-    "totalCirculating": 3439150,
-    "totalGames": 29296,
+    "totalCirculating": 3466278,
+    "totalGames": 29301,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-28T21:40:24.705Z"
+  "lastUpdated": "2026-07-28T22:10:24.736Z"
 }
