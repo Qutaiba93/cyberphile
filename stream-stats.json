@@ -1,10 +1,10 @@
 {
   "totalSessions": 164,
   "totalDays": 144,
-  "totalSegments": 7233,
+  "totalSegments": 7234,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
-  "totalMessages": 1328222,
+  "totalMessages": 1328339,
   "categories": [
     {
       "name": "Rust",
@@ -420,6 +420,13 @@
       "totalMsgs": 3710
     },
     {
+      "name": "Skull Hotel",
+      "avgViewers": 503,
+      "peakViewers": 503,
+      "sampleCount": 1,
+      "totalMsgs": 117
+    },
+    {
       "name": "Scam Line",
       "avgViewers": 499,
       "peakViewers": 499,
@@ -465,8 +472,8 @@
   "hourlyPatterns": {
     "0": {
       "avgViewers": 573,
-      "sampleCount": 369,
-      "totalMsgs": 52318
+      "sampleCount": 370,
+      "totalMsgs": 52435
     },
     "1": {
       "avgViewers": 526,
@@ -710,16 +717,17 @@
       "date": "2026-07-27",
       "avgViewers": 506,
       "peakViewers": 776,
-      "totalMsgs": 7337,
+      "totalMsgs": 7454,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
         "IRL",
         "Chat Roulette",
-        "Moldrise"
+        "Moldrise",
+        "Skull Hotel"
       ]
     }
   ],
   "botStartedAt": "2026-07-27T21:19:28.723Z",
-  "lastUpdated": "2026-07-28T00:49:29.238Z"
+  "lastUpdated": "2026-07-28T01:19:29.191Z"
 }
