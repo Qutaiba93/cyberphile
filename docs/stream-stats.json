@@ -1,10 +1,10 @@
 {
   "totalSessions": 167,
   "totalDays": 146,
-  "totalSegments": 7298,
+  "totalSegments": 7301,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
-  "totalMessages": 1342855,
+  "totalMessages": 1343374,
   "categories": [
     {
       "name": "Rust",
@@ -73,8 +73,8 @@
       "name": "Chat Roulette",
       "avgViewers": 702,
       "peakViewers": 916,
-      "sampleCount": 737,
-      "totalMsgs": 159601
+      "sampleCount": 739,
+      "totalMsgs": 160006
     },
     {
       "name": "Trash Horror Collection",
@@ -213,8 +213,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 613,
       "peakViewers": 898,
-      "sampleCount": 858,
-      "totalMsgs": 131850
+      "sampleCount": 859,
+      "totalMsgs": 131964
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -547,13 +547,13 @@
     },
     "21": {
       "avgViewers": 671,
-      "sampleCount": 728,
-      "totalMsgs": 148010
+      "sampleCount": 729,
+      "totalMsgs": 148216
     },
     "22": {
       "avgViewers": 651,
-      "sampleCount": 605,
-      "totalMsgs": 121995
+      "sampleCount": 607,
+      "totalMsgs": 122308
     },
     "23": {
       "avgViewers": 616,
@@ -719,9 +719,9 @@
     },
     {
       "date": "2026-07-29",
-      "avgViewers": 560,
+      "avgViewers": 570,
       "peakViewers": 701,
-      "totalMsgs": 3449,
+      "totalMsgs": 3968,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
@@ -730,5 +730,5 @@
     }
   ],
   "botStartedAt": "2026-07-29T03:50:23.620Z",
-  "lastUpdated": "2026-07-29T21:50:24.294Z"
+  "lastUpdated": "2026-07-29T22:20:24.471Z"
 }
