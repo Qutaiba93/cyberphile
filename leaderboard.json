@@ -2,12 +2,12 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 124795,
-      "totalEarned": 1300377,
+      "balance": 124903,
+      "totalEarned": 1300485,
       "totalSpent": 1257091,
       "gamesPlayed": 631,
       "gamesWon": 239,
-      "streak": 18
+      "streak": 19
     },
     {
       "name": "nick6",
@@ -56,12 +56,12 @@
     },
     {
       "name": "kale96",
-      "balance": 20146,
-      "totalEarned": 26696,
+      "balance": 20250,
+      "totalEarned": 26800,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
-      "streak": 18
+      "streak": 19
     },
     {
       "name": "cheese",
@@ -92,8 +92,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 19485,
-      "totalEarned": 3779854,
+      "balance": 19491,
+      "totalEarned": 3779860,
       "totalSpent": 3865678,
       "gamesPlayed": 2035,
       "gamesWon": 844,
@@ -227,12 +227,12 @@
     },
     {
       "name": "ganndz",
-      "balance": 13798,
-      "totalEarned": 13798,
+      "balance": 13900,
+      "totalEarned": 13900,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 17
+      "streak": 18
     },
     {
       "name": "seraj",
@@ -281,8 +281,8 @@
     },
     {
       "name": "iam_umii",
-      "balance": 12901,
-      "totalEarned": 12901,
+      "balance": 12960,
+      "totalEarned": 12960,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -353,12 +353,12 @@
     },
     {
       "name": "bushybrauz",
-      "balance": 11259,
-      "totalEarned": 11259,
+      "balance": 11336,
+      "totalEarned": 11336,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "chicitylol",
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3545,
-    "totalCirculating": 3381610,
-    "totalGames": 29360,
+    "totalPlayers": 3547,
+    "totalCirculating": 3381622,
+    "totalGames": 29365,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-29T18:50:24.303Z"
+  "lastUpdated": "2026-07-29T19:20:24.306Z"
 }

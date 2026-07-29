@@ -1,9 +1,9 @@
 {
-  "totalSessions": 165,
-  "totalDays": 145,
-  "totalSegments": 7282,
+  "totalSessions": 166,
+  "totalDays": 146,
+  "totalSegments": 7283,
   "allTimePeak": 17991,
-  "allTimeAvg": 612,
+  "allTimeAvg": 611,
   "totalMessages": 1339406,
   "categories": [
     {
@@ -203,18 +203,18 @@
       "totalMsgs": 36086
     },
     {
-      "name": "Counter-Strike 2",
-      "avgViewers": 614,
-      "peakViewers": 898,
-      "sampleCount": 857,
-      "totalMsgs": 131850
-    },
-    {
       "name": "Trees Hate You",
       "avgViewers": 614,
       "peakViewers": 614,
       "sampleCount": 1,
       "totalMsgs": 107
+    },
+    {
+      "name": "Counter-Strike 2",
+      "avgViewers": 613,
+      "peakViewers": 898,
+      "sampleCount": 858,
+      "totalMsgs": 131850
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -536,8 +536,8 @@
       "totalMsgs": 148593
     },
     "19": {
-      "avgViewers": 677,
-      "sampleCount": 730,
+      "avgViewers": 676,
+      "sampleCount": 731,
       "totalMsgs": 145610
     },
     "20": {
@@ -562,17 +562,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-07-15",
-      "avgViewers": 505,
-      "peakViewers": 700,
-      "totalMsgs": 8077,
-      "categories": [
-        "Just Chatting",
-        "Minecraft",
-        "IRL"
-      ]
-    },
     {
       "date": "2026-07-16",
       "avgViewers": 485,
@@ -727,8 +716,17 @@
         "IRL",
         "Counter-Strike 2"
       ]
+    },
+    {
+      "date": "2026-07-29",
+      "avgViewers": 149,
+      "peakViewers": 149,
+      "totalMsgs": 0,
+      "categories": [
+        "Counter-Strike 2"
+      ]
     }
   ],
   "botStartedAt": "2026-07-29T03:50:23.620Z",
-  "lastUpdated": "2026-07-29T18:50:24.448Z"
+  "lastUpdated": "2026-07-29T19:20:24.449Z"
 }
