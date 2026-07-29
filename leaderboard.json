@@ -10,15 +10,6 @@
       "streak": 18
     },
     {
-      "name": "meliziana",
-      "balance": 62863,
-      "totalEarned": 3758788,
-      "totalSpent": 3801234,
-      "gamesPlayed": 2024,
-      "gamesWon": 841,
-      "streak": 8
-    },
-    {
       "name": "nick6",
       "balance": 28537,
       "totalEarned": 28542,
@@ -98,6 +89,15 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 0
+    },
+    {
+      "name": "meliziana",
+      "balance": 19485,
+      "totalEarned": 3779854,
+      "totalSpent": 3865678,
+      "gamesPlayed": 2035,
+      "gamesWon": 844,
+      "streak": 8
     },
     {
       "name": "zeepzeep",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3545,
-    "totalCirculating": 3425011,
-    "totalGames": 29348,
+    "totalCirculating": 3381548,
+    "totalGames": 29360,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-29T16:20:24.301Z"
+  "lastUpdated": "2026-07-29T16:50:24.297Z"
 }
