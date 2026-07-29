@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 124910,
-      "totalEarned": 1300492,
+      "balance": 124922,
+      "totalEarned": 1300504,
       "totalSpent": 1257091,
       "gamesPlayed": 631,
       "gamesWon": 239,
@@ -20,8 +20,8 @@
     },
     {
       "name": "weppss",
-      "balance": 28465,
-      "totalEarned": 35360,
+      "balance": 28469,
+      "totalEarned": 35364,
       "totalSpent": 6895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -64,6 +64,15 @@
       "streak": 19
     },
     {
+      "name": "papaah",
+      "balance": 20115,
+      "totalEarned": 21116,
+      "totalSpent": 1001,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 6
+    },
+    {
       "name": "cheese",
       "balance": 20100,
       "totalEarned": 20100,
@@ -71,15 +80,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 0
-    },
-    {
-      "name": "papaah",
-      "balance": 20031,
-      "totalEarned": 21032,
-      "totalSpent": 1001,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 5
     },
     {
       "name": "eyla_vanel",
@@ -92,8 +92,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 19521,
-      "totalEarned": 3779890,
+      "balance": 19537,
+      "totalEarned": 3779906,
       "totalSpent": 3865678,
       "gamesPlayed": 2035,
       "gamesWon": 844,
@@ -281,8 +281,8 @@
     },
     {
       "name": "iam_umii",
-      "balance": 12966,
-      "totalEarned": 12966,
+      "balance": 12968,
+      "totalEarned": 12968,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,8 +434,8 @@
     },
     {
       "name": "muzlamic",
-      "balance": 10594,
-      "totalEarned": 23344,
+      "balance": 10596,
+      "totalEarned": 23346,
       "totalSpent": 12750,
       "gamesPlayed": 84,
       "gamesWon": 31,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3547,
-    "totalCirculating": 3383783,
+    "totalCirculating": 3384322,
     "totalGames": 29365,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-29T19:43:00.914Z"
+  "lastUpdated": "2026-07-29T19:50:24.292Z"
 }
