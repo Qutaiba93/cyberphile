@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 124903,
-      "totalEarned": 1300485,
+      "balance": 124910,
+      "totalEarned": 1300492,
       "totalSpent": 1257091,
       "gamesPlayed": 631,
       "gamesWon": 239,
@@ -20,12 +20,12 @@
     },
     {
       "name": "weppss",
-      "balance": 28386,
-      "totalEarned": 35281,
+      "balance": 28465,
+      "totalEarned": 35360,
       "totalSpent": 6895,
       "gamesPlayed": 45,
       "gamesWon": 12,
-      "streak": 4
+      "streak": 5
     },
     {
       "name": "faridlamm",
@@ -92,8 +92,8 @@
     },
     {
       "name": "meliziana",
-      "balance": 19491,
-      "totalEarned": 3779860,
+      "balance": 19521,
+      "totalEarned": 3779890,
       "totalSpent": 3865678,
       "gamesPlayed": 2035,
       "gamesWon": 844,
@@ -235,6 +235,15 @@
       "streak": 18
     },
     {
+      "name": "lena_xc",
+      "balance": 13785,
+      "totalEarned": 13785,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 12
+    },
+    {
       "name": "seraj",
       "balance": 13709,
       "totalEarned": 13709,
@@ -242,15 +251,6 @@
       "gamesPlayed": 0,
       "gamesWon": 0,
       "streak": 0
-    },
-    {
-      "name": "lena_xc",
-      "balance": 13679,
-      "totalEarned": 13679,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 11
     },
     {
       "name": "tonynairobi",
@@ -281,8 +281,8 @@
     },
     {
       "name": "iam_umii",
-      "balance": 12960,
-      "totalEarned": 12960,
+      "balance": 12966,
+      "totalEarned": 12966,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -353,8 +353,8 @@
     },
     {
       "name": "bushybrauz",
-      "balance": 11336,
-      "totalEarned": 11336,
+      "balance": 11338,
+      "totalEarned": 11338,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -433,27 +433,27 @@
       "streak": 1
     },
     {
-      "name": "nitro_st",
-      "balance": 10519,
-      "totalEarned": 10519,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 1
-    },
-    {
       "name": "muzlamic",
-      "balance": 10508,
-      "totalEarned": 23258,
+      "balance": 10594,
+      "totalEarned": 23344,
       "totalSpent": 12750,
       "gamesPlayed": 84,
       "gamesWon": 31,
-      "streak": 5
+      "streak": 6
+    },
+    {
+      "name": "nitro_st",
+      "balance": 10583,
+      "totalEarned": 10583,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 2
     }
   ],
   "stats": {
     "totalPlayers": 3547,
-    "totalCirculating": 3381622,
+    "totalCirculating": 3383783,
     "totalGames": 29365,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-29T19:20:24.306Z"
+  "lastUpdated": "2026-07-29T19:43:00.914Z"
 }
