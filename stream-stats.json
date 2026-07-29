@@ -1,10 +1,10 @@
 {
   "totalSessions": 167,
   "totalDays": 146,
-  "totalSegments": 7304,
+  "totalSegments": 7307,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
-  "totalMessages": 1343645,
+  "totalMessages": 1344271,
   "categories": [
     {
       "name": "Rust",
@@ -318,8 +318,8 @@
       "name": "Just Chatting",
       "avgViewers": 572,
       "peakViewers": 903,
-      "sampleCount": 2868,
-      "totalMsgs": 535931
+      "sampleCount": 2871,
+      "totalMsgs": 536557
     },
     {
       "name": "007 First Light",
@@ -552,13 +552,13 @@
     },
     "22": {
       "avgViewers": 650,
-      "sampleCount": 610,
-      "totalMsgs": 122579
+      "sampleCount": 611,
+      "totalMsgs": 122702
     },
     "23": {
       "avgViewers": 616,
-      "sampleCount": 488,
-      "totalMsgs": 85647
+      "sampleCount": 490,
+      "totalMsgs": 86150
     }
   },
   "dailyHistory": [
@@ -721,7 +721,7 @@
       "date": "2026-07-29",
       "avgViewers": 569,
       "peakViewers": 701,
-      "totalMsgs": 4239,
+      "totalMsgs": 4865,
       "categories": [
         "Counter-Strike 2",
         "Just Chatting",
@@ -730,5 +730,5 @@
     }
   ],
   "botStartedAt": "2026-07-29T03:50:23.620Z",
-  "lastUpdated": "2026-07-29T22:50:24.318Z"
+  "lastUpdated": "2026-07-29T23:20:24.445Z"
 }
