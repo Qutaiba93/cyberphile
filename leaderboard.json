@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 124750,
-      "totalEarned": 1325332,
+      "balance": 124761,
+      "totalEarned": 1325343,
       "totalSpent": 1282091,
       "gamesPlayed": 631,
       "gamesWon": 239,
@@ -190,9 +190,18 @@
       "streak": 6
     },
     {
+      "name": "xaqin",
+      "balance": 14518,
+      "totalEarned": 14518,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 9
+    },
+    {
       "name": "anansidagyuki",
-      "balance": 14489,
-      "totalEarned": 462966,
+      "balance": 14495,
+      "totalEarned": 462972,
       "totalSpent": 431447,
       "gamesPlayed": 145,
       "gamesWon": 61,
@@ -208,22 +217,13 @@
       "streak": 2
     },
     {
-      "name": "xaqin",
-      "balance": 14417,
-      "totalEarned": 14417,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 8
-    },
-    {
       "name": "cuuula",
-      "balance": 14284,
-      "totalEarned": 14284,
+      "balance": 14366,
+      "totalEarned": 14366,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 5
+      "streak": 6
     },
     {
       "name": "ganndz",
@@ -281,12 +281,12 @@
     },
     {
       "name": "iam_umii",
-      "balance": 12988,
-      "totalEarned": 12988,
+      "balance": 13050,
+      "totalEarned": 13050,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "damiybe",
@@ -453,8 +453,8 @@
   ],
   "stats": {
     "totalPlayers": 3555,
-    "totalCirculating": 3398998,
-    "totalGames": 29449,
+    "totalCirculating": 3400015,
+    "totalGames": 29456,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-30T14:20:24.356Z"
+  "lastUpdated": "2026-07-30T14:50:24.361Z"
 }
