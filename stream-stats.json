@@ -1,10 +1,10 @@
 {
   "totalSessions": 168,
   "totalDays": 147,
-  "totalSegments": 7344,
+  "totalSegments": 7347,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
-  "totalMessages": 1350910,
+  "totalMessages": 1352156,
   "categories": [
     {
       "name": "Rust",
@@ -73,8 +73,8 @@
       "name": "Chat Roulette",
       "avgViewers": 702,
       "peakViewers": 916,
-      "sampleCount": 739,
-      "totalMsgs": 160006
+      "sampleCount": 741,
+      "totalMsgs": 160927
     },
     {
       "name": "Trash Horror Collection",
@@ -94,8 +94,8 @@
       "name": "IRL",
       "avgViewers": 683,
       "peakViewers": 886,
-      "sampleCount": 355,
-      "totalMsgs": 113457
+      "sampleCount": 356,
+      "totalMsgs": 113782
     },
     {
       "name": "Sea of Thieves",
@@ -537,13 +537,13 @@
     },
     "19": {
       "avgViewers": 675,
-      "sampleCount": 740,
-      "totalMsgs": 147711
+      "sampleCount": 741,
+      "totalMsgs": 148036
     },
     "20": {
       "avgViewers": 665,
-      "sampleCount": 769,
-      "totalMsgs": 161095
+      "sampleCount": 771,
+      "totalMsgs": 162016
     },
     "21": {
       "avgViewers": 671,
@@ -719,16 +719,17 @@
     },
     {
       "date": "2026-07-30",
-      "avgViewers": 587,
-      "peakViewers": 693,
-      "totalMsgs": 5277,
+      "avgViewers": 596,
+      "peakViewers": 713,
+      "totalMsgs": 6523,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
-        "IRL"
+        "IRL",
+        "Chat Roulette"
       ]
     }
   ],
   "botStartedAt": "2026-07-29T03:50:23.620Z",
-  "lastUpdated": "2026-07-30T19:50:24.531Z"
+  "lastUpdated": "2026-07-30T20:20:24.375Z"
 }
