@@ -1,10 +1,10 @@
 {
   "totalSessions": 168,
   "totalDays": 147,
-  "totalSegments": 7353,
+  "totalSegments": 7356,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
-  "totalMessages": 1354115,
+  "totalMessages": 1354494,
   "categories": [
     {
       "name": "Rust",
@@ -400,10 +400,10 @@
     },
     {
       "name": "Welcome to the Game III",
-      "avgViewers": 520,
+      "avgViewers": 529,
       "peakViewers": 689,
-      "sampleCount": 29,
-      "totalMsgs": 4202
+      "sampleCount": 32,
+      "totalMsgs": 4581
     },
     {
       "name": "Slots & Casino",
@@ -547,8 +547,8 @@
     },
     "21": {
       "avgViewers": 671,
-      "sampleCount": 731,
-      "totalMsgs": 148492
+      "sampleCount": 734,
+      "totalMsgs": 148871
     },
     "22": {
       "avgViewers": 650,
@@ -721,7 +721,7 @@
       "date": "2026-07-30",
       "avgViewers": 611,
       "peakViewers": 736,
-      "totalMsgs": 8482,
+      "totalMsgs": 8861,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
@@ -732,5 +732,5 @@
     }
   ],
   "botStartedAt": "2026-07-29T03:50:23.620Z",
-  "lastUpdated": "2026-07-30T21:20:24.408Z"
+  "lastUpdated": "2026-07-30T21:50:24.586Z"
 }
