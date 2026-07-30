@@ -2,17 +2,17 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 119247,
-      "totalEarned": 1332529,
-      "totalSpent": 1294791,
+      "balance": 123935,
+      "totalEarned": 1340217,
+      "totalSpent": 1297791,
       "gamesPlayed": 631,
       "gamesWon": 239,
       "streak": 20
     },
     {
       "name": "weppss",
-      "balance": 28697,
-      "totalEarned": 35592,
+      "balance": 28717,
+      "totalEarned": 35612,
       "totalSpent": 6895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -29,8 +29,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 23150,
-      "totalEarned": 23251,
+      "balance": 23162,
+      "totalEarned": 23263,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -91,6 +91,15 @@
       "streak": 0
     },
     {
+      "name": "anansidagyuki",
+      "balance": 18163,
+      "totalEarned": 468640,
+      "totalSpent": 433447,
+      "gamesPlayed": 146,
+      "gamesWon": 62,
+      "streak": 22
+    },
+    {
       "name": "zeepzeep",
       "balance": 18094,
       "totalEarned": 61078,
@@ -127,18 +136,9 @@
       "streak": 5
     },
     {
-      "name": "anansidagyuki",
-      "balance": 16155,
-      "totalEarned": 464632,
-      "totalSpent": 431447,
-      "gamesPlayed": 145,
-      "gamesWon": 61,
-      "streak": 22
-    },
-    {
       "name": "parlaybuster",
-      "balance": 15583,
-      "totalEarned": 15583,
+      "balance": 15595,
+      "totalEarned": 15595,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -164,12 +164,21 @@
     },
     {
       "name": "machamp1",
-      "balance": 15013,
-      "totalEarned": 15238,
+      "balance": 15019,
+      "totalEarned": 15244,
       "totalSpent": 225,
       "gamesPlayed": 5,
       "gamesWon": 1,
       "streak": 5
+    },
+    {
+      "name": "furrreal",
+      "balance": 14787,
+      "totalEarned": 18287,
+      "totalSpent": 3500,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 1
     },
     {
       "name": "alexmesq",
@@ -188,15 +197,6 @@
       "gamesPlayed": 3,
       "gamesWon": 0,
       "streak": 1
-    },
-    {
-      "name": "furrreal",
-      "balance": 14728,
-      "totalEarned": 18228,
-      "totalSpent": 3500,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 2
     },
     {
       "name": "xaqin",
@@ -227,8 +227,8 @@
     },
     {
       "name": "ganndz",
-      "balance": 14048,
-      "totalEarned": 14048,
+      "balance": 14050,
+      "totalEarned": 14050,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -254,8 +254,8 @@
     },
     {
       "name": "patwifi",
-      "balance": 13693,
-      "totalEarned": 30931,
+      "balance": 13707,
+      "totalEarned": 30945,
       "totalSpent": 17238,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -308,8 +308,8 @@
     },
     {
       "name": "politecatt",
-      "balance": 12651,
-      "totalEarned": 12701,
+      "balance": 12655,
+      "totalEarned": 12705,
       "totalSpent": 50,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -317,8 +317,8 @@
     },
     {
       "name": "quantik",
-      "balance": 12122,
-      "totalEarned": 12122,
+      "balance": 12124,
+      "totalEarned": 12124,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,9 +452,9 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3566,
-    "totalCirculating": 3420561,
-    "totalGames": 29513,
+    "totalPlayers": 3567,
+    "totalCirculating": 3427383,
+    "totalGames": 29530,
     "pointsPerMessage": 2,
     "dailyBonus": 50
   },
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-30T22:50:24.397Z"
+  "lastUpdated": "2026-07-30T23:20:24.389Z"
 }
