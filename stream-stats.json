@@ -1,10 +1,10 @@
 {
   "totalSessions": 168,
   "totalDays": 147,
-  "totalSegments": 7338,
+  "totalSegments": 7341,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
-  "totalMessages": 1349141,
+  "totalMessages": 1349888,
   "categories": [
     {
       "name": "Rust",
@@ -213,8 +213,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 613,
       "peakViewers": 898,
-      "sampleCount": 866,
-      "totalMsgs": 132871
+      "sampleCount": 869,
+      "totalMsgs": 133618
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -532,13 +532,13 @@
     },
     "18": {
       "avgViewers": 675,
-      "sampleCount": 741,
-      "totalMsgs": 149311
+      "sampleCount": 742,
+      "totalMsgs": 149494
     },
     "19": {
       "avgViewers": 675,
-      "sampleCount": 735,
-      "totalMsgs": 146125
+      "sampleCount": 737,
+      "totalMsgs": 146689
     },
     "20": {
       "avgViewers": 665,
@@ -719,9 +719,9 @@
     },
     {
       "date": "2026-07-30",
-      "avgViewers": 567,
+      "avgViewers": 577,
       "peakViewers": 690,
-      "totalMsgs": 3508,
+      "totalMsgs": 4255,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2"
@@ -729,5 +729,5 @@
     }
   ],
   "botStartedAt": "2026-07-29T03:50:23.620Z",
-  "lastUpdated": "2026-07-30T18:50:24.550Z"
+  "lastUpdated": "2026-07-30T19:20:24.379Z"
 }
