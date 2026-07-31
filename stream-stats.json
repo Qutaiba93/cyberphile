@@ -1,10 +1,10 @@
 {
-  "totalSessions": 168,
-  "totalDays": 147,
-  "totalSegments": 7377,
+  "totalSessions": 169,
+  "totalDays": 148,
+  "totalSegments": 7379,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
-  "totalMessages": 1358884,
+  "totalMessages": 1359066,
   "categories": [
     {
       "name": "Rust",
@@ -318,8 +318,8 @@
       "name": "Just Chatting",
       "avgViewers": 572,
       "peakViewers": 903,
-      "sampleCount": 2909,
-      "totalMsgs": 543614
+      "sampleCount": 2911,
+      "totalMsgs": 543796
     },
     {
       "name": "007 First Light",
@@ -541,9 +541,9 @@
       "totalMsgs": 148036
     },
     "20": {
-      "avgViewers": 665,
-      "sampleCount": 775,
-      "totalMsgs": 163699
+      "avgViewers": 664,
+      "sampleCount": 777,
+      "totalMsgs": 163881
     },
     "21": {
       "avgViewers": 671,
@@ -562,18 +562,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-07-17",
-      "avgViewers": 577,
-      "peakViewers": 726,
-      "totalMsgs": 4885,
-      "categories": [
-        "Just Chatting",
-        "Chat Roulette",
-        "Slots & Casino",
-        "VRChat"
-      ]
-    },
     {
       "date": "2026-07-18",
       "avgViewers": 605,
@@ -729,8 +717,17 @@
         "Chat Roulette",
         "Welcome to the Game III"
       ]
+    },
+    {
+      "date": "2026-07-31",
+      "avgViewers": 231,
+      "peakViewers": 280,
+      "totalMsgs": 182,
+      "categories": [
+        "Just Chatting"
+      ]
     }
   ],
   "botStartedAt": "2026-07-29T03:50:23.620Z",
-  "lastUpdated": "2026-07-31T20:20:24.663Z"
+  "lastUpdated": "2026-07-31T20:50:24.649Z"
 }
