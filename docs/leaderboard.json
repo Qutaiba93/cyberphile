@@ -173,8 +173,8 @@
     },
     {
       "name": "xaqin",
-      "balance": 14820,
-      "totalEarned": 14820,
+      "balance": 14822,
+      "totalEarned": 14822,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3575,
-    "totalCirculating": 3439678,
+    "totalCirculating": 3439742,
     "totalGames": 29545,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-07-31T17:50:24.507Z"
+  "lastUpdated": "2026-07-31T18:20:24.516Z"
 }
