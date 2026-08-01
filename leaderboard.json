@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 125393,
-      "totalEarned": 1341675,
+      "balance": 125395,
+      "totalEarned": 1341677,
       "totalSpent": 1297791,
       "gamesPlayed": 631,
       "gamesWon": 239,
@@ -65,8 +65,8 @@
     },
     {
       "name": "kale96",
-      "balance": 20459,
-      "totalEarned": 27009,
+      "balance": 20461,
+      "totalEarned": 27011,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -227,12 +227,12 @@
     },
     {
       "name": "ganndz",
-      "balance": 14188,
-      "totalEarned": 14188,
+      "balance": 14290,
+      "totalEarned": 14290,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 20
+      "streak": 21
     },
     {
       "name": "patwifi",
@@ -443,8 +443,8 @@
     },
     {
       "name": "flowtuts",
-      "balance": 10941,
-      "totalEarned": 11286,
+      "balance": 10949,
+      "totalEarned": 11294,
       "totalSpent": 345,
       "gamesPlayed": 1,
       "gamesWon": 0,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3579,
-    "totalCirculating": 3456769,
+    "totalCirculating": 3457528,
     "totalGames": 29557,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-08-01T13:30:24.935Z"
+  "lastUpdated": "2026-08-01T14:00:24.905Z"
 }
