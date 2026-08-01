@@ -442,18 +442,18 @@
       "streak": 2
     },
     {
-      "name": "donixo",
-      "balance": 10928,
-      "totalEarned": 10928,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
+      "name": "flowtuts",
+      "balance": 10941,
+      "totalEarned": 11286,
+      "totalSpent": 345,
+      "gamesPlayed": 1,
       "gamesWon": 0,
-      "streak": 4
+      "streak": 22
     }
   ],
   "stats": {
     "totalPlayers": 3579,
-    "totalCirculating": 3456665,
+    "totalCirculating": 3456769,
     "totalGames": 29557,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-08-01T13:00:24.902Z"
+  "lastUpdated": "2026-08-01T13:30:24.935Z"
 }
