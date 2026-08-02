@@ -1,10 +1,10 @@
 {
-  "totalSessions": 170,
-  "totalDays": 149,
-  "totalSegments": 7474,
+  "totalSessions": 171,
+  "totalDays": 150,
+  "totalSegments": 7476,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
-  "totalMessages": 1381801,
+  "totalMessages": 1382019,
   "categories": [
     {
       "name": "Rust",
@@ -92,10 +92,10 @@
     },
     {
       "name": "IRL",
-      "avgViewers": 681,
+      "avgViewers": 679,
       "peakViewers": 886,
-      "sampleCount": 377,
-      "totalMsgs": 119560
+      "sampleCount": 379,
+      "totalMsgs": 119778
     },
     {
       "name": "Sea of Thieves",
@@ -512,8 +512,8 @@
     },
     "14": {
       "avgViewers": 376,
-      "sampleCount": 406,
-      "totalMsgs": 60538
+      "sampleCount": 408,
+      "totalMsgs": 60756
     },
     "15": {
       "avgViewers": 507,
@@ -562,17 +562,6 @@
     }
   },
   "dailyHistory": [
-    {
-      "date": "2026-07-19",
-      "avgViewers": 585,
-      "peakViewers": 712,
-      "totalMsgs": 8986,
-      "categories": [
-        "Just Chatting",
-        "Chat Roulette",
-        "Call of Duty: Black Ops"
-      ]
-    },
     {
       "date": "2026-07-20",
       "avgViewers": 619,
@@ -728,8 +717,17 @@
         "Counter-Strike 2",
         "Chat Roulette"
       ]
+    },
+    {
+      "date": "2026-08-02",
+      "avgViewers": 227,
+      "peakViewers": 308,
+      "totalMsgs": 218,
+      "categories": [
+        "IRL"
+      ]
     }
   ],
   "botStartedAt": "2026-08-01T02:30:24.401Z",
-  "lastUpdated": "2026-08-02T14:00:25.111Z"
+  "lastUpdated": "2026-08-02T14:30:24.980Z"
 }
