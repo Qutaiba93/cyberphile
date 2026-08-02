@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 131085,
-      "totalEarned": 1347392,
+      "balance": 131116,
+      "totalEarned": 1347423,
       "totalSpent": 1297816,
       "gamesPlayed": 632,
       "gamesWon": 239,
@@ -38,8 +38,8 @@
     },
     {
       "name": "juggin247",
-      "balance": 23257,
-      "totalEarned": 23257,
+      "balance": 23311,
+      "totalEarned": 23311,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -47,8 +47,8 @@
     },
     {
       "name": "schitt",
-      "balance": 23008,
-      "totalEarned": 23008,
+      "balance": 23026,
+      "totalEarned": 23026,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -146,12 +146,21 @@
     },
     {
       "name": "pitapan",
-      "balance": 15692,
-      "totalEarned": 15717,
+      "balance": 15694,
+      "totalEarned": 15719,
       "totalSpent": 25,
       "gamesPlayed": 1,
       "gamesWon": 1,
       "streak": 9
+    },
+    {
+      "name": "eatinsomtin",
+      "balance": 15628,
+      "totalEarned": 22503,
+      "totalSpent": 6875,
+      "gamesPlayed": 3,
+      "gamesWon": 0,
+      "streak": 2
     },
     {
       "name": "xaqin",
@@ -163,18 +172,9 @@
       "streak": 12
     },
     {
-      "name": "eatinsomtin",
-      "balance": 15446,
-      "totalEarned": 22321,
-      "totalSpent": 6875,
-      "gamesPlayed": 3,
-      "gamesWon": 0,
-      "streak": 1
-    },
-    {
       "name": "alexmesq",
-      "balance": 15283,
-      "totalEarned": 16283,
+      "balance": 15343,
+      "totalEarned": 16343,
       "totalSpent": 1000,
       "gamesPlayed": 2,
       "gamesWon": 0,
@@ -236,8 +236,8 @@
     },
     {
       "name": "lena_xc",
-      "balance": 14411,
-      "totalEarned": 14411,
+      "balance": 14443,
+      "totalEarned": 14443,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -245,17 +245,17 @@
     },
     {
       "name": "patwifi",
-      "balance": 14137,
-      "totalEarned": 31375,
+      "balance": 14275,
+      "totalEarned": 31513,
       "totalSpent": 17238,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 22
+      "streak": 23
     },
     {
       "name": "tonynairobi",
-      "balance": 14009,
-      "totalEarned": 14009,
+      "balance": 14061,
+      "totalEarned": 14061,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -290,8 +290,8 @@
     },
     {
       "name": "politecatt",
-      "balance": 13036,
-      "totalEarned": 13086,
+      "balance": 13052,
+      "totalEarned": 13102,
       "totalSpent": 50,
       "gamesPlayed": 3,
       "gamesWon": 1,
@@ -317,8 +317,8 @@
     },
     {
       "name": "zz_nz",
-      "balance": 12635,
-      "totalEarned": 12635,
+      "balance": 12645,
+      "totalEarned": 12645,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -344,8 +344,8 @@
     },
     {
       "name": "confusion",
-      "balance": 11936,
-      "totalEarned": 12451,
+      "balance": 11958,
+      "totalEarned": 12473,
       "totalSpent": 515,
       "gamesPlayed": 11,
       "gamesWon": 4,
@@ -362,8 +362,8 @@
     },
     {
       "name": "alcatru",
-      "balance": 11618,
-      "totalEarned": 11618,
+      "balance": 11620,
+      "totalEarned": 11620,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -380,8 +380,8 @@
     },
     {
       "name": "muzlamic",
-      "balance": 11438,
-      "totalEarned": 24188,
+      "balance": 11442,
+      "totalEarned": 24192,
       "totalSpent": 12750,
       "gamesPlayed": 84,
       "gamesWon": 31,
@@ -398,8 +398,8 @@
     },
     {
       "name": "comradeahmed1",
-      "balance": 11222,
-      "totalEarned": 11222,
+      "balance": 11226,
+      "totalEarned": 11226,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -434,8 +434,8 @@
     },
     {
       "name": "s3d121",
-      "balance": 11141,
-      "totalEarned": 11141,
+      "balance": 11143,
+      "totalEarned": 11143,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -452,8 +452,8 @@
     }
   ],
   "stats": {
-    "totalPlayers": 3604,
-    "totalCirculating": 3530863,
+    "totalPlayers": 3605,
+    "totalCirculating": 3533445,
     "totalGames": 29615,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-08-02T18:00:25.011Z"
+  "lastUpdated": "2026-08-02T18:30:25.049Z"
 }
