@@ -74,8 +74,8 @@
     },
     {
       "name": "kale96",
-      "balance": 20686,
-      "totalEarned": 27236,
+      "balance": 20688,
+      "totalEarned": 27238,
       "totalSpent": 6550,
       "gamesPlayed": 6,
       "gamesWon": 0,
@@ -290,12 +290,12 @@
     },
     {
       "name": "politecatt",
-      "balance": 12864,
-      "totalEarned": 12914,
+      "balance": 12936,
+      "totalEarned": 12986,
       "totalSpent": 50,
       "gamesPlayed": 3,
       "gamesWon": 1,
-      "streak": 3
+      "streak": 4
     },
     {
       "name": "lecto",
@@ -335,8 +335,8 @@
     },
     {
       "name": "neinswein",
-      "balance": 12076,
-      "totalEarned": 522571,
+      "balance": 12082,
+      "totalEarned": 522577,
       "totalSpent": 512977,
       "gamesPlayed": 168,
       "gamesWon": 62,
@@ -453,7 +453,7 @@
   ],
   "stats": {
     "totalPlayers": 3596,
-    "totalCirculating": 3523566,
+    "totalCirculating": 3523742,
     "totalGames": 29609,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-08-02T13:00:24.997Z"
+  "lastUpdated": "2026-08-02T13:30:24.988Z"
 }
