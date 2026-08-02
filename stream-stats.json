@@ -1,10 +1,10 @@
 {
   "totalSessions": 171,
   "totalDays": 150,
-  "totalSegments": 7494,
+  "totalSegments": 7497,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
-  "totalMessages": 1386971,
+  "totalMessages": 1387485,
   "categories": [
     {
       "name": "Rust",
@@ -213,8 +213,8 @@
       "name": "Counter-Strike 2",
       "avgViewers": 613,
       "peakViewers": 898,
-      "sampleCount": 895,
-      "totalMsgs": 138298
+      "sampleCount": 897,
+      "totalMsgs": 138611
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -318,8 +318,8 @@
       "name": "Just Chatting",
       "avgViewers": 572,
       "peakViewers": 903,
-      "sampleCount": 2958,
-      "totalMsgs": 554542
+      "sampleCount": 2959,
+      "totalMsgs": 554743
     },
     {
       "name": "007 First Light",
@@ -526,9 +526,9 @@
       "totalMsgs": 128799
     },
     "17": {
-      "avgViewers": 674,
-      "sampleCount": 724,
-      "totalMsgs": 136520
+      "avgViewers": 675,
+      "sampleCount": 727,
+      "totalMsgs": 137034
     },
     "18": {
       "avgViewers": 675,
@@ -720,9 +720,9 @@
     },
     {
       "date": "2026-08-02",
-      "avgViewers": 677,
+      "avgViewers": 685,
       "peakViewers": 802,
-      "totalMsgs": 5170,
+      "totalMsgs": 5684,
       "categories": [
         "IRL",
         "Just Chatting",
@@ -731,5 +731,5 @@
     }
   ],
   "botStartedAt": "2026-08-01T02:30:24.401Z",
-  "lastUpdated": "2026-08-02T17:30:25.020Z"
+  "lastUpdated": "2026-08-02T18:00:25.124Z"
 }
