@@ -2,8 +2,8 @@
   "leaderboard": [
     {
       "name": "shance",
-      "balance": 130789,
-      "totalEarned": 1347096,
+      "balance": 130792,
+      "totalEarned": 1347099,
       "totalSpent": 1297816,
       "gamesPlayed": 632,
       "gamesWon": 239,
@@ -11,8 +11,8 @@
     },
     {
       "name": "nick6",
-      "balance": 29641,
-      "totalEarned": 29646,
+      "balance": 29699,
+      "totalEarned": 29704,
       "totalSpent": 5,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -20,8 +20,8 @@
     },
     {
       "name": "weppss",
-      "balance": 29511,
-      "totalEarned": 36406,
+      "balance": 29517,
+      "totalEarned": 36412,
       "totalSpent": 6895,
       "gamesPlayed": 45,
       "gamesWon": 12,
@@ -29,8 +29,8 @@
     },
     {
       "name": "faridlamm",
-      "balance": 23704,
-      "totalEarned": 23805,
+      "balance": 23706,
+      "totalEarned": 23807,
       "totalSpent": 101,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -56,8 +56,8 @@
     },
     {
       "name": "papaah",
-      "balance": 21185,
-      "totalEarned": 22186,
+      "balance": 21203,
+      "totalEarned": 22204,
       "totalSpent": 1001,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -65,8 +65,8 @@
     },
     {
       "name": "anansidagyuki",
-      "balance": 21034,
-      "totalEarned": 472011,
+      "balance": 21042,
+      "totalEarned": 472019,
       "totalSpent": 433947,
       "gamesPlayed": 146,
       "gamesWon": 62,
@@ -137,8 +137,8 @@
     },
     {
       "name": "parlaybuster",
-      "balance": 16087,
-      "totalEarned": 16087,
+      "balance": 16091,
+      "totalEarned": 16091,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
@@ -299,12 +299,12 @@
     },
     {
       "name": "lecto",
-      "balance": 12745,
-      "totalEarned": 12745,
+      "balance": 12807,
+      "totalEarned": 12807,
       "totalSpent": 0,
       "gamesPlayed": 0,
       "gamesWon": 0,
-      "streak": 1
+      "streak": 2
     },
     {
       "name": "damiybe",
@@ -415,6 +415,15 @@
       "streak": 13
     },
     {
+      "name": "s3d121",
+      "balance": 11141,
+      "totalEarned": 11141,
+      "totalSpent": 0,
+      "gamesPlayed": 0,
+      "gamesWon": 0,
+      "streak": 9
+    },
+    {
       "name": "comradeahmed1",
       "balance": 11110,
       "totalEarned": 11110,
@@ -440,20 +449,11 @@
       "gamesPlayed": 1,
       "gamesWon": 0,
       "streak": 22
-    },
-    {
-      "name": "s3d121",
-      "balance": 11044,
-      "totalEarned": 11044,
-      "totalSpent": 0,
-      "gamesPlayed": 0,
-      "gamesWon": 0,
-      "streak": 8
     }
   ],
   "stats": {
     "totalPlayers": 3596,
-    "totalCirculating": 3516238,
+    "totalCirculating": 3517191,
     "totalGames": 29600,
     "pointsPerMessage": 2,
     "dailyBonus": 50
@@ -490,5 +490,5 @@
     "bj_double_win": 100,
     "fight_win": 20
   },
-  "lastUpdated": "2026-08-02T02:00:24.942Z"
+  "lastUpdated": "2026-08-02T02:30:24.936Z"
 }
