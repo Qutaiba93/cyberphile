@@ -1,10 +1,10 @@
 {
   "totalSessions": 171,
   "totalDays": 150,
-  "totalSegments": 7479,
+  "totalSegments": 7482,
   "allTimePeak": 17991,
   "allTimeAvg": 611,
-  "totalMessages": 1382993,
+  "totalMessages": 1384201,
   "categories": [
     {
       "name": "Rust",
@@ -94,8 +94,8 @@
       "name": "IRL",
       "avgViewers": 679,
       "peakViewers": 886,
-      "sampleCount": 382,
-      "totalMsgs": 120752
+      "sampleCount": 385,
+      "totalMsgs": 121960
     },
     {
       "name": "Sea of Thieves",
@@ -516,9 +516,9 @@
       "totalMsgs": 61730
     },
     "15": {
-      "avgViewers": 507,
-      "sampleCount": 604,
-      "totalMsgs": 104219
+      "avgViewers": 508,
+      "sampleCount": 607,
+      "totalMsgs": 105427
     },
     "16": {
       "avgViewers": 620,
@@ -720,14 +720,14 @@
     },
     {
       "date": "2026-08-02",
-      "avgViewers": 466,
-      "peakViewers": 656,
-      "totalMsgs": 1192,
+      "avgViewers": 556,
+      "peakViewers": 753,
+      "totalMsgs": 2400,
       "categories": [
         "IRL"
       ]
     }
   ],
   "botStartedAt": "2026-08-01T02:30:24.401Z",
-  "lastUpdated": "2026-08-02T15:00:25.094Z"
+  "lastUpdated": "2026-08-02T15:30:24.959Z"
 }
