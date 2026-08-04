@@ -1,10 +1,10 @@
 {
-  "totalSessions": 171,
-  "totalDays": 150,
-  "totalSegments": 7510,
+  "totalSessions": 112,
+  "totalDays": 97,
+  "totalSegments": 4989,
   "allTimePeak": 17991,
-  "allTimeAvg": 612,
-  "totalMessages": 1393805,
+  "allTimeAvg": 630,
+  "totalMessages": 976167,
   "categories": [
     {
       "name": "Rust",
@@ -22,10 +22,10 @@
     },
     {
       "name": "VALORANT",
-      "avgViewers": 752,
+      "avgViewers": 753,
       "peakViewers": 17935,
-      "sampleCount": 161,
-      "totalMsgs": 32081
+      "sampleCount": 160,
+      "totalMsgs": 31812
     },
     {
       "name": "Gartic Phone",
@@ -36,10 +36,10 @@
     },
     {
       "name": "Sports",
-      "avgViewers": 730,
+      "avgViewers": 735,
       "peakViewers": 776,
-      "sampleCount": 18,
-      "totalMsgs": 3940
+      "sampleCount": 17,
+      "totalMsgs": 3809
     },
     {
       "name": "Songbattle.io",
@@ -56,11 +56,11 @@
       "totalMsgs": 86
     },
     {
-      "name": "Roblox",
-      "avgViewers": 716,
-      "peakViewers": 753,
-      "sampleCount": 22,
-      "totalMsgs": 4368
+      "name": "Chat Roulette",
+      "avgViewers": 724,
+      "peakViewers": 916,
+      "sampleCount": 454,
+      "totalMsgs": 102629
     },
     {
       "name": "Log Riders",
@@ -70,13 +70,6 @@
       "totalMsgs": 280
     },
     {
-      "name": "Chat Roulette",
-      "avgViewers": 704,
-      "peakViewers": 1649,
-      "sampleCount": 766,
-      "totalMsgs": 170124
-    },
-    {
       "name": "Trash Horror Collection",
       "avgViewers": 701,
       "peakViewers": 737,
@@ -84,18 +77,18 @@
       "totalMsgs": 3389
     },
     {
-      "name": "Summer Game Fest 2026",
-      "avgViewers": 687,
-      "peakViewers": 727,
-      "sampleCount": 9,
-      "totalMsgs": 4135
+      "name": "IRL",
+      "avgViewers": 699,
+      "peakViewers": 886,
+      "sampleCount": 269,
+      "totalMsgs": 93733
     },
     {
-      "name": "IRL",
-      "avgViewers": 680,
-      "peakViewers": 886,
-      "sampleCount": 390,
-      "totalMsgs": 123678
+      "name": "Grand Theft Auto V (GTA)",
+      "avgViewers": 679,
+      "peakViewers": 839,
+      "sampleCount": 425,
+      "totalMsgs": 70269
     },
     {
       "name": "Sea of Thieves",
@@ -105,25 +98,18 @@
       "totalMsgs": 10155
     },
     {
-      "name": "Grand Theft Auto V (GTA)",
-      "avgViewers": 666,
-      "peakViewers": 839,
-      "sampleCount": 512,
-      "totalMsgs": 80948
-    },
-    {
-      "name": "Crab Game",
-      "avgViewers": 665,
-      "peakViewers": 701,
-      "sampleCount": 7,
-      "totalMsgs": 368
-    },
-    {
       "name": "The Empty Eyes",
       "avgViewers": 663,
       "peakViewers": 677,
       "sampleCount": 3,
       "totalMsgs": 225
+    },
+    {
+      "name": "Call of Duty: Black Ops III",
+      "avgViewers": 663,
+      "peakViewers": 861,
+      "sampleCount": 63,
+      "totalMsgs": 11357
     },
     {
       "name": "Call of Duty: Black Ops II",
@@ -147,18 +133,25 @@
       "totalMsgs": 7002
     },
     {
-      "name": "VRChat",
-      "avgViewers": 647,
-      "peakViewers": 796,
-      "sampleCount": 49,
-      "totalMsgs": 8093
-    },
-    {
       "name": "The Elder Scrolls V: Skyrim",
       "avgViewers": 645,
       "peakViewers": 744,
       "sampleCount": 30,
       "totalMsgs": 5736
+    },
+    {
+      "name": "Slots & Casino",
+      "avgViewers": 643,
+      "peakViewers": 786,
+      "sampleCount": 27,
+      "totalMsgs": 9277
+    },
+    {
+      "name": "VRChat",
+      "avgViewers": 639,
+      "peakViewers": 796,
+      "sampleCount": 29,
+      "totalMsgs": 4823
     },
     {
       "name": "Rocket League",
@@ -175,11 +168,18 @@
       "totalMsgs": 3485
     },
     {
-      "name": "Psalm 5:9-13",
-      "avgViewers": 625,
-      "peakViewers": 674,
-      "sampleCount": 8,
-      "totalMsgs": 929
+      "name": "Counter-Strike 2",
+      "avgViewers": 630,
+      "peakViewers": 841,
+      "sampleCount": 507,
+      "totalMsgs": 81034
+    },
+    {
+      "name": "Minecraft",
+      "avgViewers": 623,
+      "peakViewers": 788,
+      "sampleCount": 157,
+      "totalMsgs": 28416
     },
     {
       "name": "Gamble With Your Friends",
@@ -196,25 +196,11 @@
       "totalMsgs": 3536
     },
     {
-      "name": "Minecraft",
-      "avgViewers": 615,
-      "peakViewers": 788,
-      "sampleCount": 213,
-      "totalMsgs": 36086
-    },
-    {
       "name": "Trees Hate You",
       "avgViewers": 614,
       "peakViewers": 614,
       "sampleCount": 1,
       "totalMsgs": 107
-    },
-    {
-      "name": "Counter-Strike 2",
-      "avgViewers": 613,
-      "peakViewers": 898,
-      "sampleCount": 897,
-      "totalMsgs": 138611
     },
     {
       "name": "Creepy Shift: House for Sale",
@@ -224,13 +210,6 @@
       "totalMsgs": 352
     },
     {
-      "name": "Call of Duty: Black Ops III",
-      "avgViewers": 603,
-      "peakViewers": 861,
-      "sampleCount": 85,
-      "totalMsgs": 13119
-    },
-    {
       "name": "Call of Duty: Modern Warfare 2",
       "avgViewers": 601,
       "peakViewers": 652,
@@ -238,25 +217,11 @@
       "totalMsgs": 1817
     },
     {
-      "name": "Meccha Chameleon",
-      "avgViewers": 600,
-      "peakViewers": 678,
-      "sampleCount": 16,
-      "totalMsgs": 1152
-    },
-    {
       "name": "Call of Duty: Black Ops",
       "avgViewers": 597,
       "peakViewers": 719,
-      "sampleCount": 44,
-      "totalMsgs": 7054
-    },
-    {
-      "name": "Among Us",
-      "avgViewers": 597,
-      "peakViewers": 597,
-      "sampleCount": 1,
-      "totalMsgs": 128
+      "sampleCount": 40,
+      "totalMsgs": 6766
     },
     {
       "name": "Call of Duty: Black Ops Zombies",
@@ -266,25 +231,11 @@
       "totalMsgs": 2802
     },
     {
-      "name": "Lies of P",
-      "avgViewers": 587,
-      "peakViewers": 716,
-      "sampleCount": 75,
-      "totalMsgs": 6916
-    },
-    {
-      "name": "World Cup 2026",
-      "avgViewers": 586,
-      "peakViewers": 734,
-      "sampleCount": 56,
-      "totalMsgs": 5075
-    },
-    {
-      "name": "Captured 2",
-      "avgViewers": 586,
-      "peakViewers": 618,
-      "sampleCount": 15,
-      "totalMsgs": 1489
+      "name": "Just Chatting",
+      "avgViewers": 589,
+      "peakViewers": 903,
+      "sampleCount": 1933,
+      "totalMsgs": 383667
     },
     {
       "name": "Dread Neighbor",
@@ -299,27 +250,6 @@
       "peakViewers": 748,
       "sampleCount": 145,
       "totalMsgs": 21653
-    },
-    {
-      "name": "Fears to Fathom: Scratch Creek",
-      "avgViewers": 577,
-      "peakViewers": 610,
-      "sampleCount": 19,
-      "totalMsgs": 2094
-    },
-    {
-      "name": "Just Chatting",
-      "avgViewers": 573,
-      "peakViewers": 903,
-      "sampleCount": 2964,
-      "totalMsgs": 556782
-    },
-    {
-      "name": "Photomaly",
-      "avgViewers": 573,
-      "peakViewers": 639,
-      "sampleCount": 10,
-      "totalMsgs": 1455
     },
     {
       "name": "007 First Light",
@@ -392,39 +322,11 @@
       "totalMsgs": 9011
     },
     {
-      "name": "Welcome to the Game III",
-      "avgViewers": 537,
-      "peakViewers": 689,
-      "sampleCount": 36,
-      "totalMsgs": 5282
-    },
-    {
       "name": "Counter-Strike: Global Offensive",
       "avgViewers": 536,
       "peakViewers": 638,
       "sampleCount": 20,
       "totalMsgs": 2661
-    },
-    {
-      "name": "Slots & Casino",
-      "avgViewers": 509,
-      "peakViewers": 786,
-      "sampleCount": 212,
-      "totalMsgs": 37799
-    },
-    {
-      "name": "Moldrise",
-      "avgViewers": 505,
-      "peakViewers": 528,
-      "sampleCount": 6,
-      "totalMsgs": 876
-    },
-    {
-      "name": "Skull Hotel",
-      "avgViewers": 503,
-      "peakViewers": 503,
-      "sampleCount": 1,
-      "totalMsgs": 117
     },
     {
       "name": "Scam Line",
@@ -442,10 +344,10 @@
     },
     {
       "name": "Special Events",
-      "avgViewers": 471,
-      "peakViewers": 753,
-      "sampleCount": 21,
-      "totalMsgs": 7611
+      "avgViewers": 455,
+      "peakViewers": 509,
+      "sampleCount": 11,
+      "totalMsgs": 5080
     },
     {
       "name": "Too Well Hidden",
@@ -471,266 +373,270 @@
   ],
   "hourlyPatterns": {
     "0": {
-      "avgViewers": 573,
-      "sampleCount": 386,
-      "totalMsgs": 55490
+      "avgViewers": 584,
+      "sampleCount": 265,
+      "totalMsgs": 38529
     },
     "1": {
-      "avgViewers": 526,
-      "sampleCount": 211,
-      "totalMsgs": 31643
+      "avgViewers": 534,
+      "sampleCount": 154,
+      "totalMsgs": 24087
     },
     "2": {
-      "avgViewers": 504,
-      "sampleCount": 93,
-      "totalMsgs": 13143
+      "avgViewers": 492,
+      "sampleCount": 78,
+      "totalMsgs": 11552
     },
     "3": {
-      "avgViewers": 423,
-      "sampleCount": 33,
-      "totalMsgs": 2740
+      "avgViewers": 386,
+      "sampleCount": 28,
+      "totalMsgs": 2558
     },
     "4": {
       "avgViewers": 270,
       "sampleCount": 7,
       "totalMsgs": 502
     },
-    "11": {
-      "avgViewers": 189,
-      "sampleCount": 5,
-      "totalMsgs": 271
-    },
     "12": {
-      "avgViewers": 245,
-      "sampleCount": 12,
-      "totalMsgs": 909
+      "avgViewers": 70,
+      "sampleCount": 2,
+      "totalMsgs": 324
     },
     "13": {
-      "avgViewers": 251,
-      "sampleCount": 118,
-      "totalMsgs": 11627
+      "avgViewers": 193,
+      "sampleCount": 53,
+      "totalMsgs": 4778
     },
     "14": {
-      "avgViewers": 377,
-      "sampleCount": 411,
-      "totalMsgs": 61730
+      "avgViewers": 343,
+      "sampleCount": 275,
+      "totalMsgs": 43160
     },
     "15": {
-      "avgViewers": 509,
-      "sampleCount": 610,
-      "totalMsgs": 106528
+      "avgViewers": 520,
+      "sampleCount": 404,
+      "totalMsgs": 75346
     },
     "16": {
-      "avgViewers": 621,
-      "sampleCount": 699,
-      "totalMsgs": 128799
+      "avgViewers": 657,
+      "sampleCount": 457,
+      "totalMsgs": 90638
     },
     "17": {
-      "avgViewers": 675,
-      "sampleCount": 727,
-      "totalMsgs": 137034
+      "avgViewers": 713,
+      "sampleCount": 475,
+      "totalMsgs": 94714
     },
     "18": {
-      "avgViewers": 676,
-      "sampleCount": 754,
-      "totalMsgs": 154382
+      "avgViewers": 704,
+      "sampleCount": 484,
+      "totalMsgs": 105686
     },
     "19": {
-      "avgViewers": 676,
-      "sampleCount": 753,
-      "totalMsgs": 152315
+      "avgViewers": 703,
+      "sampleCount": 488,
+      "totalMsgs": 109567
     },
     "20": {
-      "avgViewers": 664,
-      "sampleCount": 785,
-      "totalMsgs": 165960
+      "avgViewers": 681,
+      "sampleCount": 519,
+      "totalMsgs": 120408
     },
     "21": {
-      "avgViewers": 670,
-      "sampleCount": 747,
-      "totalMsgs": 151542
+      "avgViewers": 687,
+      "sampleCount": 511,
+      "totalMsgs": 105030
     },
     "22": {
-      "avgViewers": 649,
-      "sampleCount": 629,
-      "totalMsgs": 126627
+      "avgViewers": 666,
+      "sampleCount": 437,
+      "totalMsgs": 88498
     },
     "23": {
-      "avgViewers": 616,
-      "sampleCount": 512,
-      "totalMsgs": 92563
+      "avgViewers": 637,
+      "sampleCount": 334,
+      "totalMsgs": 60790
     }
   },
   "dailyHistory": [
     {
-      "date": "2026-07-20",
-      "avgViewers": 619,
-      "peakViewers": 778,
-      "totalMsgs": 7594,
+      "date": "2026-05-17",
+      "avgViewers": 775,
+      "peakViewers": 886,
+      "totalMsgs": 9813,
       "categories": [
         "Just Chatting",
-        "Chat Roulette",
-        "Welcome to the Game III"
-      ]
-    },
-    {
-      "date": "2026-07-21",
-      "avgViewers": 441,
-      "peakViewers": 623,
-      "totalMsgs": 4095,
-      "categories": [
-        "Welcome to the Game III",
-        "Just Chatting"
-      ]
-    },
-    {
-      "date": "2026-07-22",
-      "avgViewers": 623,
-      "peakViewers": 753,
-      "totalMsgs": 10696,
-      "categories": [
-        "Just Chatting",
-        "Roblox",
-        "VRChat",
-        "Counter-Strike 2",
-        "Photomaly"
-      ]
-    },
-    {
-      "date": "2026-07-23",
-      "avgViewers": 603,
-      "peakViewers": 746,
-      "totalMsgs": 8093,
-      "categories": [
-        "Just Chatting",
+        "VALORANT",
         "Counter-Strike 2",
         "IRL",
+        "Chat Roulette"
+      ]
+    },
+    {
+      "date": "2026-05-19",
+      "avgViewers": 674,
+      "peakViewers": 818,
+      "totalMsgs": 8024,
+      "categories": [
+        "Just Chatting",
+        "Grand Theft Auto V (GTA)",
+        "Chat Roulette"
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "avgViewers": 665,
+      "peakViewers": 783,
+      "totalMsgs": 10718,
+      "categories": [
+        "Just Chatting",
+        "Grand Theft Auto VI (GTA)",
+        "Grand Theft Auto V (GTA)",
         "Chat Roulette",
         "Minecraft"
       ]
     },
     {
-      "date": "2026-07-24",
-      "avgViewers": 451,
-      "peakViewers": 556,
-      "totalMsgs": 2085,
+      "date": "2026-05-21",
+      "avgViewers": 710,
+      "peakViewers": 872,
+      "totalMsgs": 10817,
       "categories": [
-        "Chat Roulette",
         "Just Chatting",
-        "Call of Duty: Black Ops III"
+        "Minecraft",
+        "Chat Roulette",
+        "Grand Theft Auto V (GTA)",
+        "VRChat"
       ]
     },
     {
-      "date": "2026-07-25",
-      "avgViewers": 610,
-      "peakViewers": 789,
-      "totalMsgs": 9401,
+      "date": "2026-05-22",
+      "avgViewers": 630,
+      "peakViewers": 759,
+      "totalMsgs": 5535,
       "categories": [
-        "Call of Duty: Black Ops III",
+        "VRChat",
         "Just Chatting",
         "Counter-Strike 2",
-        "Chat Roulette"
+        "Grand Theft Auto V (GTA)"
       ]
     },
     {
-      "date": "2026-07-26",
+      "date": "2026-05-23",
       "avgViewers": 651,
-      "peakViewers": 825,
-      "totalMsgs": 12427,
+      "peakViewers": 832,
+      "totalMsgs": 16174,
       "categories": [
-        "Just Chatting",
         "Counter-Strike 2",
-        "Roblox",
+        "Just Chatting",
+        "Minecraft",
+        "Slots & Casino",
         "Chat Roulette",
-        "Captured 2"
+        "IRL",
+        "VALORANT",
+        "Grand Theft Auto V (GTA)"
       ]
     },
     {
-      "date": "2026-07-27",
-      "avgViewers": 506,
-      "peakViewers": 776,
-      "totalMsgs": 7454,
+      "date": "2026-05-24",
+      "avgViewers": 692,
+      "peakViewers": 848,
+      "totalMsgs": 17397,
+      "categories": [
+        "Grand Theft Auto V (GTA)",
+        "Just Chatting",
+        "Counter-Strike 2",
+        "Slots & Casino",
+        "Chat Roulette",
+        "IRL"
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "avgViewers": 626,
+      "peakViewers": 804,
+      "totalMsgs": 18951,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
         "IRL",
-        "Chat Roulette",
-        "Moldrise",
-        "Skull Hotel"
+        "Slots & Casino",
+        "Grand Theft Auto V (GTA)",
+        "VALORANT"
       ]
     },
     {
-      "date": "2026-07-28",
-      "avgViewers": 647,
-      "peakViewers": 914,
-      "totalMsgs": 11067,
+      "date": "2026-05-26",
+      "avgViewers": 644,
+      "peakViewers": 762,
+      "totalMsgs": 8849,
       "categories": [
-        "Just Chatting",
-        "Chat Roulette",
         "IRL",
+        "Just Chatting",
         "Counter-Strike 2"
       ]
     },
     {
-      "date": "2026-07-29",
-      "avgViewers": 568,
-      "peakViewers": 701,
-      "totalMsgs": 6227,
+      "date": "2026-05-28",
+      "avgViewers": 627,
+      "peakViewers": 775,
+      "totalMsgs": 17634,
       "categories": [
-        "Counter-Strike 2",
         "Just Chatting",
-        "Chat Roulette"
+        "Slots & Casino",
+        "Counter-Strike 2",
+        "IRL"
       ]
     },
     {
-      "date": "2026-07-30",
-      "avgViewers": 610,
-      "peakViewers": 736,
-      "totalMsgs": 13251,
+      "date": "2026-05-29",
+      "avgViewers": 547,
+      "peakViewers": 680,
+      "totalMsgs": 9456,
       "categories": [
         "Just Chatting",
         "Counter-Strike 2",
+        "007 First Light"
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "avgViewers": 654,
+      "peakViewers": 829,
+      "totalMsgs": 13976,
+      "categories": [
+        "Just Chatting",
         "IRL",
-        "Chat Roulette",
-        "Welcome to the Game III"
-      ]
-    },
-    {
-      "date": "2026-07-31",
-      "avgViewers": 506,
-      "peakViewers": 629,
-      "totalMsgs": 4531,
-      "categories": [
-        "Just Chatting",
-        "Chat Roulette",
+        "VRChat",
         "Counter-Strike 2"
       ]
     },
     {
-      "date": "2026-08-01",
-      "avgViewers": 617,
-      "peakViewers": 803,
-      "totalMsgs": 18386,
+      "date": "2026-06-01",
+      "avgViewers": 674,
+      "peakViewers": 818,
+      "totalMsgs": 13571,
       "categories": [
         "Just Chatting",
-        "IRL",
-        "Counter-Strike 2",
-        "Chat Roulette"
+        "Slots & Casino",
+        "Sports",
+        "Chat Roulette",
+        "Grand Theft Auto V (GTA)"
       ]
     },
     {
-      "date": "2026-08-02",
-      "avgViewers": 753,
-      "peakViewers": 1649,
-      "totalMsgs": 12004,
+      "date": "2026-06-02",
+      "avgViewers": 394,
+      "peakViewers": 509,
+      "totalMsgs": 7618,
       "categories": [
-        "IRL",
         "Just Chatting",
-        "Counter-Strike 2",
-        "Chat Roulette"
+        "IRL",
+        "Chat Roulette",
+        "Special Events"
       ]
     }
   ],
-  "botStartedAt": "2026-08-01T02:30:24.401Z",
-  "lastUpdated": "2026-08-03T01:00:25.144Z"
+  "botStartedAt": "2026-08-04T02:57:58.058Z",
+  "lastUpdated": "2026-08-04T02:58:58.441Z"
 }
