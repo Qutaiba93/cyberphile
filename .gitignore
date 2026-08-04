@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Sensitive files — NEVER push these
+kick-cookies.env
+.env
+kick-bridge-puppeteer.js
+
+# Chrome profiles (huge + session data)
+bot-chrome-profile/
+bot-profile/
+chrome-profile/
+
+# Bot data (contains private user info + memories)
+bot-data/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+kick-bridge-puppeteer.js*
+*.bak-*
+*.bak.*
+_patches/
+social-state.json
+loans.json
+bot-data/
+inject-cookies.js
+*.log
